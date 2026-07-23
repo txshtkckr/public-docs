@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chris Fuller — App Documents</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f9f9f9;
+      --surface: #ffffff;
+      --text: #1a1a1a;
+      --muted: #666;
+      --accent: #0066cc;
+      --border: #e0e0e0;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #111;
+        --surface: #1e1e1e;
+        --text: #f0f0f0;
+        --muted: #999;
+        --accent: #4da6ff;
+        --border: #333;
+      }
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 2rem 1rem;
+    }
+
+    .container {
+      max-width: 640px;
+      margin: 0 auto;
+    }
+
+    header {
+      margin-bottom: 2.5rem;
+    }
+
+    header h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+
+    header p {
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .app-section {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .app-section h2 {
+      font-size: 1.05rem;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+    }
+
+    .doc-list {
+      list-style: none;
+    }
+
+    .doc-list li {
+      padding: 0.35rem 0;
+      border-top: 1px solid var(--border);
+    }
+
+    .doc-list li:first-child {
+      border-top: none;
+      padding-top: 0;
+    }
+
+    .doc-list a {
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 0.95rem;
+    }
+
+    .doc-list a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      margin-top: 3rem;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Chris Fuller</h1>
+      <p>Public documents for published apps.</p>
+    </header>
+
+    <div class="app-section">
+      <h2>BoozeTutor</h2>
+      <ul class="doc-list">
+        <li><a href="BoozeTutor-support.html">Support</a></li>
+        <li><a href="BoozeTutor-privacy">Privacy Policy</a></li>
+        <li><a href="BoozeTutor-ShareAlike/">ShareAlike Assets</a></li>
+      </ul>
+    </div>
+
+    <footer>
+      <p>&copy; Chris Fuller</p>
+    </footer>
+  </div>
+</body>
+</html>
