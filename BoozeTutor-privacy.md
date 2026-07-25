@@ -33,14 +33,14 @@ SDKs. The developer receives no data from BoozeTutor.
 
 Some reference pages display interactive maps using Apple Maps (MapKit), a system
 framework provided by Apple. When a map is displayed, your device may load map tile
-imagery from Apple's servers. This request is handled entirely by Apple and is
-subject to [Apple's Privacy Policy](https://www.apple.com/privacy/). The developer
+imagery from Apple’s servers. This request is handled entirely by Apple and is
+subject to [Apple’s Privacy Policy](https://www.apple.com/privacy/). The developer
 does not receive, store, or have access to any information about these requests.
 
 ## Changes to This Policy
 
 If the privacy practices of BoozeTutor ever change, this policy will be updated and
-the "Last updated" date above will be revised. Given that BoozeTutor collects no data,
+the “Last updated” date above will be revised. Given that BoozeTutor collects no data,
 material changes are not anticipated.
 
 ## Contact
