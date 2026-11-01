@@ -128,6 +128,8 @@ Régions et cépages, de Bordeaux au Rhône
 - **4.2.2 Champagne, Alsace, Rhône et Loire** (Intermédiaire): Connaître les autres grandes régions françaises et leurs styles.
 - **4.2.3 Cabernet Franc, Gamay et Grenache** (Intermédiaire): Reconnaître le Cabernet Franc, le Gamay et le Grenache et savoir où ils sont cultivés.
 - **4.2.4 Chenin Blanc, Viognier, Gewurztraminer et Sémillon** (Intermédiaire): Reconnaître le Chenin Blanc, le Viognier, le Gewurztraminer et le Sémillon et savoir où ils sont cultivés.
+- **4.2.5 Marsanne / Roussanne et Melon de Bourgogne** (Avancé): Reconnaître la paire de blancs de la Vallée du Rhône Nord et le Melon de Bourgogne, le cépage du Muscadet.
+- **4.2.6 Petit Verdot, Cinsault et Trousseau / Poulsard** (Avancé): Reconnaître trois autres rouges français : le Petit Verdot de Bordeaux, le Cinsault du sud et le Trousseau et Poulsard du Jura.
 
 ### 4.3 Italie
 
@@ -136,7 +138,9 @@ Régions et cépages, du Piémont au sud
 - **4.3.1 Les régions viticoles d’Italie** (Basique): Connaître les principales régions viticoles d’Italie et ce qu’elles produisent.
 - **4.3.2 Sangiovese** (Basique): Identifiez le sangiovese et les vins qu’il produit en Toscane.
 - **4.3.3 Nebbiolo, barbera, corvina et montepulciano** (Intermédiaire): Identifiez les autres principaux cépages rouges d’Italie et comparez-les.
-- **4.3.4 Garganega, fiano, verdicchio et cortese** (Intermédiaire): Identifiez les principaux cépages blancs d’Italie et comparez-les.
+- **4.3.4 Aglianico, Nerello Mascalese, Lambrusco, Lagrein et Sagrantino** (Avancé): Reconnaître cinq autres rouges italiens, des pétillants du Lambrusco aux tanins du Sagrantino, et où chacun est cultivé.
+- **4.3.5 Garganega, fiano, verdicchio et cortese** (Intermédiaire): Identifiez les principaux cépages blancs d’Italie et comparez-les.
+- **4.3.6 Arneis et Falanghina / Greco** (Avancé): Reconnaître l’Arneis du Piémont et la Falanghina et le Greco de Campanie.
 
 ### 4.4 Espagne et Portugal
 
@@ -146,15 +150,19 @@ Régions, tempranillo, albariño et mentions de vieillissement espagnoles
 - **4.4.2 Tempranillo** (Basique): Identifiez le tempranillo et ses zones de culture.
 - **4.4.3 Les mentions d’élevage espagnoles** (Intermédiaire): Expliquez les mentions Crianza, Reserva et Gran Reserva.
 - **4.4.4 Albariño** (Intermédiaire): Identifiez l’albariño et ses zones de culture.
-- **4.4.5 Le Portugal** (Avancé): Connaissez les principales régions et cépages des vins tranquilles du Portugal.
+- **4.4.5 Verdejo, Viura, Xarel·lo, Graciano, Mencía, Godello et Bobal** (Avancé): Reconnaître les autres principaux cépages espagnols et les régions qu’ils définissent, du Verdejo de Rueda au Bobal d’Utiel-Requena.
+- **4.4.6 Le Portugal** (Avancé): Connaissez les principales régions et cépages des vins tranquilles du Portugal.
+- **4.4.7 Verdelho, Malvasia et Tinta Barroca / Tinto Cão** (Avancé): Reconnaître le Verdelho et la Malvasia de Madère et deux des cépages de Porto de la Vallée du Douro.
 
 ### 4.5 Allemagne, Autriche et Hongrie
 
 Régions, étiquetage allemand et furmint
 
 - **4.5.1 L’Allemagne et ses étiquettes** (Intermédiaire): Connaissez les régions d’Allemagne et sachez lire une étiquette de vin allemand.
-- **4.5.2 L’Autriche** (Avancé): Connaissez les principales régions et cépages d’Autriche.
-- **4.5.3 Furmint et Tokaji** (Intermédiaire): Identifiez le furmint et les cépages blancs régionaux d’Europe centrale.
+- **4.5.2 Pinot Blanc, Müller-Thurgau et Silvaner** (Avancé): Reconnaître les autres cépages blancs allemands et où chacun excelle.
+- **4.5.3 L’Autriche** (Avancé): Connaissez les principales régions et cépages d’Autriche.
+- **4.5.4 Grüner Veltliner** (Avancé): Reconnaître le Grüner Veltliner, le blanc emblématique de l’Autriche.
+- **4.5.5 Furmint et Tokaji** (Intermédiaire): Identifiez le furmint et les cépages blancs régionaux d’Europe centrale.
 
 ### 4.6 Terroir
 
@@ -182,8 +190,10 @@ Bourgogne, Bordeaux, Champagne, Barolo, Rioja et Moselle
 
 - **4.8.1 Les États-Unis et leurs étiquettes** (Intermédiaire): Connaître les principales régions viticoles américaines et les règles d’étiquetage aux États-Unis.
 - **4.8.2 Zinfandel/Primitivo** (Intermédiaire): Reconnaître le Zinfandel et le Primitivo et savoir où ils sont cultivés.
-- **4.8.3 L’Argentine et le Malbec** (Intermédiaire): Connaître les régions d’Argentine et reconnaître le Malbec.
-- **4.8.4 Le Chili et le Carmenère** (Intermédiaire): Connaître les régions du Chili et reconnaître le Carmenère.
+- **4.8.3 Petite Sirah/Durif** (Avancé): Reconnaître la Petite Sirah, le rouge noir de Californie, connu sous le nom de Durif en Australie.
+- **4.8.4 L’Argentine et le Malbec** (Intermédiaire): Connaître les régions d’Argentine et reconnaître le Malbec.
+- **4.8.5 Torrontés** (Avancé): Reconnaître le Torrontés, le blanc aromatique de l’Argentine, à son meilleur en Salta.
+- **4.8.6 Le Chili et le Carmenère** (Intermédiaire): Connaître les régions du Chili et reconnaître le Carmenère.
 
 ### 4.9 Australie, Nouvelle-Zélande et Afrique du Sud
 

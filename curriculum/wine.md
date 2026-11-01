@@ -128,6 +128,8 @@ Regions and grapes, from Bordeaux to the Rhône
 - **4.2.2 Champagne, Alsace, the Rhône and the Loire** (Intermediate): Know France’s other classic regions and their styles.
 - **4.2.3 Cabernet Franc, Gamay and Grenache** (Intermediate): Recognise Cabernet Franc, Gamay and Grenache and where they grow.
 - **4.2.4 Chenin Blanc, Viognier, Gewürztraminer and Semillon** (Intermediate): Recognise Chenin Blanc, Viognier, Gewürztraminer and Semillon and where they grow.
+- **4.2.5 Marsanne / Roussanne and Melon de Bourgogne** (Advanced): Recognise the Northern Rhône’s white pair and Melon de Bourgogne, the grape of Muscadet.
+- **4.2.6 Petit Verdot, Cinsault and Trousseau / Poulsard** (Advanced): Recognise three more French reds: Bordeaux’s Petit Verdot, Cinsault from the south and the Jura’s Trousseau and Poulsard.
 
 ### 4.3 Italy
 
@@ -136,7 +138,9 @@ Regions and grapes, from Piedmont to the south
 - **4.3.1 Italy’s wine regions** (Basic): Know Italy’s main wine regions and what they make.
 - **4.3.2 Sangiovese** (Basic): Recognise Sangiovese and the wines it makes in Tuscany.
 - **4.3.3 Nebbiolo, Barbera, Corvina and Montepulciano** (Intermediate): Recognise Italy’s other main red grapes and compare them.
-- **4.3.4 Garganega, Fiano, Verdicchio and Cortese** (Intermediate): Recognise Italy’s main white grapes and compare them.
+- **4.3.4 Aglianico, Nerello Mascalese, Lambrusco, Lagrein and Sagrantino** (Advanced): Recognise five more Italian reds, from Lambrusco’s fizz to Sagrantino’s tannin, and where each grows.
+- **4.3.5 Garganega, Fiano, Verdicchio and Cortese** (Intermediate): Recognise Italy’s main white grapes and compare them.
+- **4.3.6 Arneis and Falanghina / Greco** (Advanced): Recognise Piedmont’s Arneis and Campania’s Falanghina and Greco.
 
 ### 4.4 Spain and Portugal
 
@@ -146,15 +150,19 @@ Regions, Tempranillo, Albariño and Spanish ageing terms
 - **4.4.2 Tempranillo** (Basic): Recognise Tempranillo and where it grows.
 - **4.4.3 Spanish ageing terms** (Intermediate): Explain Crianza, Reserva and Gran Reserva.
 - **4.4.4 Albariño** (Intermediate): Recognise Albariño and where it grows.
-- **4.4.5 Portugal** (Advanced): Know Portugal’s main table wine regions and grapes.
+- **4.4.5 Verdejo, Viura, Xarel·lo, Graciano, Mencía, Godello and Bobal** (Advanced): Recognise Spain’s other main grapes and the regions they define, from Rueda’s Verdejo to Utiel-Requena’s Bobal.
+- **4.4.6 Portugal** (Advanced): Know Portugal’s main table wine regions and grapes.
+- **4.4.7 Verdelho, Malvasia and Tinta Barroca / Tinto Cão** (Advanced): Recognise Madeira’s Verdelho and Malvasia and two of the Douro’s Port grapes.
 
 ### 4.5 Germany, Austria and Hungary
 
 Regions, German labelling and Furmint
 
 - **4.5.1 Germany and its labels** (Intermediate): Know Germany’s regions and read a German wine label.
-- **4.5.2 Austria** (Advanced): Know Austria’s main regions and grapes.
-- **4.5.3 Furmint and Tokaji** (Intermediate): Recognise Furmint and the regional white grapes of central Europe.
+- **4.5.2 Pinot Blanc, Müller-Thurgau and Silvaner** (Advanced): Recognise Germany’s other white grapes and where each is at its best.
+- **4.5.3 Austria** (Advanced): Know Austria’s main regions and grapes.
+- **4.5.4 Grüner Veltliner** (Advanced): Recognise Grüner Veltliner, Austria’s signature white.
+- **4.5.5 Furmint and Tokaji** (Intermediate): Recognise Furmint and the regional white grapes of central Europe.
 
 ### 4.6 Terroir
 
@@ -182,8 +190,10 @@ USA, Argentina and Chile
 
 - **4.8.1 The United States and its labels** (Intermediate): Know the main US wine regions and US labelling rules.
 - **4.8.2 Zinfandel/Primitivo** (Intermediate): Recognise Zinfandel and Primitivo and where they grow.
-- **4.8.3 Argentina and Malbec** (Intermediate): Know Argentina’s regions and recognise Malbec.
-- **4.8.4 Chile and Carmenère** (Intermediate): Know Chile’s regions and recognise Carmenère.
+- **4.8.3 Petite Sirah/Durif** (Advanced): Recognise Petite Sirah, California’s inky red, known as Durif in Australia.
+- **4.8.4 Argentina and Malbec** (Intermediate): Know Argentina’s regions and recognise Malbec.
+- **4.8.5 Torrontés** (Advanced): Recognise Torrontés, Argentina’s aromatic white, at its best in Salta.
+- **4.8.6 Chile and Carmenère** (Intermediate): Know Chile’s regions and recognise Carmenère.
 
 ### 4.9 Australia, New Zealand and South Africa
 

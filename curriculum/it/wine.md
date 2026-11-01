@@ -128,6 +128,8 @@ Regioni e vitigni, da Bordeaux al Rodano
 - **4.2.2 Champagne, Alsazia, Rodano e Loira** (Intermedio): Conosci le altre regioni classiche della Francia e i loro stili.
 - **4.2.3 Cabernet Franc, Gamay e Grenache** (Intermedio): Riconosci il Cabernet Franc, il Gamay e il Grenache e sappi dove si coltivano.
 - **4.2.4 Chenin Blanc, Viognier, Gewürztraminer e Semillon** (Intermedio): Riconosci lo Chenin Blanc, il Viognier, il Gewürztraminer e il Semillon e sappi dove si coltivano.
+- **4.2.5 Marsanne / Roussanne e Melone di Borgogna** (Avanzato): Riconoscere la coppia di bianchi della Vallée du Rhône Settentrionale e il Melone di Borgogna, l’uva di Muscadet.
+- **4.2.6 Petit Verdot, Cinsault e Trousseau / Poulsard** (Avanzato): Riconoscere altri tre rossi francesi: il Petit Verdot del Bordeaux, il Cinsault del sud e il Trousseau e il Poulsard del Giura.
 
 ### 4.3 Italia
 
@@ -136,7 +138,9 @@ Regioni e vitigni, dal Piemonte al sud
 - **4.3.1 Le regioni vinicole italiane** (Base): Conosci le principali regioni vinicole italiane e cosa producono.
 - **4.3.2 Sangiovese** (Base): Riconoscere il Sangiovese e i vini che produce in Toscana.
 - **4.3.3 Nebbiolo, Barbera, Corvina e Montepulciano** (Intermedio): Riconoscere gli altri principali vitigni a bacca rossa italiani e metterli a confronto.
-- **4.3.4 Garganega, Fiano, Verdicchio e Cortese** (Intermedio): Riconoscere i principali vitigni a bacca bianca italiani e metterli a confronto.
+- **4.3.4 Aglianico, Nerello Mascalese, Lambrusco, Lagrein e Sagrantino** (Avanzato): Riconoscere altri cinque rossi italiani, dalle bollicine del Lambrusco ai tannini del Sagrantino, e dove ognuno cresce.
+- **4.3.5 Garganega, Fiano, Verdicchio e Cortese** (Intermedio): Riconoscere i principali vitigni a bacca bianca italiani e metterli a confronto.
+- **4.3.6 Arneis e Falanghina / Greco** (Avanzato): Riconoscere l’Arneis del Piemonte e la Falanghina e il Greco della Campania.
 
 ### 4.4 Spagna e Portogallo
 
@@ -146,15 +150,19 @@ Regioni, Tempranillo, Albariño e termini di invecchiamento spagnoli
 - **4.4.2 Tempranillo** (Base): Riconoscere il Tempranillo e dove viene coltivato.
 - **4.4.3 I termini spagnoli dell’invecchiamento** (Intermedio): Spiegare Crianza, Reserva e Gran Reserva.
 - **4.4.4 Albariño** (Intermedio): Riconoscere l’Albariño e dove viene coltivato.
-- **4.4.5 Portogallo** (Avanzato): Conoscere le principali regioni e vitigni dei vini fermi portoghesi.
+- **4.4.5 Verdejo, Viura, Xarel·lo, Graciano, Mencía, Godello e Bobal** (Avanzato): Riconoscere gli altri principali vitigni della Spagna e le regioni che caratterizzano, dal Verdejo di Rueda al Bobal di Utiel-Requena.
+- **4.4.6 Portogallo** (Avanzato): Conoscere le principali regioni e vitigni dei vini fermi portoghesi.
+- **4.4.7 Verdelho, Malvasia e Tinta Barroca / Tinto Cão** (Avanzato): Riconoscere il Verdelho e la Malvasia di Madera e due dei vitigni del Porto del Douro.
 
 ### 4.5 Germania, Austria e Ungheria
 
 Regioni, etichettatura tedesca e Furmint
 
 - **4.5.1 Germania e le sue etichette** (Intermedio): Conoscere le regioni della Germania e saper leggere un’etichetta di vino tedesco.
-- **4.5.2 Austria** (Avanzato): Conoscere le principali regioni e vitigni austriaci.
-- **4.5.3 Furmint e Tokaji** (Intermedio): Riconoscere il Furmint e i vitigni a bacca bianca autoctoni dell’Europa centrale.
+- **4.5.2 Pinot Bianco, Müller-Thurgau e Silvaner** (Avanzato): Riconoscere gli altri bianchi della Germania e dove ognuno esprime il meglio di sé.
+- **4.5.3 Austria** (Avanzato): Conoscere le principali regioni e vitigni austriaci.
+- **4.5.4 Grüner Veltliner** (Avanzato): Riconoscere il Grüner Veltliner, il bianco caratteristico dell’Austria.
+- **4.5.5 Furmint e Tokaji** (Intermedio): Riconoscere il Furmint e i vitigni a bacca bianca autoctoni dell’Europa centrale.
 
 ### 4.6 Terroir
 
@@ -182,8 +190,10 @@ Stati Uniti, Argentina e Cile
 
 - **4.8.1 Gli Stati Uniti e le loro etichette** (Intermedio): Conosci le principali regioni vinicole statunitensi e le regole di etichettatura USA.
 - **4.8.2 Zinfandel/Primitivo** (Intermedio): Riconosci lo Zinfandel e il Primitivo e sappi dove vengono coltivati.
-- **4.8.3 Argentina e Malbec** (Intermedio): Conosci le regioni dell’Argentina e riconosci il Malbec.
-- **4.8.4 Cile e Carmenère** (Intermedio): Conosci le regioni del Cile e riconosci il Carmenère.
+- **4.8.3 Petite Sirah/Durif** (Avanzato): Riconoscere la Petite Sirah, il rosso scuro della California, conosciuto come Durif in Australia.
+- **4.8.4 Argentina e Malbec** (Intermedio): Conosci le regioni dell’Argentina e riconosci il Malbec.
+- **4.8.5 Torrontés** (Avanzato): Riconoscere il Torrontés, il bianco aromatico dell’Argentina, al suo meglio a Salta.
+- **4.8.6 Cile e Carmenère** (Intermedio): Conosci le regioni del Cile e riconosci il Carmenère.
 
 ### 4.9 Australia, Nuova Zelanda e Sudafrica
 

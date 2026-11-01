@@ -128,6 +128,8 @@ Regiões e uvas, de Bordeaux ao Rhône
 - **4.2.2 Champagne, Alsácia, Ródano e Vale do Loire** (Intermediário): Conheça as outras regiões clássicas da França e seus estilos.
 - **4.2.3 Cabernet Franc, Gamay e Grenache** (Intermediário): Reconheça as uvas Cabernet Franc, Gamay e Grenache e onde são cultivadas.
 - **4.2.4 Chenin Blanc, Viognier, Gewürztraminer e Semillon** (Intermediário): Reconheça as uvas Chenin Blanc, Viognier, Gewürztraminer e Semillon e onde são cultivadas.
+- **4.2.5 Marsanne / Roussanne e Melon de Bourgogne** (Avançado): Identifique o casal de brancos do Vale do Rhône Setentrional e a Melon de Bourgogne, a uva de Muscadet.
+- **4.2.6 Petit Verdot, Cinsault e Trousseau / Poulsard** (Avançado): Identifique três tintos franceses a mais: o Petit Verdot de Bordeaux, a Cinsault do sul e a Trousseau e Poulsard da Jura.
 
 ### 4.3 Itália
 
@@ -136,7 +138,9 @@ Regiões e uvas, do Piemonte ao sul
 - **4.3.1 As regiões vinícolas da Itália** (Básico): Conheça as principais regiões vinícolas da Itália e o que elas produzem.
 - **4.3.2 Sangiovese** (Básico): Reconheça a Sangiovese e os vinhos que ela produz na Toscana.
 - **4.3.3 Nebbiolo, Barbera, Corvina e Montepulciano** (Intermediário): Reconheça as outras principais uvas tintas da Itália e compare-as.
-- **4.3.4 Garganega, Fiano, Verdicchio e Cortese** (Intermediário): Reconheça as principais uvas brancas da Itália e compare-as.
+- **4.3.4 Aglianico, Nerello Mascalese, Lambrusco, Lagrein e Sagrantino** (Avançado): Identifique cinco tintos italianos a mais, do espumante do Lambrusco ao tanino robusto de Sagrantino, e onde cada um é cultivado.
+- **4.3.5 Garganega, Fiano, Verdicchio e Cortese** (Intermediário): Reconheça as principais uvas brancas da Itália e compare-as.
+- **4.3.6 Arneis e Falanghina / Greco** (Avançado): Identifique a Arneis do Piemonte e a Falanghina e Greco da Campânia.
 
 ### 4.4 Espanha e Portugal
 
@@ -146,15 +150,19 @@ Regiões, Tempranillo, Albariño e termos de envelhecimento espanhóis
 - **4.4.2 Tempranillo** (Básico): Reconheça a Tempranillo e onde ela é cultivada.
 - **4.4.3 Termos de envelhecimento espanhóis** (Intermediário): Explique Crianza, Reserva e Gran Reserva.
 - **4.4.4 Albariño** (Intermediário): Reconheça a Albariño e onde ela é cultivada.
-- **4.4.5 Portugal** (Avançado): Conheça as principais regiões e uvas de vinhos de mesa de Portugal.
+- **4.4.5 Verdejo, Viura, Xarel·lo, Graciano, Mencía, Godello e Bobal** (Avançado): Identifique as outras uvas principais da Espanha e as regiões que as definem, de Verdejo de Rueda até Bobal de Utiel-Requena.
+- **4.4.6 Portugal** (Avançado): Conheça as principais regiões e uvas de vinhos de mesa de Portugal.
+- **4.4.7 Verdelho, Malvasia e Tinta Barroca / Tinto Cão** (Avançado): Identifique a Verdelho e Malvasia da Madeira e duas das uvas de Porto do Douro.
 
 ### 4.5 Alemanha, Áustria e Hungria
 
 Regiões, rotulagem alemã e Furmint
 
 - **4.5.1 Alemanha e seus rótulos** (Intermediário): Conheça as regiões da Alemanha e saiba ler um rótulo de vinho alemão.
-- **4.5.2 Áustria** (Avançado): Conheça as principais regiões e uvas da Áustria.
-- **4.5.3 Furmint e Tokaji** (Intermediário): Reconheça a Furmint e as uvas brancas regionais da Europa Central.
+- **4.5.2 Pinot Blanc, Müller-Thurgau e Silvaner** (Avançado): Identifique as outras uvas brancas da Alemanha e onde cada uma atinge seu melhor potencial.
+- **4.5.3 Áustria** (Avançado): Conheça as principais regiões e uvas da Áustria.
+- **4.5.4 Grüner Veltliner** (Avançado): Identifique a Grüner Veltliner, o branco assinatura da Áustria.
+- **4.5.5 Furmint e Tokaji** (Intermediário): Reconheça a Furmint e as uvas brancas regionais da Europa Central.
 
 ### 4.6 Terroir
 
@@ -182,8 +190,10 @@ EUA, Argentina e Chile
 
 - **4.8.1 Os Estados Unidos e seus rótulos** (Intermediário): Conheça as principais regiões vinícolas dos EUA e as regras de rotulagem norte-americanas.
 - **4.8.2 Zinfandel/Primitivo** (Intermediário): Reconheça o Zinfandel e o Primitivo e onde são cultivados.
-- **4.8.3 Argentina e Malbec** (Intermediário): Conheça as regiões da Argentina e reconheça o Malbec.
-- **4.8.4 Chile e Carmenère** (Intermediário): Conheça as regiões do Chile e reconheça o Carmenère.
+- **4.8.3 Petite Sirah/Durif** (Avançado): Identifique a Petite Sirah, o tinto escuro e intenso da Califórnia, conhecido como Durif na Austrália.
+- **4.8.4 Argentina e Malbec** (Intermediário): Conheça as regiões da Argentina e reconheça o Malbec.
+- **4.8.5 Torrontés** (Avançado): Identifique a Torrontés, a branca aromática da Argentina, em seu melhor em Salta.
+- **4.8.6 Chile e Carmenère** (Intermediário): Conheça as regiões do Chile e reconheça o Carmenère.
 
 ### 4.9 Austrália, Nova Zelândia e África do Sul
 

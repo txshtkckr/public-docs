@@ -128,6 +128,8 @@ Regionen und Rebsorten von Bordeaux bis zur Rhône
 - **4.2.2 Champagne, Elsass, Rhône und Loire** (Mittelstufe): Lerne Frankreichs weitere klassische Regionen und ihre Stile kennen.
 - **4.2.3 Cabernet Franc, Gamay und Grenache** (Mittelstufe): Erkenne Cabernet Franc, Gamay und Grenache und wisse, wo sie angebaut werden.
 - **4.2.4 Chenin Blanc, Viognier, Gewürztraminer und Semillon** (Mittelstufe): Erkenne Chenin Blanc, Viognier, Gewürztraminer und Semillon und wisse, wo sie angebaut werden.
+- **4.2.5 Marsanne / Roussanne und Melon de Bourgogne** (Oberstufe): Erkenne das weiße Paar der Nordrhoˆne und Melon de Bourgogne, die Traube von Muscadet.
+- **4.2.6 Petit Verdot, Cinsault und Trousseau / Poulsard** (Oberstufe): Erkenne drei weitere französische Rotweine: Petit Verdot aus Bordeaux, Cinsault aus dem Süden und Trousseau und Poulsard aus dem Jura.
 
 ### 4.3 Italien
 
@@ -136,7 +138,9 @@ Regionen und Rebsorten vom Piemont bis in den Süden
 - **4.3.1 Italiens Weinregionen** (Grundstufe): Lerne Italiens wichtigste Weinregionen und ihre Weine kennen.
 - **4.3.2 Sangiovese** (Grundstufe): Erkenne Sangiovese und die Weine, die daraus in der Toskana entstehen.
 - **4.3.3 Nebbiolo, Barbera, Corvina und Montepulciano** (Mittelstufe): Erkenne Italiens weitere wichtige Rotweinsorten und vergleiche sie.
-- **4.3.4 Garganega, Fiano, Verdicchio und Cortese** (Mittelstufe): Erkenne Italiens wichtigste Weißweinsorten und vergleiche sie.
+- **4.3.4 Aglianico, Nerello Mascalese, Lambrusco, Lagrein und Sagrantino** (Oberstufe): Erkenne fünf weitere italienische Rotweine, von Lambruscos Perlwein bis zu Sagrantinos Tanninen, und wo jeder wächst.
+- **4.3.5 Garganega, Fiano, Verdicchio und Cortese** (Mittelstufe): Erkenne Italiens wichtigste Weißweinsorten und vergleiche sie.
+- **4.3.6 Arneis und Falanghina / Greco** (Oberstufe): Erkenne Piemont’s Arneis und Kampaniens Falanghina und Greco.
 
 ### 4.4 Spanien und Portugal
 
@@ -146,15 +150,19 @@ Regionen, Tempranillo, Albariño und spanische Reifebezeichnungen
 - **4.4.2 Tempranillo** (Grundstufe): Erkenne Tempranillo und wo er angebaut wird.
 - **4.4.3 Spanische Reifebezeichnungen** (Mittelstufe): Erkläre Crianza, Reserva und Gran Reserva.
 - **4.4.4 Albariño** (Mittelstufe): Erkenne Albariño und wo er angebaut wird.
-- **4.4.5 Portugal** (Oberstufe): Lerne Portugals wichtigste Stillweinregionen und Rebsorten kennen.
+- **4.4.5 Verdejo, Viura, Xarel·lo, Graciano, Mencía, Godello und Bobal** (Oberstufe): Erkenne Spaniens andere Haupttrauben und die Regionen, die sie definieren, von Ruedas Verdejo bis zu Utiel-Requenas Bobal.
+- **4.4.6 Portugal** (Oberstufe): Lerne Portugals wichtigste Stillweinregionen und Rebsorten kennen.
+- **4.4.7 Verdelho, Malvasia und Tinta Barroca / Tinto Cão** (Oberstufe): Erkenne Madeiras Verdelho und Malvasia und zwei der Douro-Trauben des Portwein.
 
 ### 4.5 Deutschland, Österreich und Ungarn
 
 Regionen, deutsche Etikettierung und Furmint
 
 - **4.5.1 Deutschland und seine Etiketten** (Mittelstufe): Lerne Deutschlands Weinregionen kennen und lies ein deutsches Weinetikett.
-- **4.5.2 Österreich** (Oberstufe): Lerne Österreichs wichtigste Regionen und Rebsorten kennen.
-- **4.5.3 Furmint und Tokaji** (Mittelstufe): Erkenne Furmint und die regionalen Weißweinsorten Mitteleuropas.
+- **4.5.2 Pinot Blanc, Müller-Thurgau und Silvaner** (Oberstufe): Erkenne Deutschlands andere weiße Trauben und wo jede am besten gedeiht.
+- **4.5.3 Österreich** (Oberstufe): Lerne Österreichs wichtigste Regionen und Rebsorten kennen.
+- **4.5.4 Grüner Veltliner** (Oberstufe): Erkenne Grüner Veltliner, Österreichs charakteristische Weiße.
+- **4.5.5 Furmint und Tokaji** (Mittelstufe): Erkenne Furmint und die regionalen Weißweinsorten Mitteleuropas.
 
 ### 4.6 Terroir
 
@@ -182,8 +190,10 @@ USA, Argentinien und Chile
 
 - **4.8.1 Die Vereinigten Staaten und ihre Etiketten** (Mittelstufe): Lerne die wichtigsten Weinregionen der USA und die US-Etikettierungsvorschriften kennen.
 - **4.8.2 Zinfandel/Primitivo** (Mittelstufe): Erkenne Zinfandel und Primitivo und wisse, wo sie angebaut werden.
-- **4.8.3 Argentinien und Malbec** (Mittelstufe): Lerne die Regionen Argentiniens kennen und erkenne Malbec.
-- **4.8.4 Chile und Carmenère** (Mittelstufe): Lerne die Regionen Chiles kennen und erkenne Carmenère.
+- **4.8.3 Petite Sirah/Durif** (Oberstufe): Erkenne Petite Sirah, Kaliforniens tiefdunklen Rotwein, in Australien als Durif bekannt.
+- **4.8.4 Argentinien und Malbec** (Mittelstufe): Lerne die Regionen Argentiniens kennen und erkenne Malbec.
+- **4.8.5 Torrontés** (Oberstufe): Erkenne Torrontés, Argentiniens aromatische Weiße, am besten in Salta.
+- **4.8.6 Chile und Carmenère** (Mittelstufe): Lerne die Regionen Chiles kennen und erkenne Carmenère.
 
 ### 4.9 Australien, Neuseeland und Südafrika
 
