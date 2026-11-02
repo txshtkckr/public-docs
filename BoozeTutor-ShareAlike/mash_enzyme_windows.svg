@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 232" width="520" height="232">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.nm   { font-size: 10px; font-weight: 700; fill: #333; }
+.ds   { font-size: 9px; fill: #555; }
+.ax   { font-size: 9px; fill: #555; text-anchor: middle; }
+.axt  { font-size: 9.5px; font-weight: 700; fill: #444; text-anchor: middle; }
+.mk   { font-size: 9px; font-weight: 700; fill: #444; text-anchor: middle; }
+.rng  { fill: #D9C27A; stroke: #9A8040; stroke-width: 1; }
+.axis { stroke: #888; stroke-width: 1; }
+.tick { stroke: #888; stroke-width: 1; }
+.ref  { stroke: #666; stroke-width: 1; stroke-dasharray: 3 3; }
+@media (prefers-color-scheme: dark) {
+  .nm { fill: #E6E6E6; }
+  .ds, .ax { fill: #AAA; }
+  .axt, .mk { fill: #CCC; }
+  .rng { fill: #6A5A2A; stroke: #C0A060; }
+  .axis, .tick { stroke: #777; }
+  .ref { stroke: #999; }
+}
+</style>
+</defs>
+
+<!-- Temperature axis: 30–80 °C across x 40–480 (8.8 px per °C). Each enzyme is a labelled range. -->
+
+<!-- Beta-glucanase, about 35–45 °C -->
+<text class="nm" x="84" y="20">Beta-glucanase</text>
+<text class="ds" x="84" y="31">breaks down gums</text>
+<rect class="rng" x="84" y="36" width="88" height="14" rx="2"/>
+
+<!-- Proteases, about 45–55 °C -->
+<text class="nm" x="172" y="66">Proteases</text>
+<text class="ds" x="172" y="77">protein to amino acids</text>
+<rect class="rng" x="172" y="82" width="88" height="14" rx="2"/>
+
+<!-- Beta-amylase, about 55–65 °C -->
+<text class="nm" x="260" y="112">Beta-amylase</text>
+<text class="ds" x="260" y="123">maltose: a drier beer</text>
+<rect class="rng" x="260" y="128" width="88" height="14" rx="2"/>
+
+<!-- Alpha-amylase, about 65–72 °C -->
+<text class="nm" x="348" y="158">Alpha-amylase</text>
+<text class="ds" x="348" y="169">dextrins: more body</text>
+<rect class="rng" x="348" y="174" width="62" height="14" rx="2"/>
+
+<!-- Mash-out, 76–78 °C -->
+<line class="ref" x1="445" y1="20" x2="445" y2="196"/>
+<line class="ref" x1="462" y1="20" x2="462" y2="196"/>
+<text class="mk" x="454" y="14">Mash-out</text>
+
+<!-- Axis -->
+<line class="axis" x1="40" y1="196" x2="480" y2="196"/>
+<line class="tick" x1="40" y1="196" x2="40" y2="200"/><text class="ax" x="40" y="210">30°C</text>
+<line class="tick" x1="128" y1="196" x2="128" y2="200"/><text class="ax" x="128" y="210">40°C</text>
+<line class="tick" x1="216" y1="196" x2="216" y2="200"/><text class="ax" x="216" y="210">50°C</text>
+<line class="tick" x1="304" y1="196" x2="304" y2="200"/><text class="ax" x="304" y="210">60°C</text>
+<line class="tick" x1="392" y1="196" x2="392" y2="200"/><text class="ax" x="392" y="210">70°C</text>
+<line class="tick" x1="480" y1="196" x2="480" y2="200"/><text class="ax" x="480" y="210">80°C</text>
+<text class="axt" x="260" y="226">Mash temperature (approximate working ranges)</text>
+</svg>

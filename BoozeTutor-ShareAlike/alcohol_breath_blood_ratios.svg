@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 186" width="520" height="186">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.nm   { font-size: 10px; font-weight: 700; fill: #333; }
+.ds   { font-size: 9px; fill: #555; }
+.ax   { font-size: 9px; fill: #555; text-anchor: middle; }
+.axt  { font-size: 9.5px; font-weight: 700; fill: #444; text-anchor: middle; }
+.rng  { fill: #D9C27A; stroke: #9A8040; stroke-width: 1; }
+.mean { fill: #444; }
+.axis { stroke: #888; stroke-width: 1; }
+.tick { stroke: #888; stroke-width: 1; }
+.ref  { stroke: #666; stroke-width: 1; stroke-dasharray: 3 3; }
+@media (prefers-color-scheme: dark) {
+  .nm { fill: #E6E6E6; }
+  .ds, .ax { fill: #AAA; }
+  .axt { fill: #CCC; }
+  .rng { fill: #6A5A2A; stroke: #C0A060; }
+  .mean { fill: #E6E6E6; }
+  .axis, .tick { stroke: #777; }
+  .ref { stroke: #999; }
+}
+</style>
+</defs>
+
+<!-- Blood:breath ratio axis: 1900–2900 across x 40–480 (0.44 px per unit).
+     Dashed lines: legal ratios. Bar: 95% range measured in 799 Swedish drink-drivers
+     (time-adjusted mean 2407; Jones and Andersson 1996). -->
+
+<!-- Legal ratios -->
+<text class="nm" x="88" y="16">Some countries 2000:1</text>
+<line class="ref" x1="84" y1="20" x2="84" y2="78"/>
+<text class="nm" x="130" y="32">US, Canada, Australia 2100:1</text>
+<line class="ref" x1="128" y1="22" x2="128" y2="78"/>
+<text class="nm" x="220" y="50">UK 2300:1</text>
+<line class="ref" x1="216" y1="38" x2="216" y2="78"/>
+
+<!-- Measured range -->
+<rect class="rng" x="75.6" y="60" width="374.9" height="16" rx="2"/>
+<path class="mean" d="M263.1 62 L268.1 68 L263.1 74 L258.1 68 Z"/>
+<text class="ds" x="263" y="94" text-anchor="middle">Measured in 799 drink-drivers: average 2407 (◆); 95% fell between 1981 and 2833</text>
+
+<!-- Axis -->
+<line class="axis" x1="40" y1="122" x2="480" y2="122"/>
+<line class="tick" x1="84" y1="122" x2="84" y2="126"/><text class="ax" x="84" y="136">2000</text>
+<line class="tick" x1="172" y1="122" x2="172" y2="126"/><text class="ax" x="172" y="136">2200</text>
+<line class="tick" x1="260" y1="122" x2="260" y2="126"/><text class="ax" x="260" y="136">2400</text>
+<line class="tick" x1="348" y1="122" x2="348" y2="126"/><text class="ax" x="348" y="136">2600</text>
+<line class="tick" x1="436" y1="122" x2="436" y2="126"/><text class="ax" x="436" y="136">2800</text>
+<text class="axt" x="260" y="154">Blood:breath ratio</text>
+<text class="ds" x="260" y="172" text-anchor="middle">A legal ratio below a person’s real one converts their breath reading to a blood figure that is too low.</text>
+</svg>

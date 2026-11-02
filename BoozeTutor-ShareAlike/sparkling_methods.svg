@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 560 226" xmlns="http://www.w3.org/2000/svg"
+     font-family="system-ui,-apple-system,sans-serif">
+
+  <rect width="560" height="226" fill="#eef2f7" rx="10"/>
+  <text x="280" y="20" text-anchor="middle" font-size="12" font-weight="600"
+        fill="#334155" letter-spacing="0.4">Sparkling Wine Production Methods</text>
+
+  <!-- Column headers -->
+  <rect x="10" y="28" width="160" height="24" rx="4" fill="#fde68a"/>
+  <text x="90" y="45" text-anchor="middle" font-size="10" font-weight="700" fill="#78350f">Traditional Method</text>
+
+  <rect x="200" y="28" width="160" height="24" rx="4" fill="#bfdbfe"/>
+  <text x="280" y="45" text-anchor="middle" font-size="10" font-weight="700" fill="#1e3a8a">Tank Method</text>
+
+  <rect x="390" y="28" width="160" height="24" rx="4" fill="#bbf7d0"/>
+  <text x="470" y="45" text-anchor="middle" font-size="10" font-weight="700" fill="#14532d">Asti Method</text>
+
+  <!-- ROW 1: Starting material (y=60..84) -->
+  <rect x="10" y="60" width="160" height="24" rx="4" fill="white" stroke="#cbd5e1" stroke-width="1"/>
+  <text x="90" y="76" text-anchor="middle" font-size="9.5" fill="#475569">Still base wine</text>
+
+  <rect x="200" y="60" width="160" height="24" rx="4" fill="white" stroke="#cbd5e1" stroke-width="1"/>
+  <text x="280" y="76" text-anchor="middle" font-size="9.5" fill="#475569">Still base wine</text>
+
+  <rect x="390" y="60" width="160" height="24" rx="4" fill="white" stroke="#cbd5e1" stroke-width="1"/>
+  <text x="470" y="76" text-anchor="middle" font-size="9.5" fill="#475569">Fresh grape juice</text>
+
+  <!-- Arrows 1→2 -->
+  <polygon points="85,85 95,85 90,93" fill="#94a3b8"/>
+  <polygon points="275,85 285,85 280,93" fill="#94a3b8"/>
+  <polygon points="465,85 475,85 470,93" fill="#94a3b8"/>
+
+  <!-- ROW 2: Fermentation method (y=93..123) -->
+  <rect x="10" y="93" width="160" height="30" rx="4" fill="#fffbeb" stroke="#fcd34d" stroke-width="1"/>
+  <text x="90" y="107" text-anchor="middle" font-size="9.5" fill="#78350f">2nd fermentation</text>
+  <text x="90" y="119" text-anchor="middle" font-size="9.5" fill="#78350f">in bottle (tirage)</text>
+
+  <rect x="200" y="93" width="160" height="30" rx="4" fill="#eff6ff" stroke="#93c5fd" stroke-width="1"/>
+  <text x="280" y="107" text-anchor="middle" font-size="9.5" fill="#1e3a8a">2nd fermentation</text>
+  <text x="280" y="119" text-anchor="middle" font-size="9.5" fill="#1e3a8a">in sealed tank</text>
+
+  <rect x="390" y="93" width="160" height="30" rx="4" fill="#f0fdf4" stroke="#86efac" stroke-width="1"/>
+  <text x="470" y="107" text-anchor="middle" font-size="9.5" fill="#14532d">Single fermentation</text>
+  <text x="470" y="119" text-anchor="middle" font-size="9.5" fill="#14532d">in sealed tank</text>
+
+  <!-- Arrows 2→3 -->
+  <polygon points="85,124 95,124 90,131" fill="#94a3b8"/>
+  <polygon points="275,124 285,124 280,131" fill="#94a3b8"/>
+  <polygon points="465,124 475,124 470,131" fill="#94a3b8"/>
+
+  <!-- ROW 3: KEY processing step (y=131..161) -->
+  <rect x="10" y="131" width="160" height="30" rx="4" fill="#fef3c7" stroke="#fbbf24" stroke-width="1.5"/>
+  <text x="90" y="145" text-anchor="middle" font-size="9.5" font-weight="600" fill="#78350f">Lees ageing + riddling</text>
+  <text x="90" y="157" text-anchor="middle" font-size="9.5" font-weight="600" fill="#78350f">(months to years)</text>
+
+  <rect x="200" y="131" width="160" height="30" rx="4" fill="#dbeafe" stroke="#60a5fa" stroke-width="1.5"/>
+  <text x="280" y="145" text-anchor="middle" font-size="9.5" font-weight="600" fill="#1e3a8a">Filter + bottle</text>
+  <text x="280" y="157" text-anchor="middle" font-size="9.5" font-weight="600" fill="#1e3a8a">under pressure (weeks)</text>
+
+  <rect x="390" y="131" width="160" height="30" rx="4" fill="#dcfce7" stroke="#4ade80" stroke-width="1.5"/>
+  <text x="470" y="145" text-anchor="middle" font-size="9.5" font-weight="600" fill="#14532d">Arrested early:</text>
+  <text x="470" y="157" text-anchor="middle" font-size="9.5" font-weight="600" fill="#14532d">chill + filter</text>
+
+  <!-- Arrows 3→4 -->
+  <polygon points="85,162 95,162 90,169" fill="#94a3b8"/>
+  <polygon points="275,162 285,162 280,169" fill="#94a3b8"/>
+  <polygon points="465,162 475,162 470,169" fill="#94a3b8"/>
+
+  <!-- ROW 4: Result / character (y=169..199) -->
+  <rect x="10" y="169" width="160" height="30" rx="4" fill="#fde68a" stroke="#f59e0b" stroke-width="1.5"/>
+  <text x="90" y="183" text-anchor="middle" font-size="9.5" font-weight="600" fill="#78350f">Complex, toasty,</text>
+  <text x="90" y="195" text-anchor="middle" font-size="9.5" font-weight="600" fill="#78350f">autolytic character</text>
+
+  <rect x="200" y="169" width="160" height="30" rx="4" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="280" y="183" text-anchor="middle" font-size="9.5" font-weight="600" fill="#1e3a8a">Fresh, fruity,</text>
+  <text x="280" y="195" text-anchor="middle" font-size="9.5" font-weight="600" fill="#1e3a8a">primary aromas</text>
+
+  <rect x="390" y="169" width="160" height="30" rx="4" fill="#bbf7d0" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="470" y="183" text-anchor="middle" font-size="9.5" font-weight="600" fill="#14532d">Sweet, low-ABV,</text>
+  <text x="470" y="195" text-anchor="middle" font-size="9.5" font-weight="600" fill="#14532d">grapey, floral</text>
+
+  <!-- Examples -->
+  <text x="90" y="214" text-anchor="middle" font-size="8.5" fill="#64748b">e.g. Champagne, Cava</text>
+  <text x="280" y="214" text-anchor="middle" font-size="8.5" fill="#64748b">e.g. Prosecco</text>
+  <text x="470" y="214" text-anchor="middle" font-size="8.5" fill="#64748b">e.g. Asti, Moscato d'Asti</text>
+
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 350" width="400" height="350">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Hiragino Sans', 'Helvetica Neue', Arial, sans-serif; }
+.prod { font-size: 15px; font-weight: 700; fill: #3A2A1A; text-anchor: middle; letter-spacing: 1.5px; }
+.est  { font-size: 8px; fill: #6A5A40; text-anchor: middle; letter-spacing: 2px; }
+.grape { font-size: 20px; font-style: italic; fill: #5A1E2A; text-anchor: middle; }
+.place { font-size: 11px; font-weight: 700; fill: #3A2A1A; text-anchor: middle; letter-spacing: 1px; }
+.year { font-size: 16px; font-weight: 700; fill: #3A2A1A; text-anchor: middle; }
+.small { font-size: 9px; fill: #3A2A1A; }
+.ann  { font-size: 11px; font-weight: 700; fill: #333; }
+.anns { font-size: 9px; fill: #666; }
+.paper { fill: #FBF7EE; stroke: #B8A57E; stroke-width: 1.4; }
+.rule  { stroke: #C8B48A; stroke-width: 0.8; }
+.lead  { stroke: #9A8A6A; stroke-width: 0.8; fill: none; }
+.dot   { fill: #9A8A6A; }
+@media (prefers-color-scheme: dark) {
+  .ann  { fill: #E6E6E6; }
+  .anns { fill: #AAA; }
+  .lead { stroke: #8A7A5A; }
+  .dot  { fill: #8A7A5A; }
+}
+</style>
+</defs>
+
+<!-- A made-up front label (kept light in both appearances, like paper). -->
+<rect class="paper" x="14" y="14" width="200" height="302" rx="4"/>
+<rect x="22" y="22" width="184" height="286" rx="2" fill="none" stroke="#D8CBB0" stroke-width="0.8"/>
+
+<text class="prod" x="114" y="62">RIVERSTONE</text>
+<text class="est" x="114" y="78">ESTATE</text>
+<line class="rule" x1="64" y1="94" x2="164" y2="94"/>
+
+<text class="grape" x="114" y="136">Pinot Noir</text>
+
+<text class="place" x="114" y="174">MARLBOROUGH</text>
+<text class="est" x="114" y="190">NEW ZEALAND</text>
+
+<text class="year" x="114" y="230">2022</text>
+<line class="rule" x1="64" y1="250" x2="164" y2="250"/>
+
+<text class="small" x="36" y="292">13.5% vol</text>
+<text class="small" x="192" y="292" text-anchor="end">750 ml</text>
+
+<!-- Leads: each ends at a dot on the label and at its own named note. -->
+<circle class="dot" cx="177" cy="58" r="2.2"/>
+<polyline class="lead" points="177,58 236,58"/>
+<text class="ann" x="240" y="56">Producer</text>
+<text class="anns" x="240" y="69">who made it</text>
+
+<circle class="dot" cx="168" cy="131" r="2.2"/>
+<polyline class="lead" points="168,131 236,118"/>
+<text class="ann" x="240" y="116">Grape</text>
+<text class="anns" x="240" y="129">most of the wine</text>
+
+<circle class="dot" cx="172" cy="170" r="2.2"/>
+<polyline class="lead" points="172,170 236,170"/>
+<text class="ann" x="240" y="168">Place</text>
+<text class="anns" x="240" y="181">where the grapes grew</text>
+
+<circle class="dot" cx="138" cy="225" r="2.2"/>
+<polyline class="lead" points="138,225 236,225"/>
+<text class="ann" x="240" y="223">Vintage</text>
+<text class="anns" x="240" y="236">the harvest year</text>
+
+<circle class="dot" cx="192" cy="297" r="2.2"/>
+<polyline class="lead" points="192,297 236,297"/>
+<text class="ann" x="240" y="295">Volume</text>
+<text class="anns" x="240" y="308">bottle size</text>
+
+<circle class="dot" cx="64" cy="297" r="2.2"/>
+<polyline class="lead" points="64,297 64,330 236,330"/>
+<text class="ann" x="240" y="328">Alcohol</text>
+<text class="anns" x="240" y="341">strength, % vol</text>
+</svg>

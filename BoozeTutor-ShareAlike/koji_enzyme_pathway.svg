@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 200" width="640" height="200">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; text-anchor: middle; }
+.box  { font-size: 12px; font-weight: 700; fill: #333; }
+.sub  { font-size: 9.5px; fill: #555; }
+.enz  { font-size: 9.5px; font-weight: 700; fill: #B05A10; }
+.yst  { font-size: 9.5px; font-weight: 700; fill: #2F6FAF; }
+.key  { font-size: 9px; fill: #555; text-anchor: start; }
+.b1 { fill: #F3EBDD; stroke: #B09060; stroke-width: 1.2; }
+.b2 { fill: #E4EEF8; stroke: #5A86B4; stroke-width: 1.2; }
+.ak { stroke: #D2691E; stroke-width: 2; fill: none; }
+.ay { stroke: #2F6FAF; stroke-width: 2; fill: none; stroke-dasharray: 5 3; }
+@media (prefers-color-scheme: dark) {
+  .box { fill: #E6E6E6; }
+  .sub, .key { fill: #AAA; }
+  .enz { fill: #F0A060; }
+  .yst { fill: #7AB0E8; }
+  .b1 { fill: #3A3022; stroke: #A08050; }
+  .b2 { fill: #1C2C40; stroke: #5A86B4; }
+  .ak { stroke: #F09050; }
+  .ay { stroke: #6AA8E0; }
+}
+</style>
+<marker id="mk" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><polygon points="0,0.5 0,7.5 7,4" fill="#D2691E"/></marker>
+<marker id="my" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><polygon points="0,0.5 0,7.5 7,4" fill="#2F6FAF"/></marker>
+</defs>
+
+<!-- Row 1: starch to alcohol. Boxes 110 wide at x 10, 180, 350, 520; arrows in the 60 px gaps. -->
+<rect class="b1" x="10" y="30" width="110" height="46" rx="6"/>
+<text class="box" x="65" y="50">Starch</text>
+<text class="sub" x="65" y="65">in the rice</text>
+
+<rect class="b1" x="180" y="30" width="110" height="46" rx="6"/>
+<text class="box" x="235" y="50">Dextrins</text>
+<text class="sub" x="235" y="65">shorter chains</text>
+
+<rect class="b1" x="350" y="30" width="110" height="46" rx="6"/>
+<text class="box" x="405" y="50">Glucose</text>
+<text class="sub" x="405" y="65">sugar</text>
+
+<rect class="b2" x="520" y="30" width="110" height="46" rx="6"/>
+<text class="box" x="575" y="50">Alcohol</text>
+<text class="sub" x="575" y="65">and CO₂</text>
+
+<line class="ak" x1="122" y1="53" x2="174" y2="53" marker-end="url(#mk)"/>
+<text class="enz" x="150" y="92">alpha-</text>
+<text class="enz" x="150" y="103">amylase</text>
+<line class="ak" x1="292" y1="53" x2="344" y2="53" marker-end="url(#mk)"/>
+<text class="enz" x="320" y="92">gluco-</text>
+<text class="enz" x="320" y="103">amylase</text>
+<line class="ay" x1="462" y1="53" x2="514" y2="53" marker-end="url(#my)"/>
+<text class="yst" x="490" y="92">yeast</text>
+
+<!-- Row 2: protein to amino acids -->
+<rect class="b1" x="10" y="128" width="110" height="46" rx="6"/>
+<text class="box" x="65" y="148">Protein</text>
+<text class="sub" x="65" y="163">in the rice</text>
+
+<rect class="b1" x="180" y="128" width="200" height="46" rx="6"/>
+<text class="box" x="280" y="148">Peptides, amino acids</text>
+<text class="sub" x="280" y="163">umami and body</text>
+
+<line class="ak" x1="122" y1="151" x2="174" y2="151" marker-end="url(#mk)"/>
+<text class="enz" x="150" y="190">proteases</text>
+
+<!-- Key -->
+<line class="ak" x1="420" y1="140" x2="444" y2="140"/>
+<text class="key" x="450" y="143">enzymes made by the kōji</text>
+<line class="ay" x1="420" y1="160" x2="444" y2="160"/>
+<text class="key" x="450" y="163">work of the yeast</text>
+</svg>

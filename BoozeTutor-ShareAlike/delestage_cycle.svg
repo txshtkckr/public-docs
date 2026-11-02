@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 156">
+<defs>
+<clipPath id="pt"><rect x="8"  y="44" width="52" height="100" rx="3"/></clipPath>
+<clipPath id="cv"><rect x="95" y="64" width="46" height="82"  rx="3"/></clipPath>
+<style>
+text { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.tank { fill: none; stroke: #999; stroke-width: 1.5; }
+.wine { fill: #8B2020; }
+.cap  { fill: #3D1010; }
+.arr  { stroke: #555; stroke-width: 2; fill: none; }
+.tip  { fill: #555; }
+.step { font-size: 10px; font-weight: 600; text-anchor: middle; fill: #444; }
+.note { font-size: 9px; text-anchor: middle; fill: #888; font-style: italic; }
+.spr  { stroke: #8B2020; stroke-width: 1.5; fill: none; }
+@media (prefers-color-scheme: dark) {
+  .tank { stroke: #666; }
+  .arr  { stroke: #aaa; }
+  .tip  { fill: #aaa; }
+  .step { fill: #bbb; }
+  .note { fill: #777; }
+  .spr  { stroke: #c04040; }
+}
+</style>
+</defs>
+
+<!-- ══ PRIMARY TANK (drained) ══ -->
+<rect x="8" y="44" width="52" height="100" rx="3" class="tank"/>
+<rect x="8" y="136" width="52" height="8" class="cap" clip-path="url(#pt)"/>
+<text x="34" y="88" class="note">Empty</text>
+
+<!-- ══ COLLECTION VESSEL (full) ══ -->
+<rect x="95" y="64" width="46" height="82" rx="3" class="tank"/>
+<rect x="95" y="64" width="46" height="82" class="wine" clip-path="url(#cv)"/>
+<text x="118" y="105" class="note" style="fill:#f0b0b0">Drained wine</text>
+
+<!-- ══ DRAIN: tank → vessel ══ -->
+<line x1="60" y1="138" x2="93" y2="138" class="arr"/>
+<polygon points="95,138 87,134 87,142" class="tip"/>
+<text x="77" y="150" class="step">① Drain</text>
+
+<!-- ══ PUMP BACK: vessel → over cap ══ -->
+<path d="M 118,64 L 118,18 L 34,18 L 34,44" class="arr"/>
+<text x="77" y="14" class="step">② Pump back</text>
+<!-- Spray into primary tank -->
+<line x1="34" y1="47" x2="19" y2="64" class="spr"/>
+<line x1="34" y1="47" x2="26" y2="66" class="spr"/>
+<line x1="34" y1="47" x2="34" y2="68" class="spr"/>
+<line x1="34" y1="47" x2="42" y2="66" class="spr"/>
+<line x1="34" y1="47" x2="49" y2="64" class="spr"/>
+</svg>

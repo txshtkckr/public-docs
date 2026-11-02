@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 560 228" xmlns="http://www.w3.org/2000/svg"
+     font-family="system-ui,-apple-system,sans-serif">
+
+  <rect width="560" height="228" fill="#eef2f7" rx="10"/>
+  <text x="280" y="20" text-anchor="middle" font-size="12" font-weight="600"
+        fill="#334155" letter-spacing="0.4">Three Methods of Retaining Sweetness</text>
+
+  <!-- Column headers -->
+  <rect x="10" y="28" width="160" height="24" rx="4" fill="#bbf7d0"/>
+  <text x="90" y="45" text-anchor="middle" font-size="10" font-weight="700" fill="#14532d">Süssreserve</text>
+
+  <rect x="200" y="28" width="160" height="24" rx="4" fill="#bfdbfe"/>
+  <text x="280" y="45" text-anchor="middle" font-size="10" font-weight="700" fill="#1e3a8a">Cold Crash</text>
+
+  <rect x="390" y="28" width="160" height="24" rx="4" fill="#fde68a"/>
+  <text x="470" y="45" text-anchor="middle" font-size="10" font-weight="700" fill="#78350f">Fortification</text>
+
+  <!-- ── ROW 1: Grape juice (y=60..84) ── -->
+  <rect x="10" y="60" width="160" height="24" rx="4" fill="white" stroke="#cbd5e1" stroke-width="1"/>
+  <text x="90" y="76" text-anchor="middle" font-size="9.5" fill="#475569">Grape juice</text>
+
+  <rect x="200" y="60" width="160" height="24" rx="4" fill="white" stroke="#cbd5e1" stroke-width="1"/>
+  <text x="280" y="76" text-anchor="middle" font-size="9.5" fill="#475569">Grape juice</text>
+
+  <rect x="390" y="60" width="160" height="24" rx="4" fill="white" stroke="#cbd5e1" stroke-width="1"/>
+  <text x="470" y="76" text-anchor="middle" font-size="9.5" fill="#475569">Grape juice</text>
+
+  <!-- Süssreserve: two arrows from grape juice — left track (x=35) to reserve, right track (x=148) to ferments -->
+  <polygon points="30,85 40,85 35,93" fill="#94a3b8"/>
+  <line x1="148" y1="84" x2="148" y2="123" stroke="#94a3b8" stroke-width="1.5"/>
+  <polygon points="143,123 153,123 148,131" fill="#94a3b8"/>
+
+  <!-- Cold Crash / Fortification: simple arrows 1→2 -->
+  <polygon points="275,85 285,85 280,93" fill="#94a3b8"/>
+  <polygon points="465,85 475,85 470,93" fill="#94a3b8"/>
+
+  <!-- ── ROW 2 (y=93..122) ── -->
+  <!-- Süssreserve: reserve box — left 75% (x=10..130, cx=70) -->
+  <rect x="10" y="93" width="120" height="29" rx="4" fill="#f0fdf4" stroke="#86efac" stroke-width="1"/>
+  <text x="70" y="107" text-anchor="middle" font-size="9.5" fill="#14532d">Reserve set aside</text>
+  <text x="70" y="119" text-anchor="middle" font-size="9.5" fill="#14532d">(unfermented)</text>
+  <!-- Reserve bypass: arrow directly from reserve box to result box, passing left of ferments box -->
+  <line x1="35" y1="122" x2="35" y2="161" stroke="#94a3b8" stroke-width="1.5"/>
+  <polygon points="30,161 40,161 35,169" fill="#94a3b8"/>
+
+  <!-- Cold Crash row 2 -->
+  <rect x="200" y="93" width="160" height="29" rx="4" fill="#eff6ff" stroke="#93c5fd" stroke-width="1"/>
+  <text x="280" y="107" text-anchor="middle" font-size="9.5" fill="#1e3a8a">Full batch begins</text>
+  <text x="280" y="119" text-anchor="middle" font-size="9.5" fill="#1e3a8a">to ferment</text>
+
+  <!-- Fortification row 2 -->
+  <rect x="390" y="93" width="160" height="29" rx="4" fill="#fffbeb" stroke="#fcd34d" stroke-width="1"/>
+  <text x="470" y="107" text-anchor="middle" font-size="9.5" fill="#78350f">Full batch begins</text>
+  <text x="470" y="119" text-anchor="middle" font-size="9.5" fill="#78350f">to ferment</text>
+
+  <!-- Cold Crash / Fortification: arrows 2→3 -->
+  <polygon points="275,123 285,123 280,131" fill="#94a3b8"/>
+  <polygon points="465,123 475,123 470,131" fill="#94a3b8"/>
+
+  <!-- ── ROW 3 KEY STEP (y=131..160) ── -->
+  <!-- Süssreserve: ferments box — right 75% (x=50..170, cx=110) -->
+  <!-- right bypass at x=148 arrives here from above; reserve bypass at x=35 runs down left gap alongside -->
+  <rect x="50" y="131" width="120" height="29" rx="4" fill="#dcfce7" stroke="#4ade80" stroke-width="1.5"/>
+  <text x="110" y="143" text-anchor="middle" font-size="9.5" font-weight="600" fill="#14532d">Remainder ferments</text>
+  <text x="110" y="155" text-anchor="middle" font-size="9.5" font-weight="600" fill="#14532d">to dryness</text>
+  <!-- Ferments: arrow down to result box on right track (x=148) -->
+  <polygon points="143,161 153,161 148,169" fill="#94a3b8"/>
+
+  <!-- Cold Crash key step -->
+  <rect x="200" y="131" width="160" height="29" rx="4" fill="#dbeafe" stroke="#60a5fa" stroke-width="1.5"/>
+  <text x="280" y="143" text-anchor="middle" font-size="9.5" font-weight="600" fill="#1e3a8a">Rapid chilling</text>
+  <text x="280" y="155" text-anchor="middle" font-size="9.5" font-weight="600" fill="#1e3a8a">halts yeast early</text>
+
+  <!-- Fortification key step -->
+  <rect x="390" y="131" width="160" height="29" rx="4" fill="#fef3c7" stroke="#fbbf24" stroke-width="1.5"/>
+  <text x="470" y="143" text-anchor="middle" font-size="9.5" font-weight="600" fill="#78350f">Brandy added —</text>
+  <text x="470" y="155" text-anchor="middle" font-size="9.5" font-weight="600" fill="#78350f">yeast killed</text>
+
+  <!-- Cold Crash / Fortification: arrows 3→4 -->
+  <polygon points="275,161 285,161 280,169" fill="#94a3b8"/>
+  <polygon points="465,161 475,161 470,169" fill="#94a3b8"/>
+
+  <!-- ── ROW 4 RESULT (y=169..198) ── -->
+  <rect x="10" y="169" width="160" height="29" rx="4" fill="#bbf7d0" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="90" y="180" text-anchor="middle" font-size="9.5" font-weight="600" fill="#14532d">Reserve blended in</text>
+  <text x="90" y="192" text-anchor="middle" font-size="9.5" font-weight="600" fill="#14532d">→ sweet wine</text>
+
+  <rect x="200" y="169" width="160" height="29" rx="4" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="280" y="180" text-anchor="middle" font-size="9.5" font-weight="600" fill="#1e3a8a">Residual sugar</text>
+  <text x="280" y="192" text-anchor="middle" font-size="9.5" font-weight="600" fill="#1e3a8a">retained → sweet wine</text>
+
+  <rect x="390" y="169" width="160" height="29" rx="4" fill="#fde68a" stroke="#f59e0b" stroke-width="1.5"/>
+  <text x="470" y="180" text-anchor="middle" font-size="9.5" font-weight="600" fill="#78350f">High ABV +</text>
+  <text x="470" y="192" text-anchor="middle" font-size="9.5" font-weight="600" fill="#78350f">residual sugar</text>
+
+  <!-- Examples -->
+  <text x="90" y="215" text-anchor="middle" font-size="8.5" fill="#64748b">e.g. German Riesling</text>
+  <text x="280" y="215" text-anchor="middle" font-size="8.5" fill="#64748b">e.g. Moscato d'Asti</text>
+  <text x="470" y="215" text-anchor="middle" font-size="8.5" fill="#64748b">e.g. Port, Madeira</text>
+
+</svg>

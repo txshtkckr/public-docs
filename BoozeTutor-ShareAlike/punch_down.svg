@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 230">
+<defs>
+<clipPath id="c"><rect x="17" y="53" width="95" height="135" rx="3"/></clipPath>
+<style>
+text { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.tank { fill: none; stroke: #999; stroke-width: 1.5; }
+.wine { fill: #8B2020; }
+.cap  { fill: #3D1010; }
+.lbl  { font-size: 12.5px; font-weight: 700; text-anchor: middle; fill: #111; }
+.sub  { font-size: 11px; text-anchor: middle; fill: #666; font-style: italic; }
+.plgr { stroke: #5a7d9a; stroke-width: 2.5; fill: none; stroke-linecap: round; }
+@media (prefers-color-scheme: dark) {
+  .tank { stroke: #666; }
+  .lbl  { fill: #eee; }
+  .sub  { fill: #999; }
+  .plgr { stroke: #88b4d0; }
+}
+</style>
+</defs>
+
+<!-- Tank -->
+<rect x="17" y="53" width="95" height="135" rx="3" class="tank"/>
+<rect x="17" y="71" width="95" height="117" class="wine" clip-path="url(#c)"/>
+<!-- Cap split by plunger: two halves -->
+<polygon points="17,71 53,71 52,80 17,80"   class="cap" clip-path="url(#c)"/>
+<polygon points="75,71 112,71 112,80 76,80" class="cap" clip-path="url(#c)"/>
+<!-- Fragments sinking into wine -->
+<polygon points="54,85 63,85 60,94"         class="cap" clip-path="url(#c)"/>
+<polygon points="77,91 77,100 68,95"        class="cap" clip-path="url(#c)"/>
+<polygon points="38,107 49,107 43,98"       class="cap" clip-path="url(#c)"/>
+<polygon points="75,104 86,104 80,113"      class="cap" clip-path="url(#c)"/>
+<polygon points="30,116 30,125 39,120"      class="cap" clip-path="url(#c)"/>
+<polygon points="66,134 57,132 60,124"      class="cap" clip-path="url(#c)"/>
+<!-- Plunger: T-handle + rod + curved disc -->
+<line x1="47" y1="24" x2="81" y2="24" class="plgr" stroke-width="3"/>
+<line x1="64" y1="24" x2="64" y2="101" class="plgr"/>
+<path d="M 52,105 Q 64,101 76,105" class="plgr" stroke-width="3" fill="none"/>
+<!-- Labels -->
+<text x="64" y="208" class="lbl">Punch-down</text>
+<text x="64" y="222" class="sub">pigeage</text>
+</svg>

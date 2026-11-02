@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 340" width="300" height="340">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.ttl  { font-size: 10px; font-weight: 700; fill: #333; }
+.lbl  { font-size: 7.5px; fill: #444; }
+.lblb { font-size: 7.5px; font-weight: 700; fill: #444; }
+.ctr  { text-anchor: middle; }
+.col  { fill: #F6E7D8; stroke: #A0602A; stroke-width: 1.5; }
+.plate { stroke: #A0602A; stroke-width: 2; }
+.pool { fill: #A9C8E6; }
+.boil { fill: #E9C9A8; stroke: #A0602A; stroke-width: 1.5; }
+.pipe { fill: none; stroke: #A0602A; stroke-width: 3; }
+.cond { fill: #DCE8F4; stroke: #4A7AAA; stroke-width: 1.2; }
+.vap  { fill: none; stroke: #D2691E; stroke-width: 1.4; }
+.liq  { fill: none; stroke: #2F6FAF; stroke-width: 1.4; stroke-dasharray: 3 2; }
+.lead { stroke: #999; stroke-width: 0.6; }
+.heat { fill: #E0602A; }
+@media (prefers-color-scheme: dark) {
+  .ttl  { fill: #DDD; }
+  .lbl, .lblb { fill: #BBB; }
+  .col  { fill: #3A2A1C; stroke: #C08050; }
+  .plate { stroke: #C08050; }
+  .pool { fill: #2F5A80; }
+  .boil { fill: #4A3424; stroke: #C08050; }
+  .pipe { stroke: #C08050; }
+  .cond { fill: #1C2E44; stroke: #6A9ACA; }
+  .vap  { stroke: #F09050; }
+  .liq  { stroke: #6AA8E0; }
+  .lead { stroke: #666; }
+}
+</style>
+<marker id="av" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5" orient="auto">
+  <polygon points="0,0.5 0,6.5 6,3.5" fill="#D2691E"/>
+</marker>
+<marker id="al" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5" orient="auto">
+  <polygon points="0,0.5 0,6.5 6,3.5" fill="#2F6FAF"/>
+</marker>
+</defs>
+
+<text class="ttl" x="10" y="16">A plated column</text>
+
+<!-- Vapour pipe from the column top to the condenser -->
+<path class="pipe" d="M150,50 L150,34 L222,34"/>
+<rect class="cond" x="222" y="22" width="70" height="24" rx="4"/>
+<text class="lbl ctr" x="257" y="37">Condenser</text>
+
+<!-- Column shell, y 50..270 -->
+<rect class="col" x="110" y="50" width="80" height="220" rx="6"/>
+
+<!-- Four plates, each holding a shallow pool; downcomers alternate sides -->
+<rect class="pool" x="112" y="84" width="62" height="6"/>
+<line class="plate" x1="110" y1="90" x2="176" y2="90"/>
+<rect class="pool" x="126" y="129" width="62" height="6"/>
+<line class="plate" x1="124" y1="135" x2="190" y2="135"/>
+<rect class="pool" x="112" y="174" width="62" height="6"/>
+<line class="plate" x1="110" y1="180" x2="176" y2="180"/>
+<rect class="pool" x="126" y="219" width="62" height="6"/>
+<line class="plate" x1="124" y1="225" x2="190" y2="225"/>
+
+<!-- Vapour rising through each plate -->
+<line class="vap" x1="150" y1="258" x2="150" y2="232" marker-end="url(#av)"/>
+<line class="vap" x1="150" y1="216" x2="150" y2="187" marker-end="url(#av)"/>
+<line class="vap" x1="150" y1="171" x2="150" y2="142" marker-end="url(#av)"/>
+<line class="vap" x1="150" y1="126" x2="150" y2="97" marker-end="url(#av)"/>
+<line class="vap" x1="150" y1="81" x2="150" y2="58" marker-end="url(#av)"/>
+
+<!-- Liquid falling past each plate through the gaps -->
+<line class="liq" x1="183" y1="92" x2="183" y2="122" marker-end="url(#al)"/>
+<line class="liq" x1="117" y1="137" x2="117" y2="167" marker-end="url(#al)"/>
+<line class="liq" x1="183" y1="182" x2="183" y2="212" marker-end="url(#al)"/>
+<line class="liq" x1="117" y1="227" x2="117" y2="262" marker-end="url(#al)"/>
+
+<!-- Boiler -->
+<ellipse class="boil" cx="150" cy="290" rx="62" ry="22"/>
+<text class="lblb ctr" x="150" y="293">Wash</text>
+<polygon class="heat" points="132,322 138,312 144,322"/>
+<polygon class="heat" points="146,322 152,310 158,322"/>
+<polygon class="heat" points="160,322 166,312 172,322"/>
+<text class="lbl ctr" x="150" y="333">Heat</text>
+
+<!-- Labels, right -->
+<text class="lblb" x="198" y="72">Vapour rises,</text>
+<text class="lbl" x="198" y="82">richer in ethanol</text>
+<text class="lbl" x="198" y="92">at every plate</text>
+<line class="lead" x1="190" y1="180" x2="198" y2="180"/>
+<text class="lblb" x="201" y="178">Fusel oils</text>
+<text class="lbl" x="201" y="188">drawn off here</text>
+
+<!-- Labels, left -->
+<line class="lead" x1="104" y1="152" x2="114" y2="152"/>
+<text class="lblb" x="8" y="148">Liquid falls back:</text>
+<text class="lbl" x="8" y="158">reflux</text>
+<text class="lblb" x="8" y="244">Heavier compounds</text>
+<text class="lbl" x="8" y="254">sink to the bottom</text>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 250" width="520" height="250">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.nm   { font-size: 10px; font-weight: 700; fill: #333; }
+.ds   { font-size: 9px; fill: #555; }
+.ar   { font-size: 9px; font-weight: 700; fill: #444; }
+.butt { fill: #E7D3B0; stroke: #8A6A3A; stroke-width: 1.2; }
+.hoop { stroke: #8A6A3A; stroke-width: 1; fill: none; }
+.wine { fill: #C9A25A; }
+.arrow { stroke: #444; stroke-width: 1.6; fill: none; marker-end: url(#head); }
+.head { fill: #444; }
+@media (prefers-color-scheme: dark) {
+  .nm { fill: #E6E6E6; }
+  .ds { fill: #AAA; }
+  .ar { fill: #CCC; }
+  .butt { fill: #4A3C28; stroke: #C8A878; }
+  .hoop { stroke: #C8A878; }
+  .wine { fill: #8A6A30; }
+  .arrow { stroke: #CCC; }
+  .head { fill: #CCC; }
+}
+</style>
+<marker id="head" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+  <path class="head" d="M0,0 L10,5 L0,10 Z"/>
+</marker>
+</defs>
+
+<!-- Three scales of butts, youngest on top. Meaning is in the labels and arrows, not colour. -->
+
+<!-- Scale labels (left) -->
+<text class="nm" x="20" y="44">2nd criadera</text>
+<text class="ds" x="20" y="56">youngest wine</text>
+<text class="nm" x="20" y="114">1st criadera</text>
+<text class="ds" x="20" y="126">older</text>
+<text class="nm" x="20" y="184">Solera</text>
+<text class="ds" x="20" y="196">oldest wine</text>
+
+<!-- Butts: rows at y=30, 100, 170; four butts each from x=130 -->
+<g>
+  <rect class="butt" x="130" y="28" width="60" height="34" rx="12"/><line class="hoop" x1="145" y1="28" x2="145" y2="62"/><line class="hoop" x1="175" y1="28" x2="175" y2="62"/>
+  <rect class="butt" x="200" y="28" width="60" height="34" rx="12"/><line class="hoop" x1="215" y1="28" x2="215" y2="62"/><line class="hoop" x1="245" y1="28" x2="245" y2="62"/>
+  <rect class="butt" x="270" y="28" width="60" height="34" rx="12"/><line class="hoop" x1="285" y1="28" x2="285" y2="62"/><line class="hoop" x1="315" y1="28" x2="315" y2="62"/>
+  <rect class="butt" x="340" y="28" width="60" height="34" rx="12"/><line class="hoop" x1="355" y1="28" x2="355" y2="62"/><line class="hoop" x1="385" y1="28" x2="385" y2="62"/>
+
+  <rect class="butt" x="130" y="98" width="60" height="34" rx="12"/><line class="hoop" x1="145" y1="98" x2="145" y2="132"/><line class="hoop" x1="175" y1="98" x2="175" y2="132"/>
+  <rect class="butt" x="200" y="98" width="60" height="34" rx="12"/><line class="hoop" x1="215" y1="98" x2="215" y2="132"/><line class="hoop" x1="245" y1="98" x2="245" y2="132"/>
+  <rect class="butt" x="270" y="98" width="60" height="34" rx="12"/><line class="hoop" x1="285" y1="98" x2="285" y2="132"/><line class="hoop" x1="315" y1="98" x2="315" y2="132"/>
+  <rect class="butt" x="340" y="98" width="60" height="34" rx="12"/><line class="hoop" x1="355" y1="98" x2="355" y2="132"/><line class="hoop" x1="385" y1="98" x2="385" y2="132"/>
+
+  <rect class="butt" x="130" y="168" width="60" height="34" rx="12"/><line class="hoop" x1="145" y1="168" x2="145" y2="202"/><line class="hoop" x1="175" y1="168" x2="175" y2="202"/>
+  <rect class="butt" x="200" y="168" width="60" height="34" rx="12"/><line class="hoop" x1="215" y1="168" x2="215" y2="202"/><line class="hoop" x1="245" y1="168" x2="245" y2="202"/>
+  <rect class="butt" x="270" y="168" width="60" height="34" rx="12"/><line class="hoop" x1="285" y1="168" x2="285" y2="202"/><line class="hoop" x1="315" y1="168" x2="315" y2="202"/>
+  <rect class="butt" x="340" y="168" width="60" height="34" rx="12"/><line class="hoop" x1="355" y1="168" x2="355" y2="202"/><line class="hoop" x1="385" y1="168" x2="385" y2="202"/>
+</g>
+
+<!-- New wine in at the top -->
+<path class="arrow" d="M440 10 Q420 12 404 32"/>
+<text class="ar" x="444" y="14">new wine</text>
+
+<!-- Top-ups (rocío) between scales -->
+<path class="arrow" d="M410 56 Q440 80 410 104"/>
+<text class="ar" x="446" y="84">rocío</text>
+<text class="ds" x="446" y="95">top-up</text>
+<path class="arrow" d="M410 126 Q440 150 410 174"/>
+<text class="ar" x="446" y="154">rocío</text>
+<text class="ds" x="446" y="165">top-up</text>
+
+<!-- Withdrawal (saca) from the solera -->
+<path class="arrow" d="M265 204 L265 232"/>
+<text class="ar" x="275" y="228">saca: part drawn for bottling</text>
+
+<text class="ds" x="20" y="244">Average age, not vintage: each scale holds wine of many years.</text>
+</svg>

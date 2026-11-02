@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 145" width="500" height="145">
+<defs>
+<style>
+text { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.num { font-size: 9.5px; font-weight: 700; text-anchor: middle; fill: #444; }
+.sty { font-size: 8px; text-anchor: middle; fill: #666; }
+.ttl { font-size: 11px; font-weight: 700; text-anchor: middle; fill: #333; }
+@media (prefers-color-scheme: dark) {
+  .num { fill: #bbb; }
+  .sty { fill: #999; }
+  .ttl { fill: #eee; }
+}
+</style>
+</defs>
+
+<text class="ttl" x="250" y="14">SRM Beer Colour Scale</text>
+
+<!-- 10 swatches: x=12,60,108,156,204,252,300,348,396,444 · width=44 · gap=4 · height=80 -->
+<rect x="12"  y="22" width="44" height="80" rx="3" fill="#F3F993" stroke="#000" stroke-opacity="0.15" stroke-width="0.75"/>
+<rect x="60"  y="22" width="44" height="80" rx="3" fill="#EAC117" stroke="#000" stroke-opacity="0.15" stroke-width="0.75"/>
+<rect x="108" y="22" width="44" height="80" rx="3" fill="#D08B00" stroke="#000" stroke-opacity="0.12" stroke-width="0.75"/>
+<rect x="156" y="22" width="44" height="80" rx="3" fill="#B86800" stroke="#000" stroke-opacity="0.10" stroke-width="0.75"/>
+<rect x="204" y="22" width="44" height="80" rx="3" fill="#9B4E00"/>
+<rect x="252" y="22" width="44" height="80" rx="3" fill="#7A3000"/>
+<rect x="300" y="22" width="44" height="80" rx="3" fill="#5C1C00"/>
+<rect x="348" y="22" width="44" height="80" rx="3" fill="#400B00"/>
+<rect x="396" y="22" width="44" height="80" rx="3" fill="#220300"/>
+<rect x="444" y="22" width="44" height="80" rx="3" fill="#0A0000"/>
+
+<!-- SRM numbers (centred under each swatch) -->
+<text class="num" x="34"  y="116">2</text>
+<text class="num" x="82"  y="116">4</text>
+<text class="num" x="130" y="116">6</text>
+<text class="num" x="178" y="116">9</text>
+<text class="num" x="226" y="116">12</text>
+<text class="num" x="274" y="116">16</text>
+<text class="num" x="322" y="116">20</text>
+<text class="num" x="370" y="116">26</text>
+<text class="num" x="418" y="116">35</text>
+<text class="num" x="466" y="116">40+</text>
+
+<!-- Representative style names -->
+<text class="sty" x="34"  y="129">Pilsner</text>
+<text class="sty" x="82"  y="129">Helles</text>
+<text class="sty" x="130" y="129">Pale Ale</text>
+<text class="sty" x="178" y="129">Saison</text>
+<text class="sty" x="226" y="129">Amber</text>
+<text class="sty" x="274" y="129">ESB</text>
+<text class="sty" x="322" y="129">Porter</text>
+<text class="sty" x="370" y="129">Stout</text>
+<text class="sty" x="418" y="129">Imperial</text>
+<text class="sty" x="466" y="129">Black</text>
+</svg>

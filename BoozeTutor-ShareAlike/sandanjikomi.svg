@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 220" width="500" height="220">
+<defs>
+<style>
+text { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.ttl  { font-size: 11px; font-weight: 700; text-anchor: middle; fill: #333; }
+.hd1  { font-size: 8.5px; font-weight: 700; text-anchor: middle; fill: #223355; }
+.hd2  { font-size: 7.5px; text-anchor: middle; fill: #445577; }
+.hdr1 { font-size: 8.5px; font-weight: 700; text-anchor: middle; fill: #554400; }
+.hdr2 { font-size: 7.5px; text-anchor: middle; fill: #665500; }
+.dno  { font-size: 8.5px; font-weight: 700; text-anchor: middle; fill: #555; }
+.jp   { font-size: 8px; text-anchor: middle; fill: #888; font-style: italic; }
+.axlb { font-size: 7px; text-anchor: end; fill: #aaa; }
+.cont { font-size: 7.5px; text-anchor: start; fill: #777; }
+.cap  { font-size: 7.5px; text-anchor: middle; fill: #888; }
+@media (prefers-color-scheme: dark) {
+  .ttl  { fill: #eee; }
+  /* Box text stays dark — boxes are light-on-dark "cards", text must stay readable against them */
+  .dno  { fill: #ccc; }
+  .jp   { fill: #777; }
+  .axlb { fill: #666; }
+  .cont { fill: #888; }
+  .cap  { fill: #666; }
+}
+</style>
+</defs>
+
+<!-- Title -->
+<text class="ttl" x="250" y="14">San-dan Jikomi — Three-Stage Addition</text>
+
+<!-- Event boxes -->
+<!-- Day 1 - Hatsuzoe -->
+<rect x="34" y="22" width="72" height="40" rx="4" fill="#B5D4EE" stroke="#5588BB" stroke-width="0.75"/>
+<text class="hd1" x="70" y="38">1st addition</text>
+<text class="hd2" x="70" y="51">rice, kōji, water</text>
+
+<!-- Day 2 - Odori -->
+<rect x="144" y="22" width="72" height="40" rx="4" fill="#F5EAB0" stroke="#CCAA44" stroke-width="0.75"/>
+<text class="hdr1" x="180" y="38">Rest day</text>
+<text class="hdr2" x="180" y="51">yeast multiplies</text>
+
+<!-- Day 3 - Nakazoe -->
+<rect x="254" y="22" width="72" height="40" rx="4" fill="#B5D4EE" stroke="#5588BB" stroke-width="0.75"/>
+<text class="hd1" x="290" y="38">2nd addition</text>
+<text class="hd2" x="290" y="51">(larger volume)</text>
+
+<!-- Day 4 - Tomezoe -->
+<rect x="364" y="22" width="72" height="40" rx="4" fill="#B5D4EE" stroke="#5588BB" stroke-width="0.75"/>
+<text class="hd1" x="400" y="38">Final addition</text>
+<text class="hd2" x="400" y="51">(largest batch)</text>
+
+<!-- Vertical connectors from box bottoms to timeline -->
+<line x1="70"  y1="62" x2="70"  y2="80" stroke="#88AACC" stroke-width="1"/>
+<line x1="180" y1="62" x2="180" y2="80" stroke="#CCAA44" stroke-width="1"/>
+<line x1="290" y1="62" x2="290" y2="80" stroke="#88AACC" stroke-width="1"/>
+<line x1="400" y1="62" x2="400" y2="80" stroke="#88AACC" stroke-width="1"/>
+
+<!-- Timeline axis -->
+<line x1="30" y1="86" x2="456" y2="86" stroke="#999" stroke-width="1.5"/>
+<polygon points="456,82 464,86 456,90" fill="#999"/>
+
+<!-- Tick marks -->
+<line x1="70"  y1="81" x2="70"  y2="91" stroke="#555" stroke-width="1.5"/>
+<line x1="180" y1="81" x2="180" y2="91" stroke="#555" stroke-width="1.5"/>
+<line x1="290" y1="81" x2="290" y2="91" stroke="#555" stroke-width="1.5"/>
+<line x1="400" y1="81" x2="400" y2="91" stroke="#555" stroke-width="1.5"/>
+
+<!-- Day number labels -->
+<text class="dno" x="70"  y="105">Day 1</text>
+<text class="dno" x="180" y="105">Day 2</text>
+<text class="dno" x="290" y="105">Day 3</text>
+<text class="dno" x="400" y="105">Day 4</text>
+
+<!-- Japanese names -->
+<text class="jp" x="70"  y="118">Hatsuzoe</text>
+<text class="jp" x="180" y="118">Odori</text>
+<text class="jp" x="290" y="118">Nakazoe</text>
+<text class="jp" x="400" y="118">Tomezoe</text>
+
+<!-- Continuation annotation -->
+<text class="cont" x="408" y="100">→ 18–32 more days</text>
+
+<!-- ABV axis label -->
+<text class="axlb" x="28" y="139">ABV</text>
+<text class="axlb" x="28" y="147">↑</text>
+
+<!-- Yeast/ABV activity curve — solid through day 4 -->
+<path fill="none" stroke="#5588BB" stroke-width="2"
+      d="M 30,196 C 50,196 60,193 70,191
+         C 115,187 155,183 180,178
+         C 228,171 262,163 290,159
+         C 335,153 370,147 400,143"/>
+
+<!-- Dashed continuation after day 4 -->
+<path fill="none" stroke="#5588BB" stroke-width="2" stroke-dasharray="4,3"
+      d="M 400,143 C 420,139 432,137 445,137 C 455,137 460,139 465,140"/>
+
+<!-- Curve dots at each day position -->
+<circle cx="70"  cy="191" r="3" fill="#5588BB"/>
+<circle cx="180" cy="178" r="3" fill="#CCAA44"/>
+<circle cx="290" cy="159" r="3" fill="#5588BB"/>
+<circle cx="400" cy="143" r="3" fill="#5588BB"/>
+
+<!-- Horizontal baseline for curve -->
+<line x1="30" y1="197" x2="468" y2="197" stroke="#ddd" stroke-width="0.75"/>
+
+<!-- Caption -->
+<text class="cap" x="250" y="211">Parallel kōji (starch→sugar) and yeast (sugar→alcohol) enables sake to reach up to 20% ABV — the highest of any fermented beverage</text>
+</svg>

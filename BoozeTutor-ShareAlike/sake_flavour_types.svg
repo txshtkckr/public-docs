@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="520" viewBox="0 0 800 520" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,Helvetica Neue,Arial,sans-serif">
+
+  <!-- Quadrant fills -->
+  <rect x="80" y="40" width="320" height="220" fill="#e8f3e8"/>
+  <rect x="400" y="40" width="320" height="220" fill="#f5e8de"/>
+  <rect x="80" y="260" width="320" height="220" fill="#ddeaf7"/>
+  <rect x="400" y="260" width="320" height="220" fill="#f5f0d2"/>
+
+  <!-- Dividing lines (centre cross) -->
+  <line x1="400" y1="40" x2="400" y2="480" stroke="#c0c0c0" stroke-width="1.5"/>
+  <line x1="80" y1="260" x2="720" y2="260" stroke="#c0c0c0" stroke-width="1.5"/>
+
+  <!-- Plot border -->
+  <rect x="80" y="40" width="640" height="440" fill="none" stroke="#c0c0c0" stroke-width="1"/>
+
+  <!-- X axis -->
+  <line x1="68" y1="480" x2="728" y2="480" stroke="#555" stroke-width="2"/>
+  <polygon points="724,476 724,484 736,480" fill="#555"/>
+  <!-- Y axis -->
+  <line x1="80" y1="492" x2="80" y2="28" stroke="#555" stroke-width="2"/>
+  <polygon points="76,30 84,30 80,18" fill="#555"/>
+
+  <!-- X axis labels -->
+  <text x="86" y="498" font-size="12" fill="#666">Light body</text>
+  <text x="714" y="498" font-size="12" fill="#666" text-anchor="end">Full body</text>
+
+  <!-- Y axis labels (rotated) -->
+  <text x="22" y="380" font-size="12" fill="#666" text-anchor="middle" transform="rotate(-90,22,380)">Low aroma</text>
+  <text x="22" y="140" font-size="12" fill="#666" text-anchor="middle" transform="rotate(-90,22,140)">High aroma</text>
+
+  <!-- Kunshu (top-left: high aroma, light flavor) -->
+  <text x="240" y="88" text-anchor="middle" font-size="26" font-weight="700" fill="#3a7a3a">Kunshu</text>
+  <text x="240" y="110" text-anchor="middle" font-size="14" fill="#3a7a3a">薫酒 · Aromatic sake</text>
+  <text x="240" y="136" text-anchor="middle" font-size="12" fill="#555">Ginjō, daiginjō types</text>
+  <text x="240" y="158" text-anchor="middle" font-size="11" fill="#777">Fruity &amp; floral esters,</text>
+  <text x="240" y="173" text-anchor="middle" font-size="11" fill="#777">light and fragrant</text>
+  <text x="240" y="188" text-anchor="middle" font-size="11" fill="#999">Serve: well chilled</text>
+
+  <!-- Jukushu (top-right: high aroma, rich flavor) -->
+  <text x="560" y="88" text-anchor="middle" font-size="26" font-weight="700" fill="#9b4e2a">Jukushu</text>
+  <text x="560" y="110" text-anchor="middle" font-size="14" fill="#9b4e2a">熟酒 · Aged sake</text>
+  <text x="560" y="136" text-anchor="middle" font-size="12" fill="#555">Kōshū (long-term aged)</text>
+  <text x="560" y="158" text-anchor="middle" font-size="11" fill="#777">Amber, complex, umami-rich;</text>
+  <text x="560" y="173" text-anchor="middle" font-size="11" fill="#777">caramel and dried-fruit notes</text>
+  <text x="560" y="188" text-anchor="middle" font-size="11" fill="#999">Serve: room temp or slightly warm</text>
+
+  <!-- Soshu (bottom-left: low aroma, light flavor) -->
+  <text x="240" y="308" text-anchor="middle" font-size="26" font-weight="700" fill="#345f8a">Soshu</text>
+  <text x="240" y="330" text-anchor="middle" font-size="14" fill="#345f8a">爽酒 · Light &amp; smooth sake</text>
+  <text x="240" y="356" text-anchor="middle" font-size="12" fill="#555">Futsushu, honjozo, namazake</text>
+  <text x="240" y="378" text-anchor="middle" font-size="11" fill="#777">Clean, crisp, refreshing;</text>
+  <text x="240" y="393" text-anchor="middle" font-size="11" fill="#777">subtle aroma, easy drinking</text>
+  <text x="240" y="408" text-anchor="middle" font-size="11" fill="#999">Serve: cold to room temp</text>
+
+  <!-- Junshu (bottom-right: low aroma, rich flavor) -->
+  <text x="560" y="308" text-anchor="middle" font-size="26" font-weight="700" fill="#8a7510">Junshu</text>
+  <text x="560" y="330" text-anchor="middle" font-size="14" fill="#8a7510">醇酒 · Rich sake</text>
+  <text x="560" y="356" text-anchor="middle" font-size="12" fill="#555">Junmai, kimoto, yamahai types</text>
+  <text x="560" y="378" text-anchor="middle" font-size="11" fill="#777">Full-bodied, ricey, umami-rich;</text>
+  <text x="560" y="393" text-anchor="middle" font-size="11" fill="#777">earthy and savoury character</text>
+  <text x="560" y="408" text-anchor="middle" font-size="11" fill="#999">Serve: room temp to warm</text>
+
+  <!-- Attribution -->
+  <text x="400" y="514" text-anchor="middle" font-size="10" fill="#bbb">Based on the SSI Four Flavor Types classification (Sake Service Institute)</text>
+
+</svg>

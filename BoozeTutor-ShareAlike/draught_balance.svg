@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 254" width="520" height="254">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.nm   { font-size: 10px; font-weight: 700; fill: #333; }
+.gas  { font-size: 9.5px; fill: #333; text-anchor: middle; }
+.sg   { font-size: 9px; font-weight: 700; fill: #222; text-anchor: middle; paint-order: stroke; stroke: #FFFFFF; stroke-width: 3px; stroke-linejoin: round; }
+.ds   { font-size: 8.5px; fill: #555; }
+.ft   { font-size: 9px; fill: #555; text-anchor: middle; }
+.seg  { stroke: #444; stroke-width: 1; }
+.plain { fill: #FFFFFF; }
+.light { fill: #E4E4E4; }
+.br   { stroke: #444; stroke-width: 1.2; fill: none; }
+.hatch { stroke: #AAA; stroke-width: 1.2; }
+.dot   { fill: #999; }
+@media (prefers-color-scheme: dark) {
+  .nm, .gas { fill: #E6E6E6; }
+  .sg { fill: #F2F2F2; stroke: #1E1E1E; }
+  .ds, .ft { fill: #AAA; }
+  .seg, .br { stroke: #CCC; }
+  .plain { fill: #1E1E1E; }
+  .light { fill: #3A3A3A; }
+  .hatch { stroke: #777; }
+  .dot { fill: #777; }
+}
+</style>
+<pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+  <line class="hatch" x1="0" y1="0" x2="0" y2="6"/>
+</pattern>
+<pattern id="dots" width="6" height="6" patternUnits="userSpaceOnUse">
+  <circle class="dot" cx="3" cy="3" r="1.1"/>
+</pattern>
+</defs>
+
+<!-- Schematic: 1 psi = 16.67 px. Segments differ by fill pattern and carry their own labels. -->
+
+<!-- Direct draw: 12 psi of CO2 against 4 ft of 3/16-inch vinyl -->
+<text class="nm" x="10" y="72">Direct draw</text>
+<path class="br" d="M100 44 V38 H300 V44"/>
+<text class="gas" x="200" y="32">Gas pushes 12 psi (100% CO₂)</text>
+<rect class="plain" x="100" y="50" width="200" height="34"/>
+<rect class="seg" x="100" y="50" width="200" height="34" fill="url(#hatch)"/>
+<text class="sg" x="200" y="71">line 12</text>
+<text class="ds" x="100" y="98">line: 4 ft of 3/16″ vinyl × 3 psi/ft</text>
+
+<!-- Long draw: 24 psi of a 70/30 blend against lift, trunk, tower and choker -->
+<text class="nm" x="10" y="157">Long draw</text>
+<path class="br" d="M100 129 V123 H500 V129"/>
+<text class="gas" x="300" y="117">Gas pushes 24 psi (70% CO₂, 30% N₂)</text>
+<rect class="seg light" x="100" y="135" width="83" height="34"/>
+<text class="sg" x="141.5" y="156">lift 5</text>
+<rect class="seg plain" x="183" y="135" width="50" height="34"/>
+<text class="sg" x="208" y="156">trunk 3</text>
+<rect class="plain" x="233" y="135" width="67" height="34"/>
+<rect class="seg" x="233" y="135" width="67" height="34" fill="url(#dots)"/>
+<text class="sg" x="266.5" y="156">tower 4</text>
+<rect class="plain" x="300" y="135" width="200" height="34"/>
+<rect class="seg" x="300" y="135" width="200" height="34" fill="url(#hatch)"/>
+<text class="sg" x="400" y="156">choker 12</text>
+<text class="ds" x="100" y="183">lift: faucet 10 ft above the keg × 0.5 psi/ft</text>
+<text class="ds" x="100" y="195">trunk: 50 ft of 3/8″ barrier tubing × 0.06 psi/ft</text>
+<text class="ds" x="100" y="207">tower: about 4 psi</text>
+<text class="ds" x="100" y="219">choker: 4 ft of 3/16″ vinyl × 3 psi/ft</text>
+
+<text class="ft" x="260" y="245">Balanced when the pressure applied equals the total resistance (worked examples).</text>
+</svg>

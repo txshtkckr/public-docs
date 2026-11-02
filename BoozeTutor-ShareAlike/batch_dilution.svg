@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 200" width="520" height="200">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.nm   { font-size: 10px; font-weight: 700; fill: #333; }
+.ds   { font-size: 8.5px; fill: #555; }
+.sg   { font-size: 9px; font-weight: 700; fill: #222; text-anchor: middle; paint-order: stroke; stroke: #FFFFFF; stroke-width: 3px; stroke-linejoin: round; }
+.ft   { font-size: 9px; fill: #555; text-anchor: middle; }
+.seg  { stroke: #444; stroke-width: 1; }
+.plain { fill: #FFFFFF; }
+.light { fill: #E4E4E4; }
+.hatch { stroke: #AAA; stroke-width: 1.2; }
+.dot   { fill: #999; }
+@media (prefers-color-scheme: dark) {
+  .nm { fill: #E6E6E6; }
+  .ds, .ft { fill: #AAA; }
+  .sg { fill: #F2F2F2; stroke: #1E1E1E; }
+  .seg { stroke: #CCC; }
+  .plain { fill: #1E1E1E; }
+  .light { fill: #3A3A3A; }
+  .hatch { stroke: #777; }
+  .dot { fill: #777; }
+}
+</style>
+<pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+  <line class="hatch" x1="0" y1="0" x2="0" y2="6"/>
+</pattern>
+<pattern id="dots" width="6" height="6" patternUnits="userSpaceOnUse">
+  <circle class="dot" cx="3" cy="3" r="1.1"/>
+</pattern>
+</defs>
+
+<!-- Both bars are the whole drink (400 px). Segments differ by pattern and carry labels. -->
+<text class="nm" x="10" y="46">One drink</text>
+<text class="ds" x="10" y="58">stirred to order</text>
+<rect class="seg light" x="110" y="30" width="266.7" height="34"/>
+<text class="sg" x="243.3" y="51">rye 60 ml</text>
+<rect class="plain" x="376.7" y="30" width="133.3" height="34"/>
+<rect class="seg" x="376.7" y="30" width="133.3" height="34" fill="url(#hatch)"/>
+<text class="sg" x="443.3" y="51">vermouth 30 ml</text>
+<text class="ds" x="110" y="78">2 dashes bitters; the ice adds the water as it melts</text>
+
+<text class="nm" x="10" y="116">Batch of 10</text>
+<text class="ds" x="10" y="128">water added now</text>
+<rect class="seg light" x="110" y="100" width="213.3" height="34"/>
+<text class="sg" x="216.7" y="121">rye 600 ml</text>
+<rect class="plain" x="323.3" y="100" width="106.7" height="34"/>
+<rect class="seg" x="323.3" y="100" width="106.7" height="34" fill="url(#hatch)"/>
+<text class="sg" x="376.7" y="121">vermouth 300</text>
+<rect class="plain" x="430" y="100" width="80" height="34"/>
+<rect class="seg" x="430" y="100" width="80" height="34" fill="url(#dots)"/>
+<text class="sg" x="470" y="121">water 225</text>
+<text class="ds" x="110" y="148">20 dashes bitters; 1,125 ml in all, about 112 ml a serve</text>
+
+<text class="ft" x="260" y="176">Water is 20% of the finished batch (225 of 1,125 ml): chill it and pour,</text>
+<text class="ft" x="260" y="189">no stirring needed. Bars aim for about 18–25%.</text>
+</svg>

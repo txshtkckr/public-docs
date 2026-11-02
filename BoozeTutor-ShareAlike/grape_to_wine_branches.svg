@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 348">
+<defs>
+<style>
+text { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.box   { fill: none; stroke: #999; stroke-width: 1.2; }
+.exit  { fill: none; stroke: #8B2020; stroke-width: 1.2; stroke-dasharray: 4 2; }
+.title { font-size: 10.5px; font-weight: 600; fill: #333; }
+.note  { font-size: 9px; fill: #777; font-style: italic; }
+.arr   { stroke: #666; stroke-width: 1.4; fill: none; }
+.tip   { fill: #666; }
+.white { fill: #E8D98A; stroke: #a89a50; stroke-width: 0.6; }
+.rose  { fill: #E79AA6; stroke: #b0606e; stroke-width: 0.6; }
+.red   { fill: #8B2020; }
+@media (prefers-color-scheme: dark) {
+  .box   { stroke: #777; }
+  .exit  { stroke: #c04040; }
+  .title { fill: #ddd; }
+  .note  { fill: #999; }
+  .arr   { stroke: #aaa; }
+  .tip   { fill: #aaa; }
+  .red   { fill: #c04040; }
+}
+</style>
+</defs>
+<rect x="10" y="10" width="160" height="34" rx="6" class="box"/>
+<text x="90.0" y="31.0" class="title" text-anchor="middle">Ripe grapes</text>
+<line x1="90.0" y1="44" x2="90.0" y2="59" class="arr"/>
+<polygon points="90.0,64 86.0,58 94.0,58" class="tip"/>
+<rect x="10" y="64" width="160" height="33" rx="6" class="box"/>
+<text x="90.0" y="78" class="title" text-anchor="middle">Crushed</text>
+<text x="90.0" y="90" class="note" text-anchor="middle">juice and skins: the must</text>
+<line x1="90.0" y1="97" x2="90.0" y2="112" class="arr"/>
+<polygon points="90.0,117 86.0,111 94.0,111" class="tip"/>
+<rect x="10" y="117" width="160" height="62" rx="6" class="box"/>
+<text x="90.0" y="132" class="title" text-anchor="middle">Skin contact</text>
+<circle cx="22" cy="144" r="3.5" class="white"/>
+<text x="30" y="147" class="note" text-anchor="start">White: pressed off the skins</text>
+<circle cx="22" cy="156" r="3.5" class="rose"/>
+<text x="30" y="159" class="note" text-anchor="start">Rosé: a few hours on skins</text>
+<circle cx="22" cy="168" r="3.5" class="red"/>
+<text x="30" y="171" class="note" text-anchor="start">Red: ferments on the skins</text>
+<line x1="90.0" y1="179" x2="90.0" y2="194" class="arr"/>
+<polygon points="90.0,199 86.0,193 94.0,193" class="tip"/>
+<rect x="10" y="199" width="160" height="33" rx="6" class="box"/>
+<text x="90.0" y="213" class="title" text-anchor="middle">Fermentation</text>
+<text x="90.0" y="225" class="note" text-anchor="middle">yeast: sugar → alcohol + CO₂</text>
+<line x1="90.0" y1="232" x2="90.0" y2="247" class="arr"/>
+<polygon points="90.0,252 86.0,246 94.0,246" class="tip"/>
+<rect x="10" y="252" width="160" height="33" rx="6" class="box"/>
+<text x="90.0" y="266" class="title" text-anchor="middle">Still wine</text>
+<text x="90.0" y="278" class="note" text-anchor="middle">white, rosé or red</text>
+<path d="M 170,27.0 H 179 V 28.0 H 185" class="arr"/>
+<polygon points="190,28.0 184,24.0 184,32.0" class="tip"/>
+<rect x="190" y="6" width="160" height="44" rx="6" class="exit"/>
+<text x="270.0" y="20" class="title" text-anchor="middle">Sweet wine</text>
+<text x="270.0" y="32" class="note" text-anchor="middle">very ripe, shrivelled or</text>
+<text x="270.0" y="43" class="note" text-anchor="middle">noble-rot grapes</text>
+<path d="M 170,215.5 H 179 V 196.0 H 185" class="arr"/>
+<polygon points="190,196.0 184,192.0 184,200.0" class="tip"/>
+<rect x="190" y="179.5" width="160" height="33" rx="6" class="exit"/>
+<text x="270.0" y="193.5" class="title" text-anchor="middle">Sweet wine</text>
+<text x="270.0" y="205.5" class="note" text-anchor="middle">fermentation stopped early</text>
+<path d="M 170,215.5 H 179 V 235.0 H 185" class="arr"/>
+<polygon points="190,235.0 184,231.0 184,239.0" class="tip"/>
+<rect x="190" y="218.5" width="160" height="33" rx="6" class="exit"/>
+<text x="270.0" y="232.5" class="title" text-anchor="middle">Fortified, sweet (Port)</text>
+<text x="270.0" y="244.5" class="note" text-anchor="middle">grape spirit added during</text>
+<path d="M 170,268.5 H 179 V 274.0 H 185" class="arr"/>
+<polygon points="190,274.0 184,270.0 184,278.0" class="tip"/>
+<rect x="190" y="257.5" width="160" height="33" rx="6" class="exit"/>
+<text x="270.0" y="271.5" class="title" text-anchor="middle">Fortified, dry (most Sherry)</text>
+<text x="270.0" y="283.5" class="note" text-anchor="middle">grape spirit added after</text>
+<path d="M 170,268.5 H 179 V 318.5 H 185" class="arr"/>
+<polygon points="190,318.5 184,314.5 184,322.5" class="tip"/>
+<rect x="190" y="296.5" width="160" height="44" rx="6" class="exit"/>
+<text x="270.0" y="310.5" class="title" text-anchor="middle">Sparkling wine</text>
+<text x="270.0" y="322.5" class="note" text-anchor="middle">second fermentation in a</text>
+<text x="270.0" y="333.5" class="note" text-anchor="middle">sealed bottle or tank</text>
+</svg>

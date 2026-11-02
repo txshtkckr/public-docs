@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 200" width="520" height="200">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.nm   { font-size: 10px; font-weight: 700; fill: #333; text-anchor: end; }
+.val  { font-size: 9px; fill: #333; }
+.ax   { font-size: 9px; fill: #555; text-anchor: middle; }
+.axt  { font-size: 9.5px; font-weight: 700; fill: #444; text-anchor: middle; }
+.ds   { font-size: 9px; fill: #555; text-anchor: middle; }
+.rng  { fill: #D9C27A; stroke: #9A8040; stroke-width: 1; }
+.axis { stroke: #888; stroke-width: 1; }
+.tick { stroke: #888; stroke-width: 1; }
+@media (prefers-color-scheme: dark) {
+  .nm, .val { fill: #E6E6E6; }
+  .ax, .ds { fill: #AAA; }
+  .axt { fill: #CCC; }
+  .rng { fill: #6A5A2A; stroke: #C0A060; }
+  .axis, .tick { stroke: #777; }
+}
+</style>
+</defs>
+
+<!-- Lopes et al. 2006, steady rates after the first month. Scale: 0–16 µL/day across x 190–490 (18.75 px per µL). -->
+<text class="nm" x="182" y="30">Technical cork</text>
+<rect class="rng" x="191.9" y="20" width="5.6" height="13" rx="2"/>
+<text class="val" x="203" y="30">0.1–0.4</text>
+
+<text class="nm" x="182" y="54">Screwcap</text>
+<rect class="rng" x="193.8" y="44" width="9.4" height="13" rx="2"/>
+<text class="val" x="209" y="54">0.2–0.7</text>
+
+<text class="nm" x="182" y="78">Natural cork, years 2–3</text>
+<rect class="rng" x="191.9" y="68" width="41.2" height="13" rx="2"/>
+<text class="val" x="239" y="78">0.1–2.3</text>
+
+<text class="nm" x="182" y="102">Natural cork, first year</text>
+<rect class="rng" x="221.9" y="92" width="82.5" height="13" rx="2"/>
+<text class="val" x="310" y="102">1.7–6.1</text>
+
+<text class="nm" x="182" y="126">Synthetic stoppers</text>
+<rect class="rng" x="306.3" y="116" width="169.4" height="13" rx="2"/>
+<text class="val" x="306" y="141">6.2–14.7</text>
+
+<line class="axis" x1="190" y1="150" x2="490" y2="150"/>
+<line class="tick" x1="190" y1="150" x2="190" y2="154"/><text class="ax" x="190" y="164">0</text>
+<line class="tick" x1="265" y1="150" x2="265" y2="154"/><text class="ax" x="265" y="164">4</text>
+<line class="tick" x1="340" y1="150" x2="340" y2="154"/><text class="ax" x="340" y="164">8</text>
+<line class="tick" x1="415" y1="150" x2="415" y2="154"/><text class="ax" x="415" y="164">12</text>
+<line class="tick" x1="490" y1="150" x2="490" y2="154"/><text class="ax" x="490" y="164">16</text>
+<text class="axt" x="340" y="180">Oxygen in, microlitres a day (after the first month)</text>
+<text class="ds" x="260" y="196">Ranges from one trial of up to 36 months (Lopes et al., 2006; screwcaps 12); natural corks vary widely.</text>
+</svg>

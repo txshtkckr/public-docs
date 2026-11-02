@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 270" width="520" height="270">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Hiragino Sans', 'Helvetica Neue', Arial, sans-serif; }
+.jp   { font-size: 11px; fill: #2A2A2A; }
+.jpv  { font-size: 11px; font-weight: 700; fill: #2A2A2A; text-anchor: end; }
+.ttl  { font-size: 9px; fill: #6A5A40; text-anchor: middle; letter-spacing: 1px; }
+.ann  { font-size: 9.5px; font-weight: 700; fill: #333; }
+.anns { font-size: 8.5px; fill: #666; }
+.paper { fill: #FBF7EE; stroke: #B8A57E; stroke-width: 1.4; }
+.rule  { stroke: #D8CBB0; stroke-width: 0.7; }
+.lead  { stroke: #9A8A6A; stroke-width: 0.7; fill: none; }
+.dot   { fill: #9A8A6A; }
+@media (prefers-color-scheme: dark) {
+  .ann  { fill: #E6E6E6; }
+  .anns { fill: #AAA; }
+  .lead { stroke: #8A7A5A; }
+  .dot  { fill: #8A7A5A; }
+}
+</style>
+</defs>
+
+<!-- The label (kept light in both appearances, like paper). Rows every 28 px from y 46. -->
+<rect class="paper" x="14" y="12" width="200" height="246" rx="4"/>
+<text lang="ja" class="ttl" x="114" y="30">― 純米吟醸 ―</text>
+
+<text lang="ja" class="jp" x="26" y="50">原材料名</text><text lang="ja" class="jpv" x="202" y="50">米・米麹</text>
+<line class="rule" x1="24" y1="58" x2="204" y2="58"/>
+<text lang="ja" class="jp" x="26" y="78">精米歩合</text><text lang="ja" class="jpv" x="202" y="78">50%</text>
+<line class="rule" x1="24" y1="86" x2="204" y2="86"/>
+<text lang="ja" class="jp" x="26" y="106">アルコール分</text><text lang="ja" class="jpv" x="202" y="106">15度</text>
+<line class="rule" x1="24" y1="114" x2="204" y2="114"/>
+<text lang="ja" class="jp" x="26" y="134">日本酒度</text><text lang="ja" class="jpv" x="202" y="134">+3</text>
+<line class="rule" x1="24" y1="142" x2="204" y2="142"/>
+<text lang="ja" class="jp" x="26" y="162">酸度</text><text lang="ja" class="jpv" x="202" y="162">1.4</text>
+<line class="rule" x1="24" y1="170" x2="204" y2="170"/>
+<text lang="ja" class="jp" x="26" y="190">アミノ酸度</text><text lang="ja" class="jpv" x="202" y="190">1.1</text>
+<line class="rule" x1="24" y1="198" x2="204" y2="198"/>
+<text lang="ja" class="jp" x="26" y="218">使用酵母</text><text lang="ja" class="jpv" x="202" y="218">協会9号</text>
+<line class="rule" x1="24" y1="226" x2="204" y2="226"/>
+<text lang="ja" class="jp" x="26" y="246">製造年月</text><text lang="ja" class="jpv" x="202" y="246">2026.03</text>
+
+<!-- Notes, one per row, joined by leaders -->
+<g>
+<circle class="dot" cx="214" cy="46" r="2"/><line class="lead" x1="216" y1="46" x2="236" y2="46"/>
+<text class="ann" x="240" y="45">Ingredients: rice and rice kōji</text>
+<text class="anns" x="240" y="56">no added alcohol, so junmai</text>
+
+<circle class="dot" cx="214" cy="74" r="2"/><line class="lead" x1="216" y1="74" x2="236" y2="74"/>
+<text class="ann" x="240" y="73">Polishing ratio</text>
+<text class="anns" x="240" y="84">50% of each grain’s weight remains</text>
+
+<circle class="dot" cx="214" cy="102" r="2"/><line class="lead" x1="216" y1="102" x2="236" y2="102"/>
+<text class="ann" x="240" y="101">Alcohol</text>
+<text class="anns" x="240" y="112">15% by volume</text>
+
+<circle class="dot" cx="214" cy="130" r="2"/><line class="lead" x1="216" y1="130" x2="236" y2="130"/>
+<text class="ann" x="240" y="129">Sake meter value (SMV)</text>
+<text class="anns" x="240" y="140">a density reading: plus is lighter than water</text>
+
+<circle class="dot" cx="214" cy="158" r="2"/><line class="lead" x1="216" y1="158" x2="236" y2="158"/>
+<text class="ann" x="240" y="157">Acidity</text>
+<text class="anns" x="240" y="168">all acids together; most sake 1.0–2.0</text>
+
+<circle class="dot" cx="214" cy="186" r="2"/><line class="lead" x1="216" y1="186" x2="236" y2="186"/>
+<text class="ann" x="240" y="185">Amino-acid value</text>
+<text class="anns" x="240" y="196">higher means more umami and body</text>
+
+<circle class="dot" cx="214" cy="214" r="2"/><line class="lead" x1="216" y1="214" x2="236" y2="214"/>
+<text class="ann" x="240" y="213">Yeast</text>
+<text class="anns" x="240" y="224">Kyōkai No. 9, a classic ginjō strain</text>
+
+<circle class="dot" cx="214" cy="242" r="2"/><line class="lead" x1="216" y1="242" x2="236" y2="242"/>
+<text class="ann" x="240" y="241">Date of bottling</text>
+<text class="anns" x="240" y="252">year and month, not the brewing year</text>
+</g>
+</svg>

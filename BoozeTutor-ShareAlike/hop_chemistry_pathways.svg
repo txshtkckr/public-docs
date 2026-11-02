@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 262" width="640" height="262">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.nm   { font-size: 12px; font-weight: 700; fill: #333; text-anchor: middle; }
+.sb   { font-size: 9.5px; fill: #555; text-anchor: middle; }
+.st   { font-size: 9.5px; font-weight: 700; fill: #444; text-anchor: middle; }
+.src  { fill: #E8F0DA; stroke: #6E8B3D; stroke-width: 1.2; }
+.res  { fill: #F5F0E1; stroke: #9A8452; stroke-width: 1.2; }
+.lost { fill: #EEE; stroke: #999; stroke-width: 1.2; stroke-dasharray: 4 3; }
+.ar   { stroke: #555; stroke-width: 1.6; fill: none; }
+@media (prefers-color-scheme: dark) {
+  .nm { fill: #E6E6E6; }
+  .sb { fill: #AAA; }
+  .st { fill: #CCC; }
+  .src  { fill: #2A3420; stroke: #8FAF5A; }
+  .res  { fill: #342E20; stroke: #B09A62; }
+  .lost { fill: #2A2A2A; stroke: #777; }
+  .ar { stroke: #AAA; }
+}
+</style>
+<marker id="m" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><polygon points="0,0.5 0,7.5 7,4" fill="#777"/></marker>
+</defs>
+
+<!-- Row 1: bitterness -->
+<rect class="src" x="10" y="16" width="150" height="46" rx="6"/>
+<text class="nm" x="85" y="36">Alpha acids</text>
+<text class="sb" x="85" y="51">barely bitter, insoluble</text>
+<line class="ar" x1="162" y1="39" x2="412" y2="39" marker-end="url(#m)"/>
+<text class="st" x="287" y="33">boiled: isomerised</text>
+<rect class="res" x="420" y="16" width="210" height="46" rx="6"/>
+<text class="nm" x="525" y="36">Iso-alpha acids</text>
+<text class="sb" x="525" y="51">bitter and soluble: measured as IBU</text>
+
+<!-- Row 2: aroma, two fates -->
+<rect class="src" x="10" y="108" width="150" height="46" rx="6"/>
+<text class="nm" x="85" y="128">Essential oils</text>
+<text class="sb" x="85" y="143">myrcene, linalool, geraniol</text>
+<path class="ar" d="M162,122 L300,102 L412,102" marker-end="url(#m)"/>
+<text class="st" x="300" y="94">long boil</text>
+<rect class="lost" x="420" y="80" width="210" height="44" rx="6"/>
+<text class="nm" x="525" y="99">Mostly evaporated</text>
+<text class="sb" x="525" y="114">little aroma left</text>
+<path class="ar" d="M162,140 L300,160 L412,160" marker-end="url(#m)"/>
+<text class="st" x="300" y="176">late, whirlpool or dry hop</text>
+<rect class="res" x="420" y="138" width="210" height="44" rx="6"/>
+<text class="nm" x="525" y="157">Kept</text>
+<text class="sb" x="525" y="172">hop aroma in the beer</text>
+
+<!-- Row 3: thiols -->
+<rect class="src" x="10" y="204" width="150" height="46" rx="6"/>
+<text class="nm" x="85" y="224">Bound thiols</text>
+<text class="sb" x="85" y="239">no smell</text>
+<line class="ar" x1="162" y1="227" x2="412" y2="227" marker-end="url(#m)"/>
+<text class="st" x="287" y="221">yeast enzymes, in fermentation</text>
+<rect class="res" x="420" y="204" width="210" height="46" rx="6"/>
+<text class="nm" x="525" y="224">Free thiols</text>
+<text class="sb" x="525" y="239">passion fruit, grapefruit</text>
+</svg>

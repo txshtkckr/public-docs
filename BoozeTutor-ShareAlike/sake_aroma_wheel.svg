@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 540" width="500" height="540">
+<!-- cx=250 cy=255  r_in=65 r_out_main=125 r_in_sub=128 r_out_sub=215 -->
+<!-- 8 segments × 45° each, 4° gap → 41° arc per segment -->
+<defs>
+<style>
+text { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.lbl { font-size: 10px; font-weight: 700; fill: #111; text-anchor: middle; dominant-baseline: middle; }
+.sub { font-size: 7.5px; fill: #333; text-anchor: middle; }
+.ctr { font-size: 13px; font-weight: 700; text-anchor: middle; dominant-baseline: middle; }
+.title { font-size: 10.5px; fill: #777; text-anchor: middle; }
+.ctr-circ { fill: white; stroke: #ccc; stroke-width: 1.5; }
+@media (prefers-color-scheme: dark) {
+  .lbl { fill: #f0f0f0; }
+  .sub { fill: #222; }
+  .ctr { fill: #f0f0f0; }
+  .title { fill: #888; }
+  .ctr-circ { fill: #1c1c1e; stroke: #555; }
+}
+</style>
+</defs>
+
+<!-- ── Main ring (r 65–125) ── -->
+<!-- 0 Fruity    -88° → -47° -->
+<path d="M 252.3,190.0 A 65,65,0,0,1,294.3,207.5 L 335.3,163.6 A 125,125,0,0,0,254.4,130.1 Z" fill="#FFAABB"/>
+<!-- 1 Lactic    -43° →  -2° -->
+<path d="M 297.5,210.7 A 65,65,0,0,1,315.0,252.7 L 374.9,250.6 A 125,125,0,0,0,341.4,169.8 Z" fill="#DDD8C4"/>
+<!-- 2 Cereal      2° →  43° -->
+<path d="M 315.0,257.3 A 65,65,0,0,1,297.5,299.3 L 341.4,340.3 A 125,125,0,0,0,374.9,259.4 Z" fill="#F0C870"/>
+<!-- 3 Savory     47° →  88° -->
+<path d="M 294.3,302.5 A 65,65,0,0,1,252.3,320.0 L 254.4,379.9 A 125,125,0,0,0,335.3,346.4 Z" fill="#B0A878"/>
+<!-- 4 Aged       92° → 133° -->
+<path d="M 247.7,320.0 A 65,65,0,0,1,205.7,302.5 L 164.8,346.4 A 125,125,0,0,0,245.6,379.9 Z" fill="#D4A044"/>
+<!-- 5 Vegetal   137° → 178° -->
+<path d="M 202.5,299.3 A 65,65,0,0,1,185.0,257.3 L 125.1,259.4 A 125,125,0,0,0,158.6,340.3 Z" fill="#9ABB88"/>
+<!-- 6 Chemical  182° → 223° -->
+<path d="M 185.0,252.7 A 65,65,0,0,1,202.5,210.7 L 158.6,169.8 A 125,125,0,0,0,125.1,250.6 Z" fill="#CCCC88"/>
+<!-- 7 Woody     227° → 268° -->
+<path d="M 205.7,207.5 A 65,65,0,0,1,247.7,190.0 L 245.6,130.1 A 125,125,0,0,0,164.8,163.6 Z" fill="#C09966"/>
+
+<!-- ── Subcategory ring (r 128–215) ── -->
+<!-- 0 Fruity -->
+<path d="M 254.5,127.1 A 128,128,0,0,1,337.3,161.4 L 396.6,97.8 A 215,215,0,0,0,257.5,40.1 Z" fill="#FFCCD8"/>
+<!-- 1 Lactic -->
+<path d="M 343.6,167.7 A 128,128,0,0,1,377.9,250.5 L 464.9,247.5 A 215,215,0,0,0,407.3,108.4 Z" fill="#EAE6D6"/>
+<!-- 2 Cereal -->
+<path d="M 377.9,259.5 A 128,128,0,0,1,343.6,342.3 L 407.3,401.6 A 215,215,0,0,0,464.9,262.5 Z" fill="#F5DC9C"/>
+<!-- 3 Savory -->
+<path d="M 337.3,348.6 A 128,128,0,0,1,254.5,382.9 L 257.5,469.9 A 215,215,0,0,0,396.6,412.3 Z" fill="#CCBF99"/>
+<!-- 4 Aged -->
+<path d="M 245.5,382.9 A 128,128,0,0,1,162.7,348.6 L 103.4,412.3 A 215,215,0,0,0,242.5,469.9 Z" fill="#E0BB77"/>
+<!-- 5 Vegetal -->
+<path d="M 156.4,342.3 A 128,128,0,0,1,122.1,259.5 L 35.1,262.5 A 215,215,0,0,0,92.8,401.6 Z" fill="#BDD8AA"/>
+<!-- 6 Chemical -->
+<path d="M 122.1,250.5 A 128,128,0,0,1,156.4,167.7 L 92.8,108.4 A 215,215,0,0,0,35.1,247.5 Z" fill="#DDDDA8"/>
+<!-- 7 Woody -->
+<path d="M 162.7,161.4 A 128,128,0,0,1,245.5,127.1 L 242.5,40.1 A 215,215,0,0,0,103.4,97.8 Z" fill="#D8B899"/>
+
+<!-- Ring separators -->
+<circle cx="250" cy="255" r="65"  fill="none" stroke="white" stroke-width="2"/>
+<circle cx="250" cy="255" r="125" fill="none" stroke="white" stroke-width="1.5"/>
+<circle cx="250" cy="255" r="128" fill="none" stroke="white" stroke-width="1"/>
+<circle cx="250" cy="255" r="215" fill="none" stroke="white" stroke-width="1.5"/>
+
+<!-- ── Main labels (r 95) ── -->
+<text class="lbl" x="286.4" y="167.2">Fruity</text>
+<text class="lbl" x="337.8" y="218.6">Lactic</text>
+<text class="lbl" x="337.8" y="291.4">Cereal</text>
+<text class="lbl" x="286.4" y="342.8">Savory</text>
+<text class="lbl" x="213.6" y="342.8">Aged</text>
+<text class="lbl" x="162.2" y="291.4">Vegetal</text>
+<text class="lbl" x="162.2" y="218.6">Chemical</text>
+<text class="lbl" x="213.6" y="167.2">Woody</text>
+
+<!-- ── Subcategory labels (r 172 centre, two lines ±6px) ── -->
+<!-- 0 Fruity -->
+<text class="sub" x="315.8" y="90.1">Apple · Pear · Melon</text>
+<text class="sub" x="315.8" y="102.1">Lychee · Floral</text>
+<!-- 1 Lactic -->
+<text class="sub" x="408.9" y="183.2">Yogurt · Cream</text>
+<text class="sub" x="408.9" y="195.2">Buttermilk</text>
+<!-- 2 Cereal -->
+<text class="sub" x="408.9" y="314.8">Cooked Rice</text>
+<text class="sub" x="408.9" y="326.8">Koji · Chestnut</text>
+<!-- 3 Savory -->
+<text class="sub" x="315.8" y="407.9">Mushroom · Earth</text>
+<text class="sub" x="315.8" y="419.9">Miso · Umami</text>
+<!-- 4 Aged -->
+<text class="sub" x="184.2" y="407.9">Honey · Caramel</text>
+<text class="sub" x="184.2" y="419.9">Dried Fruit</text>
+<!-- 5 Vegetal -->
+<text class="sub" x="91.1" y="314.8">Cucumber</text>
+<text class="sub" x="91.1" y="326.8">Herb · Grass</text>
+<!-- 6 Chemical -->
+<text class="sub" x="91.1" y="183.2">Solvent · Fusel</text>
+<text class="sub" x="91.1" y="195.2">Sulfur</text>
+<!-- 7 Woody -->
+<text class="sub" x="184.2" y="90.1">Cedar · Hinoki</text>
+<text class="sub" x="184.2" y="102.1">Resinous</text>
+
+<!-- Centre -->
+<circle cx="250" cy="255" r="62" class="ctr-circ"/>
+<text class="ctr" fill="#8B6914" x="250" y="248">Sake</text>
+<text class="ctr" fill="#8B6914" x="250" y="264">Aroma</text>
+
+<!-- Caption -->
+<text class="title" x="250" y="520">Simplified · after SSI / NRIB sake aroma taxonomy</text>
+</svg>

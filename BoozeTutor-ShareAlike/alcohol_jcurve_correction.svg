@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 200" width="520" height="200">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.nm   { font-size: 10px; font-weight: 700; fill: #333; }
+.ds   { font-size: 9px; fill: #555; }
+.val  { font-size: 9px; fill: #333; }
+.ax   { font-size: 9px; fill: #555; text-anchor: middle; }
+.axt  { font-size: 9.5px; font-weight: 700; fill: #444; text-anchor: middle; }
+.mk   { font-size: 9px; font-weight: 700; fill: #444; text-anchor: middle; }
+.ci   { stroke: #444; stroke-width: 1.5; }
+.dot  { fill: #444; stroke: #444; stroke-width: 1; }
+.sq   { fill: #FFF; stroke: #444; stroke-width: 1.5; }
+.axis { stroke: #888; stroke-width: 1; }
+.tick { stroke: #888; stroke-width: 1; }
+.ref  { stroke: #666; stroke-width: 1; stroke-dasharray: 3 3; }
+@media (prefers-color-scheme: dark) {
+  .nm, .val { fill: #E6E6E6; }
+  .ds, .ax { fill: #AAA; }
+  .axt, .mk { fill: #CCC; }
+  .ci { stroke: #CCC; }
+  .dot { fill: #CCC; stroke: #CCC; }
+  .sq { fill: #1C1C1E; stroke: #CCC; }
+  .axis, .tick { stroke: #777; }
+  .ref { stroke: #999; }
+}
+</style>
+</defs>
+
+<!-- Relative risk axis: 0.75–1.15 across x 170–500 (825 px per unit). Stockwell et al. 2016:
+     filled circles = unadjusted, open squares = adjusted for abstainer bias and study quality.
+     Lines are 95% confidence intervals where the paper reports them. -->
+
+<!-- Key -->
+<circle class="dot" cx="176" cy="14" r="4"/>
+<text class="ds" x="186" y="17">As first reported</text>
+<rect class="sq" x="302" y="10" width="8" height="8"/>
+<text class="ds" x="316" y="17">After correcting for bias</text>
+
+<!-- Low-volume drinkers -->
+<text class="nm" x="20" y="54">Low-volume drinkers</text>
+<text class="ds" x="20" y="66">1.3–24.9 g a day</text>
+<line class="ci" x1="236" y1="46" x2="293.8" y2="46"/>
+<circle class="dot" cx="260.8" cy="46" r="4"/>
+<text class="val" x="299" y="49">0.86</text>
+<line class="ci" x1="277.3" y1="66" x2="434" y2="66"/>
+<rect class="sq" x="347.5" y="62" width="8" height="8"/>
+<text class="val" x="440" y="69">0.97</text>
+
+<!-- Occasional drinkers -->
+<text class="nm" x="20" y="102">Occasional drinkers</text>
+<text class="ds" x="20" y="114">under 1.3 g a day</text>
+<circle class="dot" cx="244.3" cy="94" r="4"/>
+<text class="val" x="252" y="97">0.84</text>
+<line class="ci" x1="252.5" y1="114" x2="417.5" y2="114"/>
+<rect class="sq" x="331" y="110" width="8" height="8"/>
+<text class="val" x="423" y="117">0.95</text>
+
+<!-- Reference: lifelong abstainers -->
+<line class="ref" x1="376.3" y1="32" x2="376.3" y2="132"/>
+<text class="mk" x="376.3" y="30">Lifelong abstainers</text>
+
+<!-- Axis -->
+<line class="axis" x1="170" y1="136" x2="500" y2="136"/>
+<line class="tick" x1="211.3" y1="136" x2="211.3" y2="140"/><text class="ax" x="211.3" y="150">0.8</text>
+<line class="tick" x1="293.8" y1="136" x2="293.8" y2="140"/><text class="ax" x="293.8" y="150">0.9</text>
+<line class="tick" x1="376.3" y1="136" x2="376.3" y2="140"/><text class="ax" x="376.3" y="150">1.0</text>
+<line class="tick" x1="458.8" y1="136" x2="458.8" y2="140"/><text class="ax" x="458.8" y="150">1.1</text>
+<text class="axt" x="335" y="166">Risk of death compared with lifelong abstainers</text>
+<text class="ds" x="260" y="182" text-anchor="middle">Lines: 95% confidence intervals, where reported. 87 studies, about 4 million people.</text>
+</svg>

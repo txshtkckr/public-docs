@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 560 250" xmlns="http://www.w3.org/2000/svg"
+     font-family="system-ui,-apple-system,sans-serif">
+
+  <rect width="560" height="250" fill="#eef2f7" rx="10"/>
+  <text x="280" y="26" text-anchor="middle" font-size="13" font-weight="600"
+        fill="#334155" letter-spacing="0.5">Wine Glass Shapes</text>
+
+  <defs>
+    <!-- clip paths are the bowl polygon only; wine rects are clipped to them -->
+    <clipPath id="cp-burg">
+      <path d="M22,35 C18,53 16,66 16,78 C16,102 24,118 55,125
+               L65,125 C96,118 104,102 104,78 C104,66 102,53 98,35 Z"/>
+    </clipPath>
+    <clipPath id="cp-bord">
+      <path d="M132,35 C124,60 124,78 124,92 C124,115 132,132 163,140
+               L173,140 C204,132 212,115 212,92 C212,78 212,60 204,35 Z"/>
+    </clipPath>
+    <clipPath id="cp-flute">
+      <path d="M264,35 C262,75 263,110 275,140
+               L285,140 C297,110 298,75 296,35 Z"/>
+    </clipPath>
+    <clipPath id="cp-tulip">
+      <path d="M370,35 C369,65 378,105 387,125
+               L397,125 C406,105 415,65 414,35 Z"/>
+    </clipPath>
+    <clipPath id="cp-cop">
+      <path d="M493,80 C489,94 488,103 488,110 C488,124 492,134 499,140
+               L509,140 C516,134 520,124 520,110 C520,103 519,94 515,80 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- ── 1 · BURGUNDY  cx=60 ── balloon bowl, rim gently curves in (rim 86% of max) -->
+  <path d="M22,35 C18,53 16,66 16,78 C16,102 24,118 55,125
+           L55,200 L18,210 L102,210 L65,200 L65,125
+           C96,118 104,102 104,78 C104,66 102,53 98,35 Z"
+        fill="white" stroke="#475569" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="16" y="100" width="88" height="25" fill="#be185d" opacity="0.55"
+        clip-path="url(#cp-burg)"/>
+  <text x="60" y="225" text-anchor="middle" font-size="11" font-weight="500" fill="#1e293b">Burgundy</text>
+  <text x="60" y="239" text-anchor="middle" font-size="9.5" fill="#64748b">Pinot Noir</text>
+
+  <!-- ── 2 · BORDEAUX  cx=168 ── larger, rounder; wide rim (rim 85% of max) -->
+  <path d="M132,35 C124,60 124,78 124,92 C124,115 132,132 163,140
+           L163,200 L126,210 L210,210 L173,200 L173,140
+           C204,132 212,115 212,92 C212,78 212,60 204,35 Z"
+        fill="white" stroke="#475569" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="124" y="116" width="88" height="24" fill="#be185d" opacity="0.55"
+        clip-path="url(#cp-bord)"/>
+  <text x="168" y="225" text-anchor="middle" font-size="11" font-weight="500" fill="#1e293b">Bordeaux</text>
+  <text x="168" y="239" text-anchor="middle" font-size="9.5" fill="#64748b">Cabernet Sauv.</text>
+
+  <!-- ── 3 · FLUTE  cx=280 ── narrow, near-straight, long stem; junction at y=140 -->
+  <path d="M264,35 C262,75 263,110 275,140
+           L275,200 L263,210 L297,210 L285,200 L285,140
+           C297,110 298,75 296,35 Z"
+        fill="white" stroke="#475569" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="263" y="115" width="34" height="25" fill="#b45309" opacity="0.42"
+        clip-path="url(#cp-flute)"/>
+  <text x="280" y="225" text-anchor="middle" font-size="11" font-weight="500" fill="#1e293b">Flute</text>
+  <text x="280" y="239" text-anchor="middle" font-size="9.5" fill="#64748b">Champagne</text>
+
+  <!-- ── 4 · TULIP  cx=392 ── wide rim tapering to narrow junction (inverted triangle), long stem -->
+  <path d="M370,35 C369,65 378,105 387,125
+           L387,200 L370,210 L414,210 L397,200 L397,125
+           C406,105 415,65 414,35 Z"
+        fill="white" stroke="#475569" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="370" y="90" width="44" height="35" fill="#b45309" opacity="0.42"
+        clip-path="url(#cp-tulip)"/>
+  <text x="392" y="225" text-anchor="middle" font-size="11" font-weight="500" fill="#1e293b">Tulip</text>
+  <text x="392" y="239" text-anchor="middle" font-size="9.5" fill="#64748b">Sparkling</text>
+
+  <!-- ── 5 · COPITA  cx=504 ── short compact bowl on proportionally long stem -->
+  <path d="M493,80 C489,94 488,103 488,110 C488,124 492,134 499,140
+           L499,190 L488,200 L520,200 L509,190 L509,140
+           C516,134 520,124 520,110 C520,103 519,94 515,80 Z"
+        fill="white" stroke="#475569" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="488" y="124" width="32" height="16" fill="#b45309" opacity="0.55"
+        clip-path="url(#cp-cop)"/>
+  <text x="504" y="218" text-anchor="middle" font-size="11" font-weight="500" fill="#1e293b">Copita</text>
+  <text x="504" y="232" text-anchor="middle" font-size="9.5" fill="#64748b">Fortified wines</text>
+
+</svg>

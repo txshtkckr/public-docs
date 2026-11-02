@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 248" width="300" height="248">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.ttl  { font-size: 10px; font-weight: 700; text-anchor: middle; fill: #333; }
+.hlbl { font-size: 8px;  font-weight: 700; text-anchor: middle; fill: #333; }
+.attr { font-size: 7px;  text-anchor: middle; fill: #555; }
+.srml { font-size: 6.5px; text-anchor: middle; fill: #555; }
+.note { font-size: 6.5px; text-anchor: middle; fill: #888; }
+.div  { stroke: #DDD; stroke-width: 0.75; stroke-dasharray: 3,3; }
+.glass{ fill: none; stroke: #777; stroke-width: 1.2; stroke-linejoin: round; }
+@media (prefers-color-scheme: dark) {
+  .ttl  { fill: #DDD; }
+  .hlbl { fill: #CCC; }
+  .attr { fill: #AAA; }
+  .srml { fill: #999; }
+  .note { fill: #777; }
+  .div  { stroke: #444; }
+  .glass{ stroke: #999; }
+}
+</style>
+</defs>
+
+<text class="ttl" x="150" y="13">Beer Appearance</text>
+
+<!-- ── SRM Colour Reference Strip ── -->
+<!-- 5 swatches: x=2,62,122,182,242 · width=56 · height=24 -->
+<rect x="2"   y="18" width="56" height="24" rx="2" fill="#F3F993" stroke="#000" stroke-opacity="0.12" stroke-width="0.5"/>
+<rect x="62"  y="18" width="56" height="24" rx="2" fill="#EAC117" stroke="#000" stroke-opacity="0.12" stroke-width="0.5"/>
+<rect x="122" y="18" width="56" height="24" rx="2" fill="#B86800" stroke="#000" stroke-opacity="0.08" stroke-width="0.5"/>
+<rect x="182" y="18" width="56" height="24" rx="2" fill="#5C1C00" stroke="#000" stroke-opacity="0.06" stroke-width="0.5"/>
+<rect x="242" y="18" width="56" height="24" rx="2" fill="#0A0000"/>
+<text class="srml" x="30"  y="50">2–3</text>
+<text class="srml" x="90"  y="50">5–8</text>
+<text class="srml" x="150" y="50">15–20</text>
+<text class="srml" x="210" y="50">28–35</text>
+<text class="srml" x="270" y="50">40+</text>
+<text class="srml" x="30"  y="58">pale lager</text>
+<text class="srml" x="90"  y="58">golden ale</text>
+<text class="srml" x="150" y="58">amber/IPA</text>
+<text class="srml" x="210" y="58">dark lager</text>
+<text class="srml" x="270" y="58">stout</text>
+
+<!-- Section dividers for glass panels -->
+<line x1="100" y1="66" x2="100" y2="240" class="div"/>
+<line x1="200" y1="66" x2="200" y2="240" class="div"/>
+
+<!-- ── GLASS 1: Brilliant · Dense white head · Pilsner ── -->
+<!-- cx=50 · top y=72 · bottom y=178 · top-hw=30 · bot-hw=21 · taper=9/106≈0.085/px -->
+<!-- Beer fill: pale straw -->
+<path fill="#F0EE8A" d="M 20,72 L 80,72 L 71,178 Q 50,184 29,178 Z"/>
+<!-- Dense white head (26px tall); foam-curve sags to y=104 at centre -->
+<!-- At y=98: lx≈22, rx≈78 -->
+<path fill="#FFFFFF" d="M 20,72 L 80,72 L 78,98 Q 50,104 22,98 Z"/>
+<!-- Glass outline -->
+<path class="glass" d="M 20,72 L 80,72 L 71,178 Q 50,183 29,178 Z"/>
+
+<!-- ── GLASS 2: Hazy · Medium off-white head · Hefeweizen / NEIPA ── -->
+<!-- cx=150 -->
+<!-- Beer fill: golden -->
+<path fill="#CFA020" d="M 120,72 L 180,72 L 171,178 Q 150,184 129,178 Z"/>
+<!-- Haze overlay: white at 24% opacity gives a cloudy, milky appearance -->
+<path fill="#FFFFFF" fill-opacity="0.24" d="M 120,72 L 180,72 L 171,178 Q 150,184 129,178 Z"/>
+<!-- Medium off-white head (15px tall); sag to y=91 -->
+<!-- At y=87: lx≈121, rx≈179 -->
+<path fill="#FFF0D5" d="M 120,72 L 180,72 L 179,87 Q 150,91 121,87 Z"/>
+<!-- Glass outline -->
+<path class="glass" d="M 120,72 L 180,72 L 171,178 Q 150,183 129,178 Z"/>
+
+<!-- ── GLASS 3: Opaque · Thin tan head · Stout ── -->
+<!-- cx=250 -->
+<!-- Beer fill: near-black -->
+<path fill="#100400" d="M 220,72 L 280,72 L 271,178 Q 250,184 229,178 Z"/>
+<!-- Thin tan head (6px tall); sag to y=80 -->
+<path fill="#D0A880" d="M 220,72 L 280,72 L 280,78 Q 250,81 220,78 Z"/>
+<!-- Glass outline -->
+<path class="glass" d="M 220,72 L 280,72 L 271,178 Q 250,183 229,178 Z"/>
+
+<!-- ── Labels ── -->
+<text class="hlbl" x="50"  y="193">Brilliant</text>
+<text class="hlbl" x="150" y="193">Hazy</text>
+<text class="hlbl" x="250" y="193">Opaque</text>
+
+<text class="attr" x="50"  y="203">Dense white head</text>
+<text class="attr" x="150" y="203">Medium off-white head</text>
+<text class="attr" x="250" y="203">Thin tan head</text>
+
+<text class="attr" x="50"  y="213">Pilsner, W-Coast IPA</text>
+<text class="attr" x="150" y="213">Hefeweizen, NEIPA</text>
+<text class="attr" x="250" y="213">Stout, porter</text>
+
+<!-- Footer notes -->
+<text class="note" x="150" y="228">Haze is a fault in lager but an intended feature in wheat beers and NEIPAs</text>
+<text class="note" x="150" y="237">Dense, lasting head → fresh beer and clean glassware</text>
+
+</svg>

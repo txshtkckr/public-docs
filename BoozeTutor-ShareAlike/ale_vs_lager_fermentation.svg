@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 218" width="300" height="218">
+<defs>
+<style>
+text    { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.ttl    { font-size: 10px; font-weight: 700; text-anchor: middle; }
+.tmp    { font-size: 9.5px; text-anchor: middle; }
+.ylab   { font-size: 9.5px; font-weight: 600; text-anchor: middle; fill: #000; }
+.warm   { fill: #C03020; }
+.cold   { fill: #1558A8; }
+.beer   { fill: #B8D8F0; }
+.metal  { fill: #C8C8C8; }
+.hull   { fill: none; stroke: #888; stroke-width: 1.5; stroke-linejoin: round; }
+.fix    { fill: #AAAAAA; stroke: #888; stroke-width: 0.8; }
+.surf   { stroke: #7AAAC0; stroke-width: 0.8; }
+.yeast  { fill: #C89040; }
+</style>
+</defs>
+
+<!-- ══ LEFT TANK — ALES (cx=78) ══ -->
+
+<!-- Liquid fill — starts at y=88, leaving air gap y=63→88 -->
+<rect class="beer" x="45" y="76" width="66" height="79"/>
+<!-- Dome (silver) -->
+<path class="metal" d="M 45 63 A 33 21 0 0 1 111 63 Z"/>
+<!-- Cone (silver) -->
+<path class="metal" d="M 45 155 L 62 193 L 94 193 L 111 155 Z"/>
+<!-- Headspace (air gap y=63→76) -->
+<rect x="46" y="63" width="64" height="13" fill="#eeeeee"/>
+<!-- Vessel outline -->
+<path class="hull"  d="M 45 63 A 33 21 0 0 1 111 63 L 111 155 L 94 193 L 62 193 L 45 155 Z"/>
+<!-- Liquid surface -->
+<line class="surf" x1="46" y1="76" x2="110" y2="76"/>
+<rect class="fix" x="75" y="35" width="6" height="8" rx="1.5"/>
+<rect class="fix" x="71" y="193" width="14" height="10" rx="1.5"/>
+
+<!-- Yeast (top-fermenting) — 4 dense rows at liquid surface -->
+<!-- Row A y=91 -->
+<circle class="yeast" cx="48"  cy="79" r="1.5"/><circle class="yeast" cx="53"  cy="79" r="1.5"/>
+<circle class="yeast" cx="58"  cy="79" r="1.5"/><circle class="yeast" cx="63"  cy="79" r="1.5"/>
+<circle class="yeast" cx="68"  cy="79" r="1.5"/><circle class="yeast" cx="73"  cy="79" r="1.5"/>
+<circle class="yeast" cx="78"  cy="79" r="1.5"/><circle class="yeast" cx="83"  cy="79" r="1.5"/>
+<circle class="yeast" cx="88"  cy="79" r="1.5"/><circle class="yeast" cx="93"  cy="79" r="1.5"/>
+<circle class="yeast" cx="98"  cy="79" r="1.5"/><circle class="yeast" cx="103" cy="79" r="1.5"/>
+<circle class="yeast" cx="108" cy="79" r="1.5"/>
+<!-- Row B y=95 -->
+<circle class="yeast" cx="50"  cy="83" r="1.5"/><circle class="yeast" cx="55"  cy="83" r="1.5"/>
+<circle class="yeast" cx="60"  cy="83" r="1.5"/><circle class="yeast" cx="65"  cy="83" r="1.5"/>
+<circle class="yeast" cx="70"  cy="83" r="1.5"/><circle class="yeast" cx="75"  cy="83" r="1.5"/>
+<circle class="yeast" cx="80"  cy="83" r="1.5"/><circle class="yeast" cx="85"  cy="83" r="1.5"/>
+<circle class="yeast" cx="90"  cy="83" r="1.5"/><circle class="yeast" cx="95"  cy="83" r="1.5"/>
+<circle class="yeast" cx="100" cy="83" r="1.5"/><circle class="yeast" cx="105" cy="83" r="1.5"/>
+<!-- Row C y=99 -->
+<circle class="yeast" cx="48"  cy="87" r="1.5"/><circle class="yeast" cx="53"  cy="87" r="1.5"/>
+<circle class="yeast" cx="58"  cy="87" r="1.5"/><circle class="yeast" cx="63"  cy="87" r="1.5"/>
+<circle class="yeast" cx="68"  cy="87" r="1.5"/><circle class="yeast" cx="73"  cy="87" r="1.5"/>
+<circle class="yeast" cx="78"  cy="87" r="1.5"/><circle class="yeast" cx="83"  cy="87" r="1.5"/>
+<circle class="yeast" cx="88"  cy="87" r="1.5"/><circle class="yeast" cx="93"  cy="87" r="1.5"/>
+<circle class="yeast" cx="98"  cy="87" r="1.5"/><circle class="yeast" cx="103" cy="87" r="1.5"/>
+<circle class="yeast" cx="108" cy="87" r="1.5"/>
+<!-- Row D y=103 -->
+<circle class="yeast" cx="50"  cy="91" r="1.5"/><circle class="yeast" cx="55"  cy="91" r="1.5"/>
+<circle class="yeast" cx="60"  cy="91" r="1.5"/><circle class="yeast" cx="65"  cy="91" r="1.5"/>
+<circle class="yeast" cx="70"  cy="91" r="1.5"/><circle class="yeast" cx="75"  cy="91" r="1.5"/>
+<circle class="yeast" cx="80"  cy="91" r="1.5"/><circle class="yeast" cx="85"  cy="91" r="1.5"/>
+<circle class="yeast" cx="90"  cy="91" r="1.5"/><circle class="yeast" cx="95"  cy="91" r="1.5"/>
+<circle class="yeast" cx="100" cy="91" r="1.5"/><circle class="yeast" cx="105" cy="91" r="1.5"/>
+
+<rect x="34" y="5" width="88" height="28" rx="4" fill="#dddddd"/>
+<text class="ylab" x="78" y="106">Yeast ↑</text>
+<text class="ttl warm" x="78" y="16">ALES</text>
+<text class="tmp warm" x="78" y="28">Warm · 15–22°C</text>
+
+<!-- ══ RIGHT TANK — LAGERS (cx=222) ══ -->
+
+<!-- Liquid fill — starts at y=88 -->
+<rect class="beer" x="189" y="76" width="66" height="79"/>
+<!-- Dome (silver) -->
+<path class="metal" d="M 189 63 A 33 21 0 0 1 255 63 Z"/>
+<!-- Cone (silver) -->
+<path class="metal" d="M 189 155 L 206 193 L 238 193 L 255 155 Z"/>
+<!-- Headspace (air gap y=63→76) -->
+<rect x="190" y="63" width="64" height="13" fill="#dddddd"/>
+<!-- Vessel outline -->
+<path class="hull"  d="M 189 63 A 33 21 0 0 1 255 63 L 255 155 L 238 193 L 206 193 L 189 155 Z"/>
+<!-- Liquid surface -->
+<line class="surf" x1="190" y1="76" x2="254" y2="76"/>
+<rect class="fix" x="219" y="35" width="6" height="8" rx="1.5"/>
+<rect class="fix" x="215" y="193" width="14" height="10" rx="1.5"/>
+
+<text class="ylab" x="222" y="133">↓ Yeast</text>
+
+<!-- Yeast (bottom-fermenting) — 4 dense rows at cylinder floor -->
+<!-- Row A y=141 -->
+<circle class="yeast" cx="192" cy="141" r="1.5"/><circle class="yeast" cx="197" cy="141" r="1.5"/>
+<circle class="yeast" cx="202" cy="141" r="1.5"/><circle class="yeast" cx="207" cy="141" r="1.5"/>
+<circle class="yeast" cx="212" cy="141" r="1.5"/><circle class="yeast" cx="217" cy="141" r="1.5"/>
+<circle class="yeast" cx="222" cy="141" r="1.5"/><circle class="yeast" cx="227" cy="141" r="1.5"/>
+<circle class="yeast" cx="232" cy="141" r="1.5"/><circle class="yeast" cx="237" cy="141" r="1.5"/>
+<circle class="yeast" cx="242" cy="141" r="1.5"/><circle class="yeast" cx="247" cy="141" r="1.5"/>
+<circle class="yeast" cx="252" cy="141" r="1.5"/>
+<!-- Row B y=145 -->
+<circle class="yeast" cx="194" cy="145" r="1.5"/><circle class="yeast" cx="199" cy="145" r="1.5"/>
+<circle class="yeast" cx="204" cy="145" r="1.5"/><circle class="yeast" cx="209" cy="145" r="1.5"/>
+<circle class="yeast" cx="214" cy="145" r="1.5"/><circle class="yeast" cx="219" cy="145" r="1.5"/>
+<circle class="yeast" cx="224" cy="145" r="1.5"/><circle class="yeast" cx="229" cy="145" r="1.5"/>
+<circle class="yeast" cx="234" cy="145" r="1.5"/><circle class="yeast" cx="239" cy="145" r="1.5"/>
+<circle class="yeast" cx="244" cy="145" r="1.5"/><circle class="yeast" cx="249" cy="145" r="1.5"/>
+<!-- Row C y=149 -->
+<circle class="yeast" cx="192" cy="149" r="1.5"/><circle class="yeast" cx="197" cy="149" r="1.5"/>
+<circle class="yeast" cx="202" cy="149" r="1.5"/><circle class="yeast" cx="207" cy="149" r="1.5"/>
+<circle class="yeast" cx="212" cy="149" r="1.5"/><circle class="yeast" cx="217" cy="149" r="1.5"/>
+<circle class="yeast" cx="222" cy="149" r="1.5"/><circle class="yeast" cx="227" cy="149" r="1.5"/>
+<circle class="yeast" cx="232" cy="149" r="1.5"/><circle class="yeast" cx="237" cy="149" r="1.5"/>
+<circle class="yeast" cx="242" cy="149" r="1.5"/><circle class="yeast" cx="247" cy="149" r="1.5"/>
+<circle class="yeast" cx="252" cy="149" r="1.5"/>
+<!-- Row D y=153 -->
+<circle class="yeast" cx="194" cy="153" r="1.5"/><circle class="yeast" cx="199" cy="153" r="1.5"/>
+<circle class="yeast" cx="204" cy="153" r="1.5"/><circle class="yeast" cx="209" cy="153" r="1.5"/>
+<circle class="yeast" cx="214" cy="153" r="1.5"/><circle class="yeast" cx="219" cy="153" r="1.5"/>
+<circle class="yeast" cx="224" cy="153" r="1.5"/><circle class="yeast" cx="229" cy="153" r="1.5"/>
+<circle class="yeast" cx="234" cy="153" r="1.5"/><circle class="yeast" cx="239" cy="153" r="1.5"/>
+<circle class="yeast" cx="244" cy="153" r="1.5"/><circle class="yeast" cx="249" cy="153" r="1.5"/>
+
+<rect x="178" y="5" width="88" height="28" rx="4" fill="#dddddd"/>
+<text class="ttl cold" x="222" y="16">LAGERS</text>
+<text class="tmp cold" x="222" y="28">Cold · 7–13°C</text>
+
+</svg>

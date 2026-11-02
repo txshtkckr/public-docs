@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 250" width="520" height="250">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.ax   { font-size: 9px; fill: #555; }
+.axt  { font-size: 9.5px; font-weight: 700; fill: #444; }
+.lr   { font-size: 10px; font-weight: 700; fill: #C0571A; }
+.lg   { font-size: 10px; font-weight: 700; fill: #3A7A4A; }
+.note { font-size: 8.5px; fill: #777; }
+.grid { stroke: #E2E2E2; stroke-width: 0.8; }
+.axis { stroke: #888; stroke-width: 1; }
+.reg  { fill: none; stroke: #C0571A; stroke-width: 2.4; stroke-linejoin: round; }
+.gin  { fill: none; stroke: #3A7A4A; stroke-width: 2.4; stroke-linejoin: round; stroke-dasharray: 6 3; }
+.dot-r { fill: #C0571A; }
+.dot-g { fill: #3A7A4A; }
+@media (prefers-color-scheme: dark) {
+  .ax, .note { fill: #AAA; }
+  .axt { fill: #CCC; }
+  .lr  { fill: #F08A50; }
+  .lg  { fill: #6FC080; }
+  .grid { stroke: #3A3A3A; }
+  .axis { stroke: #777; }
+  .reg { stroke: #F08A50; }
+  .gin { stroke: #6FC080; }
+  .dot-r { fill: #F08A50; }
+  .dot-g { fill: #6FC080; }
+}
+</style>
+</defs>
+
+<!-- Plot: days 0–35 across x 50–500 (12.857 px/day); 4–20 °C up y 200–40 (10 px/°C). -->
+<line class="grid" x1="50" y1="190" x2="500" y2="190"/>
+<line class="grid" x1="50" y1="140" x2="500" y2="140"/>
+<line class="grid" x1="50" y1="90" x2="500" y2="90"/>
+<line class="grid" x1="50" y1="40" x2="500" y2="40"/>
+<line class="axis" x1="50" y1="200" x2="500" y2="200"/>
+<line class="axis" x1="50" y1="40" x2="50" y2="200"/>
+
+<text class="ax" x="44" y="193" text-anchor="end">5°C</text>
+<text class="ax" x="44" y="143" text-anchor="end">10°C</text>
+<text class="ax" x="44" y="93" text-anchor="end">15°C</text>
+<text class="ax" x="44" y="43" text-anchor="end">20°C</text>
+
+<text class="ax" x="50" y="213" text-anchor="middle">0</text>
+<text class="ax" x="140" y="213" text-anchor="middle">7</text>
+<text class="ax" x="230" y="213" text-anchor="middle">14</text>
+<text class="ax" x="320" y="213" text-anchor="middle">21</text>
+<text class="ax" x="410" y="213" text-anchor="middle">28</text>
+<text class="ax" x="500" y="213" text-anchor="middle">35</text>
+<text class="axt" x="275" y="230" text-anchor="middle">Days after the last addition of rice</text>
+
+<!-- Regular sake: warms to ~16 °C, pressed around day 22 -->
+<polyline class="reg" points="50,170 101,140 153,100 204,80 256,90 307,120 333,130"/>
+<circle class="dot-r" cx="333" cy="130" r="3.5"/>
+<text class="lr" x="168" y="72">Regular sake</text>
+<text class="ax" x="341" y="127">pressed</text>
+
+<!-- Ginjō: held around 10–11 °C, pressed around day 33 -->
+<polyline class="gin" points="50,180 114,160 179,140 243,130 307,135 371,145 436,155 474,160"/>
+<circle class="dot-g" cx="474" cy="160" r="3.5"/>
+<text class="lg" x="300" y="160">Ginjō</text>
+<text class="ax" x="466" y="176" text-anchor="middle">pressed</text>
+
+<text class="note" x="275" y="245" text-anchor="middle">Typical shapes only: every brewery, style and year differs.</text>
+</svg>

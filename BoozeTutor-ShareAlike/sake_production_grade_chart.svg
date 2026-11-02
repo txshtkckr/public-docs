@@ -1,0 +1,64 @@
+<svg viewBox="0 0 420 225" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, Helvetica Neue, Arial, sans-serif">
+  <title>Sake Production by Grade (2008)</title>
+
+  <!-- Title backing and legend card — same fill/opacity, 6 px gap so they don't touch -->
+  <rect x="30" y="2" width="360" height="17" fill="white" fill-opacity="0.75" rx="3"/>
+  <rect x="227" y="25" width="192" height="196" fill="white" fill-opacity="0.75" rx="4"/>
+
+  <!-- Title -->
+  <text x="210" y="16" text-anchor="middle" font-size="13" font-weight="600" fill="#333333">Sake Production by Grade (2008)</text>
+
+  <!-- Pie slices — center (120,120), radius 95 -->
+  <!-- Start at 12 o'clock (-90°), sweep clockwise -->
+
+  <!-- Futsushu 68.4% (246.24°, large-arc=1) to 156.24° -->
+  <path d="M120,120 L120,25 A95,95 0 1,1 33.1,158.3 Z" fill="#b0a898"/>
+
+  <!-- Honjōzō 11.6% (41.76°, large-arc=0) to 198° -->
+  <path d="M120,120 L33.1,158.3 A95,95 0 0,1 29.6,90.6 Z" fill="#d4a440"/>
+
+  <!-- Junmai 10.0% (36°, large-arc=0) to 234° -->
+  <path d="M120,120 L29.6,90.6 A95,95 0 0,1 64.2,43.1 Z" fill="#c87020"/>
+
+  <!-- Junmai Ginjō 5.7% (20.52°, large-arc=0) to 254.52° -->
+  <path d="M120,120 L64.2,43.1 A95,95 0 0,1 94.6,28.4 Z" fill="#b03030"/>
+
+  <!-- Ginjō (incl. Daiginjō) 4.4% (15.84°, large-arc=0) to 270° -->
+  <path d="M120,120 L94.6,28.4 A95,95 0 0,1 120,25 Z" fill="#7b1e30"/>
+
+  <!-- Slice dividers -->
+  <line x1="120" y1="120" x2="120" y2="25" stroke="white" stroke-width="1.5" opacity="0.9"/>
+  <line x1="120" y1="120" x2="33.1" y2="158.3" stroke="white" stroke-width="1.5" opacity="0.9"/>
+  <line x1="120" y1="120" x2="29.6" y2="90.6" stroke="white" stroke-width="1.5" opacity="0.9"/>
+  <line x1="120" y1="120" x2="64.2" y2="43.1" stroke="white" stroke-width="1.5" opacity="0.9"/>
+  <line x1="120" y1="120" x2="94.6" y2="28.4" stroke="white" stroke-width="1.5" opacity="0.9"/>
+
+  <!-- Futsushu label (centroid ~33°, r=62) -->
+  <text x="170" y="157" text-anchor="middle" font-size="12" font-weight="600" fill="black">68.4%</text>
+
+  <!-- Legend -->
+  <rect x="235" y="29" width="13" height="13" fill="#7b1e30" rx="2"/>
+  <text x="254" y="40" font-size="11.5" fill="#1c1c1e">Ginjō-shu †</text>
+  <text x="412" y="40" text-anchor="end" font-size="11.5" fill="#555555">4.4%</text>
+
+  <rect x="235" y="56" width="13" height="13" fill="#b03030" rx="2"/>
+  <text x="254" y="67" font-size="11.5" fill="#1c1c1e">Junmai Ginjō-shu †</text>
+  <text x="412" y="67" text-anchor="end" font-size="11.5" fill="#555555">5.7%</text>
+
+  <rect x="235" y="83" width="13" height="13" fill="#c87020" rx="2"/>
+  <text x="254" y="94" font-size="11.5" fill="#1c1c1e">Junmai-shu</text>
+  <text x="412" y="94" text-anchor="end" font-size="11.5" fill="#555555">10.0%</text>
+
+  <rect x="235" y="110" width="13" height="13" fill="#d4a440" rx="2"/>
+  <text x="254" y="121" font-size="11.5" fill="#1c1c1e">Honjōzō-shu</text>
+  <text x="412" y="121" text-anchor="end" font-size="11.5" fill="#555555">11.6%</text>
+
+  <rect x="235" y="137" width="13" height="13" fill="#b0a898" rx="2"/>
+  <text x="254" y="148" font-size="11.5" fill="#1c1c1e">Futsushu</text>
+  <text x="412" y="148" text-anchor="end" font-size="11.5" fill="#555555">68.4%</text>
+
+  <line x1="235" y1="167" x2="414" y2="167" stroke="#d0d0d0" stroke-width="0.5"/>
+  <text x="235" y="181" font-size="10" fill="black">† Includes Daiginjō sub-grades</text>
+  <text x="235" y="195" font-size="10" fill="black">493,636 kl total · 1,329 breweries</text>
+  <text x="235" y="209" font-size="10" fill="black">Source: NRIB (2011), c.2008 data</text>
+</svg>

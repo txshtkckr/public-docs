@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 202" width="300" height="202">
+<defs>
+<style>
+text   { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.ttl   { font-size: 10px; font-weight: 700; text-anchor: middle; fill: #333; }
+.cat   { font-size: 7.5px; font-weight: 700; fill: #444; }
+.cname { font-size: 6.5px; text-anchor: middle; fill: #444; }
+.note  { font-size: 6.5px; text-anchor: middle; fill: #888; }
+.div   { stroke: #DDD; stroke-width: 0.5; }
+@media (prefers-color-scheme: dark) {
+  .ttl   { fill: #DDD; }
+  .cat   { fill: #BBB; }
+  .cname { fill: #AAA; }
+  .note  { fill: #777; }
+  .div   { stroke: #444; }
+}
+</style>
+</defs>
+
+<text class="ttl" x="150" y="13">Wine Colour</text>
+
+<!-- ── WHITE WINES ── -->
+<!-- swatches: x=2,62,122,182,242 · width=56 · height=22 -->
+<text class="cat" x="3" y="26">White</text>
+<rect x="2"   y="29" width="56" height="22" rx="2" fill="#F8F8C0" stroke="#999" stroke-opacity="0.35" stroke-width="0.5"/>
+<rect x="62"  y="29" width="56" height="22" rx="2" fill="#EEED70" stroke="#999" stroke-opacity="0.3"  stroke-width="0.5"/>
+<rect x="122" y="29" width="56" height="22" rx="2" fill="#D4A818" stroke="#999" stroke-opacity="0.2"  stroke-width="0.5"/>
+<rect x="182" y="29" width="56" height="22" rx="2" fill="#AA7018" stroke="#999" stroke-opacity="0.15" stroke-width="0.5"/>
+<rect x="242" y="29" width="56" height="22" rx="2" fill="#8A5018" stroke="#999" stroke-opacity="0.1"  stroke-width="0.5"/>
+<text class="cname" x="30"  y="61">Pale straw</text>
+<text class="cname" x="90"  y="61">Straw</text>
+<text class="cname" x="150" y="61">Gold</text>
+<text class="cname" x="210" y="61">Amber</text>
+<text class="cname" x="270" y="61">Brown</text>
+<text class="note"  x="150" y="70">Deeper colour → oak, age, warm climate, or oxidation</text>
+
+<line x1="3" y1="77" x2="297" y2="77" class="div"/>
+
+<!-- ── ROSÉ WINES ── -->
+<text class="cat" x="3" y="90">Rosé</text>
+<rect x="2"   y="93" width="56" height="22" rx="2" fill="#FDDDE8" stroke="#999" stroke-opacity="0.3"  stroke-width="0.5"/>
+<rect x="62"  y="93" width="56" height="22" rx="2" fill="#F0A0B5" stroke="#999" stroke-opacity="0.25" stroke-width="0.5"/>
+<rect x="122" y="93" width="56" height="22" rx="2" fill="#EE7D60" stroke="#999" stroke-opacity="0.2"  stroke-width="0.5"/>
+<rect x="182" y="93" width="56" height="22" rx="2" fill="#CC7040" stroke="#999" stroke-opacity="0.15" stroke-width="0.5"/>
+<rect x="242" y="93" width="56" height="22" rx="2" fill="#C06828" stroke="#999" stroke-opacity="0.1"  stroke-width="0.5"/>
+<text class="cname" x="30"  y="125">Pale pink</text>
+<text class="cname" x="90"  y="125">Pink</text>
+<text class="cname" x="150" y="125">Salmon</text>
+<text class="cname" x="210" y="125">Copper</text>
+<text class="cname" x="270" y="125">Deep copper</text>
+<text class="note"  x="150" y="134">Deeper/warmer → longer skin contact or age</text>
+
+<line x1="3" y1="141" x2="297" y2="141" class="div"/>
+
+<!-- ── RED WINES ── -->
+<text class="cat" x="3" y="154">Red</text>
+<rect x="2"   y="157" width="56" height="22" rx="2" fill="#8B1A6B" stroke="#999" stroke-opacity="0.1" stroke-width="0.5"/>
+<rect x="62"  y="157" width="56" height="22" rx="2" fill="#B01E24" stroke="#999" stroke-opacity="0.1" stroke-width="0.5"/>
+<rect x="122" y="157" width="56" height="22" rx="2" fill="#882030" stroke="#999" stroke-opacity="0.1" stroke-width="0.5"/>
+<rect x="182" y="157" width="56" height="22" rx="2" fill="#913028" stroke="#999" stroke-opacity="0.1" stroke-width="0.5"/>
+<rect x="242" y="157" width="56" height="22" rx="2" fill="#9A4020" stroke="#999" stroke-opacity="0.1" stroke-width="0.5"/>
+<text class="cname" x="30"  y="189">Purple</text>
+<text class="cname" x="90"  y="189">Ruby</text>
+<text class="cname" x="150" y="189">Garnet</text>
+<text class="cname" x="210" y="189">Tawny</text>
+<text class="cname" x="270" y="189">Brown</text>
+<text class="note"  x="150" y="198">Purple–ruby (young) → garnet–tawny–brown (15–25+ years)</text>
+
+</svg>

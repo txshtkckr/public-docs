@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 235">
+<defs>
+<clipPath id="c"><rect x="15" y="60" width="95" height="135" rx="3"/></clipPath>
+<style>
+text { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.tank { fill: none; stroke: #999; stroke-width: 1.5; }
+.wine { fill: #8B2020; }
+.cap  { fill: #3D1010; }
+.arr  { stroke: #555; stroke-width: 2; fill: none; }
+.lbl  { font-size: 12.5px; font-weight: 700; text-anchor: middle; fill: #111; }
+.sub  { font-size: 11px; text-anchor: middle; fill: #666; font-style: italic; }
+.spr  { stroke: #8B2020; stroke-width: 1.5; fill: none; }
+@media (prefers-color-scheme: dark) {
+  .tank { stroke: #666; }
+  .arr  { stroke: #aaa; }
+  .lbl  { fill: #eee; }
+  .sub  { fill: #999; }
+  .spr  { stroke: #c04040; }
+}
+</style>
+</defs>
+
+<!-- Tank -->
+<rect x="15" y="60" width="95" height="135" rx="3" class="tank"/>
+<rect x="15" y="78" width="95" height="117" class="wine" clip-path="url(#c)"/>
+<rect x="15" y="78" width="95" height="15"  class="cap"  clip-path="url(#c)"/>
+<!-- External pipe: exits right at mid-wine, loops up and over cap -->
+<path d="M 110,143 L 125,143 L 125,37 L 62,37 L 62,60" class="arr"/>
+<!-- Spray fanning over cap surface -->
+<line x1="62" y1="63" x2="42" y2="78" class="spr"/>
+<line x1="62" y1="63" x2="52" y2="80" class="spr"/>
+<line x1="62" y1="63" x2="62" y2="81" class="spr"/>
+<line x1="62" y1="63" x2="72" y2="80" class="spr"/>
+<line x1="62" y1="63" x2="82" y2="78" class="spr"/>
+<!-- Labels -->
+<text x="62" y="215" class="lbl">Pump-over</text>
+<text x="62" y="229" class="sub">remontage</text>
+</svg>

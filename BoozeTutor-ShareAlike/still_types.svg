@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 285" width="480" height="285">
+<defs>
+<style>
+text { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.name  { font-size: 10px; font-weight: 700; text-anchor: middle; fill: #333; }
+.attr  { font-size: 7.5px; text-anchor: middle; fill: #555; }
+.note  { font-size: 7px; text-anchor: middle; fill: #888; }
+.tag   { font-size: 6.5px; text-anchor: start; fill: #666; }
+.still { fill: #C6D9EE; stroke: #4477AA; stroke-width: 1.5; stroke-linejoin: round; }
+.pipe  { fill: none; stroke: #4477AA; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.plate { fill: none; stroke: #6699BB; stroke-width: 0.8; opacity: 0.6; }
+.div   { stroke: #CCC; stroke-width: 0.75; stroke-dasharray: 4,3; }
+@media (prefers-color-scheme: dark) {
+  .name  { fill: #DDD; }
+  .attr  { fill: #AAA; }
+  .note  { fill: #777; }
+  .tag   { fill: #888; }
+  .still { fill: #1A2E44; stroke: #5588AA; }
+  .pipe  { stroke: #5588AA; }
+  .plate { stroke: #5588AA; }
+  .div   { stroke: #444; }
+}
+</style>
+</defs>
+
+<!-- Section dividers -->
+<line x1="160" y1="8" x2="160" y2="278" class="div"/>
+<line x1="320" y1="8" x2="320" y2="278" class="div"/>
+
+<!-- ── POT STILL (cx=80): wide body, straight neck, angled lyne arm ── -->
+<path class="still" d="
+  M 80,228
+  C 55,228 43,220 43,197
+  C 43,174 50,165 58,160
+  C 64,156 67,153 67,153
+  L 67,118
+  Q 67,110 80,110
+  Q 93,110 93,118
+  L 93,153
+  C 93,153 96,156 102,160
+  C 110,165 117,174 117,197
+  C 117,220 105,228 80,228
+  Z"/>
+<!-- Lyne arm: white backing clears still stroke at junction, pipe stroke on top -->
+<path fill="none" stroke="#C6D9EE" stroke-width="8" stroke-linecap="round"
+      d="M 93,126 C 104,122 112,128 117,138 L 148,152"/>
+<path class="pipe" d="M 93,126 C 104,122 112,128 117,138 L 148,152"/>
+<!-- Condenser box -->
+<rect x="144" y="146" width="12" height="18" rx="2" class="still"/>
+
+<text class="name" x="80" y="246">Pot Still</text>
+<text class="attr" x="80" y="258">Batch · richer, oilier spirit</text>
+<text class="attr" x="80" y="269">Scotch malt, Cognac, Irish pot</text>
+
+<!-- ── COLUMN STILL (cx=240): tall column with bubble plates ── -->
+<rect x="218" y="66" width="44" height="174" rx="3" class="still"/>
+<!-- Bubble plates -->
+<line x1="220" y1="96"  x2="260" y2="96"  class="plate"/>
+<line x1="220" y1="120" x2="260" y2="120" class="plate"/>
+<line x1="220" y1="144" x2="260" y2="144" class="plate"/>
+<line x1="220" y1="168" x2="260" y2="168" class="plate"/>
+<line x1="220" y1="192" x2="260" y2="192" class="plate"/>
+<line x1="220" y1="216" x2="260" y2="216" class="plate"/>
+<!-- Vapor out top -->
+<path class="pipe" d="M 240,66 L 240,50"/>
+<text class="tag" x="244" y="54">vapor ↑</text>
+<!-- Feed in mid -->
+<path class="pipe" d="M 262,152 L 278,152"/>
+<text class="tag" x="281" y="156">feed</text>
+<!-- Liquid out bottom -->
+<path class="pipe" d="M 240,240 L 240,255"/>
+<text class="tag" x="244" y="260">liquid ↓</text>
+
+<text class="name" x="240" y="246">Column Still</text>
+<text class="attr" x="240" y="258">Continuous · lighter, neutral spirit</text>
+<text class="attr" x="240" y="269">Grain whisky, vodka, gin base</text>
+
+<!-- ── ALEMBIC (cx=400): like pot still but with bulging onion chapiteau ── -->
+<!-- The chapiteau (helmet) widens outward from the neck — the defining visual feature -->
+<path class="still" d="
+  M 400,228
+  C 375,228 363,220 363,197
+  C 363,174 370,165 378,160
+  C 384,156 387,153 387,153
+  Q 365,135 387,118
+  Q 387,110 400,110
+  Q 413,110 413,118
+  Q 435,135 413,153
+  C 413,153 416,156 422,160
+  C 430,165 437,174 437,197
+  C 437,220 425,228 400,228
+  Z"/>
+<!-- Lyne arm from right side of chapiteau -->
+<path fill="none" stroke="#C6D9EE" stroke-width="8" stroke-linecap="round"
+      d="M 421,130 C 432,126 438,132 442,142 L 465,152"/>
+<path class="pipe" d="M 421,130 C 432,126 438,132 442,142 L 465,152"/>
+
+<text class="name" x="400" y="246">Alembic</text>
+<text class="attr" x="400" y="258">Batch · aromatic, traditional</text>
+<text class="attr" x="400" y="269">Armagnac, craft brandy, arak</text>
+
+<!-- Footer -->
+<text class="note" x="240" y="282">All three stills traditionally use copper to remove sulphur compounds</text>
+
+</svg>

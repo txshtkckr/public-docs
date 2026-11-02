@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; text-anchor: middle; }
+.ttl  { font-size: 10px; font-weight: 700; fill: #333; }
+.tier { font-size: 9px; font-weight: 700; fill: #fff; }
+.sub  { font-size: 6.5px; fill: #fff; }
+.side { font-size: 6.5px; fill: #555; text-anchor: start; }
+.lead { stroke: #999; stroke-width: 0.6; }
+.t1 { fill: #6B1E3A; } .t2 { fill: #8E3553; } .t3 { fill: #B0566F; } .t4 { fill: #C97E8F; }
+@media (prefers-color-scheme: dark) {
+  .ttl  { fill: #DDD; }
+  .side { fill: #AAA; }
+  .lead { stroke: #666; }
+  .t1 { fill: #8C2E4E; } .t2 { fill: #A44466; } .t3 { fill: #BD6580; } .t4 { fill: #D08C9C; }
+}
+</style>
+</defs>
+
+<text class="ttl" x="150" y="13">The VDP pyramid</text>
+
+<!-- Four bands of one triangle, apex (110,22), base 30..190 at y=190 -->
+<polygon class="t1" points="110,22 133,64 87,64"/>
+<polygon class="t2" points="87,64 133,64 156,106 64,106"/>
+<polygon class="t3" points="64,106 156,106 179,148 41,148"/>
+<polygon class="t4" points="41,148 179,148 202,190 18,190"/>
+
+<text class="tier" x="110" y="55">Grosse</text>
+<text class="tier" x="110" y="61" style="font-size:6.5px">Lage</text>
+<text class="tier" x="110" y="88">Erste Lage</text>
+<text class="sub"  x="110" y="98">premier cru</text>
+<text class="tier" x="110" y="130">Ortswein</text>
+<text class="sub"  x="110" y="140">village wine</text>
+<text class="tier" x="110" y="172">Gutswein</text>
+<text class="sub"  x="110" y="182">estate wine</text>
+
+<line class="lead" x1="131" y1="48" x2="212" y2="48"/>
+<text class="side" x="215" y="45">Best sites (like</text>
+<text class="side" x="215" y="53">a grand cru)</text>
+<text class="side" x="215" y="63">Dry wine: Grosses</text>
+<text class="side" x="215" y="71">Gewächs (GG)</text>
+<line class="lead" x1="148" y1="88" x2="212" y2="88"/>
+<text class="side" x="215" y="91">Excellent sites</text>
+<line class="lead" x1="172" y1="130" x2="212" y2="130"/>
+<text class="side" x="215" y="133">One village</text>
+<line class="lead" x1="196" y1="172" x2="212" y2="172"/>
+<text class="side" x="215" y="175">The estate’s range</text>
+</svg>

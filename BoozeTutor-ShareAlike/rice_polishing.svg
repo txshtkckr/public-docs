@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 225" width="500" height="225">
+<defs>
+<style>
+text { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.ttl  { font-size: 11px; font-weight: 700; text-anchor: middle; fill: #333; }
+.pct  { font-size: 11px; font-weight: 700; text-anchor: middle; fill: #7A5C30; }
+.grd  { font-size: 8.5px; font-weight: 700; text-anchor: middle; fill: #444; }
+.sub  { font-size: 8px; text-anchor: middle; fill: #666; }
+.dir  { font-size: 8.5px; text-anchor: middle; fill: #999; }
+@media (prefers-color-scheme: dark) {
+  .ttl  { fill: #eee; }
+  .pct  { fill: #C8A060; }
+  .grd  { fill: #ccc; }
+  .sub  { fill: #999; }
+  .dir  { fill: #777; }
+}
+</style>
+</defs>
+
+<!-- Title -->
+<text class="ttl" x="250" y="15">Rice Polishing — Seimaibuai</text>
+<text class="dir" x="250" y="30">← less polished · more polished →</text>
+
+<!-- Grain dimensions: outer 44×120 rx=22 (pill shape), centered at (cx, 115), rotated -40° -->
+<!-- Inner pearls scale by √area: 70% → ×0.837 (37×100 rx=18.5), 50% → ×0.707 (31×85 rx=15.5) -->
+
+<!-- Grain 1: 100% — whole grain, no polishing -->
+<g transform="rotate(-40, 90, 115)">
+  <rect x="68" y="55" width="44" height="120" rx="22" fill="#F0EADA" stroke="#9A7A50" stroke-width="1.5"/>
+</g>
+<text class="pct" x="90" y="119">100%</text>
+
+<!-- Grain 2: 70% remaining — outer bran removed, inner starchy pearl intact -->
+<g transform="rotate(-40, 250, 115)">
+  <rect x="228" y="55" width="44" height="120" rx="22" fill="#C9AB82" stroke="#9A7A50" stroke-width="1.5"/>
+  <rect x="231.5" y="65" width="37" height="100" rx="18.5" fill="#F0EADA"/>
+</g>
+<text class="pct" x="250" y="119">70%</text>
+
+<!-- Grain 3: 50% remaining — more polished, smaller pearl -->
+<g transform="rotate(-40, 410, 115)">
+  <rect x="388" y="55" width="44" height="120" rx="22" fill="#C9AB82" stroke="#9A7A50" stroke-width="1.5"/>
+  <rect x="394.5" y="72.5" width="31" height="85" rx="15.5" fill="#F0EADA"/>
+</g>
+<text class="pct" x="410" y="119">50%</text>
+
+<!-- Arrows between grains -->
+<text x="170" y="118" text-anchor="middle" font-size="16" fill="#bbb">→</text>
+<text x="330" y="118" text-anchor="middle" font-size="16" fill="#bbb">→</text>
+
+<!-- Grade labels -->
+<text class="grd" x="90"  y="196">Futsushu</text>
+<text class="sub" x="90"  y="209">(ordinary sake)</text>
+
+<text class="grd" x="250" y="196">Honjōzō / Junmai</text>
+<text class="sub" x="250" y="209">basic premium grade</text>
+
+<text class="grd" x="410" y="196">Daiginjō</text>
+<text class="sub" x="410" y="209">Junmai Daiginjō</text>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 316" width="220" height="316">
+<defs>
+<style>
+text { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.dir  { font-size: 7.5px; text-anchor: middle; fill: #999; }
+.zone { font-size: 9.5px; font-weight: 700; text-anchor: middle; fill: #333; }
+.alt  { font-size: 8px; text-anchor: middle; fill: #555; }
+.comp { font-size: 8px; text-anchor: middle; fill: #444; }
+.act  { font-size: 8.5px; font-weight: 700; text-anchor: middle; }
+.cap  { font-size: 7px; text-anchor: middle; fill: #888; }
+@media (prefers-color-scheme: dark) {
+  /* Only labels on the transparent background need lightening.
+     Zone/comp/alt text sits on light pastel zones — keep dark for contrast. */
+  .dir  { fill: #aaa; }
+  .cap  { fill: #888; }
+}
+</style>
+<!-- Gradient blends at cut lines to show that boundaries are judgement calls, not hard chemical steps -->
+<linearGradient id="cuts" x1="0" y1="15" x2="0" y2="295" gradientUnits="userSpaceOnUse">
+  <stop offset="0%"   stop-color="#FFBDBD"/>
+  <stop offset="14%"  stop-color="#FFBDBD"/>
+  <stop offset="20%"  stop-color="#DACDB4"/>
+  <stop offset="26%"  stop-color="#B5DDAB"/>
+  <stop offset="69%"  stop-color="#B5DDAB"/>
+  <stop offset="75%"  stop-color="#DAD5A0"/>
+  <stop offset="81%"  stop-color="#FFCD94"/>
+  <stop offset="100%" stop-color="#FFCD94"/>
+</linearGradient>
+</defs>
+
+<!-- Direction label -->
+<text class="dir" x="110" y="10">↑ Lower boiling point · first to distill</text>
+
+<!-- Zone gradient background -->
+<rect x="10" y="15" width="200" height="280" fill="url(#cuts)"/>
+
+<!-- Zone labels and actions -->
+<text class="zone" x="110" y="32">Foreshots (Heads)</text>
+<text class="comp" x="110" y="44">Methanol, acetaldehyde</text>
+<text class="act"  x="110" y="57" fill="#BB3333">→ DISCARD</text>
+
+<text class="zone" x="110" y="128">Hearts</text>
+<text class="comp" x="110" y="141">Ethanol + fruity esters</text>
+<text class="act"  x="110" y="154" fill="#336633">→ COLLECT</text>
+<text class="alt"  x="110" y="166">(new make spirit)</text>
+
+<text class="zone" x="110" y="249">Feints (Tails)</text>
+<text class="comp" x="110" y="261">Fusel oils, heavy alcohols</text>
+<text class="act"  x="110" y="274" fill="#996600">→ RECYCLE</text>
+
+<!-- Outer border -->
+<rect x="10" y="15" width="200" height="280" rx="5" fill="none" stroke="#999" stroke-width="1"/>
+
+<!-- Cut-point dashed lines — the distiller's judgement call -->
+<line x1="10" y1="70"  x2="210" y2="70"  stroke="#666" stroke-width="0.75" stroke-dasharray="4,3"/>
+<line x1="10" y1="225" x2="210" y2="225" stroke="#666" stroke-width="0.75" stroke-dasharray="4,3"/>
+
+<!-- Direction label -->
+<text class="dir" x="110" y="304">↓ Higher boiling point · last to distill</text>
+
+<!-- Caption -->
+<text class="cap" x="110" y="312">Earlier cut → lighter spirit · Later cut → more congeners</text>
+</svg>

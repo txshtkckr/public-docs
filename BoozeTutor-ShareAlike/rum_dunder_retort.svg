@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 585 286" width="585" height="286">
+<defs>
+<style>
+text { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.ttl  { font-size: 13px; font-weight: 700; text-anchor: middle; fill: #1a1a1a; }
+.lbl  { font-size: 11px; font-weight: 700; text-anchor: middle; fill: #1a1a1a; }
+.sub  { font-size: 9.5px; text-anchor: middle; fill: #555; }
+.tag  { font-size: 9px; text-anchor: middle; fill: #555; }
+.box-wash { fill: #F0D890; stroke: #8A6000; stroke-width: 1.5; }
+.box-dunk { fill: #C09040; stroke: #6A3800; stroke-width: 1.5; }
+.box-blue { fill: #C8DCF0; stroke: #3A6898; stroke-width: 1.5; }
+.flow-a   { fill: none; stroke: #7A5010; stroke-width: 1.5; stroke-linecap: round; }
+.flow-b   { fill: none; stroke: #2A5880; stroke-width: 1.5; stroke-linecap: round; }
+.divider  { stroke: #CCCCCC; stroke-width: 0.75; stroke-dasharray: 5,3; }
+@media (prefers-color-scheme: dark) {
+  .ttl  { fill: #DDD; }
+  .lbl  { fill: #DDD; }
+  .sub  { fill: #999; }
+  .tag  { fill: #888; }
+  .box-wash { fill: #3A2A00; stroke: #9A7020; }
+  .box-dunk { fill: #3A1800; stroke: #8A5020; }
+  .box-blue { fill: #0A2038; stroke: #4A7AAA; }
+  .flow-a   { stroke: #C09850; }
+  .flow-b   { stroke: #5090C0; }
+  .divider  { stroke: #444; }
+}
+</style>
+<marker id="ma" markerWidth="8" markerHeight="7" refX="6" refY="3.5" orient="auto">
+  <polygon points="0,0.5 0,6.5 7,3.5" fill="#7A5010"/>
+</marker>
+<marker id="mb" markerWidth="8" markerHeight="7" refX="6" refY="3.5" orient="auto">
+  <polygon points="0,0.5 0,6.5 7,3.5" fill="#2A5880"/>
+</marker>
+</defs>
+
+<!-- ════════════════════════════════════════════════ -->
+<!-- LEFT PANEL: Dunder Pit cycle  (x 0–264)        -->
+<!-- ════════════════════════════════════════════════ -->
+
+<text x="133" y="19" class="ttl">Dunder</text>
+
+<!-- Fermentation vessel -->
+<rect x="50" y="28" width="164" height="46" rx="5" class="box-wash"/>
+<text x="132" y="47" class="lbl">Fermentation</text>
+<text x="132" y="62" class="sub">cane wash + added dunder</text>
+
+<!-- Arrow: Fermentation → Pot Still -->
+<line x1="132" y1="74" x2="132" y2="112" class="flow-a" marker-end="url(#ma)"/>
+<text x="146" y="97" class="tag">wash</text>
+
+<!-- Pot Still -->
+<rect x="50" y="116" width="164" height="46" rx="5" class="box-blue"/>
+<text x="132" y="136" class="lbl">Pot Still</text>
+<text x="132" y="150" class="sub">distillation</text>
+
+<!-- Continuous horizontal vapour arrow: Pot Still → through divider → Retort -->
+<line x1="214" y1="139" x2="331" y2="139" class="flow-b" marker-end="url(#mb)"/>
+<text x="245" y="130" class="tag">vapour</text>
+
+<!-- Arrow: Pot Still → Dunder Pit -->
+<line x1="132" y1="162" x2="132" y2="200" class="flow-a" marker-end="url(#ma)"/>
+<text x="150" y="184" class="tag">residue</text>
+
+<!-- Dunder Pit -->
+<rect x="50" y="204" width="164" height="52" rx="5" class="box-dunk"/>
+<text x="132" y="224" class="lbl">Dunder tank</text>
+<text x="132" y="240" class="sub">dead yeast · acids</text>
+
+<!-- Return arrow: Dunder Pit → Fermentation (up left side) -->
+<path d="M50,230 L20,230 L20,51 L50,51" class="flow-a" fill="none" marker-end="url(#ma)"/>
+<text x="14" y="142" class="tag" transform="rotate(-90,14,142)">added to new wash</text>
+
+<!-- ════════════════════════════════════════════════ -->
+<!-- Divider -->
+<line x1="277" y1="6" x2="277" y2="280" class="divider"/>
+
+<!-- ════════════════════════════════════════════════ -->
+<!-- RIGHT PANEL: Retort  (x 284–556)               -->
+<!-- ════════════════════════════════════════════════ -->
+
+<text x="418" y="80" class="ttl">Retort</text>
+
+<!-- Retort vessel (centred on y=139, same as Pot Still exit) -->
+<rect x="331" y="99" width="110" height="80" rx="5" class="box-wash"/>
+<text x="386" y="131" class="lbl">Retort</text>
+<text x="386" y="147" class="sub">Low wines and</text>
+<text x="386" y="160" class="sub">high wines</text>
+
+<!-- Arrow: Retort → Condenser -->
+<line x1="441" y1="139" x2="462" y2="139" class="flow-b" marker-end="url(#mb)"/>
+
+<!-- Condenser (centred on y=139) -->
+<rect x="462" y="115" width="72" height="48" rx="5" class="box-blue"/>
+<text x="498" y="146" class="lbl" font-size="9.5">Condenser</text>
+
+<!-- Arrow out → Spirit -->
+<line x1="534" y1="139" x2="560" y2="139" class="flow-b" marker-end="url(#mb)"/>
+<text x="555" y="130" class="lbl" font-size="10" text-anchor="start">Spirit</text>
+
+</svg>

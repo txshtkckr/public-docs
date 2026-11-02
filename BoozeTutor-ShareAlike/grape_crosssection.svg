@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240">
+<defs>
+<style>
+text { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+.lbl { font-size: 13px; font-weight: 700; fill: #111; }
+.sub { font-size: 11px; fill: #555; }
+.ld  { stroke: #888; stroke-width: 1; fill: none; }
+@media (prefers-color-scheme: dark) {
+  .lbl { fill: #eee; }
+  .sub { fill: #aaa; }
+  .ld  { stroke: #999; }
+}
+</style>
+
+<!-- Skin: radial gradient lit from upper-left -->
+<radialGradient id="skinGrad" gradientUnits="userSpaceOnUse" cx="84" cy="72" r="108">
+  <stop offset="0%"   stop-color="#C462DC"/>
+  <stop offset="52%"  stop-color="#7B2898"/>
+  <stop offset="100%" stop-color="#3C0A52"/>
+</radialGradient>
+
+<!-- Pulp: warmer/creamier at centre -->
+<radialGradient id="pulpGrad" gradientUnits="userSpaceOnUse" cx="100" cy="105" r="78">
+  <stop offset="0%"   stop-color="#FAF4DC"/>
+  <stop offset="100%" stop-color="#E2D4A0"/>
+</radialGradient>
+
+<!-- Seeds: lit from upper-left, objectBoundingBox so each seed gets its own highlight -->
+<radialGradient id="seedGrad" cx="32%" cy="28%" r="65%">
+  <stop offset="0%"   stop-color="#AA5535"/>
+  <stop offset="100%" stop-color="#542210"/>
+</radialGradient>
+
+<!-- Specular highlight on skin surface -->
+<radialGradient id="specGrad" gradientUnits="userSpaceOnUse" cx="84" cy="70" r="28">
+  <stop offset="0%"   stop-color="#FFFFFF" stop-opacity="0.48"/>
+  <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+</radialGradient>
+
+<!-- Stem: left-to-right highlight gives cylindrical look -->
+<linearGradient id="stemGrad" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%"   stop-color="#2B4A0E"/>
+  <stop offset="45%"  stop-color="#4F7A1E"/>
+  <stop offset="100%" stop-color="#2B4A0E"/>
+</linearGradient>
+</defs>
+
+<!-- Stem (peduncle) — drawn before skin so grape overlaps its base naturally -->
+<path d="M 109,37 C 108,26 110,12 112,10 C 114,12 116,26 115,37 Z"
+      fill="url(#stemGrad)"/>
+
+<!-- Outer skin -->
+<ellipse cx="112" cy="122" rx="73" ry="89" fill="url(#skinGrad)"/>
+
+<!-- Specular reflection — small bright oval on upper-left surface -->
+<ellipse cx="84" cy="70" rx="22" ry="16" fill="url(#specGrad)" transform="rotate(-18 84 70)"/>
+
+<!-- Inner pulp -->
+<ellipse cx="112" cy="125" rx="62" ry="76" fill="url(#pulpGrad)"/>
+
+<!-- Stem scar at top (peduncle attachment) -->
+<ellipse cx="112" cy="37" rx="7" ry="4.5" fill="#3A1A08" opacity="0.75"/>
+
+<!-- Seeds with gradient shading -->
+<ellipse cx="97"  cy="143" rx="9" ry="13" fill="url(#seedGrad)" transform="rotate(-10 97 143)"/>
+<ellipse cx="127" cy="143" rx="9" ry="13" fill="url(#seedGrad)" transform="rotate(10 127 143)"/>
+
+<!-- Seed surface highlights -->
+<ellipse cx="93"  cy="137" rx="3.5" ry="4.5" fill="white" fill-opacity="0.2" transform="rotate(-10 93 137)"/>
+<ellipse cx="123" cy="137" rx="3.5" ry="4.5" fill="white" fill-opacity="0.2" transform="rotate(10 123 137)"/>
+
+<!-- Labels -->
+<!-- Skin -->
+<line x1="177" y1="102" x2="210" y2="97" class="ld"/>
+<circle cx="177" cy="102" r="2.5" fill="#888"/>
+<text x="215" y="100" class="lbl">Skin</text>
+<text x="215" y="113" class="sub">colour, tannin &amp; flavour</text>
+
+<!-- Pulp -->
+<line x1="155" y1="112" x2="210" y2="130" class="ld"/>
+<circle cx="155" cy="112" r="2.5" fill="#888"/>
+<text x="215" y="133" class="lbl">Pulp</text>
+<text x="215" y="146" class="sub">pale in all varieties</text>
+
+<!-- Stem -->
+<line x1="116" y1="18" x2="210" y2="18" class="ld"/>
+<circle cx="116" cy="18" r="2.5" fill="#888"/>
+<text x="215" y="21" class="lbl">Stem</text>
+<text x="215" y="34" class="sub">peduncle</text>
+
+<!-- Seeds -->
+<line x1="129" y1="148" x2="210" y2="163" class="ld"/>
+<circle cx="129" cy="148" r="2.5" fill="#888"/>
+<text x="215" y="166" class="lbl">Seeds</text>
+<text x="215" y="179" class="sub">high tannin</text>
+</svg>

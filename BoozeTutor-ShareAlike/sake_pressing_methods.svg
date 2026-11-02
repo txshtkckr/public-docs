@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 240" width="520" height="240">
+<defs>
+<style>
+text  { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; text-anchor: middle; }
+.name { font-size: 12px; font-weight: 700; fill: #333; }
+.row  { font-size: 9px; fill: #555; }
+.rowb { font-size: 9px; font-weight: 700; fill: #444; }
+.frame { fill: #E9E2D6; stroke: #8A7458; stroke-width: 1.4; }
+.bag   { fill: #F7F3EA; stroke: #A89470; stroke-width: 1; }
+.sake  { fill: #CFE2F3; stroke: #5A86B4; stroke-width: 1; }
+.drop  { fill: #5A86B4; }
+.force { stroke: #B0453A; stroke-width: 2; fill: none; }
+.pole  { stroke: #8A7458; stroke-width: 3; }
+.div   { stroke: #DDD; stroke-width: 0.8; }
+.bar   { fill: #8A7458; }
+.track { fill: #EEE; }
+@media (prefers-color-scheme: dark) {
+  .name { fill: #E6E6E6; }
+  .row  { fill: #AAA; }
+  .rowb { fill: #CCC; }
+  .frame { fill: #3A3226; stroke: #A08A68; }
+  .bag   { fill: #4A4232; stroke: #A08A68; }
+  .sake  { fill: #1C2E44; stroke: #6A9ACA; }
+  .drop  { fill: #6A9ACA; }
+  .force { stroke: #E0705A; }
+  .pole  { stroke: #A08A68; }
+  .div   { stroke: #444; }
+  .bar   { fill: #C0A070; }
+  .track { fill: #333; }
+}
+</style>
+<marker id="mf" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><polygon points="0,0.5 0,7.5 7,4" fill="#B0453A"/></marker>
+</defs>
+
+<line class="div" x1="173" y1="10" x2="173" y2="230"/>
+<line class="div" x1="347" y1="10" x2="347" y2="230"/>
+
+<!-- Yabuta: panels squeezed from both ends -->
+<text class="name" x="87" y="22">Yabuta</text>
+<rect class="frame" x="27" y="40" width="120" height="60" rx="3"/>
+<rect class="bag" x="37" y="46" width="8" height="48"/>
+<rect class="bag" x="51" y="46" width="8" height="48"/>
+<rect class="bag" x="65" y="46" width="8" height="48"/>
+<rect class="bag" x="79" y="46" width="8" height="48"/>
+<rect class="bag" x="93" y="46" width="8" height="48"/>
+<rect class="bag" x="107" y="46" width="8" height="48"/>
+<rect class="bag" x="121" y="46" width="8" height="48"/>
+<line class="force" x1="12" y1="70" x2="25" y2="70" marker-end="url(#mf)"/>
+<line class="force" x1="162" y1="70" x2="149" y2="70" marker-end="url(#mf)"/>
+<rect class="sake" x="57" y="108" width="60" height="14" rx="2"/>
+
+<!-- Fune: bags stacked in a box, pressed from above -->
+<text class="name" x="260" y="22">Fune</text>
+<line class="force" x1="260" y1="30" x2="260" y2="44" marker-end="url(#mf)"/>
+<rect class="frame" x="205" y="48" width="110" height="8"/>
+<rect class="frame" x="200" y="56" width="120" height="44" rx="2"/>
+<rect class="bag" x="208" y="62" width="104" height="9" rx="3"/>
+<rect class="bag" x="208" y="74" width="104" height="9" rx="3"/>
+<rect class="bag" x="208" y="86" width="104" height="9" rx="3"/>
+<rect class="sake" x="230" y="108" width="60" height="14" rx="2"/>
+
+<!-- Shizuku: bags hung, dripping by gravity -->
+<text class="name" x="433" y="22">Shizuku</text>
+<line class="pole" x1="383" y1="38" x2="483" y2="38"/>
+<path class="bag" d="M398,38 Q392,70 404,84 Q416,70 410,38 Z"/>
+<path class="bag" d="M427,38 Q421,70 433,84 Q445,70 439,38 Z"/>
+<path class="bag" d="M456,38 Q450,70 462,84 Q474,70 468,38 Z"/>
+<circle class="drop" cx="404" cy="94" r="2"/>
+<circle class="drop" cx="433" cy="96" r="2"/>
+<circle class="drop" cx="462" cy="93" r="2"/>
+<rect class="sake" x="403" y="108" width="60" height="14" rx="2"/>
+
+<!-- Rows: how it presses, how long, how much sake (bar = share of the possible yield, schematic) -->
+<text class="rowb" x="87" y="146">Machine pressure</text>
+<text class="row" x="87" y="160">about half a day</text>
+<text class="rowb" x="260" y="146">Gentle pressure</text>
+<text class="row" x="260" y="160">a day or more</text>
+<text class="rowb" x="433" y="146">Gravity only</text>
+<text class="row" x="433" y="160">overnight or longer</text>
+
+<text class="row" x="87" y="184">Most sake</text>
+<rect class="track" x="37" y="192" width="100" height="8" rx="2"/>
+<rect class="bar" x="37" y="192" width="92" height="8" rx="2"/>
+<text class="row" x="260" y="184">Less sake</text>
+<rect class="track" x="210" y="192" width="100" height="8" rx="2"/>
+<rect class="bar" x="210" y="192" width="78" height="8" rx="2"/>
+<text class="row" x="433" y="184">Least sake</text>
+<rect class="track" x="383" y="192" width="100" height="8" rx="2"/>
+<rect class="bar" x="383" y="192" width="48" height="8" rx="2"/>
+
+<text class="row" x="260" y="224">Harder pressing gives more sake, and more of the rougher compounds with it.</text>
+</svg>
