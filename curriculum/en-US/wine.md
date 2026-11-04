@@ -164,44 +164,57 @@ Regions, German labeling and Furmint
 - **4.5.4 Grüner Veltliner** (Advanced): Recognize Grüner Veltliner, Austria’s signature white.
 - **4.5.5 Furmint and Tokaji** (Intermediate): Recognize Furmint and the regional white grapes of central Europe.
 
-### 4.6 Terroir
+### 4.6 Greece
+
+Santorini, northern Greece and the Peloponnese
+
+- **4.6.1 Greece** (Advanced): Know Greece’s climate, its main wine regions and how its PDOs tie a place to a grape.
+- **4.6.2 Santorini** (Advanced): Explain how Santorini’s volcanic soil, wind and basket-trained vines shape its wines, and know Nykteri and Vinsanto.
+- **4.6.3 Assyrtiko** (Advanced): Recognize Assyrtiko, the white grape that keeps its acidity in a hot climate.
+- **4.6.4 Naoussa and Amyndeon** (Advanced): Know Naoussa and Amyndeon, northern Greece’s Xinomavro appellations, and their styles.
+- **4.6.5 Xinomavro** (Advanced): Recognize Xinomavro and compare it with Nebbiolo.
+- **4.6.6 The Peloponnese** (Advanced): Know Nemea, Mantinia and Mavrodaphne of Patras, and what Retsina is.
+- **4.6.7 Agiorgitiko** (Advanced): Recognize Agiorgitiko, Greece’s most widely planted red grape.
+- **4.6.8 Tasting Assyrtiko and Xinomavro** (Advanced): Taste and describe a Santorini white and a Naoussa red side by side.
+
+### 4.7 Terroir
 
 Site, soil, rootstock, clone and vine age
 
-- **4.6.1 Vine energy and climate scale** (Advanced): Explain how a vine turns sunlight into sugar, and climate at macro, meso and micro scale.
-- **4.6.2 Soils** (Advanced): Explain how soil drainage, heat and chemistry, and soil types, shape a wine, with classic examples.
-- **4.6.3 Aspect, altitude and site climate** (Advanced): Explain how aspect, altitude, diurnal range and water stress show in the glass.
-- **4.6.4 Rootstock, clone and vine age** (Advanced): Explain how rootstock, clone and vine age shape a wine.
+- **4.7.1 Vine energy and climate scale** (Advanced): Explain how a vine turns sunlight into sugar, and climate at macro, meso and micro scale.
+- **4.7.2 Soils** (Advanced): Explain how soil drainage, heat and chemistry, and soil types, shape a wine, with classic examples.
+- **4.7.3 Aspect, altitude and site climate** (Advanced): Explain how aspect, altitude, diurnal range and water stress show in the glass.
+- **4.7.4 Rootstock, clone and vine age** (Advanced): Explain how rootstock, clone and vine age shape a wine.
 
-### 4.7 Classic regions in depth
+### 4.8 Classic regions in depth
 
 Burgundy, Bordeaux, Champagne, Barolo, Rioja and the Mosel
 
-- **4.7.1 Burgundy: the Côte d’Or** (Advanced): Explain the Côte d’Or’s villages and vineyard classifications.
-- **4.7.2 Bordeaux commune by commune** (Advanced): Explain Bordeaux’s communes and classifications.
-- **4.7.3 Champagne: villages and crus** (Advanced): Explain Champagne’s villages and cru classification.
-- **4.7.4 Barolo and Barbaresco** (Advanced): Explain Barolo’s and Barbaresco’s villages and vineyard names.
-- **4.7.5 Rioja: zones, villages and age** (Advanced): Explain Rioja’s zones, village wines and aging categories.
-- **4.7.6 The Mosel, the Rheingau and the VDP** (Advanced): Explain single-vineyard naming and the VDP classification.
+- **4.8.1 Burgundy: the Côte d’Or** (Advanced): Explain the Côte d’Or’s villages and vineyard classifications.
+- **4.8.2 Bordeaux commune by commune** (Advanced): Explain Bordeaux’s communes and classifications.
+- **4.8.3 Champagne: villages and crus** (Advanced): Explain Champagne’s villages and cru classification.
+- **4.8.4 Barolo and Barbaresco** (Advanced): Explain Barolo’s and Barbaresco’s villages and vineyard names.
+- **4.8.5 Rioja: zones, villages and age** (Advanced): Explain Rioja’s zones, village wines and aging categories.
+- **4.8.6 The Mosel, the Rheingau and the VDP** (Advanced): Explain single-vineyard naming and the VDP classification.
 
-### 4.8 The Americas
+### 4.9 The Americas
 
 USA, Argentina and Chile
 
-- **4.8.1 The United States and its labels** (Intermediate): Know the main US wine regions and US labeling rules.
-- **4.8.2 Zinfandel/Primitivo** (Intermediate): Recognize Zinfandel and Primitivo and where they grow.
-- **4.8.3 Petite Sirah/Durif** (Advanced): Recognize Petite Sirah, California’s inky red, known as Durif in Australia.
-- **4.8.4 Argentina and Malbec** (Intermediate): Know Argentina’s regions and recognize Malbec.
-- **4.8.5 Torrontés** (Advanced): Recognize Torrontés, Argentina’s aromatic white, at its best in Salta.
-- **4.8.6 Chile and Carmenère** (Intermediate): Know Chile’s regions and recognize Carmenère.
+- **4.9.1 The United States and its labels** (Intermediate): Know the main US wine regions and US labeling rules.
+- **4.9.2 Zinfandel/Primitivo** (Intermediate): Recognize Zinfandel and Primitivo and where they grow.
+- **4.9.3 Petite Sirah/Durif** (Advanced): Recognize Petite Sirah, California’s inky red, known as Durif in Australia.
+- **4.9.4 Argentina and Malbec** (Intermediate): Know Argentina’s regions and recognize Malbec.
+- **4.9.5 Torrontés** (Advanced): Recognize Torrontés, Argentina’s aromatic white, at its best in Salta.
+- **4.9.6 Chile and Carmenère** (Intermediate): Know Chile’s regions and recognize Carmenère.
 
-### 4.9 Australia, New Zealand and South Africa
+### 4.10 Australia, New Zealand and South Africa
 
 Regions, labeling and Pinotage
 
-- **4.9.1 Australia** (Intermediate): Know Australia’s regions and its GI labeling.
-- **4.9.2 New Zealand** (Intermediate): Know New Zealand’s regions and labeling.
-- **4.9.3 South Africa and Pinotage** (Intermediate): Know South Africa’s regions and Wine of Origin scheme, and recognize Pinotage.
+- **4.10.1 Australia** (Intermediate): Know Australia’s regions and its GI labeling.
+- **4.10.2 New Zealand** (Intermediate): Know New Zealand’s regions and labeling.
+- **4.10.3 South Africa and Pinotage** (Intermediate): Know South Africa’s regions and Wine of Origin scheme, and recognize Pinotage.
 
 ## 5. Serving and judging wine
 

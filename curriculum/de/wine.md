@@ -164,44 +164,57 @@ Regionen, deutsche Etikettierung und Furmint
 - **4.5.4 Grüner Veltliner** (Oberstufe): Erkenne Grüner Veltliner, Österreichs charakteristische Weiße.
 - **4.5.5 Furmint und Tokaji** (Mittelstufe): Erkenne Furmint und die regionalen Weißweinsorten Mitteleuropas.
 
-### 4.6 Terroir
+### 4.6 Griechenland
+
+Santorini, Nordgriechenland und der Peloponnes
+
+- **4.6.1 Griechenland** (Oberstufe): Lerne Griechenlands Klima, seine wichtigsten Weinregionen und die Bindung seiner g.U. an eine Rebsorte kennen.
+- **4.6.2 Santorini** (Oberstufe): Erkläre, wie Vulkanboden, Wind und korbförmig erzogene Reben die Weine Santorinis prägen, und lerne Nykteri und Vinsanto kennen.
+- **4.6.3 Assyrtiko** (Oberstufe): Erkenne Assyrtiko, die weiße Rebsorte, die auch in heißem Klima ihre Säure behält.
+- **4.6.4 Naoussa und Amyndeon** (Oberstufe): Lerne Naoussa und Amyndeon, die Xinomavro-Appellationen Nordgriechenlands, und ihre Stile kennen.
+- **4.6.5 Xinomavro** (Oberstufe): Erkenne Xinomavro und vergleiche ihn mit Nebbiolo.
+- **4.6.6 Der Peloponnes** (Oberstufe): Lerne Nemea, Mantinia und Mavrodaphne von Patras kennen und erfahre, was Retsina ist.
+- **4.6.7 Agiorgitiko** (Oberstufe): Erkenne Agiorgitiko, Griechenlands meistangebaute rote Rebsorte.
+- **4.6.8 Assyrtiko und Xinomavro verkosten** (Oberstufe): Verkoste und beschreibe einen Weißwein aus Santorini und einen Rotwein aus Naoussa nebeneinander.
+
+### 4.7 Terroir
 
 Lage, Boden, Unterlage, Klon und Rebalter
 
-- **4.6.1 Rebenenergie und Klimaskala** (Oberstufe): Erkläre, wie eine Rebe Sonnenlicht in Zucker umwandelt, und das Klima auf Makro-, Meso- und Mikroebene.
-- **4.6.2 Böden** (Oberstufe): Erkläre, wie Bodendrainage, -wärme und -chemie sowie Bodenarten einen Wein prägen, anhand klassischer Beispiele.
-- **4.6.3 Hangausrichtung, Höhenlage und Standortklima** (Oberstufe): Erkläre, wie sich Hangausrichtung, Höhenlage, Tag-Nacht-Temperaturunterschiede und Wasserstress im Glas zeigen.
-- **4.6.4 Unterlagsrebe, Klon und Rebalter** (Oberstufe): Erkläre, wie Unterlagsrebe, Klon und Rebalter einen Wein prägen.
+- **4.7.1 Rebenenergie und Klimaskala** (Oberstufe): Erkläre, wie eine Rebe Sonnenlicht in Zucker umwandelt, und das Klima auf Makro-, Meso- und Mikroebene.
+- **4.7.2 Böden** (Oberstufe): Erkläre, wie Bodendrainage, -wärme und -chemie sowie Bodenarten einen Wein prägen, anhand klassischer Beispiele.
+- **4.7.3 Hangausrichtung, Höhenlage und Standortklima** (Oberstufe): Erkläre, wie sich Hangausrichtung, Höhenlage, Tag-Nacht-Temperaturunterschiede und Wasserstress im Glas zeigen.
+- **4.7.4 Unterlagsrebe, Klon und Rebalter** (Oberstufe): Erkläre, wie Unterlagsrebe, Klon und Rebalter einen Wein prägen.
 
-### 4.7 Klassische Regionen im Detail
+### 4.8 Klassische Regionen im Detail
 
 Burgund, Bordeaux, Champagne, Barolo, Rioja und die Mosel
 
-- **4.7.1 Burgund: die Côte d’Or** (Oberstufe): Lerne die Gemeinden und Lagenklassifikationen der Côte d’Or kennen.
-- **4.7.2 Bordeaux Gemeinde für Gemeinde** (Oberstufe): Lerne die Gemeinden und Klassifikationen von Bordeaux kennen.
-- **4.7.3 Champagne: Dörfer und Crus** (Oberstufe): Lerne die Dörfer der Champagne und ihre Cru-Klassifikation kennen.
-- **4.7.4 Barolo und Barbaresco** (Oberstufe): Lerne die Dörfer und Lagennamen von Barolo und Barbaresco kennen.
-- **4.7.5 Rioja: Zonen, Dörfer und Reifegrad** (Oberstufe): Lerne die Zonen, Dorfweine und Reifekategorien der Rioja kennen.
-- **4.7.6 Mosel, Rheingau und VDP** (Oberstufe): Lerne die Benennung von Einzellagen und die VDP-Klassifikation kennen.
+- **4.8.1 Burgund: die Côte d’Or** (Oberstufe): Lerne die Gemeinden und Lagenklassifikationen der Côte d’Or kennen.
+- **4.8.2 Bordeaux Gemeinde für Gemeinde** (Oberstufe): Lerne die Gemeinden und Klassifikationen von Bordeaux kennen.
+- **4.8.3 Champagne: Dörfer und Crus** (Oberstufe): Lerne die Dörfer der Champagne und ihre Cru-Klassifikation kennen.
+- **4.8.4 Barolo und Barbaresco** (Oberstufe): Lerne die Dörfer und Lagennamen von Barolo und Barbaresco kennen.
+- **4.8.5 Rioja: Zonen, Dörfer und Reifegrad** (Oberstufe): Lerne die Zonen, Dorfweine und Reifekategorien der Rioja kennen.
+- **4.8.6 Mosel, Rheingau und VDP** (Oberstufe): Lerne die Benennung von Einzellagen und die VDP-Klassifikation kennen.
 
-### 4.8 Amerika
+### 4.9 Amerika
 
 USA, Argentinien und Chile
 
-- **4.8.1 Die Vereinigten Staaten und ihre Etiketten** (Mittelstufe): Lerne die wichtigsten Weinregionen der USA und die US-Etikettierungsvorschriften kennen.
-- **4.8.2 Zinfandel/Primitivo** (Mittelstufe): Erkenne Zinfandel und Primitivo und wisse, wo sie angebaut werden.
-- **4.8.3 Petite Sirah/Durif** (Oberstufe): Erkenne Petite Sirah, Kaliforniens tiefdunklen Rotwein, in Australien als Durif bekannt.
-- **4.8.4 Argentinien und Malbec** (Mittelstufe): Lerne die Regionen Argentiniens kennen und erkenne Malbec.
-- **4.8.5 Torrontés** (Oberstufe): Erkenne Torrontés, Argentiniens aromatische Weiße, am besten in Salta.
-- **4.8.6 Chile und Carmenère** (Mittelstufe): Lerne die Regionen Chiles kennen und erkenne Carmenère.
+- **4.9.1 Die Vereinigten Staaten und ihre Etiketten** (Mittelstufe): Lerne die wichtigsten Weinregionen der USA und die US-Etikettierungsvorschriften kennen.
+- **4.9.2 Zinfandel/Primitivo** (Mittelstufe): Erkenne Zinfandel und Primitivo und wisse, wo sie angebaut werden.
+- **4.9.3 Petite Sirah/Durif** (Oberstufe): Erkenne Petite Sirah, Kaliforniens tiefdunklen Rotwein, in Australien als Durif bekannt.
+- **4.9.4 Argentinien und Malbec** (Mittelstufe): Lerne die Regionen Argentiniens kennen und erkenne Malbec.
+- **4.9.5 Torrontés** (Oberstufe): Erkenne Torrontés, Argentiniens aromatische Weiße, am besten in Salta.
+- **4.9.6 Chile und Carmenère** (Mittelstufe): Lerne die Regionen Chiles kennen und erkenne Carmenère.
 
-### 4.9 Australien, Neuseeland und Südafrika
+### 4.10 Australien, Neuseeland und Südafrika
 
 Regionen, Etikettierung und Pinotage
 
-- **4.9.1 Australien** (Mittelstufe): Lerne die Regionen Australiens und seine GI-Etikettierung kennen.
-- **4.9.2 Neuseeland** (Mittelstufe): Lerne die Regionen Neuseelands und seine Etikettierung kennen.
-- **4.9.3 Südafrika und Pinotage** (Mittelstufe): Lerne die Regionen Südafrikas und das Wine-of-Origin-System kennen und erkenne Pinotage.
+- **4.10.1 Australien** (Mittelstufe): Lerne die Regionen Australiens und seine GI-Etikettierung kennen.
+- **4.10.2 Neuseeland** (Mittelstufe): Lerne die Regionen Neuseelands und seine Etikettierung kennen.
+- **4.10.3 Südafrika und Pinotage** (Mittelstufe): Lerne die Regionen Südafrikas und das Wine-of-Origin-System kennen und erkenne Pinotage.
 
 ## 5. Wein servieren und beurteilen
 

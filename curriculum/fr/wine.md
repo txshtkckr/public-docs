@@ -164,44 +164,57 @@ Régions, étiquetage allemand et furmint
 - **4.5.4 Grüner Veltliner** (Avancé): Reconnaître le Grüner Veltliner, le blanc emblématique de l’Autriche.
 - **4.5.5 Furmint et Tokaji** (Intermédiaire): Identifiez le furmint et les cépages blancs régionaux d’Europe centrale.
 
-### 4.6 Terroir
+### 4.6 Grèce
+
+Santorin, le nord de la Grèce et le Péloponnèse
+
+- **4.6.1 La Grèce** (Avancé): Connaissez le climat de la Grèce, ses principales régions viticoles et la façon dont ses AOP lient un lieu à un cépage.
+- **4.6.2 Santorin** (Avancé): Expliquez comment le sol volcanique, le vent et les vignes conduites en panier façonnent les vins de Santorin, et connaissez le Nykteri et le Vinsanto.
+- **4.6.3 Assyrtiko** (Avancé): Reconnaître l’Assyrtiko, le cépage blanc qui garde son acidité sous un climat chaud.
+- **4.6.4 Naoussa et Amyndeon** (Avancé): Connaissez Naoussa et Amyndeon, les appellations de Xinomavro du nord de la Grèce, et leurs styles.
+- **4.6.5 Xinomavro** (Avancé): Reconnaître le Xinomavro et le comparer au Nebbiolo.
+- **4.6.6 Le Péloponnèse** (Avancé): Connaissez Némée, Mantinée et le Mavrodaphne de Patras, et ce qu’est le Retsina.
+- **4.6.7 Agiorgitiko** (Avancé): Reconnaître l’Agiorgitiko, le cépage rouge le plus planté de Grèce.
+- **4.6.8 Déguster l’Assyrtiko et le Xinomavro** (Avancé): Dégustez et décrivez côte à côte un blanc de Santorin et un rouge de Naoussa.
+
+### 4.7 Terroir
 
 Site, sol, porte-greffe, clone et âge des vignes
 
-- **4.6.1 Énergie de la vigne et échelles climatiques** (Avancé): Expliquez comment la vigne transforme la lumière du soleil en sucre, et le climat à l’échelle macro, méso et micro.
-- **4.6.2 Les sols** (Avancé): Expliquez comment le drainage, la chaleur, la chimie du sol et les types de sols façonnent un vin, avec des exemples classiques.
-- **4.6.3 Exposition, altitude et climat du site** (Avancé): Expliquez comment l’exposition, l’altitude, l’amplitude thermique diurne et le stress hydrique se révèlent dans le verre.
-- **4.6.4 Porte-greffe, clone et âge de la vigne** (Avancé): Expliquez comment le porte-greffe, le clone et l’âge de la vigne façonnent un vin.
+- **4.7.1 Énergie de la vigne et échelles climatiques** (Avancé): Expliquez comment la vigne transforme la lumière du soleil en sucre, et le climat à l’échelle macro, méso et micro.
+- **4.7.2 Les sols** (Avancé): Expliquez comment le drainage, la chaleur, la chimie du sol et les types de sols façonnent un vin, avec des exemples classiques.
+- **4.7.3 Exposition, altitude et climat du site** (Avancé): Expliquez comment l’exposition, l’altitude, l’amplitude thermique diurne et le stress hydrique se révèlent dans le verre.
+- **4.7.4 Porte-greffe, clone et âge de la vigne** (Avancé): Expliquez comment le porte-greffe, le clone et l’âge de la vigne façonnent un vin.
 
-### 4.7 Les grandes régions en détail
+### 4.8 Les grandes régions en détail
 
 Bourgogne, Bordeaux, Champagne, Barolo, Rioja et Moselle
 
-- **4.7.1 La Bourgogne : la Côte d’Or** (Avancé): Expliquez les villages et les classifications des vignobles de la Côte d’Or.
-- **4.7.2 Bordeaux commune par commune** (Avancé): Expliquez les communes et les classifications de Bordeaux.
-- **4.7.3 Champagne : villages et crus** (Avancé): Expliquez les villages de Champagne et la classification des crus.
-- **4.7.4 Barolo et Barbaresco** (Avancé): Expliquez les villages et les noms de vignobles de Barolo et de Barbaresco.
-- **4.7.5 La Rioja : zones, villages et âge** (Avancé): Expliquez les zones de la Rioja, les vins de village et les catégories de vieillissement.
-- **4.7.6 La Moselle, le Rheingau et le VDP** (Avancé): Expliquez la dénomination des vignobles monopoles et la classification du VDP.
+- **4.8.1 La Bourgogne : la Côte d’Or** (Avancé): Expliquez les villages et les classifications des vignobles de la Côte d’Or.
+- **4.8.2 Bordeaux commune par commune** (Avancé): Expliquez les communes et les classifications de Bordeaux.
+- **4.8.3 Champagne : villages et crus** (Avancé): Expliquez les villages de Champagne et la classification des crus.
+- **4.8.4 Barolo et Barbaresco** (Avancé): Expliquez les villages et les noms de vignobles de Barolo et de Barbaresco.
+- **4.8.5 La Rioja : zones, villages et âge** (Avancé): Expliquez les zones de la Rioja, les vins de village et les catégories de vieillissement.
+- **4.8.6 La Moselle, le Rheingau et le VDP** (Avancé): Expliquez la dénomination des vignobles monopoles et la classification du VDP.
 
-### 4.8 Les Amériques
+### 4.9 Les Amériques
 
 États-Unis, Argentine et Chili
 
-- **4.8.1 Les États-Unis et leurs étiquettes** (Intermédiaire): Connaître les principales régions viticoles américaines et les règles d’étiquetage aux États-Unis.
-- **4.8.2 Zinfandel/Primitivo** (Intermédiaire): Reconnaître le Zinfandel et le Primitivo et savoir où ils sont cultivés.
-- **4.8.3 Petite Sirah/Durif** (Avancé): Reconnaître la Petite Sirah, le rouge noir de Californie, connu sous le nom de Durif en Australie.
-- **4.8.4 L’Argentine et le Malbec** (Intermédiaire): Connaître les régions d’Argentine et reconnaître le Malbec.
-- **4.8.5 Torrontés** (Avancé): Reconnaître le Torrontés, le blanc aromatique de l’Argentine, à son meilleur en Salta.
-- **4.8.6 Le Chili et le Carmenère** (Intermédiaire): Connaître les régions du Chili et reconnaître le Carmenère.
+- **4.9.1 Les États-Unis et leurs étiquettes** (Intermédiaire): Connaître les principales régions viticoles américaines et les règles d’étiquetage aux États-Unis.
+- **4.9.2 Zinfandel/Primitivo** (Intermédiaire): Reconnaître le Zinfandel et le Primitivo et savoir où ils sont cultivés.
+- **4.9.3 Petite Sirah/Durif** (Avancé): Reconnaître la Petite Sirah, le rouge noir de Californie, connu sous le nom de Durif en Australie.
+- **4.9.4 L’Argentine et le Malbec** (Intermédiaire): Connaître les régions d’Argentine et reconnaître le Malbec.
+- **4.9.5 Torrontés** (Avancé): Reconnaître le Torrontés, le blanc aromatique de l’Argentine, à son meilleur en Salta.
+- **4.9.6 Le Chili et le Carmenère** (Intermédiaire): Connaître les régions du Chili et reconnaître le Carmenère.
 
-### 4.9 Australie, Nouvelle-Zélande et Afrique du Sud
+### 4.10 Australie, Nouvelle-Zélande et Afrique du Sud
 
 Régions, étiquetage et pinotage
 
-- **4.9.1 L’Australie** (Intermédiaire): Connaître les régions d’Australie et son système d’étiquetage par IG.
-- **4.9.2 La Nouvelle-Zélande** (Intermédiaire): Connaître les régions de Nouvelle-Zélande et leur étiquetage.
-- **4.9.3 L’Afrique du Sud et le Pinotage** (Intermédiaire): Connaître les régions d’Afrique du Sud et le système Wine of Origin, et reconnaître le Pinotage.
+- **4.10.1 L’Australie** (Intermédiaire): Connaître les régions d’Australie et son système d’étiquetage par IG.
+- **4.10.2 La Nouvelle-Zélande** (Intermédiaire): Connaître les régions de Nouvelle-Zélande et leur étiquetage.
+- **4.10.3 L’Afrique du Sud et le Pinotage** (Intermédiaire): Connaître les régions d’Afrique du Sud et le système Wine of Origin, et reconnaître le Pinotage.
 
 ## 5. Servir et juger le vin
 
