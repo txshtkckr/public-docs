@@ -126,10 +126,11 @@ Regions and grapes, from Bordeaux to the Rhône
 
 - **4.2.1 Bordeaux and Burgundy** (Basic): Know Bordeaux and Burgundy, their grapes and styles.
 - **4.2.2 Champagne, Alsace, the Rhône and the Loire** (Intermediate): Know France’s other classic regions and their styles.
-- **4.2.3 Cabernet Franc, Gamay and Grenache** (Intermediate): Recognise Cabernet Franc, Gamay and Grenache and where they grow.
-- **4.2.4 Chenin Blanc, Viognier, Gewürztraminer and Semillon** (Intermediate): Recognise Chenin Blanc, Viognier, Gewürztraminer and Semillon and where they grow.
-- **4.2.5 Marsanne / Roussanne and Melon de Bourgogne** (Advanced): Recognise the Northern Rhône’s white pair and Melon de Bourgogne, the grape of Muscadet.
-- **4.2.6 Petit Verdot, Cinsault and Trousseau / Poulsard** (Advanced): Recognise three more French reds: Bordeaux’s Petit Verdot, Cinsault from the south and the Jura’s Trousseau and Poulsard.
+- **4.2.3 Languedoc-Roussillon and Provence** (Intermediate): Know the south of France: Minervois blends, Pays d’Oc varietal wines and Provence rosé.
+- **4.2.4 Cabernet Franc, Gamay and Grenache** (Intermediate): Recognise Cabernet Franc, Gamay and Grenache and where they grow.
+- **4.2.5 Chenin Blanc, Viognier, Gewürztraminer and Semillon** (Intermediate): Recognise Chenin Blanc, Viognier, Gewürztraminer and Semillon and where they grow.
+- **4.2.6 Marsanne / Roussanne and Melon de Bourgogne** (Advanced): Recognise the Northern Rhône’s white pair and Melon de Bourgogne, the grape of Muscadet.
+- **4.2.7 Petit Verdot, Cinsault and Trousseau / Poulsard** (Advanced): Recognise three more French reds: Bordeaux’s Petit Verdot, Cinsault from the south and the Jura’s Trousseau and Poulsard.
 
 ### 4.3 Italy
 

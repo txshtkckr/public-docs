@@ -126,10 +126,11 @@ Regionen und Rebsorten von Bordeaux bis zur Rhône
 
 - **4.2.1 Bordeaux und Burgund** (Grundstufe): Lerne Bordeaux und Burgund, ihre Rebsorten und Stile kennen.
 - **4.2.2 Champagne, Elsass, Rhône und Loire** (Mittelstufe): Lerne Frankreichs weitere klassische Regionen und ihre Stile kennen.
-- **4.2.3 Cabernet Franc, Gamay und Grenache** (Mittelstufe): Erkenne Cabernet Franc, Gamay und Grenache und wisse, wo sie angebaut werden.
-- **4.2.4 Chenin Blanc, Viognier, Gewürztraminer und Semillon** (Mittelstufe): Erkenne Chenin Blanc, Viognier, Gewürztraminer und Semillon und wisse, wo sie angebaut werden.
-- **4.2.5 Marsanne / Roussanne und Melon de Bourgogne** (Oberstufe): Erkenne das weiße Paar der Nordrhoˆne und Melon de Bourgogne, die Traube von Muscadet.
-- **4.2.6 Petit Verdot, Cinsault und Trousseau / Poulsard** (Oberstufe): Erkenne drei weitere französische Rotweine: Petit Verdot aus Bordeaux, Cinsault aus dem Süden und Trousseau und Poulsard aus dem Jura.
+- **4.2.3 Languedoc-Roussillon und Provence** (Mittelstufe): Lerne den Süden Frankreichs kennen: Minervois-Cuvées, Pays-d’Oc-Sortenweine und Provence-Rosé.
+- **4.2.4 Cabernet Franc, Gamay und Grenache** (Mittelstufe): Erkenne Cabernet Franc, Gamay und Grenache und wisse, wo sie angebaut werden.
+- **4.2.5 Chenin Blanc, Viognier, Gewürztraminer und Semillon** (Mittelstufe): Erkenne Chenin Blanc, Viognier, Gewürztraminer und Semillon und wisse, wo sie angebaut werden.
+- **4.2.6 Marsanne / Roussanne und Melon de Bourgogne** (Oberstufe): Erkenne das weiße Paar der Nordrhoˆne und Melon de Bourgogne, die Traube von Muscadet.
+- **4.2.7 Petit Verdot, Cinsault und Trousseau / Poulsard** (Oberstufe): Erkenne drei weitere französische Rotweine: Petit Verdot aus Bordeaux, Cinsault aus dem Süden und Trousseau und Poulsard aus dem Jura.
 
 ### 4.3 Italien
 

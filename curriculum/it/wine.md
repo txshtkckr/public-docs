@@ -126,10 +126,11 @@ Regioni e vitigni, da Bordeaux al Rodano
 
 - **4.2.1 Bordeaux e Borgogna** (Base): Conosci Bordeaux e la Borgogna, i loro vitigni e i loro stili.
 - **4.2.2 Champagne, Alsazia, Rodano e Loira** (Intermedio): Conosci le altre regioni classiche della Francia e i loro stili.
-- **4.2.3 Cabernet Franc, Gamay e Grenache** (Intermedio): Riconosci il Cabernet Franc, il Gamay e il Grenache e sappi dove si coltivano.
-- **4.2.4 Chenin Blanc, Viognier, Gewürztraminer e Semillon** (Intermedio): Riconosci lo Chenin Blanc, il Viognier, il Gewürztraminer e il Semillon e sappi dove si coltivano.
-- **4.2.5 Marsanne / Roussanne e Melone di Borgogna** (Avanzato): Riconoscere la coppia di bianchi della Vallée du Rhône Settentrionale e il Melone di Borgogna, l’uva di Muscadet.
-- **4.2.6 Petit Verdot, Cinsault e Trousseau / Poulsard** (Avanzato): Riconoscere altri tre rossi francesi: il Petit Verdot del Bordeaux, il Cinsault del sud e il Trousseau e il Poulsard del Giura.
+- **4.2.3 Linguadoca-Rossiglione e Provenza** (Intermedio): Conosci il sud della Francia: i blend del Minervois, i vini varietali del Pays d’Oc e il rosé della Provenza.
+- **4.2.4 Cabernet Franc, Gamay e Grenache** (Intermedio): Riconosci il Cabernet Franc, il Gamay e il Grenache e sappi dove si coltivano.
+- **4.2.5 Chenin Blanc, Viognier, Gewürztraminer e Semillon** (Intermedio): Riconosci lo Chenin Blanc, il Viognier, il Gewürztraminer e il Semillon e sappi dove si coltivano.
+- **4.2.6 Marsanne / Roussanne e Melone di Borgogna** (Avanzato): Riconoscere la coppia di bianchi della Vallée du Rhône Settentrionale e il Melone di Borgogna, l’uva di Muscadet.
+- **4.2.7 Petit Verdot, Cinsault e Trousseau / Poulsard** (Avanzato): Riconoscere altri tre rossi francesi: il Petit Verdot del Bordeaux, il Cinsault del sud e il Trousseau e il Poulsard del Giura.
 
 ### 4.3 Italia
 

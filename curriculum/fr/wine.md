@@ -126,10 +126,11 @@ Régions et cépages, de Bordeaux au Rhône
 
 - **4.2.1 Bordeaux et Bourgogne** (Basique): Connaître Bordeaux et la Bourgogne, leurs cépages et leurs styles.
 - **4.2.2 Champagne, Alsace, Rhône et Loire** (Intermédiaire): Connaître les autres grandes régions françaises et leurs styles.
-- **4.2.3 Cabernet Franc, Gamay et Grenache** (Intermédiaire): Reconnaître le Cabernet Franc, le Gamay et le Grenache et savoir où ils sont cultivés.
-- **4.2.4 Chenin Blanc, Viognier, Gewurztraminer et Sémillon** (Intermédiaire): Reconnaître le Chenin Blanc, le Viognier, le Gewurztraminer et le Sémillon et savoir où ils sont cultivés.
-- **4.2.5 Marsanne / Roussanne et Melon de Bourgogne** (Avancé): Reconnaître la paire de blancs de la Vallée du Rhône Nord et le Melon de Bourgogne, le cépage du Muscadet.
-- **4.2.6 Petit Verdot, Cinsault et Trousseau / Poulsard** (Avancé): Reconnaître trois autres rouges français : le Petit Verdot de Bordeaux, le Cinsault du sud et le Trousseau et Poulsard du Jura.
+- **4.2.3 Languedoc-Roussillon et Provence** (Intermédiaire): Connaître le sud de la France : les assemblages du Minervois, les vins de cépage du Pays d’Oc et le rosé de Provence.
+- **4.2.4 Cabernet Franc, Gamay et Grenache** (Intermédiaire): Reconnaître le Cabernet Franc, le Gamay et le Grenache et savoir où ils sont cultivés.
+- **4.2.5 Chenin Blanc, Viognier, Gewurztraminer et Sémillon** (Intermédiaire): Reconnaître le Chenin Blanc, le Viognier, le Gewurztraminer et le Sémillon et savoir où ils sont cultivés.
+- **4.2.6 Marsanne / Roussanne et Melon de Bourgogne** (Avancé): Reconnaître la paire de blancs de la Vallée du Rhône Nord et le Melon de Bourgogne, le cépage du Muscadet.
+- **4.2.7 Petit Verdot, Cinsault et Trousseau / Poulsard** (Avancé): Reconnaître trois autres rouges français : le Petit Verdot de Bordeaux, le Cinsault du sud et le Trousseau et Poulsard du Jura.
 
 ### 4.3 Italie
 

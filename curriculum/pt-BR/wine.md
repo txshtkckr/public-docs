@@ -126,10 +126,11 @@ Regiões e uvas, de Bordeaux ao Rhône
 
 - **4.2.1 Bordeaux e Borgonha** (Básico): Conheça Bordeaux e a Borgonha, suas uvas e estilos.
 - **4.2.2 Champagne, Alsácia, Ródano e Vale do Loire** (Intermediário): Conheça as outras regiões clássicas da França e seus estilos.
-- **4.2.3 Cabernet Franc, Gamay e Grenache** (Intermediário): Reconheça as uvas Cabernet Franc, Gamay e Grenache e onde são cultivadas.
-- **4.2.4 Chenin Blanc, Viognier, Gewürztraminer e Semillon** (Intermediário): Reconheça as uvas Chenin Blanc, Viognier, Gewürztraminer e Semillon e onde são cultivadas.
-- **4.2.5 Marsanne / Roussanne e Melon de Bourgogne** (Avançado): Identifique o casal de brancos do Vale do Rhône Setentrional e a Melon de Bourgogne, a uva de Muscadet.
-- **4.2.6 Petit Verdot, Cinsault e Trousseau / Poulsard** (Avançado): Identifique três tintos franceses a mais: o Petit Verdot de Bordeaux, a Cinsault do sul e a Trousseau e Poulsard da Jura.
+- **4.2.3 Languedoc-Roussillon e Provence** (Intermediário): Conheça o sul da França: os blends de Minervois, os vinhos varietais de Pays d’Oc e o rosé de Provence.
+- **4.2.4 Cabernet Franc, Gamay e Grenache** (Intermediário): Reconheça as uvas Cabernet Franc, Gamay e Grenache e onde são cultivadas.
+- **4.2.5 Chenin Blanc, Viognier, Gewürztraminer e Semillon** (Intermediário): Reconheça as uvas Chenin Blanc, Viognier, Gewürztraminer e Semillon e onde são cultivadas.
+- **4.2.6 Marsanne / Roussanne e Melon de Bourgogne** (Avançado): Identifique o casal de brancos do Vale do Rhône Setentrional e a Melon de Bourgogne, a uva de Muscadet.
+- **4.2.7 Petit Verdot, Cinsault e Trousseau / Poulsard** (Avançado): Identifique três tintos franceses a mais: o Petit Verdot de Bordeaux, a Cinsault do sul e a Trousseau e Poulsard da Jura.
 
 ### 4.3 Itália
 
