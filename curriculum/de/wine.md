@@ -2,7 +2,7 @@
 
 Der Kurs ist in Bereiche gegliedert. Jeder Bereich fasst Lektionen zusammen, und jede Lektion behandelt ein oder mehrere Themen; zu jedem Thema steht, was du danach können solltest.
 
-Jedes Thema hat eine Stufe. Die Grundstufe umfasst das Wesentliche, um ein Getränk mit Sicherheit zu genießen und darüber zu sprechen. Die Mittelstufe ergänzt das Fundament begeisterter Kenner oder Einsteiger in der Branche. Die Oberstufe geht tiefer: in die Wissenschaft, die Feinheiten der Herstellung und die Regionen im Detail. Du wählst für jedes Getränk eine Stufe, und seine Lektionsliste zeigt die Themen bis zu dieser Stufe.
+Jedes Thema hat eine Stufe. Die Grundstufe umfasst das Wesentliche, um mit Sicherheit über das Fachgebiet zu sprechen. Die Mittelstufe ergänzt das Fundament begeisterter Kenner oder Einsteiger in der Branche. Die Oberstufe geht tiefer: in die Wissenschaft, die Feinheiten der Herstellung und die Regionen im Detail. Du wählst für jeden Kurs eine Stufe, und seine Lektionsliste zeigt die Themen bis zu dieser Stufe.
 
 ## 1. Woher Wein kommt
 

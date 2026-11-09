@@ -2,7 +2,7 @@
 
 Il corso è organizzato in percorsi. Ogni percorso raggruppa delle lezioni, e ogni lezione insegna uno o più argomenti; per ogni argomento è indicato ciò che dovresti saper fare alla fine.
 
-Ogni argomento ha un livello. Base copre l’essenziale per gustare una bevanda e parlarne con sicurezza. Intermedio aggiunge le basi di un appassionato o di chi inizia a lavorare nel settore. Avanzato va più a fondo: la scienza, i dettagli della produzione e le regioni nel dettaglio. Scegli un livello per ogni bevanda, e la sua lista di Lezioni mostra gli argomenti fino a quel livello.
+Ogni argomento ha un livello. Base copre l’essenziale per parlare della materia con sicurezza. Intermedio aggiunge le basi di un appassionato o di chi inizia a lavorare nel settore. Avanzato va più a fondo: la scienza, i dettagli della produzione e le regioni nel dettaglio. Scegli un livello per ogni corso, e la sua lista di Lezioni mostra gli argomenti fino a quel livello.
 
 ## 1. Come percepiamo una bevanda
 

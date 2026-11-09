@@ -2,7 +2,7 @@
 
 El curso se organiza en bloques. Cada bloque agrupa lecciones, y cada lección enseña uno o más temas; cada tema dice lo que deberías saber hacer al terminarlo.
 
-Cada tema tiene un nivel. Básico cubre lo esencial para disfrutar de una bebida y hablar de ella con confianza. Intermedio añade la base de un aficionado entusiasta o de alguien que empieza en el sector. Avanzado profundiza en la ciencia, los detalles de la elaboración y las regiones a fondo. Eliges un nivel para cada bebida, y su lista de Lecciones muestra los temas hasta ese nivel.
+Cada tema tiene un nivel. Básico cubre lo esencial para hablar de la materia con confianza. Intermedio añade la base de un aficionado entusiasta o de alguien que empieza en el sector. Avanzado profundiza en la ciencia, los detalles de la elaboración y las regiones a fondo. Eliges un nivel para cada curso, y su lista de Lecciones muestra los temas hasta ese nivel.
 
 ## 1. Arroz y elaboración
 

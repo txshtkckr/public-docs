@@ -2,7 +2,7 @@
 
 The course is organized in strands. Each strand groups lessons, and each lesson teaches one or more topics; every topic says what you should be able to do once you’ve finished it.
 
-Every topic has a level. Basic covers the essentials for enjoying and talking about a drink with confidence. Intermediate adds the grounding of a keen enthusiast or someone starting out in the trade. Advanced goes deeper, into the science, the finer points of production and regions in detail. You choose a level for each drink, and its Lessons list shows the topics up to that level.
+Every topic has a level. Basic covers the essentials, enough to talk about the subject with confidence. Intermediate adds the grounding of a keen enthusiast or someone starting out in the trade. Advanced goes deeper, into the science, the finer points of production, and regions in detail. You choose a level for each course, and its Lessons list shows the topics up to that level.
 
 ## 1. How spirits are made
 

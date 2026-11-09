@@ -2,7 +2,7 @@
 
 Le cours est organisé en volets. Chaque volet regroupe des leçons, et chaque leçon enseigne un ou plusieurs thèmes ; chaque thème indique ce que vous devriez savoir faire une fois terminé.
 
-Chaque thème a un niveau. Basique couvre l’essentiel pour apprécier une boisson et en parler avec assurance. Intermédiaire ajoute les bases d’un amateur passionné ou d’une personne qui débute dans le métier. Avancé va plus loin : la science, les subtilités de l’élaboration et les régions en détail. Vous choisissez un niveau pour chaque boisson, et sa liste de Leçons montre les thèmes jusqu’à ce niveau.
+Chaque thème a un niveau. Basique couvre l’essentiel pour parler du sujet avec assurance. Intermédiaire ajoute les bases d’un amateur passionné ou d’une personne qui débute dans le métier. Avancé va plus loin : la science, les subtilités de l’élaboration et les régions en détail. Vous choisissez un niveau pour chaque cours, et sa liste de Leçons montre les thèmes jusqu’à ce niveau.
 
 ## 1. Comment sont élaborées les spiritueux
 

@@ -2,7 +2,7 @@
 
 O curso é organizado em eixos. Cada eixo reúne lições, e cada lição ensina um ou mais temas; cada tema diz o que você deve saber fazer ao terminá-lo.
 
-Cada tema tem um nível. Básico cobre o essencial para apreciar uma bebida e falar sobre ela com confiança. Intermediário acrescenta a base de um entusiasta dedicado ou de quem está começando no setor. Avançado vai mais fundo: a ciência, os detalhes da produção e as regiões em detalhe. Você escolhe um nível para cada bebida, e a lista de Lições dela mostra os temas até esse nível.
+Cada tema tem um nível. Básico cobre o essencial para falar sobre o assunto com confiança. Intermediário acrescenta a base de um entusiasta dedicado ou de quem está começando no setor. Avançado vai mais fundo: a ciência, os detalhes da produção e as regiões em detalhe. Você escolhe um nível para cada curso, e a lista de Lições dele mostra os temas até esse nível.
 
 ## 1. Como percebemos uma bebida
 
