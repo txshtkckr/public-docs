@@ -19,26 +19,35 @@ From raw materials to bottle: the production process
 - **1.1.7 Maturation and finishing** (Intermediate): Explain how maturation and finishing in wood change a spirit.
 - **1.1.8 What shapes a spirit’s flavor** (Basic): Explain what shapes a spirit’s flavor, from raw material to still.
 
-### 1.2 Distillation & maturation science
+### 1.2 What each spirit is
+
+Gin, whisky, brandy, liqueurs and vermouth in brief
+
+- **1.2.1 Gin** (Basic): Explain what gin is and what London Dry means.
+- **1.2.2 Whisky** (Basic): Describe what whisky is made from and tell Scotch, Irish and American whiskey apart.
+- **1.2.3 Brandy** (Basic): Explain what brandy is made from and what VS, VSOP and XO mean on a Cognac label.
+- **1.2.4 Liqueurs and vermouth** (Basic): Explain what makes a liqueur and how vermouth differs from one.
+
+### 1.3 Distillation & maturation science
 
 Stills, congeners, oak and time
 
-- **1.2.1 Reflux, plates and cuts** (Advanced): Explain reflux, plates and how distillers make their cuts.
-- **1.2.2 Congeners and esters** (Advanced): Explain where congeners and esters come from and how a spirit is graded by them.
-- **1.2.3 Maturation chemistry** (Advanced): Explain the chemistry of maturation in oak.
-- **1.2.4 The compte system** (Advanced): Explain how the compte system counts a brandy’s age.
+- **1.3.1 Reflux, plates and cuts** (Advanced): Explain reflux, plates and how distillers make their cuts.
+- **1.3.2 Congeners and esters** (Advanced): Explain where congeners and esters come from and how a spirit is graded by them.
+- **1.3.3 Maturation chemistry** (Advanced): Explain the chemistry of maturation in oak.
+- **1.3.4 The compte system** (Advanced): Explain how the compte system counts a brandy’s age.
 
-### 1.3 Spirit tasting & evaluation
+### 1.4 Spirit tasting & evaluation
 
 Structured evaluation approaches for professional spirit tasting
 
-- **1.3.1 Getting started** (Basic): Compare two spirits with a structured method.
-- **1.3.2 Appearance** (Basic): Describe a spirit’s clarity and color.
-- **1.3.3 Aroma** (Basic): Describe a spirit’s aromas and how intense they are.
-- **1.3.4 Flavor** (Basic): Describe a spirit’s flavor, alcohol and body.
-- **1.3.5 Finish** (Basic): Describe a spirit’s finish.
-- **1.3.6 Assessing a spirit** (Basic): Assess a spirit’s quality and give reasons.
-- **1.3.7 Nosing at dilution** (Advanced): Use dilution and blind frameworks when nosing spirits.
+- **1.4.1 Getting started** (Basic): Compare two spirits with a structured method.
+- **1.4.2 Appearance** (Basic): Describe a spirit’s clarity and color.
+- **1.4.3 Aroma** (Basic): Describe a spirit’s aromas and how intense they are.
+- **1.4.4 Flavor** (Basic): Describe a spirit’s flavor, alcohol and body.
+- **1.4.5 Finish** (Basic): Describe a spirit’s finish.
+- **1.4.6 Assessing a spirit** (Basic): Assess a spirit’s quality and give reasons.
+- **1.4.7 Nosing at dilution** (Advanced): Use dilution and blind frameworks when nosing spirits.
 
 ## 2. Clear spirits
 
@@ -129,7 +138,7 @@ Agave spirits of Mexico
 - **4.1.10 Mezcal’s categories** (Intermediate): Distinguish mezcal’s production categories.
 - **4.1.11 The Mezcal DO** (Advanced): Describe the Mezcal Denomination of Origin.
 - **4.1.12 Mezcal labels and aging** (Advanced): Interpret mezcal labeling and aging terms.
-- **4.1.13 Tasting tequila and mezcal** (Basic): Compare a tequila with a mezcal.
+- **4.1.13 Tasting tequila and mezcal** (Intermediate): Compare a tequila with a mezcal.
 
 ### 4.2 Liqueurs & aromatized wines
 

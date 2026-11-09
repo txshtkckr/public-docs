@@ -19,26 +19,35 @@ Des matières premières à la bouteille : le processus de production
 - **1.1.7 Vieillissement et finition** (Intermédiaire): Expliquez comment le vieillissement et la finition en fût de bois transforment un spiritueux.
 - **1.1.8 Ce qui façonne la saveur d’un spiritueux** (Basique): Expliquez ce qui façonne la saveur d’un spiritueux, de la matière première à l’alambic.
 
-### 1.2 Science de la distillation et du vieillissement
+### 1.2 Ce qu’est chaque spiritueux
+
+Le gin, le whisky, le brandy, les liqueurs et le vermouth en bref
+
+- **1.2.1 Le gin** (Basique): Expliquer ce qu’est le gin et ce que signifie London Dry.
+- **1.2.2 Le whisky** (Basique): Décrire de quoi est fait le whisky et distinguer le scotch, le whiskey irlandais et le whiskey américain.
+- **1.2.3 Le brandy** (Basique): Expliquer de quoi est fait le brandy et ce que signifient VS, VSOP et XO sur une étiquette de cognac.
+- **1.2.4 Les liqueurs et le vermouth** (Basique): Expliquer ce qui fait une liqueur et en quoi le vermouth en diffère.
+
+### 1.3 Science de la distillation et du vieillissement
 
 Alambics, congénères, chêne et temps
 
-- **1.2.1 Reflux, plateaux et coupes** (Avancé): Expliquez le reflux, les plateaux et la manière dont les distillateurs effectuent leurs coupes.
-- **1.2.2 Congénères et esters** (Avancé): Expliquez l’origine des congénères et des esters et comment un spiritueux est évalué selon leur teneur.
-- **1.2.3 Chimie du vieillissement** (Avancé): Expliquez la chimie du vieillissement en fût de chêne.
-- **1.2.4 Le système des comptes** (Avancé): Expliquez comment le système des comptes détermine l’âge d’un brandy.
+- **1.3.1 Reflux, plateaux et coupes** (Avancé): Expliquez le reflux, les plateaux et la manière dont les distillateurs effectuent leurs coupes.
+- **1.3.2 Congénères et esters** (Avancé): Expliquez l’origine des congénères et des esters et comment un spiritueux est évalué selon leur teneur.
+- **1.3.3 Chimie du vieillissement** (Avancé): Expliquez la chimie du vieillissement en fût de chêne.
+- **1.3.4 Le système des comptes** (Avancé): Expliquez comment le système des comptes détermine l’âge d’un brandy.
 
-### 1.3 Dégustation et évaluation de l’alcool
+### 1.4 Dégustation et évaluation de l’alcool
 
 Approches d’évaluation structurées pour la dégustation professionnelle d’alcools
 
-- **1.3.1 Pour commencer** (Basique): Comparez deux spiritueux avec une méthode structurée.
-- **1.3.2 Aspect** (Basique): Décrivez la limpidité et la couleur d’un spiritueux.
-- **1.3.3 Arôme** (Basique): Décrivez les arômes d’un spiritueux et leur intensité.
-- **1.3.4 Saveur** (Basique): Décrivez la saveur, l’alcool et le corps d’un spiritueux.
-- **1.3.5 Finale** (Basique): Décrivez la finale d’un spiritueux.
-- **1.3.6 Évaluer un spiritueux** (Basique): Évaluez la qualité d’un spiritueux et justifiez votre jugement.
-- **1.3.7 Le nez avec dilution** (Avancé): Utilisez la dilution et les cadres de dégustation à l’aveugle pour sentir les spiritueux.
+- **1.4.1 Pour commencer** (Basique): Comparez deux spiritueux avec une méthode structurée.
+- **1.4.2 Aspect** (Basique): Décrivez la limpidité et la couleur d’un spiritueux.
+- **1.4.3 Arôme** (Basique): Décrivez les arômes d’un spiritueux et leur intensité.
+- **1.4.4 Saveur** (Basique): Décrivez la saveur, l’alcool et le corps d’un spiritueux.
+- **1.4.5 Finale** (Basique): Décrivez la finale d’un spiritueux.
+- **1.4.6 Évaluer un spiritueux** (Basique): Évaluez la qualité d’un spiritueux et justifiez votre jugement.
+- **1.4.7 Le nez avec dilution** (Avancé): Utilisez la dilution et les cadres de dégustation à l’aveugle pour sentir les spiritueux.
 
 ## 2. Spiritueux incolores
 
@@ -129,7 +138,7 @@ Les alcools d’agave du Mexique
 - **4.1.10 Les catégories de mezcal** (Intermédiaire): Distinguez les catégories de production du mezcal.
 - **4.1.11 L’AOC du mezcal** (Avancé): Décrivez l’appellation d’origine du mezcal (Denominación de Origen Mezcal).
 - **4.1.12 Étiquettes et vieillissement du mezcal** (Avancé): Interprétez les mentions d’étiquetage et les termes de vieillissement du mezcal.
-- **4.1.13 Déguster la tequila et le mezcal** (Basique): Comparez une tequila et un mezcal.
+- **4.1.13 Déguster la tequila et le mezcal** (Intermédiaire): Comparez une tequila et un mezcal.
 
 ### 4.2 Liqueurs et vins aromatisés
 

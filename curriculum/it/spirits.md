@@ -19,26 +19,35 @@ Dalle materie prime alla bottiglia: il processo di produzione
 - **1.1.7 Maturazione e affinamento** (Intermedio): Spiega come la maturazione e l’affinamento in legno cambiano un distillato.
 - **1.1.8 Cosa determina il sapore di un distillato** (Base): Spiega cosa determina il sapore di un distillato, dalla materia prima all’alambicco.
 
-### 1.2 Scienza della distillazione e dell’invecchiamento
+### 1.2 Che cos’è ogni distillato
+
+Gin, whisky, brandy, liquori e vermut in breve
+
+- **1.2.1 Gin** (Base): Spiegare che cos’è il gin e che cosa significa London Dry.
+- **1.2.2 Whisky** (Base): Descrivere da che cosa si ricava il whisky e distinguere lo Scotch, l’irlandese e l’americano.
+- **1.2.3 Brandy** (Base): Spiegare da che cosa si ricava il brandy e che cosa significano VS, VSOP e XO sull’etichetta di un Cognac.
+- **1.2.4 Liquori e vermut** (Base): Spiegare che cosa rende tale un liquore e in che cosa il vermut se ne distingue.
+
+### 1.3 Scienza della distillazione e dell’invecchiamento
 
 Alambicchi, congeneri, rovere e tempo
 
-- **1.2.1 Riflusso, piatti e tagli** (Avanzato): Spiega il riflusso, i piatti e come i distillatori effettuano i tagli.
-- **1.2.2 Congeneri ed esteri** (Avanzato): Spiega da dove provengono congeneri ed esteri e come un distillato viene classificato in base a essi.
-- **1.2.3 La chimica della maturazione** (Avanzato): Spiega la chimica della maturazione nel rovere.
-- **1.2.4 Il sistema dei compte** (Avanzato): Spiega come il sistema dei compte indica l’età di un brandy.
+- **1.3.1 Riflusso, piatti e tagli** (Avanzato): Spiega il riflusso, i piatti e come i distillatori effettuano i tagli.
+- **1.3.2 Congeneri ed esteri** (Avanzato): Spiega da dove provengono congeneri ed esteri e come un distillato viene classificato in base a essi.
+- **1.3.3 La chimica della maturazione** (Avanzato): Spiega la chimica della maturazione nel rovere.
+- **1.3.4 Il sistema dei compte** (Avanzato): Spiega come il sistema dei compte indica l’età di un brandy.
 
-### 1.3 Degustazione e valutazione dei distillati
+### 1.4 Degustazione e valutazione dei distillati
 
 Approcci di valutazione strutturata per la degustazione professionale di distillati
 
-- **1.3.1 Per iniziare** (Base): Confronta due distillati con un metodo strutturato.
-- **1.3.2 Aspetto** (Base): Descrivi la limpidezza e il colore di un distillato.
-- **1.3.3 Aroma** (Base): Descrivi gli aromi di un distillato e la loro intensità.
-- **1.3.4 Sapore** (Base): Descrivi il sapore, il grado alcolico e il corpo di un distillato.
-- **1.3.5 Finale** (Base): Descrivi il finale di un distillato.
-- **1.3.6 Valutare un distillato** (Base): Valuta la qualità di un distillato e motiva il tuo giudizio.
-- **1.3.7 Olfatto con diluizione** (Avanzato): Usa gli schemi di diluizione e di degustazione alla cieca quando annusi i distillati.
+- **1.4.1 Per iniziare** (Base): Confronta due distillati con un metodo strutturato.
+- **1.4.2 Aspetto** (Base): Descrivi la limpidezza e il colore di un distillato.
+- **1.4.3 Aroma** (Base): Descrivi gli aromi di un distillato e la loro intensità.
+- **1.4.4 Sapore** (Base): Descrivi il sapore, il grado alcolico e il corpo di un distillato.
+- **1.4.5 Finale** (Base): Descrivi il finale di un distillato.
+- **1.4.6 Valutare un distillato** (Base): Valuta la qualità di un distillato e motiva il tuo giudizio.
+- **1.4.7 Olfatto con diluizione** (Avanzato): Usa gli schemi di diluizione e di degustazione alla cieca quando annusi i distillati.
 
 ## 2. Distillati chiari
 
@@ -129,7 +138,7 @@ Distillati d’agave del Messico
 - **4.1.10 Le categorie del mezcal** (Intermedio): Distingui le categorie di produzione del mezcal.
 - **4.1.11 La DO del Mezcal** (Avanzato): Descrivi la Denominazione di Origine del Mezcal.
 - **4.1.12 Etichette e invecchiamento del mezcal** (Avanzato): Interpreta i termini presenti in etichetta e relativi all’invecchiamento del mezcal.
-- **4.1.13 Degustare tequila e mezcal** (Base): Confronta un tequila con un mezcal.
+- **4.1.13 Degustare tequila e mezcal** (Intermedio): Confronta un tequila con un mezcal.
 
 ### 4.2 Liquori e vini aromatizzati
 

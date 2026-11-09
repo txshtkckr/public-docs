@@ -135,7 +135,7 @@ Temperatur, Gläserwahl, Speisenkombination & Fasssysteme
 - **4.1.4 Lagerung** (Mittelstufe): Lagere Bier so, dass es frisch bleibt, und erkläre Filtration und Pasteurisation.
 - **4.1.5 Stabilität der Abfüllung** (Oberstufe): Erkläre, wie Pasteurisation, Filtration und sterile Abfüllung ein Bier stabil halten.
 - **4.1.6 Keg und Cask** (Mittelstufe): Erkläre, wie Keg, Cask und Fassbiersysteme funktionieren und wie Cask-Bier gelagert wird.
-- **4.1.7 Technik der Schankanlage** (Oberstufe): Erkläre, wie eine Schankanlage hinsichtlich Gas, Druck und Temperatur abgestimmt wird.
+- **4.1.7 Technik der Schankanlage** (Mittelstufe): Erkläre, wie eine Schankanlage hinsichtlich Gas, Druck und Temperatur abgestimmt wird.
 - **4.1.8 Verantwortungsvoller Ausschank** (Grundstufe): Schenke Bier verantwortungsvoll aus und verweigere bei Bedarf den Ausschank.
 
 ### 4.2 Fehlgeschmäcker & Bierfehler
@@ -146,7 +146,7 @@ Häufige Mängel erkennen und verhindern
 - **4.2.2 Diacetyl und Acetaldehyd** (Mittelstufe): Erkenne Diacetyl und Acetaldehyd und nenne ihre Ursachen.
 - **4.2.3 Fuselalkohole** (Mittelstufe): Erkenne Fuselalkohole und benenne ihre Ursachen.
 - **4.2.4 Ester** (Mittelstufe): Erkenne Esterfehler und wann Ester erwünscht sind.
-- **4.2.5 DMS und Phenole** (Oberstufe): Erkenne DMS- und Phenolfehler und benenne ihre Ursachen.
+- **4.2.5 DMS und Phenole** (Mittelstufe): Erkenne DMS- und Phenolfehler und benenne ihre Ursachen.
 - **4.2.6 Oxidation und Kontamination** (Mittelstufe): Erkenne Oxidation und Kontamination und wie du ihnen vorbeugst.
 - **4.2.7 Lichtgeschmack und die Referenztabelle** (Mittelstufe): Erkenne Lichtgeschmack und nutze die Referenztabelle für Fehlaromen.
 - **4.2.8 Schwellenwerttraining** (Oberstufe): Erkläre, wie Verkostungspanels mit dotierten Bieren trainieren und Schwellenwerte messen.

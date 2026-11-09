@@ -37,7 +37,7 @@ Systematic evaluation framework & guided red wine tasting
 
 Still, sparkling, sweet and fortified wines
 
-- **3.1.1 Styles of wine** (Intermediate): Name the main styles of wine and how a grape becomes each.
+- **3.1.1 Styles of wine** (Basic): Name the main styles of wine and how a grape becomes each.
 
 ### 3.2 Red winemaking
 

@@ -19,26 +19,35 @@ De la materia prima a la botella: el proceso de producción
 - **1.1.7 Maduración y acabado** (Intermedio): Explica cómo la maduración y el acabado en madera transforman un destilado.
 - **1.1.8 Qué da forma al sabor de un destilado** (Básico): Explica qué da forma al sabor de un destilado, desde la materia prima hasta el alambique.
 
-### 1.2 Ciencia de la destilación y la crianza
+### 1.2 Qué es cada destilado
+
+Ginebra, whisky, brandy, licores y vermut en resumen
+
+- **1.2.1 Ginebra** (Básico): Explicar qué es la ginebra y qué significa London Dry.
+- **1.2.2 Whisky** (Básico): Describir de qué se hace el whisky y distinguir el escocés, el irlandés y el estadounidense.
+- **1.2.3 Brandy** (Básico): Explicar de qué se hace el brandy y qué significan VS, VSOP y XO en una etiqueta de coñac.
+- **1.2.4 Licores y vermut** (Básico): Explicar qué hace que un licor lo sea y en qué se diferencia el vermut.
+
+### 1.3 Ciencia de la destilación y la crianza
 
 Alambiques, congéneres, roble y tiempo
 
-- **1.2.1 Reflujo, platos y cortes** (Avanzado): Explica el reflujo, los platos y cómo hacen sus cortes los destiladores.
-- **1.2.2 Congéneres y ésteres** (Avanzado): Explica de dónde provienen los congéneres y los ésteres y cómo se clasifica un destilado según ellos.
-- **1.2.3 Química de la maduración** (Avanzado): Explica la química de la maduración en roble.
-- **1.2.4 El sistema compte** (Avanzado): Explica cómo el sistema compte cuenta la edad de un brandy.
+- **1.3.1 Reflujo, platos y cortes** (Avanzado): Explica el reflujo, los platos y cómo hacen sus cortes los destiladores.
+- **1.3.2 Congéneres y ésteres** (Avanzado): Explica de dónde provienen los congéneres y los ésteres y cómo se clasifica un destilado según ellos.
+- **1.3.3 Química de la maduración** (Avanzado): Explica la química de la maduración en roble.
+- **1.3.4 El sistema compte** (Avanzado): Explica cómo el sistema compte cuenta la edad de un brandy.
 
-### 1.3 Cata y evaluación de destilados
+### 1.4 Cata y evaluación de destilados
 
 Enfoques de evaluación estructurados para catas profesionales de destilados
 
-- **1.3.1 Primeros pasos** (Básico): Compara dos destilados con un método estructurado.
-- **1.3.2 Aspecto** (Básico): Describe la limpidez y el color de un destilado.
-- **1.3.3 Aroma** (Básico): Describe los aromas de un destilado y su intensidad.
-- **1.3.4 Sabor** (Básico): Describe el sabor, el alcohol y el cuerpo de un destilado.
-- **1.3.5 Final** (Básico): Describe el final de un destilado.
-- **1.3.6 Evaluar un destilado** (Básico): Evalúa la calidad de un destilado y justifica tu valoración.
-- **1.3.7 Nariz con dilución** (Avanzado): Usa marcos de dilución y de cata a ciegas al oler destilados.
+- **1.4.1 Primeros pasos** (Básico): Compara dos destilados con un método estructurado.
+- **1.4.2 Aspecto** (Básico): Describe la limpidez y el color de un destilado.
+- **1.4.3 Aroma** (Básico): Describe los aromas de un destilado y su intensidad.
+- **1.4.4 Sabor** (Básico): Describe el sabor, el alcohol y el cuerpo de un destilado.
+- **1.4.5 Final** (Básico): Describe el final de un destilado.
+- **1.4.6 Evaluar un destilado** (Básico): Evalúa la calidad de un destilado y justifica tu valoración.
+- **1.4.7 Nariz con dilución** (Avanzado): Usa marcos de dilución y de cata a ciegas al oler destilados.
 
 ## 2. Destilados incoloros
 
@@ -129,7 +138,7 @@ Destilados de agave de México
 - **4.1.10 Las categorías del mezcal** (Intermedio): Distingue las categorías de producción del mezcal.
 - **4.1.11 La DO Mezcal** (Avanzado): Describe la Denominación de Origen Mezcal.
 - **4.1.12 Etiquetas y añejamiento del mezcal** (Avanzado): Interpreta el etiquetado del mezcal y los términos de añejamiento.
-- **4.1.13 Cata de tequila y mezcal** (Básico): Compara un tequila con un mezcal.
+- **4.1.13 Cata de tequila y mezcal** (Intermedio): Compara un tequila con un mezcal.
 
 ### 4.2 Licores y vinos aromatizados
 

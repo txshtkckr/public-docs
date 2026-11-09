@@ -135,7 +135,7 @@ Temperatura, bicchieri, abbinamenti con il cibo e sistemi di spillatura
 - **4.1.4 Conservazione** (Intermedio): Conservare la birra per mantenerla fresca e spiegare filtrazione e pastorizzazione.
 - **4.1.5 Stabilità del confezionamento** (Avanzato): Spiegare come pastorizzazione, filtrazione e riempimento sterile mantengono stabile una birra.
 - **4.1.6 Fusto e cask** (Intermedio): Spiegare come funzionano i sistemi con fusto, cask e birra alla spina e come si conserva la cask beer.
-- **4.1.7 Ingegneria dell’impianto di spillatura** (Avanzato): Spiegare come si bilancia un impianto di spillatura per gas, pressione e temperatura.
+- **4.1.7 Ingegneria dell’impianto di spillatura** (Intermedio): Spiegare come si bilancia un impianto di spillatura per gas, pressione e temperatura.
 - **4.1.8 Servizio responsabile** (Base): Servire la birra in modo responsabile e rifiutare il servizio quando necessario.
 
 ### 4.2 Difetti e alterazioni della birra
@@ -146,7 +146,7 @@ Identificazione e prevenzione dei difetti comuni
 - **4.2.2 Diacetile e acetaldeide** (Intermedio): Riconoscere diacetile e acetaldeide e indicarne le cause.
 - **4.2.3 Alcoli superiori** (Intermedio): Riconosci gli alcoli superiori e individua le loro cause.
 - **4.2.4 Esteri** (Intermedio): Riconosci i difetti legati agli esteri e quando gli esteri sono desiderati.
-- **4.2.5 DMS e fenoli** (Avanzato): Riconosci i difetti da DMS e da fenoli e individua le loro cause.
+- **4.2.5 DMS e fenoli** (Intermedio): Riconosci i difetti da DMS e da fenoli e individua le loro cause.
 - **4.2.6 Ossidazione e contaminazione** (Intermedio): Riconosci l’ossidazione e la contaminazione e come prevenirle.
 - **4.2.7 Gusto di luce e tabella di riferimento** (Intermedio): Riconosci il gusto di luce e usa la tabella di riferimento dei difetti aromatici.
 - **4.2.8 Allenamento alle soglie** (Avanzato): Spiega come i panel si allenano con birre addizionate e misurano le soglie.

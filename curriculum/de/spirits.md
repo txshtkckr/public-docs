@@ -19,26 +19,35 @@ Von Rohstoffen bis zur Flasche: Der Herstellungsprozess
 - **1.1.7 Reifung und Finish** (Mittelstufe): Erkläre, wie Reifung und Finish im Holz eine Spirituose verändern.
 - **1.1.8 Was das Aroma einer Spirituose prägt** (Grundstufe): Erkläre, was das Aroma einer Spirituose prägt – vom Rohstoff bis zur Brennanlage.
 
-### 1.2 Destillation und Reifung: die Wissenschaft
+### 1.2 Was jede Spirituose ist
+
+Gin, Whisky, Brandy, Likör und Wermut im Überblick
+
+- **1.2.1 Gin** (Grundstufe): Erkläre, was Gin ist und was London Dry bedeutet.
+- **1.2.2 Whisky** (Grundstufe): Beschreibe, woraus Whisky gemacht wird, und unterscheide Scotch, irischen und amerikanischen Whiskey.
+- **1.2.3 Brandy** (Grundstufe): Erkläre, woraus Brandy gemacht wird und was VS, VSOP und XO auf einem Cognac-Etikett bedeuten.
+- **1.2.4 Likör und Wermut** (Grundstufe): Erkläre, was einen Likör ausmacht und worin sich Wermut davon unterscheidet.
+
+### 1.3 Destillation und Reifung: die Wissenschaft
 
 Brennblasen, Begleitstoffe, Eiche und Zeit
 
-- **1.2.1 Rückfluss, Böden und Schnitte** (Oberstufe): Erkläre Rückfluss, Böden und wie Brenner ihre Schnitte setzen.
-- **1.2.2 Congeners und Ester** (Oberstufe): Erkläre, woher Congeners und Ester stammen und wie eine Spirituose danach eingestuft wird.
-- **1.2.3 Chemie der Reifung** (Oberstufe): Erkläre die Chemie der Reifung in Eiche.
-- **1.2.4 Das Compte-System** (Oberstufe): Erkläre, wie das Compte-System das Alter eines Brandys zählt.
+- **1.3.1 Rückfluss, Böden und Schnitte** (Oberstufe): Erkläre Rückfluss, Böden und wie Brenner ihre Schnitte setzen.
+- **1.3.2 Congeners und Ester** (Oberstufe): Erkläre, woher Congeners und Ester stammen und wie eine Spirituose danach eingestuft wird.
+- **1.3.3 Chemie der Reifung** (Oberstufe): Erkläre die Chemie der Reifung in Eiche.
+- **1.3.4 Das Compte-System** (Oberstufe): Erkläre, wie das Compte-System das Alter eines Brandys zählt.
 
-### 1.3 Spirituosenverkostung & Bewertung
+### 1.4 Spirituosenverkostung & Bewertung
 
 Strukturierte Bewertungsansätze für professionelle Spirituosenverkostungen
 
-- **1.3.1 Los geht’s** (Grundstufe): Vergleiche zwei Spirituosen mit einer strukturierten Methode.
-- **1.3.2 Aussehen** (Grundstufe): Beschreibe Klarheit und Farbe einer Spirituose.
-- **1.3.3 Aroma** (Grundstufe): Beschreibe die Aromen einer Spirituose und wie intensiv sie sind.
-- **1.3.4 Geschmack** (Grundstufe): Beschreibe Aroma, Alkohol und Körper eines Spirituosenprodukts.
-- **1.3.5 Abgang** (Grundstufe): Beschreibe den Abgang einer Spirituose.
-- **1.3.6 Eine Spirituose beurteilen** (Grundstufe): Beurteile die Qualität einer Spirituose und begründe dein Urteil.
-- **1.3.7 Nosing mit Wasserzugabe** (Oberstufe): Nutze beim Nosing von Spirituosen Verdünnungs- und Blindverkostungsschemata.
+- **1.4.1 Los geht’s** (Grundstufe): Vergleiche zwei Spirituosen mit einer strukturierten Methode.
+- **1.4.2 Aussehen** (Grundstufe): Beschreibe Klarheit und Farbe einer Spirituose.
+- **1.4.3 Aroma** (Grundstufe): Beschreibe die Aromen einer Spirituose und wie intensiv sie sind.
+- **1.4.4 Geschmack** (Grundstufe): Beschreibe Aroma, Alkohol und Körper eines Spirituosenprodukts.
+- **1.4.5 Abgang** (Grundstufe): Beschreibe den Abgang einer Spirituose.
+- **1.4.6 Eine Spirituose beurteilen** (Grundstufe): Beurteile die Qualität einer Spirituose und begründe dein Urteil.
+- **1.4.7 Nosing mit Wasserzugabe** (Oberstufe): Nutze beim Nosing von Spirituosen Verdünnungs- und Blindverkostungsschemata.
 
 ## 2. Klare Spirituosen
 
@@ -129,7 +138,7 @@ Agaven-Spirituosen aus Mexiko
 - **4.1.10 Die Kategorien des Mezcal** (Mittelstufe): Unterscheide die Produktionskategorien von Mezcal.
 - **4.1.11 Die Mezcal-DO** (Oberstufe): Beschreibe die geschützte Ursprungsbezeichnung (DO) für Mezcal.
 - **4.1.12 Mezcal-Etiketten und Reifung** (Oberstufe): Deute die Etikettenangaben und Reifebezeichnungen bei Mezcal.
-- **4.1.13 Tequila und Mezcal verkosten** (Grundstufe): Vergleiche einen Tequila mit einem Mezcal.
+- **4.1.13 Tequila und Mezcal verkosten** (Mittelstufe): Vergleiche einen Tequila mit einem Mezcal.
 
 ### 4.2 Liköre und aromatisierte Weine
 

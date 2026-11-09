@@ -135,7 +135,7 @@ Température, verrerie, accords mets-bière et systèmes à la pression
 - **4.1.4 Conservation** (Intermédiaire): Conserver la bière pour préserver sa fraîcheur, et expliquer la filtration et la pasteurisation.
 - **4.1.5 Stabilité du conditionnement** (Avancé): Expliquer comment la pasteurisation, la filtration et le remplissage stérile assurent la stabilité d’une bière.
 - **4.1.6 Fût et cask** (Intermédiaire): Expliquer le fonctionnement des systèmes de fût, de cask et de bière pression, et comment la bière de cask est conservée.
-- **4.1.7 Ingénierie des systèmes de bière pression** (Avancé): Expliquer comment un système de bière pression est équilibré en termes de gaz, de pression et de température.
+- **4.1.7 Ingénierie des systèmes de bière pression** (Intermédiaire): Expliquer comment un système de bière pression est équilibré en termes de gaz, de pression et de température.
 - **4.1.8 Service responsable** (Basique): Servir la bière de façon responsable et refuser de servir lorsque c’est nécessaire.
 
 ### 4.2 Les défauts de saveur et les défauts de la bière
@@ -146,7 +146,7 @@ Identifier et prévenir les défauts courants
 - **4.2.2 Diacétyle et acétaldéhyde** (Intermédiaire): Reconnaître le diacétyle et l’acétaldéhyde et en identifier les causes.
 - **4.2.3 Alcools de fusel** (Intermédiaire): Reconnaître les alcools de fusel et en citer les causes.
 - **4.2.4 Esters** (Intermédiaire): Reconnaître les défauts liés aux esters et savoir quand les esters sont recherchés.
-- **4.2.5 DMS et phénols** (Avancé): Reconnaître les défauts liés au DMS et aux phénols et en citer les causes.
+- **4.2.5 DMS et phénols** (Intermédiaire): Reconnaître les défauts liés au DMS et aux phénols et en citer les causes.
 - **4.2.6 Oxydation et contamination** (Intermédiaire): Reconnaître l’oxydation et la contamination et savoir comment les prévenir.
 - **4.2.7 Goût de lumière et tableau de référence** (Intermédiaire): Reconnaître le goût de lumière et utiliser le tableau de référence des faux-goûts.
 - **4.2.8 Entraînement aux seuils de perception** (Avancé): Expliquer comment les panels s’entraînent avec des bières dopées et mesurent les seuils de perception.

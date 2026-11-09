@@ -37,7 +37,7 @@ Systematisches Bewertungsframework und geführte Rotweinverkostung
 
 Stillwein, Schaumwein, Süßwein und Likörwein
 
-- **3.1.1 Weinstile** (Mittelstufe): Nenne die wichtigsten Weinstile und wie eine Traube zu jedem davon wird.
+- **3.1.1 Weinstile** (Grundstufe): Nenne die wichtigsten Weinstile und wie eine Traube zu jedem davon wird.
 
 ### 3.2 Rotweinbereitung
 

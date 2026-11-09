@@ -37,7 +37,7 @@ Marco de avaliação sistemática e degustação guiada de vinho tinto
 
 Vinhos tranquilos, espumantes, doces e fortificados
 
-- **3.1.1 Estilos de vinho** (Intermediário): Nomeie os principais estilos de vinho e como uma uva se transforma em cada um.
+- **3.1.1 Estilos de vinho** (Básico): Nomeie os principais estilos de vinho e como uma uva se transforma em cada um.
 
 ### 3.2 Produção de vinho tinto
 

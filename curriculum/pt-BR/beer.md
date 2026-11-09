@@ -135,7 +135,7 @@ Temperatura, vidraria, harmonização com comida e sistemas de chope
 - **4.1.4 Armazenamento** (Intermediário): Armazene a cerveja para mantê-la fresca e explique a filtração e a pasteurização.
 - **4.1.5 Estabilidade da embalagem** (Avançado): Explique como a pasteurização, a filtração e o envase estéril mantêm a cerveja estável.
 - **4.1.6 Barril e cask** (Intermediário): Explique como funcionam os sistemas de barril, cask e chope e como a cerveja cask é conservada.
-- **4.1.7 Engenharia do sistema de chope** (Avançado): Explique como um sistema de chope é balanceado em relação a gás, pressão e temperatura.
+- **4.1.7 Engenharia do sistema de chope** (Intermediário): Explique como um sistema de chope é balanceado em relação a gás, pressão e temperatura.
 - **4.1.8 Serviço responsável** (Básico): Sirva cerveja de forma responsável e recuse o serviço quando necessário.
 
 ### 4.2 Sabores desagradáveis e defeitos em cerveja
@@ -146,7 +146,7 @@ Identificação e prevenção de defeitos comuns
 - **4.2.2 Diacetil e acetaldeído** (Intermediário): Reconheça o diacetil e o acetaldeído e identifique suas causas.
 - **4.2.3 Álcoois superiores (fúsel)** (Intermediário): Reconheça os álcoois superiores e identifique suas causas.
 - **4.2.4 Ésteres** (Intermediário): Reconheça os defeitos causados por ésteres e saiba quando eles são desejáveis.
-- **4.2.5 DMS e fenólicos** (Avançado): Reconheça os defeitos de DMS e de compostos fenólicos e identifique suas causas.
+- **4.2.5 DMS e fenólicos** (Intermediário): Reconheça os defeitos de DMS e de compostos fenólicos e identifique suas causas.
 - **4.2.6 Oxidação e contaminação** (Intermediário): Reconheça a oxidação e a contaminação e saiba como preveni-las.
 - **4.2.7 Light-strike (efeito da luz) e tabela de referência** (Intermediário): Reconheça o light-strike e use a tabela de referência de sabores indesejados.
 - **4.2.8 Treinamento de limiares** (Avançado): Explique como os painéis são treinados com cervejas contaminadas de propósito e como medem os limiares de percepção.

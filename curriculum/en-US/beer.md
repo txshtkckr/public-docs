@@ -135,7 +135,7 @@ Temperature, glassware, food pairing & draft systems
 - **4.1.4 Storage** (Intermediate): Store beer to keep it fresh, and explain filtration and pasteurization.
 - **4.1.5 Packaging stability** (Advanced): Explain how pasteurization, filtration and sterile filling keep a beer stable.
 - **4.1.6 Keg and cask** (Intermediate): Explain how keg, cask and draft systems work and how cask beer is kept.
-- **4.1.7 Draft system engineering** (Advanced): Explain how a draft system is balanced for gas, pressure and temperature.
+- **4.1.7 Draft system engineering** (Intermediate): Explain how a draft system is balanced for gas, pressure and temperature.
 - **4.1.8 Responsible service** (Basic): Serve beer responsibly and refuse service when needed.
 
 ### 4.2 Off-flavors & beer faults
@@ -146,7 +146,7 @@ Identifying and preventing common defects
 - **4.2.2 Diacetyl and acetaldehyde** (Intermediate): Recognize diacetyl and acetaldehyde and name their causes.
 - **4.2.3 Fusel alcohols** (Intermediate): Recognize fusel alcohols and name their causes.
 - **4.2.4 Esters** (Intermediate): Recognize ester faults and when esters are wanted.
-- **4.2.5 DMS and phenolics** (Advanced): Recognize DMS and phenolic faults and name their causes.
+- **4.2.5 DMS and phenolics** (Intermediate): Recognize DMS and phenolic faults and name their causes.
 - **4.2.6 Oxidation and contamination** (Intermediate): Recognize oxidation and contamination and how to prevent them.
 - **4.2.7 Light-strike and the reference table** (Intermediate): Recognize light-strike and use the off-flavor reference table.
 - **4.2.8 Threshold training** (Advanced): Explain how panels train on spiked beers and measure thresholds.

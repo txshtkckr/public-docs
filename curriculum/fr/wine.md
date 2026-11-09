@@ -37,7 +37,7 @@ Cadre d’évaluation systématique et dégustation guidée de vin rouge
 
 Vins tranquilles, effervescents, doux et mutés
 
-- **3.1.1 Les styles de vin** (Intermédiaire): Nommez les principaux styles de vin et la manière dont un raisin devient chacun d’eux.
+- **3.1.1 Les styles de vin** (Basique): Nommez les principaux styles de vin et la manière dont un raisin devient chacun d’eux.
 
 ### 3.2 Vinification en rouge
 

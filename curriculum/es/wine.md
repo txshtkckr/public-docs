@@ -37,7 +37,7 @@ Marco sistemático de evaluación y cata guiada de vinos tintos
 
 Vinos tranquilos, espumosos, dulces y generosos
 
-- **3.1.1 Estilos de vino** (Intermedio): Nombra los principales estilos de vino y cómo una uva se convierte en cada uno.
+- **3.1.1 Estilos de vino** (Básico): Nombra los principales estilos de vino y cómo una uva se convierte en cada uno.
 
 ### 3.2 Vinificación de vinos tintos
 

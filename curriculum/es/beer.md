@@ -135,7 +135,7 @@ Temperatura, cristalería, maridaje con alimentos y sistemas de barril
 - **4.1.4 Almacenamiento** (Intermedio): Almacena la cerveza para mantenerla fresca y explica la filtración y la pasteurización.
 - **4.1.5 Estabilidad del envasado** (Avanzado): Explica cómo la pasteurización, la filtración y el llenado estéril mantienen estable una cerveza.
 - **4.1.6 Barril y cask** (Intermedio): Explica cómo funcionan los sistemas de barril, cask y cerveza de grifo, y cómo se conserva la cerveza cask.
-- **4.1.7 Ingeniería del sistema de cerveza de barril** (Avanzado): Explica cómo se equilibra un sistema de cerveza de barril en cuanto a gas, presión y temperatura.
+- **4.1.7 Ingeniería del sistema de cerveza de barril** (Intermedio): Explica cómo se equilibra un sistema de cerveza de barril en cuanto a gas, presión y temperatura.
 - **4.1.8 Servicio responsable** (Básico): Sirve cerveza de manera responsable y niega el servicio cuando sea necesario.
 
 ### 4.2 Sabores extraños y defectos cerveceros
@@ -146,7 +146,7 @@ Identificación y prevención de defectos comunes
 - **4.2.2 Diacetilo y acetaldehído** (Intermedio): Reconoce el diacetilo y el acetaldehído y nombra sus causas.
 - **4.2.3 Alcoholes de fusel** (Intermedio): Reconoce los alcoholes de fusel e identifica sus causas.
 - **4.2.4 Ésteres** (Intermedio): Reconoce los defectos causados por ésteres y cuándo se buscan.
-- **4.2.5 DMS y fenoles** (Avanzado): Reconoce los defectos de DMS y de fenoles e identifica sus causas.
+- **4.2.5 DMS y fenoles** (Intermedio): Reconoce los defectos de DMS y de fenoles e identifica sus causas.
 - **4.2.6 Oxidación y contaminación** (Intermedio): Reconoce la oxidación y la contaminación, y cómo prevenirlas.
 - **4.2.7 Sabor a luz y tabla de referencia** (Intermedio): Reconoce el sabor a luz y usa la tabla de referencia de sabores defectuosos.
 - **4.2.8 Entrenamiento de umbrales** (Avanzado): Explica cómo se entrenan los paneles con cervezas dopadas y cómo se miden los umbrales.

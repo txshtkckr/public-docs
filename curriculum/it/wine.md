@@ -37,7 +37,7 @@ Metodo di valutazione sistematica e degustazione guidata di vini rossi
 
 Vini fermi, spumanti, dolci e fortificati
 
-- **3.1.1 Stili di vino** (Intermedio): Indica i principali stili di vino e come l’uva diventa ciascuno di essi.
+- **3.1.1 Stili di vino** (Base): Indica i principali stili di vino e come l’uva diventa ciascuno di essi.
 
 ### 3.2 Vinificazione in rosso
 
