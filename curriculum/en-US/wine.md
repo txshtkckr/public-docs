@@ -1,4 +1,4 @@
-# BoozeTutor Wine Curriculum
+# BoozeTutor Wine curriculum
 
 The course is organized in strands. Each strand groups lessons, and each lesson teaches one or more topics; every topic says what you should be able to do once you’ve finished it.
 
@@ -10,7 +10,7 @@ Every topic has a level. Basic covers the essentials for enjoying and talking ab
 
 The vine, the vineyard and why place matters
 
-- **1.1.1 Welcome** (Basic): Know what the course covers and how to use it.
+- **1.1.1 Welcome** (Basic): Find your way around the wine course and its three levels.
 - **1.1.2 The vine and its growing season** (Basic): Explain what a vine needs and how it grows through the year.
 - **1.1.3 Climate, weather and vintage** (Basic): Explain why climate, weather and place shape a wine’s style.
 - **1.1.4 Phylloxera** (Basic): Explain what phylloxera did to the world’s vineyards and why most vines are grafted.
@@ -29,7 +29,7 @@ Systematic evaluation framework & guided red wine tasting
 - **2.1.2 Appearance** (Basic): Describe a wine’s clarity, intensity and color.
 - **2.1.3 Aroma** (Basic): Describe a wine’s aromas by intensity, character and where they come from.
 - **2.1.4 Flavor and finish** (Basic): Describe sweetness, acidity, tannin, alcohol, body, flavor and finish.
-- **2.1.5 Assessing a wine** (Basic): Reach a reasoned conclusion about a wine’s quality.
+- **2.1.5 Assessing a wine** (Basic): Assess a wine’s quality and give reasons.
 
 ## 3. How wine is made
 
@@ -37,7 +37,7 @@ Systematic evaluation framework & guided red wine tasting
 
 Still, sparkling, sweet and fortified wines
 
-- **3.1.1 Styles of wine** (Basic): Name the main styles of wine and how a grape becomes each.
+- **3.1.1 Styles of wine** (Intermediate): Name the main styles of wine and how a grape becomes each.
 
 ### 3.2 Red winemaking
 
@@ -45,7 +45,8 @@ From harvest to barrel
 
 - **3.2.1 The red winemaking process** (Basic): Describe how red wine is made: crushing, fermentation, maceration and pressing.
 - **3.2.2 Carbonic maceration** (Intermediate): Explain carbonic maceration and the fruity style it gives.
-- **3.2.3 Malolactic conversion, maturation and oak** (Intermediate): Explain what malolactic conversion, maturation and oak do to a red wine.
+- **3.2.3 Malolactic conversion and maturation** (Intermediate): Explain what malolactic conversion and maturation do to a red wine.
+- **3.2.4 Oak** (Basic): Explain what oak gives a wine and when winemakers avoid it.
 
 ### 3.3 Internationally important black grapes
 
@@ -53,10 +54,11 @@ Cabernet Sauvignon, Merlot, Syrah/Shiraz & Pinot Noir
 
 - **3.3.1 Cabernet Sauvignon** (Basic): Recognize Cabernet Sauvignon and where it grows.
 - **3.3.2 Merlot** (Basic): Recognize Merlot and where it grows.
-- **3.3.3 The Bordeaux blend** (Basic): Explain how Cabernet Sauvignon and Merlot combine in Bordeaux, Left Bank and Right.
-- **3.3.4 Syrah/Shiraz** (Basic): Recognize Syrah and Shiraz and how the two styles differ.
-- **3.3.5 Pinot Noir** (Basic): Recognize Pinot Noir and how place changes it.
-- **3.3.6 The black grapes compared** (Basic): Tell the four black grapes apart by their structure and flavors.
+- **3.3.3 Bordeaux in depth** (Intermediate): Explain how Cabernet Sauvignon and Merlot combine in Bordeaux, Left Bank and Right.
+- **3.3.4 Tasting Bordeaux** (Basic): Compare a Left Bank and a Right Bank Bordeaux in the glass.
+- **3.3.5 Syrah/Shiraz** (Basic): Recognize Syrah and Shiraz and how the two styles differ.
+- **3.3.6 Pinot Noir** (Basic): Recognize Pinot Noir and how place changes it.
+- **3.3.7 The black grapes compared** (Basic): Distinguish the four black grapes by their structure and flavors.
 
 ### 3.4 White and rosé winemaking
 
@@ -73,16 +75,17 @@ Chardonnay, Sauvignon Blanc, Pinot Grigio & Riesling
 
 - **3.5.1 Chardonnay** (Basic): Recognize Chardonnay, oaked and unoaked, and where it grows.
 - **3.5.2 Sauvignon Blanc** (Basic): Recognize Sauvignon Blanc and where it grows.
-- **3.5.3 Pinot Gris/Grigio** (Basic): Recognize Pinot Grigio and Pinot Gris and the two styles from Italy and Alsace.
-- **3.5.4 Riesling** (Basic): Recognize Riesling, dry to sweet, and where it grows.
-- **3.5.5 The white grapes compared** (Basic): Place the four white grapes on the spectrum from light to full and tell them apart.
+- **3.5.3 Pinot Gris/Grigio** (Basic): Recognize Pinot Grigio and Pinot Gris.
+- **3.5.4 Pinot Gris: Alsace and Italy** (Intermediate): Compare Alsace Pinot Gris with Italian Pinot Grigio.
+- **3.5.5 Riesling** (Basic): Recognize Riesling, dry to sweet, and where it grows.
+- **3.5.6 The white grapes compared** (Basic): Place the four white grapes on the spectrum from light to full and tell them apart.
 
 ### 3.6 Sparkling wines
 
 The traditional and tank methods, Champagne and Prosecco
 
-- **3.6.1 The traditional method** (Basic): Explain how traditional-method sparkling wine is made and how it tastes.
-- **3.6.2 Tank method, Asti and the regions** (Basic): Explain the tank method and name the main sparkling wine regions.
+- **3.6.1 The traditional method** (Intermediate): Explain how traditional-method sparkling wine is made and how it tastes.
+- **3.6.2 Tank method, Asti and the regions** (Intermediate): Explain the tank method and name the main sparkling wine regions.
 - **3.6.3 Champagne and sparkling label terms** (Intermediate): Read a sparkling wine label: sweetness levels, vintage and producer terms.
 - **3.6.4 Reserve wines, dosage and lees aging** (Advanced): Explain how reserve wines, dosage and lees aging shape Champagne.
 - **3.6.5 Prosecco and Franciacorta** (Advanced): Distinguish Prosecco DOCG from DOC, and explain Franciacorta.
@@ -124,9 +127,9 @@ Old and New World, geographical indications and quality hierarchies
 
 Regions and grapes, from Bordeaux to the Rhône
 
-- **4.2.1 Bordeaux and Burgundy** (Basic): Know Bordeaux and Burgundy, their grapes and styles.
-- **4.2.2 Champagne, Alsace, the Rhône and the Loire** (Intermediate): Know France’s other classic regions and their styles.
-- **4.2.3 Languedoc-Roussillon and Provence** (Intermediate): Know the south of France: Minervois blends, Pays d’Oc varietal wines and Provence rosé.
+- **4.2.1 Bordeaux and Burgundy** (Intermediate): Describe Bordeaux and Burgundy, their grapes and styles.
+- **4.2.2 Champagne, Alsace, the Rhône and the Loire** (Intermediate): Describe France’s other classic regions and their styles.
+- **4.2.3 Languedoc-Roussillon and Provence** (Intermediate): Describe the south of France: Minervois blends, Pays d’Oc varietal wines and Provence rosé.
 - **4.2.4 Cabernet Franc, Gamay and Grenache** (Intermediate): Recognize Cabernet Franc, Gamay and Grenache and where they grow.
 - **4.2.5 Chenin Blanc, Viognier, Gewürztraminer and Semillon** (Intermediate): Recognize Chenin Blanc, Viognier, Gewürztraminer and Semillon and where they grow.
 - **4.2.6 Marsanne / Roussanne and Melon de Bourgogne** (Advanced): Recognize the Northern Rhône’s white pair and Melon de Bourgogne, the grape of Muscadet.
@@ -136,32 +139,33 @@ Regions and grapes, from Bordeaux to the Rhône
 
 Regions and grapes, from Piedmont to the south
 
-- **4.3.1 Italy’s wine regions** (Basic): Know Italy’s main wine regions and what they make.
-- **4.3.2 Sangiovese** (Basic): Recognize Sangiovese and the wines it makes in Tuscany.
-- **4.3.3 Nebbiolo, Barbera, Corvina and Montepulciano** (Intermediate): Recognize Italy’s other main red grapes and compare them.
-- **4.3.4 Aglianico, Nerello Mascalese, Lambrusco, Lagrein and Sagrantino** (Advanced): Recognize five more Italian reds, from Lambrusco’s fizz to Sagrantino’s tannin, and where each grows.
-- **4.3.5 Garganega, Fiano, Verdicchio and Cortese** (Intermediate): Recognize Italy’s main white grapes and compare them.
-- **4.3.6 Arneis and Falanghina / Greco** (Advanced): Recognize Piedmont’s Arneis and Campania’s Falanghina and Greco.
+- **4.3.1 Italy’s wine regions** (Intermediate): Name Italy’s main wine regions and what each makes.
+- **4.3.2 Italy in depth** (Intermediate): Describe Italy’s main regions, grapes and classifications.
+- **4.3.3 Sangiovese** (Intermediate): Recognize Sangiovese and the wines it makes in Tuscany.
+- **4.3.4 Nebbiolo, Barbera, Corvina and Montepulciano** (Intermediate): Recognize Italy’s other main red grapes and compare them.
+- **4.3.5 Aglianico, Nerello Mascalese, Lambrusco, Lagrein and Sagrantino** (Advanced): Recognize five more Italian reds, from Lambrusco’s fizz to Sagrantino’s tannin, and where each grows.
+- **4.3.6 Garganega, Fiano, Verdicchio and Cortese** (Intermediate): Recognize Italy’s main white grapes and compare them.
+- **4.3.7 Arneis and Falanghina / Greco** (Advanced): Recognize Piedmont’s Arneis and Campania’s Falanghina and Greco.
 
 ### 4.4 Spain and Portugal
 
 Regions, Tempranillo, Albariño and Spanish aging terms
 
-- **4.4.1 Spain** (Intermediate): Know Spain’s main wine regions and what they make.
-- **4.4.2 Tempranillo** (Basic): Recognize Tempranillo and where it grows.
+- **4.4.1 Spain** (Intermediate): Describe Spain’s main wine regions and what they make.
+- **4.4.2 Tempranillo** (Intermediate): Recognize Tempranillo and where it grows.
 - **4.4.3 Spanish aging terms** (Intermediate): Explain Crianza, Reserva and Gran Reserva.
 - **4.4.4 Albariño** (Intermediate): Recognize Albariño and where it grows.
 - **4.4.5 Verdejo, Viura, Xarel·lo, Graciano, Mencía, Godello and Bobal** (Advanced): Recognize Spain’s other main grapes and the regions they define, from Rueda’s Verdejo to Utiel-Requena’s Bobal.
-- **4.4.6 Portugal** (Advanced): Know Portugal’s main table wine regions and grapes.
+- **4.4.6 Portugal** (Advanced): Describe Portugal’s main table wine regions and grapes.
 - **4.4.7 Verdelho, Malvasia and Tinta Barroca / Tinto Cão** (Advanced): Recognize Madeira’s Verdelho and Malvasia and two of the Douro’s Port grapes.
 
 ### 4.5 Germany, Austria and Hungary
 
 Regions, German labeling and Furmint
 
-- **4.5.1 Germany and its labels** (Intermediate): Know Germany’s regions and read a German wine label.
+- **4.5.1 Germany and its labels** (Intermediate): Describe Germany’s regions and read a German wine label.
 - **4.5.2 Pinot Blanc, Müller-Thurgau and Silvaner** (Advanced): Recognize Germany’s other white grapes and where each is at its best.
-- **4.5.3 Austria** (Advanced): Know Austria’s main regions and grapes.
+- **4.5.3 Austria** (Advanced): Describe Austria’s main regions and grapes.
 - **4.5.4 Grüner Veltliner** (Advanced): Recognize Grüner Veltliner, Austria’s signature white.
 - **4.5.5 Furmint and Tokaji** (Intermediate): Recognize Furmint and the regional white grapes of central Europe.
 
@@ -169,12 +173,12 @@ Regions, German labeling and Furmint
 
 Santorini, northern Greece and the Peloponnese
 
-- **4.6.1 Greece** (Advanced): Know Greece’s climate, its main wine regions and how its PDOs tie a place to a grape.
+- **4.6.1 Greece** (Advanced): Describe Greece’s climate, its main wine regions and how its PDOs tie a place to a grape.
 - **4.6.2 Santorini** (Advanced): Explain how Santorini’s volcanic soil, wind and basket-trained vines shape its wines, and know Nykteri and Vinsanto.
 - **4.6.3 Assyrtiko** (Advanced): Recognize Assyrtiko, the white grape that keeps its acidity in a hot climate.
-- **4.6.4 Naoussa and Amyndeon** (Advanced): Know Naoussa and Amyndeon, northern Greece’s Xinomavro appellations, and their styles.
+- **4.6.4 Naoussa and Amyndeon** (Advanced): Describe Naoussa and Amyndeon, northern Greece’s Xinomavro appellations, and their styles.
 - **4.6.5 Xinomavro** (Advanced): Recognize Xinomavro and compare it with Nebbiolo.
-- **4.6.6 The Peloponnese** (Advanced): Know Nemea, Mantinia and Mavrodaphne of Patras, and what Retsina is.
+- **4.6.6 The Peloponnese** (Advanced): Describe Nemea, Mantinia and Mavrodaphne of Patras, and explain what Retsina is.
 - **4.6.7 Agiorgitiko** (Advanced): Recognize Agiorgitiko, Greece’s most widely planted red grape.
 - **4.6.8 Tasting Assyrtiko and Xinomavro** (Advanced): Taste and describe a Santorini white and a Naoussa red side by side.
 
@@ -202,20 +206,20 @@ Burgundy, Bordeaux, Champagne, Barolo, Rioja and the Mosel
 
 USA, Argentina and Chile
 
-- **4.9.1 The United States and its labels** (Intermediate): Know the main US wine regions and US labeling rules.
+- **4.9.1 The United States and its labels** (Intermediate): Describe the main US wine regions and the US labeling rules.
 - **4.9.2 Zinfandel/Primitivo** (Intermediate): Recognize Zinfandel and Primitivo and where they grow.
 - **4.9.3 Petite Sirah/Durif** (Advanced): Recognize Petite Sirah, California’s inky red, known as Durif in Australia.
-- **4.9.4 Argentina and Malbec** (Intermediate): Know Argentina’s regions and recognize Malbec.
+- **4.9.4 Argentina and Malbec** (Intermediate): Describe Argentina’s regions and recognize Malbec.
 - **4.9.5 Torrontés** (Advanced): Recognize Torrontés, Argentina’s aromatic white, at its best in Salta.
-- **4.9.6 Chile and Carmenère** (Intermediate): Know Chile’s regions and recognize Carmenère.
+- **4.9.6 Chile and Carmenère** (Intermediate): Describe Chile’s regions and recognize Carmenère.
 
 ### 4.10 Australia, New Zealand and South Africa
 
 Regions, labeling and Pinotage
 
-- **4.10.1 Australia** (Intermediate): Know Australia’s regions and its GI labeling.
-- **4.10.2 New Zealand** (Intermediate): Know New Zealand’s regions and labeling.
-- **4.10.3 South Africa and Pinotage** (Intermediate): Know South Africa’s regions and Wine of Origin scheme, and recognize Pinotage.
+- **4.10.1 Australia** (Intermediate): Describe Australia’s regions and its GI labeling.
+- **4.10.2 New Zealand** (Intermediate): Describe New Zealand’s regions and labeling.
+- **4.10.3 South Africa and Pinotage** (Intermediate): Describe South Africa’s regions and Wine of Origin scheme, and recognize Pinotage.
 
 ## 5. Serving and judging wine
 
@@ -224,7 +228,7 @@ Regions, labeling and Pinotage
 Glassware, decanting, cellar management, wine faults & food pairing
 
 - **5.1.1 Glassware and serving temperature** (Basic): Choose the right glass and serve each style at the right temperature.
-- **5.1.2 Decanting** (Basic): Say when and how to decant a wine.
+- **5.1.2 Decanting** (Basic): Explain when and how to decant a wine.
 - **5.1.3 Cellar management** (Intermediate): Store wine well and manage a cellar.
 - **5.1.4 Responsible service** (Basic): Serve wine responsibly.
 - **5.1.5 Oxidation, cork taint, heat and light** (Basic): Recognize oxidation, cork taint and heat and light damage.
@@ -237,4 +241,4 @@ Glassware, decanting, cellar management, wine faults & food pairing
 
 Review quiz and course conclusion
 
-- **5.2.1 Final review** (Basic): Review everything in the course.
+- **5.2.1 Final review** (Basic): Combine what each lesson taught to answer questions from across the course.

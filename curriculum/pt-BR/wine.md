@@ -10,7 +10,7 @@ Cada tema tem um nível. Básico cobre o essencial para apreciar uma bebida e fa
 
 A videira, o vinhedo e por que o lugar importa
 
-- **1.1.1 Boas-vindas** (Básico): Saiba o que o curso aborda e como usá-lo.
+- **1.1.1 Boas-vindas** (Básico): Oriente-se pelo curso de vinhos e seus três níveis.
 - **1.1.2 A videira e seu ciclo de cultivo** (Básico): Explique o que a videira precisa e como ela se desenvolve ao longo do ano.
 - **1.1.3 Clima, condições climáticas e safra** (Básico): Explique por que o clima, as condições climáticas e o terroir moldam o estilo de um vinho.
 - **1.1.4 Filoxera** (Básico): Explique o que a filoxera causou aos vinhedos do mundo e por que a maioria das videiras é enxertada.
@@ -29,7 +29,7 @@ Marco de avaliação sistemática e degustação guiada de vinho tinto
 - **2.1.2 Aparência** (Básico): Descreva a limpidez, a intensidade e a cor de um vinho.
 - **2.1.3 Aroma** (Básico): Descreva os aromas de um vinho por intensidade, caráter e origem.
 - **2.1.4 Sabor e final de boca** (Básico): Descreva a doçura, a acidez, o tanino, o álcool, o corpo, o sabor e o final de boca.
-- **2.1.5 Avaliando um vinho** (Básico): Chegue a uma conclusão fundamentada sobre a qualidade de um vinho.
+- **2.1.5 Avaliando um vinho** (Básico): Avalie a qualidade de um vinho e justifique sua avaliação.
 
 ## 3. Como o vinho é feito
 
@@ -37,7 +37,7 @@ Marco de avaliação sistemática e degustação guiada de vinho tinto
 
 Vinhos tranquilos, espumantes, doces e fortificados
 
-- **3.1.1 Estilos de vinho** (Básico): Nomeie os principais estilos de vinho e como uma uva se transforma em cada um.
+- **3.1.1 Estilos de vinho** (Intermediário): Nomeie os principais estilos de vinho e como uma uva se transforma em cada um.
 
 ### 3.2 Produção de vinho tinto
 
@@ -45,7 +45,8 @@ Da colheita ao barril
 
 - **3.2.1 O processo de vinificação tinta** (Básico): Descreva como o vinho tinto é feito: esmagamento, fermentação, maceração e prensagem.
 - **3.2.2 Maceração carbônica** (Intermediário): Explique a maceração carbônica e o estilo frutado que ela proporciona.
-- **3.2.3 Conversão malolática, maturação e carvalho** (Intermediário): Explique o que a conversão malolática, a maturação e o carvalho fazem a um vinho tinto.
+- **3.2.3 Conversão malolática e maturação** (Intermediário): Explique o que a conversão malolática e a maturação fazem a um vinho tinto.
+- **3.2.4 Carvalho** (Básico): Explique o que o carvalho confere a um vinho e quando os produtores evitam usá-lo.
 
 ### 3.3 Castas tintas internacionalmente importantes
 
@@ -53,10 +54,11 @@ Cabernet Sauvignon, Merlot, Syrah/Shiraz e Pinot Noir
 
 - **3.3.1 Cabernet Sauvignon** (Básico): Reconheça o Cabernet Sauvignon e onde ele é cultivado.
 - **3.3.2 Merlot** (Básico): Reconheça o Merlot e onde ele é cultivado.
-- **3.3.3 O corte de Bordeaux** (Básico): Explique como o Cabernet Sauvignon e o Merlot se combinam em Bordeaux, na Margem Esquerda e na Margem Direita.
-- **3.3.4 Syrah/Shiraz** (Básico): Reconheça o Syrah e o Shiraz e como os dois estilos se diferenciam.
-- **3.3.5 Pinot Noir** (Básico): Reconheça o Pinot Noir e como o terroir o transforma.
-- **3.3.6 As uvas tintas em comparação** (Básico): Diferencie as quatro uvas tintas por sua estrutura e seus sabores.
+- **3.3.3 Bordeaux em profundidade** (Intermediário): Explique como o Cabernet Sauvignon e o Merlot se combinam em Bordeaux, na Margem Esquerda e na Margem Direita.
+- **3.3.4 Degustando Bordeaux** (Básico): Compare um Bordeaux da Margem Esquerda e um da Margem Direita na taça.
+- **3.3.5 Syrah/Shiraz** (Básico): Reconheça o Syrah e o Shiraz e como os dois estilos se diferenciam.
+- **3.3.6 Pinot Noir** (Básico): Reconheça o Pinot Noir e como o terroir o transforma.
+- **3.3.7 As uvas tintas em comparação** (Básico): Diferencie as quatro uvas tintas por sua estrutura e seus sabores.
 
 ### 3.4 Produção de vinho branco e rosé
 
@@ -73,16 +75,17 @@ Chardonnay, Sauvignon Blanc, Pinot Grigio e Riesling
 
 - **3.5.1 Chardonnay** (Básico): Reconheça o Chardonnay, com e sem passagem por carvalho, e onde ele é cultivado.
 - **3.5.2 Sauvignon Blanc** (Básico): Reconheça o Sauvignon Blanc e onde ele é cultivado.
-- **3.5.3 Pinot Gris/Grigio** (Básico): Reconheça o Pinot Grigio e o Pinot Gris e os dois estilos, da Itália e da Alsácia.
-- **3.5.4 Riesling** (Básico): Reconheça o Riesling, do seco ao doce, e onde ele é cultivado.
-- **3.5.5 As uvas brancas comparadas** (Básico): Posicione as quatro uvas brancas no espectro do leve ao encorpado e saiba diferenciá-las.
+- **3.5.3 Pinot Gris/Grigio** (Básico): Reconheça o Pinot Grigio e o Pinot Gris.
+- **3.5.4 Pinot Gris: Alsácia e Itália** (Intermediário): Compare o Pinot Gris da Alsácia com o Pinot Grigio italiano.
+- **3.5.5 Riesling** (Básico): Reconheça o Riesling, do seco ao doce, e onde ele é cultivado.
+- **3.5.6 As uvas brancas comparadas** (Básico): Posicione as quatro uvas brancas no espectro do leve ao encorpado e saiba diferenciá-las.
 
 ### 3.6 Vinhos espumantes
 
 Métodos tradicional e de tanque, Champagne e Prosecco
 
-- **3.6.1 O método tradicional** (Básico): Explique como o espumante método tradicional é feito e como ele é.
-- **3.6.2 Método Charmat, Asti e as regiões** (Básico): Explique o método Charmat e cite as principais regiões produtoras de espumante.
+- **3.6.1 O método tradicional** (Intermediário): Explique como o espumante método tradicional é feito e como ele é.
+- **3.6.2 Método Charmat, Asti e as regiões** (Intermediário): Explique o método Charmat e cite as principais regiões produtoras de espumante.
 - **3.6.3 Champagne e termos de rótulo de espumantes** (Intermediário): Leia o rótulo de um espumante: níveis de doçura, safra e termos do produtor.
 - **3.6.4 Vinhos de reserva, dosagem e envelhecimento sobre as borras** (Avançado): Explique como os vinhos de reserva, a dosagem e o envelhecimento sobre as borras moldam o Champagne.
 - **3.6.5 Prosecco e Franciacorta** (Avançado): Diferencie o Prosecco DOCG do DOC e explique o Franciacorta.
@@ -124,9 +127,9 @@ Velho e Novo Mundo, indicações geográficas e hierarquias de qualidade
 
 Regiões e uvas, de Bordeaux ao Rhône
 
-- **4.2.1 Bordeaux e Borgonha** (Básico): Conheça Bordeaux e a Borgonha, suas uvas e estilos.
-- **4.2.2 Champagne, Alsácia, Ródano e Vale do Loire** (Intermediário): Conheça as outras regiões clássicas da França e seus estilos.
-- **4.2.3 Languedoc-Roussillon e Provence** (Intermediário): Conheça o sul da França: os blends de Minervois, os vinhos varietais de Pays d’Oc e o rosé de Provence.
+- **4.2.1 Bordeaux e Borgonha** (Intermediário): Descreva Bordeaux e a Borgonha, suas uvas e estilos.
+- **4.2.2 Champagne, Alsácia, Ródano e Vale do Loire** (Intermediário): Descreva as outras regiões clássicas da França e seus estilos.
+- **4.2.3 Languedoc-Roussillon e Provence** (Intermediário): Descreva o sul da França: os blends de Minervois, os vinhos varietais de Pays d’Oc e o rosé de Provence.
 - **4.2.4 Cabernet Franc, Gamay e Grenache** (Intermediário): Reconheça as uvas Cabernet Franc, Gamay e Grenache e onde são cultivadas.
 - **4.2.5 Chenin Blanc, Viognier, Gewürztraminer e Semillon** (Intermediário): Reconheça as uvas Chenin Blanc, Viognier, Gewürztraminer e Semillon e onde são cultivadas.
 - **4.2.6 Marsanne / Roussanne e Melon de Bourgogne** (Avançado): Identifique o casal de brancos do Vale do Rhône Setentrional e a Melon de Bourgogne, a uva de Muscadet.
@@ -136,32 +139,33 @@ Regiões e uvas, de Bordeaux ao Rhône
 
 Regiões e uvas, do Piemonte ao sul
 
-- **4.3.1 As regiões vinícolas da Itália** (Básico): Conheça as principais regiões vinícolas da Itália e o que elas produzem.
-- **4.3.2 Sangiovese** (Básico): Reconheça a Sangiovese e os vinhos que ela produz na Toscana.
-- **4.3.3 Nebbiolo, Barbera, Corvina e Montepulciano** (Intermediário): Reconheça as outras principais uvas tintas da Itália e compare-as.
-- **4.3.4 Aglianico, Nerello Mascalese, Lambrusco, Lagrein e Sagrantino** (Avançado): Identifique cinco tintos italianos a mais, do espumante do Lambrusco ao tanino robusto de Sagrantino, e onde cada um é cultivado.
-- **4.3.5 Garganega, Fiano, Verdicchio e Cortese** (Intermediário): Reconheça as principais uvas brancas da Itália e compare-as.
-- **4.3.6 Arneis e Falanghina / Greco** (Avançado): Identifique a Arneis do Piemonte e a Falanghina e Greco da Campânia.
+- **4.3.1 As regiões vinícolas da Itália** (Intermediário): Nomeie as principais regiões vinícolas da Itália e o que cada uma produz.
+- **4.3.2 Itália em profundidade** (Intermediário): Descreva as principais regiões, uvas e classificações da Itália.
+- **4.3.3 Sangiovese** (Intermediário): Reconheça a Sangiovese e os vinhos que ela produz na Toscana.
+- **4.3.4 Nebbiolo, Barbera, Corvina e Montepulciano** (Intermediário): Reconheça as outras principais uvas tintas da Itália e compare-as.
+- **4.3.5 Aglianico, Nerello Mascalese, Lambrusco, Lagrein e Sagrantino** (Avançado): Identifique cinco tintos italianos a mais, do espumante do Lambrusco ao tanino robusto de Sagrantino, e onde cada um é cultivado.
+- **4.3.6 Garganega, Fiano, Verdicchio e Cortese** (Intermediário): Reconheça as principais uvas brancas da Itália e compare-as.
+- **4.3.7 Arneis e Falanghina / Greco** (Avançado): Identifique a Arneis do Piemonte e a Falanghina e Greco da Campânia.
 
 ### 4.4 Espanha e Portugal
 
 Regiões, Tempranillo, Albariño e termos de envelhecimento espanhóis
 
-- **4.4.1 Espanha** (Intermediário): Conheça as principais regiões vinícolas da Espanha e o que elas produzem.
-- **4.4.2 Tempranillo** (Básico): Reconheça a Tempranillo e onde ela é cultivada.
+- **4.4.1 Espanha** (Intermediário): Descreva as principais regiões vinícolas da Espanha e o que elas produzem.
+- **4.4.2 Tempranillo** (Intermediário): Reconheça a Tempranillo e onde ela é cultivada.
 - **4.4.3 Termos de envelhecimento espanhóis** (Intermediário): Explique Crianza, Reserva e Gran Reserva.
 - **4.4.4 Albariño** (Intermediário): Reconheça a Albariño e onde ela é cultivada.
 - **4.4.5 Verdejo, Viura, Xarel·lo, Graciano, Mencía, Godello e Bobal** (Avançado): Identifique as outras uvas principais da Espanha e as regiões que as definem, de Verdejo de Rueda até Bobal de Utiel-Requena.
-- **4.4.6 Portugal** (Avançado): Conheça as principais regiões e uvas de vinhos de mesa de Portugal.
+- **4.4.6 Portugal** (Avançado): Descreva as principais regiões e uvas de vinhos de mesa de Portugal.
 - **4.4.7 Verdelho, Malvasia e Tinta Barroca / Tinto Cão** (Avançado): Identifique a Verdelho e Malvasia da Madeira e duas das uvas de Porto do Douro.
 
 ### 4.5 Alemanha, Áustria e Hungria
 
 Regiões, rotulagem alemã e Furmint
 
-- **4.5.1 Alemanha e seus rótulos** (Intermediário): Conheça as regiões da Alemanha e saiba ler um rótulo de vinho alemão.
+- **4.5.1 Alemanha e seus rótulos** (Intermediário): Descreva as regiões da Alemanha e saiba ler um rótulo de vinho alemão.
 - **4.5.2 Pinot Blanc, Müller-Thurgau e Silvaner** (Avançado): Identifique as outras uvas brancas da Alemanha e onde cada uma atinge seu melhor potencial.
-- **4.5.3 Áustria** (Avançado): Conheça as principais regiões e uvas da Áustria.
+- **4.5.3 Áustria** (Avançado): Descreva as principais regiões e uvas da Áustria.
 - **4.5.4 Grüner Veltliner** (Avançado): Identifique a Grüner Veltliner, o branco assinatura da Áustria.
 - **4.5.5 Furmint e Tokaji** (Intermediário): Reconheça a Furmint e as uvas brancas regionais da Europa Central.
 
@@ -169,12 +173,12 @@ Regiões, rotulagem alemã e Furmint
 
 Santorini, o norte da Grécia e o Peloponeso
 
-- **4.6.1 Grécia** (Avançado): Conheça o clima da Grécia, suas principais regiões vinícolas e como suas DOPs ligam um lugar a uma uva.
+- **4.6.1 Grécia** (Avançado): Descreva o clima da Grécia, suas principais regiões vinícolas e como suas DOPs ligam um lugar a uma uva.
 - **4.6.2 Santorini** (Avançado): Explique como o solo vulcânico, o vento e as videiras conduzidas em cesto moldam os vinhos de Santorini, e conheça o Nykteri e o Vinsanto.
 - **4.6.3 Assyrtiko** (Avançado): Identifique a Assyrtiko, a uva branca que mantém a acidez em clima quente.
-- **4.6.4 Naoussa e Amyndeon** (Avançado): Conheça Naoussa e Amyndeon, as denominações de Xinomavro do norte da Grécia, e seus estilos.
+- **4.6.4 Naoussa e Amyndeon** (Avançado): Descreva Naoussa e Amyndeon, as denominações de Xinomavro do norte da Grécia, e seus estilos.
 - **4.6.5 Xinomavro** (Avançado): Identifique a Xinomavro e compare-a com a Nebbiolo.
-- **4.6.6 O Peloponeso** (Avançado): Conheça Nemeia, Mantineia e Mavrodaphne de Patras, e o que é o Retsina.
+- **4.6.6 O Peloponeso** (Avançado): Descreva Nemeia, Mantineia e Mavrodaphne de Patras, e explique o que é o Retsina.
 - **4.6.7 Agiorgitiko** (Avançado): Identifique a Agiorgitiko, a uva tinta mais plantada da Grécia.
 - **4.6.8 Degustação de Assyrtiko e Xinomavro** (Avançado): Deguste e descreva lado a lado um branco de Santorini e um tinto de Naoussa.
 
@@ -202,20 +206,20 @@ Borgonha, Bordeaux, Champagne, Barolo, Rioja e Mosela
 
 EUA, Argentina e Chile
 
-- **4.9.1 Os Estados Unidos e seus rótulos** (Intermediário): Conheça as principais regiões vinícolas dos EUA e as regras de rotulagem norte-americanas.
+- **4.9.1 Os Estados Unidos e seus rótulos** (Intermediário): Descreva as principais regiões vinícolas dos EUA e as regras de rotulagem norte-americanas.
 - **4.9.2 Zinfandel/Primitivo** (Intermediário): Reconheça o Zinfandel e o Primitivo e onde são cultivados.
 - **4.9.3 Petite Sirah/Durif** (Avançado): Identifique a Petite Sirah, o tinto escuro e intenso da Califórnia, conhecido como Durif na Austrália.
-- **4.9.4 Argentina e Malbec** (Intermediário): Conheça as regiões da Argentina e reconheça o Malbec.
+- **4.9.4 Argentina e Malbec** (Intermediário): Descreva as regiões da Argentina e reconheça o Malbec.
 - **4.9.5 Torrontés** (Avançado): Identifique a Torrontés, a branca aromática da Argentina, em seu melhor em Salta.
-- **4.9.6 Chile e Carmenère** (Intermediário): Conheça as regiões do Chile e reconheça o Carmenère.
+- **4.9.6 Chile e Carmenère** (Intermediário): Descreva as regiões do Chile e reconheça o Carmenère.
 
 ### 4.10 Austrália, Nova Zelândia e África do Sul
 
 Regiões, rotulagem e Pinotage
 
-- **4.10.1 Austrália** (Intermediário): Conheça as regiões da Austrália e seu sistema de rotulagem por GI.
-- **4.10.2 Nova Zelândia** (Intermediário): Conheça as regiões e a rotulagem da Nova Zelândia.
-- **4.10.3 África do Sul e Pinotage** (Intermediário): Conheça as regiões da África do Sul e o sistema Wine of Origin, e reconheça o Pinotage.
+- **4.10.1 Austrália** (Intermediário): Descreva as regiões da Austrália e seu sistema de rotulagem por GI.
+- **4.10.2 Nova Zelândia** (Intermediário): Descreva as regiões e a rotulagem da Nova Zelândia.
+- **4.10.3 África do Sul e Pinotage** (Intermediário): Descreva as regiões da África do Sul e o sistema Wine of Origin, e reconheça o Pinotage.
 
 ## 5. Servir e avaliar o vinho
 
@@ -224,7 +228,7 @@ Regiões, rotulagem e Pinotage
 Taças, decantação, gestão de adega, defeitos do vinho e harmonização com alimentos
 
 - **5.1.1 Taças e temperatura de serviço** (Básico): Escolha a taça certa e sirva cada estilo na temperatura ideal.
-- **5.1.2 Decantação** (Básico): Diga quando e como decantar um vinho.
+- **5.1.2 Decantação** (Básico): Explique quando e como decantar um vinho.
 - **5.1.3 Gestão de adega** (Intermediário): Armazene bem o vinho e administre uma adega.
 - **5.1.4 Serviço responsável** (Básico): Sirva vinho de forma responsável.
 - **5.1.5 Oxidação, gosto de rolha, calor e luz** (Básico): Reconheça oxidação, gosto de rolha e danos causados por calor e luz.
@@ -237,4 +241,4 @@ Taças, decantação, gestão de adega, defeitos do vinho e harmonização com a
 
 Quiz de revisão e conclusão do curso
 
-- **5.2.1 Revisão final** (Básico): Revise tudo o que foi visto no curso.
+- **5.2.1 Revisão final** (Básico): Combine o que cada lição ensinou para responder perguntas sobre todo o curso.

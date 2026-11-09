@@ -10,7 +10,7 @@ Ogni argomento ha un livello. Base copre l’essenziale per gustare una bevanda 
 
 La vite, il vigneto e perché il luogo conta
 
-- **1.1.1 Benvenuto** (Base): Scopri cosa copre il corso e come utilizzarlo.
+- **1.1.1 Benvenuto** (Base): Orientati nel corso di vino e nei suoi tre livelli.
 - **1.1.2 La vite e il suo ciclo vegetativo** (Base): Scopri di cosa ha bisogno la vite e come cresce nel corso dell’anno.
 - **1.1.3 Clima, meteo e annata** (Base): Scopri perché il clima, il meteo e il territorio definiscono lo stile di un vino.
 - **1.1.4 Fillossera** (Base): Scopri cosa ha causato la fillossera ai vigneti di tutto il mondo e perché la maggior parte delle viti è innestata.
@@ -29,7 +29,7 @@ Metodo di valutazione sistematica e degustazione guidata di vini rossi
 - **2.1.2 Aspetto visivo** (Base): Descrivi la limpidezza, l’intensità e il colore di un vino.
 - **2.1.3 Aroma** (Base): Descrivi gli aromi di un vino in base a intensità, carattere e origine.
 - **2.1.4 Gusto e finale** (Base): Descrivi dolcezza, acidità, tannino, alcol, corpo, sapore e finale.
-- **2.1.5 Valutare un vino** (Base): Arriva a una conclusione motivata sulla qualità di un vino.
+- **2.1.5 Valutare un vino** (Base): Valuta la qualità di un vino e motivane le ragioni.
 
 ## 3. Come si produce il vino
 
@@ -37,7 +37,7 @@ Metodo di valutazione sistematica e degustazione guidata di vini rossi
 
 Vini fermi, spumanti, dolci e fortificati
 
-- **3.1.1 Stili di vino** (Base): Indica i principali stili di vino e come l’uva diventa ciascuno di essi.
+- **3.1.1 Stili di vino** (Intermedio): Indica i principali stili di vino e come l’uva diventa ciascuno di essi.
 
 ### 3.2 Vinificazione in rosso
 
@@ -45,7 +45,8 @@ Dalla vendemmia alla barrique
 
 - **3.2.1 Il processo di vinificazione in rosso** (Base): Descrivi come si produce il vino rosso: pigiatura, fermentazione, macerazione e pressatura.
 - **3.2.2 Macerazione carbonica** (Intermedio): Spiega la macerazione carbonica e lo stile fruttato che conferisce.
-- **3.2.3 Fermentazione malolattica, maturazione e legno** (Intermedio): Spiega cosa fanno la fermentazione malolattica, la maturazione e il legno a un vino rosso.
+- **3.2.3 Fermentazione malolattica e maturazione** (Intermedio): Spiega cosa fanno la fermentazione malolattica e la maturazione a un vino rosso.
+- **3.2.4 Legno** (Base): Spiega cosa conferisce il legno a un vino e quando i produttori lo evitano.
 
 ### 3.3 Vitigni neri di importanza internazionale
 
@@ -53,10 +54,11 @@ Cabernet Sauvignon, Merlot, Syrah/Shiraz e Pinot Noir
 
 - **3.3.1 Cabernet Sauvignon** (Base): Riconosci il Cabernet Sauvignon e scopri dove viene coltivato.
 - **3.3.2 Merlot** (Base): Riconosci il Merlot e scopri dove viene coltivato.
-- **3.3.3 Il blend di Bordeaux** (Base): Spiega come Cabernet Sauvignon e Merlot si combinano a Bordeaux, sulla Riva Sinistra e sulla Riva Destra.
-- **3.3.4 Syrah/Shiraz** (Base): Riconosci Syrah e Shiraz e scopri in cosa differiscono i due stili.
-- **3.3.5 Pinot Nero** (Base): Riconosci il Pinot Nero e scopri come il territorio lo trasforma.
-- **3.3.6 I vitigni a bacca nera a confronto** (Base): Distingui i quattro vitigni a bacca nera in base a struttura e sapori.
+- **3.3.3 Bordeaux in dettaglio** (Intermedio): Spiega come Cabernet Sauvignon e Merlot si combinano a Bordeaux, sulla Riva Sinistra e sulla Riva Destra.
+- **3.3.4  Degustare Bordeaux** (Base): Confronta un Bordeaux della Riva Sinistra con uno della Riva Destra nel bicchiere.
+- **3.3.5 Syrah/Shiraz** (Base): Riconosci Syrah e Shiraz e scopri in cosa differiscono i due stili.
+- **3.3.6 Pinot Nero** (Base): Riconosci il Pinot Nero e scopri come il territorio lo trasforma.
+- **3.3.7 I vitigni a bacca nera a confronto** (Base): Distingui i quattro vitigni a bacca nera in base a struttura e sapori.
 
 ### 3.4 Vinificazione in bianco e rosato
 
@@ -73,16 +75,17 @@ Chardonnay, Sauvignon Blanc, Pinot Grigio e Riesling
 
 - **3.5.1 Chardonnay** (Base): Riconosci lo Chardonnay, affinato in legno o senza, e scopri dove viene coltivato.
 - **3.5.2 Sauvignon Blanc** (Base): Riconosci il Sauvignon Blanc e dove viene coltivato.
-- **3.5.3 Pinot Grigio/Gris** (Base): Riconosci il Pinot Grigio e il Pinot Gris e i due stili provenienti da Italia e Alsazia.
-- **3.5.4 Riesling** (Base): Riconosci il Riesling, dal secco al dolce, e dove viene coltivato.
-- **3.5.5 Confronto tra i vitigni a bacca bianca** (Base): Colloca i quattro vitigni a bacca bianca sullo spettro dal leggero al strutturato e impara a distinguerli.
+- **3.5.3 Pinot Grigio/Gris** (Base): Riconosci il Pinot Grigio e il Pinot Gris.
+- **3.5.4 Pinot Gris: Alsazia e Italia** (Intermedio): Confronta il Pinot Gris dell’Alsazia con il Pinot Grigio italiano.
+- **3.5.5 Riesling** (Base): Riconosci il Riesling, dal secco al dolce, e dove viene coltivato.
+- **3.5.6 Confronto tra i vitigni a bacca bianca** (Base): Colloca i quattro vitigni a bacca bianca sullo spettro dal leggero al strutturato e impara a distinguerli.
 
 ### 3.6 Vini spumanti
 
 Metodo classico e Martinotti, Champagne e Prosecco
 
-- **3.6.1 Il metodo classico** (Base): Scopri come si produce lo spumante con il metodo classico e che gusto ha.
-- **3.6.2 Metodo Charmat, Asti e le regioni** (Base): Scopri il metodo Charmat e scopri le principali regioni spumantistiche.
+- **3.6.1 Il metodo classico** (Intermedio): Scopri come si produce lo spumante con il metodo classico e che gusto ha.
+- **3.6.2 Metodo Charmat, Asti e le regioni** (Intermedio): Scopri il metodo Charmat e scopri le principali regioni spumantistiche.
 - **3.6.3 Champagne e termini da etichetta degli spumanti** (Intermedio): Leggi l’etichetta di uno spumante: livelli di dolcezza, annata e termini del produttore.
 - **3.6.4 Vini di riserva, dosaggio e affinamento sui lieviti** (Avanzato): Scopri come i vini di riserva, il dosaggio e l’affinamento sui lieviti plasmano lo Champagne.
 - **3.6.5 Prosecco e Franciacorta** (Avanzato): Distingui il Prosecco DOCG dal DOC e scopri la Franciacorta.
@@ -124,9 +127,9 @@ Vecchio e Nuovo Mondo, indicazioni geografiche e gerarchie di qualità
 
 Regioni e vitigni, da Bordeaux al Rodano
 
-- **4.2.1 Bordeaux e Borgogna** (Base): Conosci Bordeaux e la Borgogna, i loro vitigni e i loro stili.
-- **4.2.2 Champagne, Alsazia, Rodano e Loira** (Intermedio): Conosci le altre regioni classiche della Francia e i loro stili.
-- **4.2.3 Linguadoca-Rossiglione e Provenza** (Intermedio): Conosci il sud della Francia: i blend del Minervois, i vini varietali del Pays d’Oc e il rosé della Provenza.
+- **4.2.1 Bordeaux e Borgogna** (Intermedio): Descrivi Bordeaux e la Borgogna, i loro vitigni e i loro stili.
+- **4.2.2 Champagne, Alsazia, Rodano e Loira** (Intermedio): Descrivi le altre regioni classiche della Francia e i loro stili.
+- **4.2.3 Linguadoca-Rossiglione e Provenza** (Intermedio): Descrivi il sud della Francia: i blend del Minervois, i vini varietali del Pays d’Oc e il rosé della Provenza.
 - **4.2.4 Cabernet Franc, Gamay e Grenache** (Intermedio): Riconosci il Cabernet Franc, il Gamay e il Grenache e sappi dove si coltivano.
 - **4.2.5 Chenin Blanc, Viognier, Gewürztraminer e Semillon** (Intermedio): Riconosci lo Chenin Blanc, il Viognier, il Gewürztraminer e il Semillon e sappi dove si coltivano.
 - **4.2.6 Marsanne / Roussanne e Melone di Borgogna** (Avanzato): Riconoscere la coppia di bianchi della Vallée du Rhône Settentrionale e il Melone di Borgogna, l’uva di Muscadet.
@@ -136,32 +139,33 @@ Regioni e vitigni, da Bordeaux al Rodano
 
 Regioni e vitigni, dal Piemonte al sud
 
-- **4.3.1 Le regioni vinicole italiane** (Base): Conosci le principali regioni vinicole italiane e cosa producono.
-- **4.3.2 Sangiovese** (Base): Riconoscere il Sangiovese e i vini che produce in Toscana.
-- **4.3.3 Nebbiolo, Barbera, Corvina e Montepulciano** (Intermedio): Riconoscere gli altri principali vitigni a bacca rossa italiani e metterli a confronto.
-- **4.3.4 Aglianico, Nerello Mascalese, Lambrusco, Lagrein e Sagrantino** (Avanzato): Riconoscere altri cinque rossi italiani, dalle bollicine del Lambrusco ai tannini del Sagrantino, e dove ognuno cresce.
-- **4.3.5 Garganega, Fiano, Verdicchio e Cortese** (Intermedio): Riconoscere i principali vitigni a bacca bianca italiani e metterli a confronto.
-- **4.3.6 Arneis e Falanghina / Greco** (Avanzato): Riconoscere l’Arneis del Piemonte e la Falanghina e il Greco della Campania.
+- **4.3.1 Le regioni vinicole italiane** (Intermedio): Elenca le principali regioni vinicole italiane e cosa produce ciascuna.
+- **4.3.2 L’Italia in profondità** (Intermedio): Descrivi le principali regioni, i vitigni e le classificazioni dell’Italia.
+- **4.3.3 Sangiovese** (Intermedio): Riconoscere il Sangiovese e i vini che produce in Toscana.
+- **4.3.4 Nebbiolo, Barbera, Corvina e Montepulciano** (Intermedio): Riconoscere gli altri principali vitigni a bacca rossa italiani e metterli a confronto.
+- **4.3.5 Aglianico, Nerello Mascalese, Lambrusco, Lagrein e Sagrantino** (Avanzato): Riconoscere altri cinque rossi italiani, dalle bollicine del Lambrusco ai tannini del Sagrantino, e dove ognuno cresce.
+- **4.3.6 Garganega, Fiano, Verdicchio e Cortese** (Intermedio): Riconoscere i principali vitigni a bacca bianca italiani e metterli a confronto.
+- **4.3.7 Arneis e Falanghina / Greco** (Avanzato): Riconoscere l’Arneis del Piemonte e la Falanghina e il Greco della Campania.
 
 ### 4.4 Spagna e Portogallo
 
 Regioni, Tempranillo, Albariño e termini di invecchiamento spagnoli
 
-- **4.4.1 Spagna** (Intermedio): Conoscere le principali regioni vinicole della Spagna e ciò che producono.
-- **4.4.2 Tempranillo** (Base): Riconoscere il Tempranillo e dove viene coltivato.
+- **4.4.1 Spagna** (Intermedio): Descrivere le principali regioni vinicole della Spagna e ciò che producono.
+- **4.4.2 Tempranillo** (Intermedio): Riconoscere il Tempranillo e dove viene coltivato.
 - **4.4.3 I termini spagnoli dell’invecchiamento** (Intermedio): Spiegare Crianza, Reserva e Gran Reserva.
 - **4.4.4 Albariño** (Intermedio): Riconoscere l’Albariño e dove viene coltivato.
 - **4.4.5 Verdejo, Viura, Xarel·lo, Graciano, Mencía, Godello e Bobal** (Avanzato): Riconoscere gli altri principali vitigni della Spagna e le regioni che caratterizzano, dal Verdejo di Rueda al Bobal di Utiel-Requena.
-- **4.4.6 Portogallo** (Avanzato): Conoscere le principali regioni e vitigni dei vini fermi portoghesi.
+- **4.4.6 Portogallo** (Avanzato): Descrivere le principali regioni e vitigni dei vini fermi portoghesi.
 - **4.4.7 Verdelho, Malvasia e Tinta Barroca / Tinto Cão** (Avanzato): Riconoscere il Verdelho e la Malvasia di Madera e due dei vitigni del Porto del Douro.
 
 ### 4.5 Germania, Austria e Ungheria
 
 Regioni, etichettatura tedesca e Furmint
 
-- **4.5.1 Germania e le sue etichette** (Intermedio): Conoscere le regioni della Germania e saper leggere un’etichetta di vino tedesco.
+- **4.5.1 Germania e le sue etichette** (Intermedio): Descrivere le regioni della Germania e saper leggere un’etichetta di vino tedesco.
 - **4.5.2 Pinot Bianco, Müller-Thurgau e Silvaner** (Avanzato): Riconoscere gli altri bianchi della Germania e dove ognuno esprime il meglio di sé.
-- **4.5.3 Austria** (Avanzato): Conoscere le principali regioni e vitigni austriaci.
+- **4.5.3 Austria** (Avanzato): Descrivere le principali regioni e vitigni austriaci.
 - **4.5.4 Grüner Veltliner** (Avanzato): Riconoscere il Grüner Veltliner, il bianco caratteristico dell’Austria.
 - **4.5.5 Furmint e Tokaji** (Intermedio): Riconoscere il Furmint e i vitigni a bacca bianca autoctoni dell’Europa centrale.
 
@@ -169,12 +173,12 @@ Regioni, etichettatura tedesca e Furmint
 
 Santorini, la Grecia settentrionale e il Peloponneso
 
-- **4.6.1 Grecia** (Avanzato): Conoscere il clima della Grecia, le sue principali regioni vinicole e come le sue DOP legano un luogo a un vitigno.
+- **4.6.1 Grecia** (Avanzato): Descrivere il clima della Grecia, le sue principali regioni vinicole e come le sue DOP legano un luogo a un vitigno.
 - **4.6.2 Santorini** (Avanzato): Spiegare come il suolo vulcanico, il vento e le viti allevate a cesto plasmano i vini di Santorini, e conoscere il Nykteri e il Vinsanto.
 - **4.6.3 Assyrtiko** (Avanzato): Riconoscere l’Assyrtiko, il vitigno bianco che mantiene l’acidità anche in un clima caldo.
-- **4.6.4 Naoussa e Amyndeon** (Avanzato): Conoscere Naoussa e Amyndeon, le denominazioni di Xinomavro della Grecia settentrionale, e i loro stili.
+- **4.6.4 Naoussa e Amyndeon** (Avanzato): Descrivere Naoussa e Amyndeon, le denominazioni di Xinomavro della Grecia settentrionale, e i loro stili.
 - **4.6.5 Xinomavro** (Avanzato): Riconoscere lo Xinomavro e confrontarlo con il Nebbiolo.
-- **4.6.6 Il Peloponneso** (Avanzato): Conoscere Nemea, Mantinia e il Mavrodaphne di Patrasso, e che cos’è il Retsina.
+- **4.6.6 Il Peloponneso** (Avanzato): Descrivere Nemea, Mantinia e il Mavrodaphne di Patrasso, e spiegare che cos’è il Retsina.
 - **4.6.7 Agiorgitiko** (Avanzato): Riconoscere l’Agiorgitiko, il vitigno rosso più coltivato in Grecia.
 - **4.6.8 Degustare Assyrtiko e Xinomavro** (Avanzato): Degustare e descrivere fianco a fianco un bianco di Santorini e un rosso di Naoussa.
 
@@ -202,20 +206,20 @@ Borgogna, Bordeaux, Champagne, Barolo, Rioja e Mosella
 
 Stati Uniti, Argentina e Cile
 
-- **4.9.1 Gli Stati Uniti e le loro etichette** (Intermedio): Conosci le principali regioni vinicole statunitensi e le regole di etichettatura USA.
+- **4.9.1 Gli Stati Uniti e le loro etichette** (Intermedio): Descrivi le principali regioni vinicole statunitensi e le regole di etichettatura USA.
 - **4.9.2 Zinfandel/Primitivo** (Intermedio): Riconosci lo Zinfandel e il Primitivo e sappi dove vengono coltivati.
 - **4.9.3 Petite Sirah/Durif** (Avanzato): Riconoscere la Petite Sirah, il rosso scuro della California, conosciuto come Durif in Australia.
-- **4.9.4 Argentina e Malbec** (Intermedio): Conosci le regioni dell’Argentina e riconosci il Malbec.
+- **4.9.4 Argentina e Malbec** (Intermedio): Descrivi le regioni dell’Argentina e riconosci il Malbec.
 - **4.9.5 Torrontés** (Avanzato): Riconoscere il Torrontés, il bianco aromatico dell’Argentina, al suo meglio a Salta.
-- **4.9.6 Cile e Carmenère** (Intermedio): Conosci le regioni del Cile e riconosci il Carmenère.
+- **4.9.6 Cile e Carmenère** (Intermedio): Descrivi le regioni del Cile e riconosci il Carmenère.
 
 ### 4.10 Australia, Nuova Zelanda e Sudafrica
 
 Regioni, etichettatura e Pinotage
 
-- **4.10.1 Australia** (Intermedio): Conosci le regioni dell’Australia e il suo sistema di etichettatura GI.
-- **4.10.2 Nuova Zelanda** (Intermedio): Conosci le regioni della Nuova Zelanda e il loro sistema di etichettatura.
-- **4.10.3 Sudafrica e Pinotage** (Intermedio): Conosci le regioni del Sudafrica e il sistema Wine of Origin, e riconosci il Pinotage.
+- **4.10.1 Australia** (Intermedio): Descrivi le regioni dell’Australia e il suo sistema di etichettatura GI.
+- **4.10.2 Nuova Zelanda** (Intermedio): Descrivi le regioni della Nuova Zelanda e il loro sistema di etichettatura.
+- **4.10.3 Sudafrica e Pinotage** (Intermedio): Descrivi le regioni del Sudafrica e il sistema Wine of Origin, e riconosci il Pinotage.
 
 ## 5. Servire e valutare il vino
 
@@ -224,7 +228,7 @@ Regioni, etichettatura e Pinotage
 Calici, decantazione, gestione della cantina, difetti del vino e abbinamenti gastronomici
 
 - **5.1.1 Bicchieri e temperatura di servizio** (Base): Scegli il bicchiere giusto e servi ogni stile alla temperatura corretta.
-- **5.1.2 Decantazione** (Base): Dire quando e come decantare un vino.
+- **5.1.2 Decantazione** (Base): Spiegare quando e come decantare un vino.
 - **5.1.3 Gestione della cantina** (Intermedio): Conservare bene il vino e gestire una cantina.
 - **5.1.4 Servizio responsabile** (Base): Servire il vino in modo responsabile.
 - **5.1.5 Ossidazione, sentore di tappo, calore e luce** (Base): Riconoscere ossidazione, sentore di tappo e danni da calore e luce.
@@ -237,4 +241,4 @@ Calici, decantazione, gestione della cantina, difetti del vino e abbinamenti gas
 
 Quiz di ripasso e conclusione del corso
 
-- **5.2.1 Ripasso finale** (Base): Ripassare tutti gli argomenti del corso.
+- **5.2.1 Ripasso finale** (Base): Metti insieme quanto imparato in ogni lezione per rispondere a domande su tutto il corso.

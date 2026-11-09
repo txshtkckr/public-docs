@@ -10,7 +10,7 @@ Jedes Thema hat eine Stufe. Die Grundstufe umfasst das Wesentliche, um ein Getr�
 
 Die Rebe, der Weinberg und warum der Ort zählt
 
-- **1.1.1 Willkommen** (Grundstufe): Erfahre, was der Kurs abdeckt und wie du ihn nutzt.
+- **1.1.1 Willkommen** (Grundstufe): Finde dich im Weinkurs und seinen drei Stufen zurecht.
 - **1.1.2 Die Rebe und ihre Wachstumsperiode** (Grundstufe): Erkläre, was eine Rebe braucht und wie sie sich über das Jahr entwickelt.
 - **1.1.3 Klima, Wetter und Jahrgang** (Grundstufe): Erkläre, warum Klima, Wetter und Lage den Stil eines Weins prägen.
 - **1.1.4 Reblaus** (Grundstufe): Erkläre, was die Reblaus den Weinbergen der Welt angetan hat und warum die meisten Reben veredelt sind.
@@ -29,7 +29,7 @@ Systematisches Bewertungsframework und geführte Rotweinverkostung
 - **2.1.2 Aussehen** (Grundstufe): Beschreibe die Klarheit, Intensität und Farbe eines Weins.
 - **2.1.3 Aroma** (Grundstufe): Beschreibe die Aromen eines Weins nach Intensität, Charakter und Herkunft.
 - **2.1.4 Geschmack und Abgang** (Grundstufe): Beschreibe Süße, Säure, Tannin, Alkohol, Körper, Geschmack und Abgang.
-- **2.1.5 Einen Wein beurteilen** (Grundstufe): Komme zu einer begründeten Einschätzung der Qualität eines Weins.
+- **2.1.5 Einen Wein beurteilen** (Grundstufe): Beurteile die Qualität eines Weins und begründe deine Einschätzung.
 
 ## 3. Wie Wein hergestellt wird
 
@@ -37,7 +37,7 @@ Systematisches Bewertungsframework und geführte Rotweinverkostung
 
 Stillwein, Schaumwein, Süßwein und Likörwein
 
-- **3.1.1 Weinstile** (Grundstufe): Nenne die wichtigsten Weinstile und wie eine Traube zu jedem davon wird.
+- **3.1.1 Weinstile** (Mittelstufe): Nenne die wichtigsten Weinstile und wie eine Traube zu jedem davon wird.
 
 ### 3.2 Rotweinbereitung
 
@@ -45,7 +45,8 @@ Von der Lese bis ins Fass
 
 - **3.2.1 Die Rotweinherstellung** (Grundstufe): Beschreibe, wie Rotwein hergestellt wird: Maischen, Gärung, Mazeration und Pressen.
 - **3.2.2 Kohlensäuremaischung** (Mittelstufe): Erkläre die Kohlensäuremaischung und den fruchtigen Stil, den sie ergibt.
-- **3.2.3 Malolaktische Gärung, Reifung und Holzausbau** (Mittelstufe): Erkläre, was malolaktische Gärung, Reifung und Holzausbau mit einem Rotwein machen.
+- **3.2.3 Malolaktische Gärung und Reifung** (Mittelstufe): Erkläre, was malolaktische Gärung und Reifung mit einem Rotwein machen.
+- **3.2.4 Holz** (Grundstufe): Erkläre, was Holz einem Wein verleiht und wann Winzer es vermeiden.
 
 ### 3.3 International wichtige Rebsorten für Rotwein
 
@@ -53,10 +54,11 @@ Cabernet Sauvignon, Merlot, Syrah/Shiraz & Pinot Noir
 
 - **3.3.1 Cabernet Sauvignon** (Grundstufe): Erkenne Cabernet Sauvignon und wisse, wo er angebaut wird.
 - **3.3.2 Merlot** (Grundstufe): Erkenne Merlot und wisse, wo er angebaut wird.
-- **3.3.3 Der Bordeaux-Verschnitt** (Grundstufe): Erkläre, wie Cabernet Sauvignon und Merlot in Bordeaux, am Left Bank und am Right Bank kombiniert werden.
-- **3.3.4 Syrah/Shiraz** (Grundstufe): Erkenne Syrah und Shiraz und wisse, wie sich die beiden Stile unterscheiden.
-- **3.3.5 Pinot Noir** (Grundstufe): Erkenne Pinot Noir und wisse, wie der Ort ihn verändert.
-- **3.3.6 Die roten Rebsorten im Vergleich** (Grundstufe): Unterscheide die vier roten Rebsorten anhand ihrer Struktur und ihrer Aromen.
+- **3.3.3 Bordeaux im Detail** (Mittelstufe): Erkläre, wie Cabernet Sauvignon und Merlot in Bordeaux, am Left Bank und am Right Bank kombiniert werden.
+- **3.3.4 Bordeaux verkosten** (Grundstufe): Vergleiche einen Bordeaux vom Left Bank mit einem vom Right Bank im Glas.
+- **3.3.5 Syrah/Shiraz** (Grundstufe): Erkenne Syrah und Shiraz und wisse, wie sich die beiden Stile unterscheiden.
+- **3.3.6 Pinot Noir** (Grundstufe): Erkenne Pinot Noir und wisse, wie der Ort ihn verändert.
+- **3.3.7 Die roten Rebsorten im Vergleich** (Grundstufe): Unterscheide die vier roten Rebsorten anhand ihrer Struktur und ihrer Aromen.
 
 ### 3.4 Weiß- und Roséweinbereitung
 
@@ -73,16 +75,17 @@ Chardonnay, Sauvignon Blanc, Pinot Grigio & Riesling
 
 - **3.5.1 Chardonnay** (Grundstufe): Erkenne Chardonnay, holzfassgereift und nicht holzfassgereift, und wisse, wo er angebaut wird.
 - **3.5.2 Sauvignon Blanc** (Grundstufe): Erkenne Sauvignon Blanc und wisse, wo er angebaut wird.
-- **3.5.3 Pinot Gris/Grigio** (Grundstufe): Erkenne Pinot Grigio und Pinot Gris sowie die beiden Stile aus Italien und dem Elsass.
-- **3.5.4 Riesling** (Grundstufe): Erkenne Riesling, von trocken bis süß, und wisse, wo er angebaut wird.
-- **3.5.5 Die Weißweinsorten im Vergleich** (Grundstufe): Ordne die vier Weißweinsorten auf der Skala von leicht bis vollmundig ein und unterscheide sie voneinander.
+- **3.5.3 Pinot Gris/Grigio** (Grundstufe): Erkenne Pinot Grigio und Pinot Gris.
+- **3.5.4 Pinot Gris: Elsass und Italien** (Mittelstufe): Vergleiche Pinot Gris aus dem Elsass mit italienischem Pinot Grigio.
+- **3.5.5 Riesling** (Grundstufe): Erkenne Riesling, von trocken bis süß, und wisse, wo er angebaut wird.
+- **3.5.6 Die Weißweinsorten im Vergleich** (Grundstufe): Ordne die vier Weißweinsorten auf der Skala von leicht bis vollmundig ein und unterscheide sie voneinander.
 
 ### 3.6 Schaumweine
 
 Traditionelle Methode und Tankgärung, Champagner und Prosecco
 
-- **3.6.1 Die traditionelle Methode** (Grundstufe): Erkläre, wie Schaumwein nach der traditionellen Methode hergestellt wird und wie er schmeckt.
-- **3.6.2 Tankgärverfahren, Asti und die Anbaugebiete** (Grundstufe): Erkläre das Tankgärverfahren und nenne die wichtigsten Schaumwein-Anbaugebiete.
+- **3.6.1 Die traditionelle Methode** (Mittelstufe): Erkläre, wie Schaumwein nach der traditionellen Methode hergestellt wird und wie er schmeckt.
+- **3.6.2 Tankgärverfahren, Asti und die Anbaugebiete** (Mittelstufe): Erkläre das Tankgärverfahren und nenne die wichtigsten Schaumwein-Anbaugebiete.
 - **3.6.3 Champagner und Schaumwein-Etikettenbegriffe** (Mittelstufe): Lies ein Schaumwein-Etikett: Süßegrade, Jahrgang und Erzeugerangaben.
 - **3.6.4 Reserveweine, Dosage und Hefelagerung** (Oberstufe): Erkläre, wie Reserveweine, Dosage und Hefelagerung den Champagner prägen.
 - **3.6.5 Prosecco und Franciacorta** (Oberstufe): Unterscheide Prosecco DOCG von DOC und erkläre Franciacorta.
@@ -124,9 +127,9 @@ Alte und Neue Welt, geografische Angaben und Qualitätsstufen
 
 Regionen und Rebsorten von Bordeaux bis zur Rhône
 
-- **4.2.1 Bordeaux und Burgund** (Grundstufe): Lerne Bordeaux und Burgund, ihre Rebsorten und Stile kennen.
-- **4.2.2 Champagne, Elsass, Rhône und Loire** (Mittelstufe): Lerne Frankreichs weitere klassische Regionen und ihre Stile kennen.
-- **4.2.3 Languedoc-Roussillon und Provence** (Mittelstufe): Lerne den Süden Frankreichs kennen: Minervois-Cuvées, Pays-d’Oc-Sortenweine und Provence-Rosé.
+- **4.2.1 Bordeaux und Burgund** (Mittelstufe): Beschreibe Bordeaux und Burgund, ihre Rebsorten und Stile.
+- **4.2.2 Champagne, Elsass, Rhône und Loire** (Mittelstufe): Beschreibe Frankreichs weitere klassische Regionen und ihre Stile.
+- **4.2.3 Languedoc-Roussillon und Provence** (Mittelstufe): Beschreibe den Süden Frankreichs: Minervois-Cuvées, Pays-d’Oc-Sortenweine und Provence-Rosé.
 - **4.2.4 Cabernet Franc, Gamay und Grenache** (Mittelstufe): Erkenne Cabernet Franc, Gamay und Grenache und wisse, wo sie angebaut werden.
 - **4.2.5 Chenin Blanc, Viognier, Gewürztraminer und Semillon** (Mittelstufe): Erkenne Chenin Blanc, Viognier, Gewürztraminer und Semillon und wisse, wo sie angebaut werden.
 - **4.2.6 Marsanne / Roussanne und Melon de Bourgogne** (Oberstufe): Erkenne das weiße Paar der Nordrhoˆne und Melon de Bourgogne, die Traube von Muscadet.
@@ -136,32 +139,33 @@ Regionen und Rebsorten von Bordeaux bis zur Rhône
 
 Regionen und Rebsorten vom Piemont bis in den Süden
 
-- **4.3.1 Italiens Weinregionen** (Grundstufe): Lerne Italiens wichtigste Weinregionen und ihre Weine kennen.
-- **4.3.2 Sangiovese** (Grundstufe): Erkenne Sangiovese und die Weine, die daraus in der Toskana entstehen.
-- **4.3.3 Nebbiolo, Barbera, Corvina und Montepulciano** (Mittelstufe): Erkenne Italiens weitere wichtige Rotweinsorten und vergleiche sie.
-- **4.3.4 Aglianico, Nerello Mascalese, Lambrusco, Lagrein und Sagrantino** (Oberstufe): Erkenne fünf weitere italienische Rotweine, von Lambruscos Perlwein bis zu Sagrantinos Tanninen, und wo jeder wächst.
-- **4.3.5 Garganega, Fiano, Verdicchio und Cortese** (Mittelstufe): Erkenne Italiens wichtigste Weißweinsorten und vergleiche sie.
-- **4.3.6 Arneis und Falanghina / Greco** (Oberstufe): Erkenne Piemont’s Arneis und Kampaniens Falanghina und Greco.
+- **4.3.1 Italiens Weinregionen** (Mittelstufe): Nenne Italiens wichtigste Weinregionen und ihre jeweiligen Weine.
+- **4.3.2 Italien im Detail** (Mittelstufe): Beschreibe Italiens wichtigste Regionen, Rebsorten und Klassifikationen.
+- **4.3.3 Sangiovese** (Mittelstufe): Erkenne Sangiovese und die Weine, die daraus in der Toskana entstehen.
+- **4.3.4 Nebbiolo, Barbera, Corvina und Montepulciano** (Mittelstufe): Erkenne Italiens weitere wichtige Rotweinsorten und vergleiche sie.
+- **4.3.5 Aglianico, Nerello Mascalese, Lambrusco, Lagrein und Sagrantino** (Oberstufe): Erkenne fünf weitere italienische Rotweine, von Lambruscos Perlwein bis zu Sagrantinos Tanninen, und wo jeder wächst.
+- **4.3.6 Garganega, Fiano, Verdicchio und Cortese** (Mittelstufe): Erkenne Italiens wichtigste Weißweinsorten und vergleiche sie.
+- **4.3.7 Arneis und Falanghina / Greco** (Oberstufe): Erkenne Piemont’s Arneis und Kampaniens Falanghina und Greco.
 
 ### 4.4 Spanien und Portugal
 
 Regionen, Tempranillo, Albariño und spanische Reifebezeichnungen
 
-- **4.4.1 Spanien** (Mittelstufe): Lerne Spaniens wichtigste Weinregionen und ihre Weine kennen.
-- **4.4.2 Tempranillo** (Grundstufe): Erkenne Tempranillo und wo er angebaut wird.
+- **4.4.1 Spanien** (Mittelstufe): Beschreibe Spaniens wichtigste Weinregionen und ihre Weine.
+- **4.4.2 Tempranillo** (Mittelstufe): Erkenne Tempranillo und wo er angebaut wird.
 - **4.4.3 Spanische Reifebezeichnungen** (Mittelstufe): Erkläre Crianza, Reserva und Gran Reserva.
 - **4.4.4 Albariño** (Mittelstufe): Erkenne Albariño und wo er angebaut wird.
 - **4.4.5 Verdejo, Viura, Xarel·lo, Graciano, Mencía, Godello und Bobal** (Oberstufe): Erkenne Spaniens andere Haupttrauben und die Regionen, die sie definieren, von Ruedas Verdejo bis zu Utiel-Requenas Bobal.
-- **4.4.6 Portugal** (Oberstufe): Lerne Portugals wichtigste Stillweinregionen und Rebsorten kennen.
+- **4.4.6 Portugal** (Oberstufe): Beschreibe Portugals wichtigste Stillweinregionen und Rebsorten.
 - **4.4.7 Verdelho, Malvasia und Tinta Barroca / Tinto Cão** (Oberstufe): Erkenne Madeiras Verdelho und Malvasia und zwei der Douro-Trauben des Portwein.
 
 ### 4.5 Deutschland, Österreich und Ungarn
 
 Regionen, deutsche Etikettierung und Furmint
 
-- **4.5.1 Deutschland und seine Etiketten** (Mittelstufe): Lerne Deutschlands Weinregionen kennen und lies ein deutsches Weinetikett.
+- **4.5.1 Deutschland und seine Etiketten** (Mittelstufe): Beschreibe Deutschlands Weinregionen und lies ein deutsches Weinetikett.
 - **4.5.2 Pinot Blanc, Müller-Thurgau und Silvaner** (Oberstufe): Erkenne Deutschlands andere weiße Trauben und wo jede am besten gedeiht.
-- **4.5.3 Österreich** (Oberstufe): Lerne Österreichs wichtigste Regionen und Rebsorten kennen.
+- **4.5.3 Österreich** (Oberstufe): Beschreibe Österreichs wichtigste Regionen und Rebsorten.
 - **4.5.4 Grüner Veltliner** (Oberstufe): Erkenne Grüner Veltliner, Österreichs charakteristische Weiße.
 - **4.5.5 Furmint und Tokaji** (Mittelstufe): Erkenne Furmint und die regionalen Weißweinsorten Mitteleuropas.
 
@@ -169,12 +173,12 @@ Regionen, deutsche Etikettierung und Furmint
 
 Santorini, Nordgriechenland und der Peloponnes
 
-- **4.6.1 Griechenland** (Oberstufe): Lerne Griechenlands Klima, seine wichtigsten Weinregionen und die Bindung seiner g.U. an eine Rebsorte kennen.
+- **4.6.1 Griechenland** (Oberstufe): Beschreibe Griechenlands Klima, seine wichtigsten Weinregionen und die Bindung seiner g.U. an eine Rebsorte.
 - **4.6.2 Santorini** (Oberstufe): Erkläre, wie Vulkanboden, Wind und korbförmig erzogene Reben die Weine Santorinis prägen, und lerne Nykteri und Vinsanto kennen.
 - **4.6.3 Assyrtiko** (Oberstufe): Erkenne Assyrtiko, die weiße Rebsorte, die auch in heißem Klima ihre Säure behält.
-- **4.6.4 Naoussa und Amyndeon** (Oberstufe): Lerne Naoussa und Amyndeon, die Xinomavro-Appellationen Nordgriechenlands, und ihre Stile kennen.
+- **4.6.4 Naoussa und Amyndeon** (Oberstufe): Beschreibe Naoussa und Amyndeon, die Xinomavro-Appellationen Nordgriechenlands, und ihre Stile.
 - **4.6.5 Xinomavro** (Oberstufe): Erkenne Xinomavro und vergleiche ihn mit Nebbiolo.
-- **4.6.6 Der Peloponnes** (Oberstufe): Lerne Nemea, Mantinia und Mavrodaphne von Patras kennen und erfahre, was Retsina ist.
+- **4.6.6 Der Peloponnes** (Oberstufe): Beschreibe Nemea, Mantinia und Mavrodaphne von Patras und erkläre, was Retsina ist.
 - **4.6.7 Agiorgitiko** (Oberstufe): Erkenne Agiorgitiko, Griechenlands meistangebaute rote Rebsorte.
 - **4.6.8 Assyrtiko und Xinomavro verkosten** (Oberstufe): Verkoste und beschreibe einen Weißwein aus Santorini und einen Rotwein aus Naoussa nebeneinander.
 
@@ -202,20 +206,20 @@ Burgund, Bordeaux, Champagne, Barolo, Rioja und die Mosel
 
 USA, Argentinien und Chile
 
-- **4.9.1 Die Vereinigten Staaten und ihre Etiketten** (Mittelstufe): Lerne die wichtigsten Weinregionen der USA und die US-Etikettierungsvorschriften kennen.
+- **4.9.1 Die Vereinigten Staaten und ihre Etiketten** (Mittelstufe): Beschreibe die wichtigsten Weinregionen der USA und die US-Etikettierungsvorschriften.
 - **4.9.2 Zinfandel/Primitivo** (Mittelstufe): Erkenne Zinfandel und Primitivo und wisse, wo sie angebaut werden.
 - **4.9.3 Petite Sirah/Durif** (Oberstufe): Erkenne Petite Sirah, Kaliforniens tiefdunklen Rotwein, in Australien als Durif bekannt.
-- **4.9.4 Argentinien und Malbec** (Mittelstufe): Lerne die Regionen Argentiniens kennen und erkenne Malbec.
+- **4.9.4 Argentinien und Malbec** (Mittelstufe): Beschreibe die Regionen Argentiniens und erkenne Malbec.
 - **4.9.5 Torrontés** (Oberstufe): Erkenne Torrontés, Argentiniens aromatische Weiße, am besten in Salta.
-- **4.9.6 Chile und Carmenère** (Mittelstufe): Lerne die Regionen Chiles kennen und erkenne Carmenère.
+- **4.9.6 Chile und Carmenère** (Mittelstufe): Beschreibe die Regionen Chiles und erkenne Carmenère.
 
 ### 4.10 Australien, Neuseeland und Südafrika
 
 Regionen, Etikettierung und Pinotage
 
-- **4.10.1 Australien** (Mittelstufe): Lerne die Regionen Australiens und seine GI-Etikettierung kennen.
-- **4.10.2 Neuseeland** (Mittelstufe): Lerne die Regionen Neuseelands und seine Etikettierung kennen.
-- **4.10.3 Südafrika und Pinotage** (Mittelstufe): Lerne die Regionen Südafrikas und das Wine-of-Origin-System kennen und erkenne Pinotage.
+- **4.10.1 Australien** (Mittelstufe): Beschreibe die Regionen Australiens und seine GI-Etikettierung.
+- **4.10.2 Neuseeland** (Mittelstufe): Beschreibe die Regionen Neuseelands und seine Etikettierung.
+- **4.10.3 Südafrika und Pinotage** (Mittelstufe): Beschreibe die Regionen Südafrikas und das Wine-of-Origin-System und erkenne Pinotage.
 
 ## 5. Wein servieren und beurteilen
 
@@ -224,7 +228,7 @@ Regionen, Etikettierung und Pinotage
 Gläserkunde, Dekantieren, Kellerführung, Weinfehler und Speisenkombination
 
 - **5.1.1 Gläser und Serviertemperatur** (Grundstufe): Wähle das richtige Glas und serviere jeden Stil bei der passenden Temperatur.
-- **5.1.2 Dekantieren** (Grundstufe): Sag, wann und wie man einen Wein dekantiert.
+- **5.1.2 Dekantieren** (Grundstufe): Erkläre, wann und wie man einen Wein dekantiert.
 - **5.1.3 Kellerwirtschaft** (Mittelstufe): Wein richtig lagern und einen Keller verwalten.
 - **5.1.4 Verantwortungsvoller Ausschank** (Grundstufe): Serviere Wein verantwortungsbewusst.
 - **5.1.5 Oxidation, Korkschmecker, Hitze- und Lichtschäden** (Grundstufe): Erkenne Oxidation, Korkschmecker sowie Hitze- und Lichtschäden.
@@ -237,4 +241,4 @@ Gläserkunde, Dekantieren, Kellerführung, Weinfehler und Speisenkombination
 
 Abschlussquiz und Kursabschluss
 
-- **5.2.1 Abschließende Wiederholung** (Grundstufe): Wiederhole alles, was du im Kurs gelernt hast.
+- **5.2.1 Abschließende Wiederholung** (Grundstufe): Verknüpfe das Wissen aus den einzelnen Lektionen, um Fragen aus dem gesamten Kurs zu beantworten.
