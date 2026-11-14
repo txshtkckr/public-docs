@@ -49,9 +49,9 @@ Explore the essential spirits, liqueurs, mixers, syrups, bitters, and garnishes 
 - **2.1.5 Garnishes** (Intermediate): Describe the fresh, savoury and specialty garnishes.
 - **2.1.6 Herbal, floral and aperitivo liqueurs** (Intermediate): Describe the herbal, floral, fruity and aperitivo liqueurs.
 - **2.1.7 Syrups and sweeteners** (Intermediate): Make the syrups and sweeteners beyond simple syrup.
-- **2.1.8 Cocktail bitters** (Intermediate): Describe cocktail bitters, where they came from and what goes in them.
+- **2.1.8 Cocktail bitters** (Intermediate): Explain what cocktail bitters are, where they came from and how a dash changes a drink.
 - **2.1.9 Craft bitters and amari** (Advanced): Describe craft bitters and amari.
-- **2.1.10 What the bar lab does** (Basic): Describe what the bar lab does and what it makes.
+- **2.1.10 What the bar lab does** (Intermediate): Describe what the bar lab does and what it makes.
 - **2.1.11 Saline and MSG** (Intermediate): Use saline solutions and MSG to season a drink.
 - **2.1.12 Oleo saccharum** (Intermediate): Make oleo saccharum.
 
@@ -80,7 +80,7 @@ Study the world’s most important cocktails — their recipes, history, variati
 - **2.2.19 The sour template** (Intermediate): Apply the sour template to make new drinks.
 - **2.2.20 Collins and Martini families** (Intermediate): Classify the Collins and Martini variations.
 
-### 2.3 Cocktail tasting & balance
+### 2.3 Cocktail tasting and balance
 
 Apply your knowledge by tasting and comparing cocktails — exploring how base spirits transform the same template into entirely different drinks.
 
@@ -94,7 +94,7 @@ Apply your knowledge by tasting and comparing cocktails — exploring how base s
 
 ## 3. History and the modern bar
 
-### 3.1 Cocktail history & culture
+### 3.1 Cocktail history and culture
 
 Explore the rich history of cocktails — from pre-Prohibition origins through tiki culture to the modern craft renaissance.
 

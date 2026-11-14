@@ -43,7 +43,7 @@ Kōji, Reis, Gärung und die Kennzahlen
 
 ## 2. Stile und Verkostung
 
-### 2.1 Sake-Klassifizierungen & Stilarten
+### 2.1 Sake-Klassen & Stilarten
 
 Das Klassifizierungssystem verstehen
 
@@ -59,7 +59,7 @@ Das Klassifizierungssystem verstehen
 
 Geschmackstypen, Verkostungsvokabular und Verkostungsmethodik
 
-- **2.2.1 Geschmacksprofile von Sake** (Grundstufe): Beschreibe die wichtigsten Geschmacksprofile von Sake.
+- **2.2.1 Geschmacksprofile von Sake** (Mittelstufe): Beschreibe die wichtigsten Geschmacksprofile von Sake.
 - **2.2.2 Ginjō und Junmai: der Einstieg** (Grundstufe): Vergleiche einen Ginjō und einen Junmai direkt nebeneinander.
 - **2.2.3 Aussehen** (Grundstufe): Beschreibe die Klarheit und Farbe eines Sake.
 - **2.2.4 Aroma** (Grundstufe): Beschreibe die Aromen eines Sakes und woher sie stammen.
@@ -110,14 +110,14 @@ Wie man Sake serviert, lagert und zu Speisen kombiniert
 
 - **4.1.1 Serviertemperatur** (Grundstufe): Serviere Sake gekühlt, bei Raumtemperatur oder warm, und erwärme ihn dabei sorgfältig.
 - **4.1.2 Die neun Serviertemperaturen** (Oberstufe): Nenne die neun traditionellen Serviertemperaturen.
-- **4.1.3 Temperatur nach Qualitätsstufe** (Grundstufe): Wähle für jede Qualitätsstufe eine passende Serviertemperatur.
+- **4.1.3 Temperatur nach Klasse** (Grundstufe): Wähle für jede Sake-Klasse eine passende Serviertemperatur.
 - **4.1.4 Gläser und Lagerung** (Grundstufe): Wähle ein passendes Gefäß für Sake und lagere Sake so, dass er frisch bleibt.
 - **4.1.5 Speisenbegleitung** (Grundstufe): Kombiniere Sake mit Speisen.
 - **4.1.6 Verantwortungsvoller Ausschank** (Grundstufe): Schenke Sake verantwortungsvoll aus.
 - **4.1.7 Das Temperaturexperiment** (Grundstufe): Vergleiche einen Sake, der bei drei verschiedenen Temperaturen serviert wird.
 
-### 4.2 Abschließende Wiederholung
+### 4.2 Abschlusswiederholung
 
-Wiederholungsquiz über alle Sake-Themen
+Wiederholungsquiz zu allen Sake-Themen
 
-- **4.2.1 Abschlusswiederholung** (Grundstufe): Kombiniere, was du in den einzelnen Lektionen gelernt hast, um Fragen aus dem gesamten Kurs zu beantworten.
+- **4.2.1 Abschlusswiederholung** (Grundstufe): Verbinde, was jede Lektion vermittelt hat, um Fragen aus dem gesamten Kurs zu beantworten.

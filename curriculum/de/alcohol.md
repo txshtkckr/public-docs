@@ -10,7 +10,7 @@ Jedes Thema hat eine Stufe. Die Grundstufe umfasst das Wesentliche, um mit Siche
 
 Wie Geschmack, Geruch und das Aromaerleben bei allen Getränken funktionieren
 
-- **1.1.1 Willkommen** (Grundstufe): Finde dich im Kurs „Alkohol-Wissenschaft“ und seinen drei Stufen zurecht.
+- **1.1.1 Willkommen** (Grundstufe): Finde dich im Kurs „Alkoholwissenschaft“ und seinen drei Stufen zurecht.
 - **1.1.2 Die fünf Grundgeschmacksarten** (Grundstufe): Nenne die fünf Grundgeschmacksarten und woher sie jeweils in einem Getränk stammen.
 - **1.1.3 Geruch** (Grundstufe): Erkläre den orthonasalen und den retronasalen Geruch und warum der Geruch den größten Teil des Aromas ausmacht.
 - **1.1.4 Aromaräder und Schwellenwerte** (Mittelstufe): Nutze ein Aromarad und erkläre sensorische Schwellenwerte.
@@ -84,8 +84,8 @@ Kurzfristige und langfristige Auswirkungen des Alkoholkonsums
 - **3.2.9 Epidemiologie richtig lesen** (Oberstufe): Interpretiere Studien zu Alkohol und Gesundheit.
 - **3.2.10 Rezeptorpharmakologie** (Oberstufe): Erkläre, wie Alkohol auf GABA und die anderen Rezeptoren des Gehirns wirkt.
 
-### 3.3 Abschlussüberblick
+### 3.3 Abschlusswiederholung
 
-Wiederholungsquiz zu allen Themen der Alkoholverwissenschaft
+Wiederholungsquiz zu allen Themen der Alkoholwissenschaft
 
-- **3.3.1 Abschlussrepetitorium** (Grundstufe): Kombiniere, was dir die einzelnen Lektionen beigebracht haben, um Fragen aus dem gesamten Kurs zu beantworten.
+- **3.3.1 Abschlusswiederholung** (Grundstufe): Verbinde, was jede Lektion vermittelt hat, um Fragen aus dem gesamten Kurs zu beantworten.

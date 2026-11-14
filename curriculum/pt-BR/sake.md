@@ -1,4 +1,4 @@
-# Currículo de Saque do BoozeTutor
+# Currículo de Saquê do BoozeTutor
 
 O curso é organizado em eixos. Cada eixo reúne lições, e cada lição ensina um ou mais temas; cada tema diz o que você deve saber fazer ao terminá-lo.
 
@@ -10,12 +10,12 @@ Cada tema tem um nível. Básico cobre o essencial para falar sobre o assunto co
 
 O que é saquê e por que é único?
 
-- **1.1.1 Boas-vindas** (Básico): Conheça o curso de saquê e seus três níveis.
+- **1.1.1 Boas-vindas** (Básico): Oriente-se no curso de saquê e em seus três níveis.
 - **1.1.2 Oshaku: servir os outros** (Básico): Sirva saquê aos outros e aceite uma dose como manda o costume japonês.
 - **1.1.3 O que é saquê** (Básico): Explique de que o saquê é feito e como ele se diferencia do vinho e da cerveja.
 - **1.1.4 Arroz para saquê** (Básico): Diferencie o arroz para saquê do arroz de mesa e cite as principais variedades de arroz para saquê.
 - **1.1.5 O cultivo do arroz para saquê** (Intermediário): Descreva como o arroz para saquê é cultivado ao longo do ano e por que a sua origem importa.
-- **1.1.6 Como ler o rótulo de um saquê** (Básico): Leia a classificação, o grau de polimento e outras informações importantes no rótulo de um saquê.
+- **1.1.6 Como ler o rótulo de um saquê** (Básico): Leia a classificação, a taxa de polimento e outras informações importantes no rótulo de um saquê.
 
 ### 1.2 Como o saquê é feito
 
@@ -23,7 +23,7 @@ O processo de produção do arroz até a garrafa
 
 - **1.2.1 Polimento e preparo do arroz** (Básico): Explique por que o arroz é polido, lavado, deixado de molho e cozido no vapor.
 - **1.2.2 Kōji** (Básico): Explique como o kōji transforma o amido do arroz em açúcar.
-- **1.2.3 Fermentação em resumo** (Básico): Descreva como o fermento-mãe e o mosto principal transformam o arroz em sake, e como a temperatura molda o seu estilo.
+- **1.2.3 Fermentação em resumo** (Básico): Descreva como o fermento-mãe e o mosto principal transformam o arroz em saquê, e como a temperatura molda o seu estilo.
 - **1.2.4 O fermento-mãe (shubo)** (Intermediário): Compare os fermentos-mãe kimoto, yamahai e sokujō.
 - **1.2.5 Fermentação principal** (Intermediário): Descreva a fermentação principal em três etapas e a fermentação paralela múltipla.
 - **1.2.6 Prensagem** (Intermediário): Compare as formas de prensar o saquê e o que cada uma faz com ele.
@@ -59,7 +59,7 @@ Entendendo o sistema de classificação
 
 Tipos de sabor, vocabulário sensorial e metodologia de degustação
 
-- **2.2.1 Perfis de sabor do saquê** (Básico): Descreva os principais perfis de sabor do saquê.
+- **2.2.1 Perfis de sabor do saquê** (Intermediário): Descreva os principais perfis de sabor do saquê.
 - **2.2.2 Ginjō e junmai: primeiros passos** (Básico): Compare um ginjō e um junmai lado a lado.
 - **2.2.3 Aspecto visual** (Básico): Descreva a limpidez e a cor de um saquê.
 - **2.2.4 Aroma** (Básico): Descreva os aromas de um saquê e de onde eles vêm.

@@ -10,7 +10,7 @@ Cada tema tiene un nivel. Básico cubre lo esencial para hablar de la materia co
 
 Del grano al vaso: el proceso de elaboración de cerveza
 
-- **1.1.1 Te damos la bienvenida** (Básico): Orientarte en el curso de cerveza y sus tres niveles.
+- **1.1.1 Te damos la bienvenida** (Básico): Oriéntate en el curso de cerveza y sus tres niveles.
 - **1.1.2 Ale y lager** (Básico): Distingue una ale de una lager por su levadura y su temperatura de fermentación.
 - **1.1.3 Cómo se elabora la cerveza** (Básico): Describe cada etapa de la elaboración, desde el macerado hasta la fermentación y el envasado.
 
@@ -33,7 +33,7 @@ Lúpulo, levadura, agua y malta en profundidad
 - **1.3.1 Química del lúpulo** (Avanzado): Explica la química que hay detrás del amargor y el aroma del lúpulo.
 - **1.3.2 Biología de la levadura** (Avanzado): Explica cómo el metabolismo de la levadura produce alcohol, ésteres y otros sabores.
 - **1.3.3 Química del agua en la práctica** (Avanzado): Explica cómo los cerveceros ajustan su agua según el estilo.
-- **1.3.4 Malteado y macerado** (Avanzado): Explica qué ocurre con el almidón y las enzimas durante el malteado y el macerado.
+- **1.3.4 Malteado y macerado** (Intermedio): Explica qué ocurre con el almidón y las enzimas durante el malteado y el macerado.
 
 ## 2. Cata y estilos
 

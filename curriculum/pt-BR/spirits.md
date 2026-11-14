@@ -10,10 +10,10 @@ Cada tema tem um nível. Básico cobre o essencial para falar sobre o assunto co
 
 De matérias-primas até a garrafa: o processo de produção
 
-- **1.1.1 Boas-vindas** (Básico): Conheça o curso de destilados e seus três níveis.
+- **1.1.1 Boas-vindas** (Básico): Oriente-se no curso de destilados e em seus três níveis.
 - **1.1.2 Como os destilados são feitos** (Básico): Descreva como um destilado é produzido, da matéria-prima à garrafa.
 - **1.1.3 Matérias-primas** (Básico): Identifique as matérias-primas dos principais destilados.
-- **1.1.4 Fermentação** (Básico): Explique a fermentação e os subprodutos que dão sabor a um destilado.
+- **1.1.4 Fermentação** (Intermediário): Explique a fermentação e os subprodutos que dão sabor a um destilado.
 - **1.1.5 Alambiques de cobre e colunas de destilação** (Básico): Compare os alambiques de cobre (pot still) e as colunas de destilação e os destilados que cada um produz.
 - **1.1.6 Envelhecimento em madeira** (Básico): Explique o que um barril confere a um destilado e o que a idade indicada no rótulo significa.
 - **1.1.7 Maturação e acabamento** (Intermediário): Explique como a maturação e o acabamento em madeira transformam um destilado.
@@ -23,10 +23,10 @@ De matérias-primas até a garrafa: o processo de produção
 
 Gim, uísque, brandy, licores e vermute em resumo
 
-- **1.2.1 Gim** (Básico): Explicar o que é o gim e o que significa London Dry.
-- **1.2.2 Uísque** (Básico): Descrever de que é feito o uísque e distinguir o escocês, o irlandês e o americano.
-- **1.2.3 Brandy** (Básico): Explicar de que é feito o brandy e o que significam VS, VSOP e XO no rótulo de um conhaque.
-- **1.2.4 Licores e vermute** (Básico): Explicar o que faz um licor e como o vermute se diferencia dele.
+- **1.2.1 Gim** (Básico): Explique o que é o gim e o que significa London Dry.
+- **1.2.2 Uísque** (Básico): Descreva de que é feito o uísque e distinga o escocês, o irlandês e o americano.
+- **1.2.3 Brandy** (Básico): Explique de que é feito o brandy e o que significam VS, VSOP e XO no rótulo de um Cognac.
+- **1.2.4 Licores e vermute** (Básico): Explique o que faz um licor e como o vermute se diferencia dele.
 
 ### 1.3 Ciência da destilação e maturação
 
@@ -65,12 +65,12 @@ A maior categoria de bebidas destiladas do mundo
 Botanicais, caráter de zimbro e estilos de gim
 
 - **2.2.1 O que é o gim** (Intermediário): Descreva o que é o gim e como sua história o moldou.
-- **2.2.2 Como o gim é produzido** (Intermediário): Compare as formas de produzir gim a partir de álcool neutro.
+- **2.2.2 Como o gim é produzido** (Intermediário): Compare as formas de produzir gim a partir de destilado neutro.
 - **2.2.3 Famílias de estilos de gim** (Intermediário): Diferencie as famílias de estilos de gim.
 - **2.2.4 Botânicos** (Intermediário): Descreva os principais botânicos do gim e o que cada um traz.
 - **2.2.5 Degustação de gim** (Intermediário): Compare estilos de gim na taça.
 
-## 3. Uísque, rum e conhaque
+## 3. Uísque, rum e brandy
 
 ### 3.1 Uísque
 

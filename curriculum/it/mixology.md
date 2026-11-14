@@ -40,7 +40,7 @@ Impara le competenze essenziali di servizio: filtraggio, decorazione dei bordi d
 
 ### 2.1 Ingredienti
 
-Esplora gli spiriti, i liquori, i mixer, gli sciroppi, gli amari e le decorazioni essenziali nella preparazione dei cocktail.
+Esplora i distillati, i liquori, i mixer, gli sciroppi, gli amari e le decorazioni essenziali nella preparazione dei cocktail.
 
 - **2.1.1 Distillati base** (Base): Descrivi i distillati base alla base dei cocktail.
 - **2.1.2 I modificatori in breve** (Base): Indica i modificatori più comuni e i cocktail classici a cui appartiene ciascuno.
@@ -49,9 +49,9 @@ Esplora gli spiriti, i liquori, i mixer, gli sciroppi, gli amari e le decorazion
 - **2.1.5 Guarnizioni** (Intermedio): Descrivi le guarnizioni fresche, sapide e speciali.
 - **2.1.6 Liquori erbacei, floreali e da aperitivo** (Intermedio): Descrivi i liquori erbacei, floreali, fruttati e da aperitivo.
 - **2.1.7 Sciroppi e dolcificanti** (Intermedio): Prepara gli sciroppi e i dolcificanti diversi dallo sciroppo semplice.
-- **2.1.8 Bitter da cocktail** (Intermedio): Descrivi i bitter da cocktail, la loro origine e cosa contengono.
+- **2.1.8 Bitter da cocktail** (Intermedio): Spiega cosa sono i bitter da cocktail, la loro origine e come una spruzzata può cambiare un drink.
 - **2.1.9 Bitter artigianali e amari** (Avanzato): Descrivi i bitter artigianali e gli amari.
-- **2.1.10 Cosa fa il laboratorio del bar** (Base): Descrivi cosa fa il laboratorio del bar e cosa produce.
+- **2.1.10 Cosa fa il laboratorio del bar** (Intermedio): Descrivi cosa fa il laboratorio del bar e cosa produce.
 - **2.1.11 Soluzione salina e glutammato** (Intermedio): Usa le soluzioni saline e il glutammato per insaporire un drink.
 - **2.1.12 Oleo saccharum** (Intermedio): Prepara l’oleo saccharum.
 
@@ -128,8 +128,8 @@ Tecniche avanzate di ingredienti utilizzate nei bar di alta gamma: fat washing, 
 - **3.2.10 Batching e pre-diluizione** (Avanzato): Prepara i cocktail in batch e pre-diluiscili.
 - **3.2.11 Split base e famiglie di modificatori** (Avanzato): Costruisci i drink su split base e famiglie di modificatori.
 
-### 3.3 Revisione finale
+### 3.3 Ripasso finale
 
 Quiz di ripasso su tutti gli argomenti di miscelazione
 
-- **3.3.1 Revisione finale** (Base): Combina ciò che ti ha insegnato ogni lezione per rispondere a domande su tutto il corso.
+- **3.3.1 Ripasso finale** (Base): Combina ciò che hai imparato in ogni lezione per rispondere a domande su tutto il corso.

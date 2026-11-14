@@ -15,13 +15,13 @@ Cos’è il sake e perché è unico?
 - **1.1.3 Che cos’è il sake** (Base): Scopri da che cosa si ottiene il sake e in che cosa si differenzia dal vino e dalla birra.
 - **1.1.4 Il riso da sake** (Base): Distingui il riso da sake dal riso da tavola e conosci le principali varietà di riso da sake.
 - **1.1.5 La coltivazione del riso da sake** (Intermedio): Scopri come si coltiva il riso da sake nel corso dell’anno e perché la sua origine è importante.
-- **1.1.6 Leggere l’etichetta del sake** (Base): Leggi la categoria, la percentuale di raffinazione e le altre informazioni chiave sull’etichetta di un sake.
+- **1.1.6 Leggere l’etichetta del sake** (Base): Leggi la categoria, il rapporto di lucidatura e le altre informazioni chiave sull’etichetta di un sake.
 
 ### 1.2 Come si produce il sake
 
 Il processo di produzione dal riso alla bottiglia
 
-- **1.2.1 Raffinazione e preparazione del riso** (Base): Scopri perché il riso viene brillato, lavato, messo a bagno e cotto a vapore.
+- **1.2.1 Lucidatura e preparazione del riso** (Base): Scopri perché il riso viene brillato, lavato, messo a bagno e cotto a vapore.
 - **1.2.2 Kōji** (Base): Scopri come il kōji trasforma l’amido del riso in zucchero.
 - **1.2.3 La fermentazione in breve** (Base): Descrivi come il lievito madre e il mosto principale trasformano il riso in sake, e come la temperatura ne definisce lo stile.
 - **1.2.4 Il lievito madre (shubo)** (Intermedio): Confronta i lieviti madre kimoto, yamahai e sokujō.
@@ -47,7 +47,7 @@ Kōji, riso, fermentazione e i numeri
 
 Comprendere il sistema di classificazione
 
-- **2.1.1 Le categorie** (Base): Indica le categorie di sake e il grado di brillatura richiesto per ciascuna.
+- **2.1.1 Le categorie** (Base): Indica le categorie di sake e il rapporto di lucidatura richiesto per ciascuna.
 - **2.1.2 Alcol aggiunto** (Base): Spiega perché in alcuni sake viene aggiunto alcol e che cosa cambia.
 - **2.1.3 Le categorie in sintesi** (Base): Confronta le categorie di sake una accanto all’altra.
 - **2.1.4 Tipologie speciali di sake** (Base): Riconosci il sake nama, nigori, spumante e invecchiato.
@@ -59,7 +59,7 @@ Comprendere il sistema di classificazione
 
 Tipi di sapori, vocabolario sensoriale e metodologia di degustazione
 
-- **2.2.1 Profili aromatici del sake** (Base): Descrivi i principali profili aromatici del sake.
+- **2.2.1 Profili aromatici del sake** (Intermedio): Descrivi i principali profili aromatici del sake.
 - **2.2.2 Ginjō e junmai: per iniziare** (Base): Confronta un ginjō e un junmai una accanto all’altro.
 - **2.2.3 Aspetto** (Base): Descrivi la limpidezza e il colore di un sake.
 - **2.2.4 Aroma** (Base): Descrivi gli aromi di un sake e da dove provengono.
@@ -116,7 +116,7 @@ Come servire, conservare e abbinare il sake
 - **4.1.6 Servizio responsabile** (Base): Servi il sake in modo responsabile.
 - **4.1.7 L’esperimento della temperatura** (Base): Confronta uno stesso sake servito a tre temperature.
 
-### 4.2 Revisione finale
+### 4.2 Ripasso finale
 
 Quiz di ripasso su tutti gli argomenti del sake
 

@@ -10,7 +10,7 @@ Jedes Thema hat eine Stufe. Die Grundstufe umfasst das Wesentliche, um mit Siche
 
 Lerne die wesentlichen Werkzeuge, die jeder Barkeeper braucht – Shaker, Siebe, Messgeräte und Garniturzubehör.
 
-- **1.1.1 Willkommen** (Grundstufe): Finde dich im Mixology-Kurs und seinen drei Stufen zurecht.
+- **1.1.1 Willkommen** (Grundstufe): Finde dich im Kurs „Mixologie“ und seinen drei Stufen zurecht.
 - **1.1.2 Mixwerkzeuge** (Grundstufe): Lerne die Werkzeuge zum Mixen eines Drinks kennen und wofür man sie jeweils braucht.
 - **1.1.3 Abseihwerkzeuge** (Grundstufe): Lerne die Seiher kennen und wann du welchen verwendest.
 - **1.1.4 Mess- und Serviergeräte** (Grundstufe): Lerne die Werkzeuge zum Abmessen und Servieren eines Drinks kennen.
@@ -20,9 +20,9 @@ Lerne die wesentlichen Werkzeuge, die jeder Barkeeper braucht – Shaker, Siebe,
 
 Meistere die grundlegenden Mischmethoden: Shaken, Rühren, Zerdrücken (Muddling), Aufbauen (Building), Vermischen (Blending) und Schichten (Layering).
 
-- **1.2.1 Shaken** (Grundstufe): Shake einen Drink richtig.
+- **1.2.1 Shaken** (Grundstufe): Schüttle einen Drink richtig.
 - **1.2.2 Rühren** (Grundstufe): Rühre einen Drink richtig.
-- **1.2.3 Muddeln, Bauen und Blenden** (Grundstufe): Muddle, baue und blende einen Drink.
+- **1.2.3 Muddeln, Bauen und Blenden** (Grundstufe): Zerstoße (muddle), baue und mixe einen Drink im Mixer.
 - **1.2.4 Shaken oder rühren** (Grundstufe): Entscheide, ob du einen Drink shakest oder rührst.
 - **1.2.5 Eiweiß** (Mittelstufe): Verwende Eiweiß für Textur beim Dry Shake und beim Reverse Shake.
 - **1.2.6 Fortgeschrittene Techniken** (Oberstufe): Wende die fortgeschrittenen Mixtechniken an.
@@ -49,9 +49,9 @@ Entdecke die wesentlichen Spirituosen, Liköre, Mischgetränke (Mixer), Sirupe, 
 - **2.1.5 Garnituren** (Mittelstufe): Beschreibe die frischen, herzhaften und besonderen Garnituren.
 - **2.1.6 Kräuter-, Blüten- und Aperitivo-Liköre** (Mittelstufe): Beschreibe die Kräuter-, Blüten-, Frucht- und Aperitivo-Liköre.
 - **2.1.7 Sirupe und Süßungsmittel** (Mittelstufe): Stelle Sirupe und Süßungsmittel jenseits von einfachem Zuckersirup her.
-- **2.1.8 Cocktail-Bitters** (Mittelstufe): Beschreibe Cocktail-Bitters, woher sie stammen und was darin steckt.
+- **2.1.8 Cocktail-Bitters** (Mittelstufe): Erkläre, was Cocktail-Bitters sind, woher sie stammen und wie ein Spritzer einen Drink verändert.
 - **2.1.9 Craft-Bitters und Amari** (Oberstufe): Beschreibe Craft-Bitters und Amari.
-- **2.1.10 Was das Barlabor macht** (Grundstufe): Beschreibe, was das Barlabor macht und was es herstellt.
+- **2.1.10 Was das Barlabor macht** (Mittelstufe): Beschreibe, was das Barlabor macht und was es herstellt.
 - **2.1.11 Salzlösung und Glutamat** (Mittelstufe): Würze einen Drink mit Salzlösungen und Glutamat.
 - **2.1.12 Oleo Saccharum** (Mittelstufe): Stelle Oleo Saccharum her.
 
@@ -128,8 +128,8 @@ Fortgeschrittene Zutaten-Techniken, die in gehobenen Bars verwendet werden: Fett
 - **3.2.10 Batching und Vorverdünnung** (Oberstufe): Mixe Cocktails als Batch und verdünne sie vor.
 - **3.2.11 Split Bases und Modifier-Familien** (Oberstufe): Baue Drinks auf Split Bases und Modifier-Familien auf.
 
-### 3.3 Abschlussprüfung
+### 3.3 Abschlusswiederholung
 
 Wiederholungsquiz zu allen Mixologie-Themen
 
-- **3.3.1 Abschlussrepetitorium** (Grundstufe): Verbinde, was dir jede Lektion beigebracht hat, um Fragen aus dem gesamten Kurs zu beantworten.
+- **3.3.1 Abschlusswiederholung** (Grundstufe): Verbinde, was jede Lektion vermittelt hat, um Fragen aus dem gesamten Kurs zu beantworten.

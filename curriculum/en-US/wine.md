@@ -223,7 +223,7 @@ Regions, labeling and Pinotage
 
 ## 5. Serving and judging wine
 
-### 5.1 Service & hospitality
+### 5.1 Service and hospitality
 
 Glassware, decanting, cellar management, wine faults & food pairing
 

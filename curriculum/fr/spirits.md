@@ -13,7 +13,7 @@ Des matières premières à la bouteille : le processus de production
 - **1.1.1 Bienvenue** (Basique): Repérez-vous dans le cours sur les spiritueux et ses trois niveaux.
 - **1.1.2 Comment sont élaborés les spiritueux** (Basique): Décrivez comment un spiritueux est élaboré, de la matière première à la bouteille.
 - **1.1.3 Matières premières** (Basique): Nommez les matières premières des principaux spiritueux.
-- **1.1.4 Fermentation** (Basique): Expliquez la fermentation et les sous-produits qui parfument un spiritueux.
+- **1.1.4 Fermentation** (Intermédiaire): Expliquez la fermentation et les sous-produits qui parfument un spiritueux.
 - **1.1.5 Alambics à repasse et à colonne** (Basique): Comparez les alambics à repasse (pot still) et à colonne, ainsi que les spiritueux que chacun produit.
 - **1.1.6 Vieillissement en bois** (Basique): Expliquez ce qu’un fût apporte à un spiritueux et ce que signifie un âge indiqué sur son étiquette.
 - **1.1.7 Vieillissement et finition** (Intermédiaire): Expliquez comment le vieillissement et la finition en fût de bois transforment un spiritueux.
@@ -23,10 +23,10 @@ Des matières premières à la bouteille : le processus de production
 
 Le gin, le whisky, le brandy, les liqueurs et le vermouth en bref
 
-- **1.2.1 Le gin** (Basique): Expliquer ce qu’est le gin et ce que signifie London Dry.
-- **1.2.2 Le whisky** (Basique): Décrire de quoi est fait le whisky et distinguer le scotch, le whiskey irlandais et le whiskey américain.
-- **1.2.3 Le brandy** (Basique): Expliquer de quoi est fait le brandy et ce que signifient VS, VSOP et XO sur une étiquette de cognac.
-- **1.2.4 Les liqueurs et le vermouth** (Basique): Expliquer ce qui fait une liqueur et en quoi le vermouth en diffère.
+- **1.2.1 Le gin** (Basique): Expliquez ce qu’est le gin et ce que signifie London Dry.
+- **1.2.2 Le whisky** (Basique): Décrivez de quoi est fait le whisky et distinguez le scotch, le whiskey irlandais et le whiskey américain.
+- **1.2.3 Le brandy** (Basique): Expliquez de quoi est fait le brandy et ce que signifient VS, VSOP et XO sur une étiquette de cognac.
+- **1.2.4 Les liqueurs et le vermouth** (Basique): Expliquez ce qui fait une liqueur et en quoi le vermouth en diffère.
 
 ### 1.3 Science de la distillation et du vieillissement
 
@@ -117,8 +117,8 @@ Cognac, Armagnac, Grappa, Pisco et Calvados
 - **3.4.1 Styles de brandy** (Intermédiaire): Décrivez les principaux styles de brandy.
 - **3.4.2 Cognac** (Intermédiaire): Décrivez comment le cognac est élaboré et classé.
 - **3.4.3 Armagnac** (Intermédiaire): Comparez l’armagnac avec le cognac.
-- **3.4.4 Autres eaux-de-vie de vin et de fruits** (Intermédiaire): Décrivez la grappa, le pisco, le calvados et les autres brandies.
-- **3.4.5 Déguster le brandy** (Intermédiaire): Comparez les brandies dans le verre.
+- **3.4.4 Autres eaux-de-vie de vin et de fruits** (Intermédiaire): Décrivez la grappa, le pisco, le calvados et les autres eaux-de-vie.
+- **3.4.5 Déguster le brandy** (Intermédiaire): Comparez les brandys dans le verre.
 
 ## 4. Spiritueux d’agave et liqueurs
 

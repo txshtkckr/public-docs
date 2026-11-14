@@ -10,7 +10,7 @@ Cada tema tem um nível. Básico cobre o essencial para falar sobre o assunto co
 
 A videira, o vinhedo e por que o lugar importa
 
-- **1.1.1 Boas-vindas** (Básico): Oriente-se pelo curso de vinhos e seus três níveis.
+- **1.1.1 Boas-vindas** (Básico): Oriente-se no curso de vinhos e em seus três níveis.
 - **1.1.2 A videira e seu ciclo de cultivo** (Básico): Explique o que a videira precisa e como ela se desenvolve ao longo do ano.
 - **1.1.3 Clima, condições climáticas e safra** (Básico): Explique por que o clima, as condições climáticas e o terroir moldam o estilo de um vinho.
 - **1.1.4 Filoxera** (Básico): Explique o que a filoxera causou aos vinhedos do mundo e por que a maioria das videiras é enxertada.
@@ -241,4 +241,4 @@ Taças, decantação, gestão de adega, defeitos do vinho e harmonização com a
 
 Quiz de revisão e conclusão do curso
 
-- **5.2.1 Revisão final** (Básico): Combine o que cada lição ensinou para responder perguntas sobre todo o curso.
+- **5.2.1 Revisão final** (Básico): Combine o que cada lição ensinou para responder a perguntas de todo o curso.

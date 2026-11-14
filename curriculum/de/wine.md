@@ -229,7 +229,7 @@ Gläserkunde, Dekantieren, Kellerführung, Weinfehler und Speisenkombination
 
 - **5.1.1 Gläser und Serviertemperatur** (Grundstufe): Wähle das richtige Glas und serviere jeden Stil bei der passenden Temperatur.
 - **5.1.2 Dekantieren** (Grundstufe): Erkläre, wann und wie man einen Wein dekantiert.
-- **5.1.3 Kellerwirtschaft** (Mittelstufe): Wein richtig lagern und einen Keller verwalten.
+- **5.1.3 Kellerwirtschaft** (Mittelstufe): Lagere Wein richtig und verwalte einen Keller.
 - **5.1.4 Verantwortungsvoller Ausschank** (Grundstufe): Serviere Wein verantwortungsbewusst.
 - **5.1.5 Oxidation, Korkschmecker, Hitze- und Lichtschäden** (Grundstufe): Erkenne Oxidation, Korkschmecker sowie Hitze- und Lichtschäden.
 - **5.1.6 Schwefel-, Hefe- und Bakterienfehler** (Mittelstufe): Erkenne Schwefel-, Hefe- und Bakterienfehler.
@@ -237,8 +237,8 @@ Gläserkunde, Dekantieren, Kellerführung, Weinfehler und Speisenkombination
 - **5.1.8 Qualität beurteilen** (Mittelstufe): Beschreibe einen Wein und begründe ein Urteil zu Qualität und Trinkreife.
 - **5.1.9 Speise und Wein** (Grundstufe): Kombiniere Speisen und Wein und erkläre, warum eine Kombination funktioniert.
 
-### 5.2 Abschlussüberprüfung
+### 5.2 Abschlusswiederholung
 
 Abschlussquiz und Kursabschluss
 
-- **5.2.1 Abschließende Wiederholung** (Grundstufe): Verknüpfe das Wissen aus den einzelnen Lektionen, um Fragen aus dem gesamten Kurs zu beantworten.
+- **5.2.1 Abschlusswiederholung** (Grundstufe): Verbinde, was jede Lektion vermittelt hat, um Fragen aus dem gesamten Kurs zu beantworten.

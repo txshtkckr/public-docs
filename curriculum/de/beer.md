@@ -33,7 +33,7 @@ Hopfen, Hefe, Wasser und Malz im Detail
 - **1.3.1 Hopfenchemie** (Oberstufe): Erkläre die Chemie hinter Hopfenbittere und Hopfenaroma.
 - **1.3.2 Hefebiologie** (Oberstufe): Erkläre, wie der Hefestoffwechsel Alkohol, Ester und andere Aromen erzeugt.
 - **1.3.3 Wasserchemie in der Praxis** (Oberstufe): Erkläre, wie Brauer ihr Wasser auf einen Bierstil abstimmen.
-- **1.3.4 Mälzen und Maischen** (Oberstufe): Erkläre, was beim Mälzen und Maischen mit Stärke und Enzymen passiert.
+- **1.3.4 Mälzen und Maischen** (Mittelstufe): Erkläre, was beim Mälzen und Maischen mit Stärke und Enzymen passiert.
 
 ## 2. Verkostung und Bierstile
 
@@ -67,7 +67,7 @@ Trappisten-, Bauern-, Lambic- und flämische Sauerbiere
 - **2.3.1 Trappisten- und Abteibiere** (Mittelstufe): Beschreibe Trappisten- und Abteibiere und die Stile, die dort gebraut werden.
 - **2.3.2 Farmhouse Ales und Witbier** (Mittelstufe): Beschreibe Saison, Bière de Garde und Witbier.
 - **2.3.3 Lambic** (Mittelstufe): Erkläre die Spontangärung und die Lambic-Familie.
-- **2.3.4 Flämische Sauerbiere** (Mittelstufe): Beschreibe flämische Red und Brown Ales und wie sie gesäuert werden.
+- **2.3.4 Flämische Sour Ales** (Mittelstufe): Beschreibe flämische Red und Brown Ales und wie sie gesäuert werden.
 - **2.3.5 Belgische und saure Stile im Überblick** (Mittelstufe): Nenne die belgischen und sauren Stile und was jeden von ihnen auszeichnet.
 
 ### 2.4 Lager-Stile
@@ -88,7 +88,7 @@ Hefeweizen, saure Ales, starke Stile & moderne Innovation
 
 - **2.5.1 Deutsche Weizenbiere** (Mittelstufe): Beschreibe Hefeweizen und die anderen deutschen Weizenbiere.
 - **2.5.2 Berliner Weisse und Gose** (Mittelstufe): Beschreibe Berliner Weisse und Gose und wie sie gesäuert werden.
-- **2.5.3 Starkbiere und Rauchbiere** (Mittelstufe): Beschreibe Starkbiere und Rauchbiere.
+- **2.5.3 Starke Ales und Rauchbiere** (Mittelstufe): Beschreibe starke Ales und Rauchbiere.
 - **2.5.4 Moderne Craft-Stile** (Mittelstufe): Beschreibe die modernen Craft-Stile und woher sie stammen.
 - **2.5.5 Weizen- und Sauerbiere verkosten** (Mittelstufe): Vergleiche Weizen- und Sauerbiere im Glas.
 - **2.5.6 Weizen- und Sauerbierstile im Überblick** (Mittelstufe): Nenne die Weizen- und Sauerbierstile und erkläre, was jeden einzelnen auszeichnet.
@@ -117,10 +117,10 @@ Was auf dem Etikett stehen muss und wie man es entschlüsselt
 - **3.2.1 Was ein Etikett angeben muss** (Mittelstufe): Liste auf, welche Angaben ein Bieretikett enthalten muss.
 - **3.2.2 Etiketten nach Markt** (Oberstufe): Vergleiche die Kennzeichnungsvorschriften der EU, des Vereinigten Königreichs, Australiens und Neuseelands.
 - **3.2.3 Freiwillige Angaben** (Oberstufe): Erkläre die freiwilligen Angaben und Qualitätssiegel auf einem Bieretikett.
-- **3.2.4 Ein Etikett lesen** (Mittelstufe): Ein Bieretikett in der Praxis lesen.
-- **3.2.5 Stilbezeichnungen auf dem Etikett** (Mittelstufe): Die Stilbezeichnungen auf einem Bieretikett richtig deuten.
-- **3.2.6 Alkoholgehalt und Angaben auf dem Etikett** (Mittelstufe): Stärke und Werbeaussagen auf einem Bieretikett richtig einordnen.
-- **3.2.7 Herkunft auf dem Etikett** (Mittelstufe): Herkunft und Region auf einem Bieretikett richtig deuten.
+- **3.2.4 Ein Etikett lesen** (Mittelstufe): Lies ein Bieretikett in der Praxis.
+- **3.2.5 Stilbezeichnungen auf dem Etikett** (Mittelstufe): Deute die Stilbezeichnungen auf einem Bieretikett richtig.
+- **3.2.6 Alkoholgehalt und Angaben auf dem Etikett** (Mittelstufe): Ordne Stärke und Werbeaussagen auf einem Bieretikett richtig ein.
+- **3.2.7 Herkunft auf dem Etikett** (Mittelstufe): Deute Herkunft und Region auf einem Bieretikett richtig.
 - **3.2.8 Der Brauereistandort als Kontext** (Mittelstufe): Nutze den Standort einer Brauerei als Kontext für ihr Bier.
 
 ## 4. Ausschank und Fehler
@@ -152,8 +152,8 @@ Häufige Mängel erkennen und verhindern
 - **4.2.8 Schwellenwerttraining** (Oberstufe): Erkläre, wie Verkostungspanels mit dotierten Bieren trainieren und Schwellenwerte messen.
 - **4.2.9 Verkostung auf Fehler** (Mittelstufe): Erkenne Fehlaromen in einer Verkostung.
 
-### 4.3 Abschlussüberprüfung
+### 4.3 Abschlusswiederholung
 
-Wiederholungsquiz zu allen Bier-Themen
+Wiederholungsquiz zu allen Bierthemen
 
 - **4.3.1 Abschlusswiederholung** (Grundstufe): Verbinde, was jede Lektion vermittelt hat, um Fragen aus dem gesamten Kurs zu beantworten.

@@ -32,7 +32,7 @@ Comprendere la molecola al cuore di tutte le bevande alcoliche
 - **2.1.7 Etanolo in acqua** (Avanzato): Spiega come si comporta l’etanolo quando viene mescolato con l’acqua.
 - **2.1.8 La fermentazione** (Base): Spiega come il lievito trasforma lo zucchero in etanolo e anidride carbonica.
 - **2.1.9 Reazioni secondarie** (Avanzato): Spiega le reazioni secondarie che producono esteri e altri sottoprodotti.
-- **2.1.10 Sistemi di gradazione proof** (Base): Convertire tra ABV e i sistemi proof.
+- **2.1.10 Sistemi di gradazione proof** (Base): Converti tra ABV e i sistemi proof.
 - **2.1.11 pH, acidità e solfiti** (Intermedio): Spiega pH, acidità e solfiti nelle bevande.
 
 ### 2.2 Tipi di alcol
@@ -63,7 +63,7 @@ Come il corpo elabora l’alcol dall’assorbimento all’eliminazione
 - **3.1.1 Assorbimento** (Base): Spiega come il corpo assorbe l’alcol.
 - **3.1.2 Il percorso ADH–ALDH** (Base): Descrivi come ADH e ALDH scompongono l’alcol.
 - **3.1.3 Tasso alcolemico** (Base): Spiega da cosa dipende il tasso alcolemico di una persona.
-- **3.1.4 Unità alcoliche standard** (Base): Calcola le unità alcoliche standard e confronta come i diversi paesi le definiscono.
+- **3.1.4 Unità alcoliche** (Base): Calcola le unità alcoliche e confronta come i diversi paesi le definiscono.
 - **3.1.5 Variabilità genetica** (Avanzato): Spiega come le varianti genetiche modificano il metabolismo dell’alcol.
 - **3.1.6 Alcol e farmaci** (Avanzato): Spiega come l’alcol interagisce con i farmaci.
 - **3.1.7 Farmacogenetica** (Avanzato): Confronta le varianti del metabolismo dell’alcol tra le diverse popolazioni.
@@ -84,7 +84,7 @@ Effetti a breve e lungo termine del consumo di alcol
 - **3.2.9 Leggere l’epidemiologia** (Avanzato): Interpreta gli studi su alcol e salute.
 - **3.2.10 Farmacologia dei recettori** (Avanzato): Spiega come l’alcol agisce sul GABA e sugli altri recettori del cervello.
 
-### 3.3 Revisione finale
+### 3.3 Ripasso finale
 
 Quiz di ripasso su tutti gli argomenti di scienza dell’alcol
 

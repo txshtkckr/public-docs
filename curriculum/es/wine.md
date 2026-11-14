@@ -10,7 +10,7 @@ Cada tema tiene un nivel. Básico cubre lo esencial para hablar de la materia co
 
 La vid, el viñedo y por qué importa el lugar
 
-- **1.1.1 Bienvenida** (Básico): Ubícate en el curso de vino y sus tres niveles.
+- **1.1.1 Te damos la bienvenida** (Básico): Oriéntate en el curso de vino y sus tres niveles.
 - **1.1.2 La vid y su ciclo de crecimiento** (Básico): Explica qué necesita una vid y cómo crece a lo largo del año.
 - **1.1.3 Clima, condiciones meteorológicas y añada** (Básico): Explica por qué el clima, las condiciones meteorológicas y el lugar determinan el estilo de un vino.
 - **1.1.4 Filoxera** (Básico): Explica qué le hizo la filoxera a los viñedos del mundo y por qué la mayoría de las vides están injertadas.
@@ -241,4 +241,4 @@ Cristalería, decantación, gestión de bodega, defectos del vino y maridaje
 
 Cuestionario de repaso y conclusión del curso
 
-- **5.2.1 Repaso final** (Básico): Combina lo aprendido en cada lección para responder preguntas de todo el curso.
+- **5.2.1 Repaso final** (Básico): Combina lo que enseñó cada lección para responder preguntas de todo el curso.

@@ -43,7 +43,7 @@ Kōji, rice, fermentation and the numbers
 
 ## 2. Styles and tasting
 
-### 2.1 Sake grades & styles
+### 2.1 Sake grades and styles
 
 Understanding the classification system
 
@@ -55,11 +55,11 @@ Understanding the classification system
 - **2.1.6 Sake and ageing** (Intermediate): Explain how sake changes in storage.
 - **2.1.7 Hiyaoroshi and kōshū** (Intermediate): Describe hiyaoroshi and kōshū and how they are made.
 
-### 2.2 Tasting & evaluation
+### 2.2 Tasting and evaluation
 
 Flavour types, sensory vocabulary, and tasting methodology
 
-- **2.2.1 Sake flavour profiles** (Basic): Describe the main sake flavour profiles.
+- **2.2.1 Sake flavour profiles** (Intermediate): Describe the main sake flavour profiles.
 - **2.2.2 Ginjō and junmai: getting started** (Basic): Compare a ginjō and a junmai side by side.
 - **2.2.3 Appearance** (Basic): Describe a sake’s clarity and colour.
 - **2.2.4 Aroma** (Basic): Describe a sake’s aromas and where they come from.
@@ -82,7 +82,7 @@ Japanese liqueurs and modern styles
 
 ## 3. Sake in Japan
 
-### 3.1 Sake history & people
+### 3.1 Sake history and people
 
 Ancient origins, kuramoto and tōji, and the yeast strains behind modern sake
 
@@ -104,7 +104,7 @@ Key sake-producing prefectures and their styles
 
 ## 4. Serving sake
 
-### 4.1 Serving & food pairing
+### 4.1 Serving and food pairing
 
 How to serve, store, and pair sake
 

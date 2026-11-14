@@ -88,4 +88,4 @@ Impacts à court et long terme de la consommation d’alcool
 
 Quiz de révision couvrant tous les sujets de la science de l’alcool
 
-- **3.3.1 Révision finale** (Basique): Combinez ce que chaque leçon vous a appris pour répondre à des questions couvrant l’ensemble du cours.
+- **3.3.1 Révision finale** (Basique): Combinez ce que chaque leçon vous a appris pour répondre à des questions portant sur l’ensemble du cours.

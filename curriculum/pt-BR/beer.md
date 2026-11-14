@@ -10,7 +10,7 @@ Cada tema tem um nível. Básico cobre o essencial para falar sobre o assunto co
 
 Do grão ao copo: o processo de fabricação
 
-- **1.1.1 Boas-vindas** (Básico): Conheça o curso de cerveja e seus três níveis.
+- **1.1.1 Boas-vindas** (Básico): Oriente-se no curso de cerveja e em seus três níveis.
 - **1.1.2 Ale e lager** (Básico): Distinga a ale da lager pela levedura e pela temperatura de fermentação.
 - **1.1.3 Como a cerveja é produzida** (Básico): Descreva cada etapa da produção, da mosturação à fermentação e ao envase.
 
@@ -33,7 +33,7 @@ Lúpulo, levedura, água e malte em profundidade
 - **1.3.1 Química do lúpulo** (Avançado): Explique a química por trás do amargor e do aroma do lúpulo.
 - **1.3.2 Biologia da levedura** (Avançado): Explique como o metabolismo da levedura produz álcool, ésteres e outros sabores.
 - **1.3.3 Química da água na prática** (Avançado): Explique como os cervejeiros ajustam a água para um estilo.
-- **1.3.4 Malteação e mosturação** (Avançado): Explique o que acontece com o amido e as enzimas na malteação e na mosturação.
+- **1.3.4 Malteação e mosturação** (Intermediário): Explique o que acontece com o amido e as enzimas na malteação e na mosturação.
 
 ## 2. Degustação e estilos
 

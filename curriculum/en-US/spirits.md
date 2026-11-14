@@ -13,7 +13,7 @@ From raw materials to bottle: the production process
 - **1.1.1 Welcome** (Basic): Find your way around the spirits course and its three levels.
 - **1.1.2 How spirits are made** (Basic): Outline how a spirit is made, from raw material to bottle.
 - **1.1.3 Raw materials** (Basic): Name the raw materials of the main spirits.
-- **1.1.4 Fermentation** (Basic): Explain fermentation and the by-products that flavor a spirit.
+- **1.1.4 Fermentation** (Intermediate): Explain fermentation and the by-products that flavor a spirit.
 - **1.1.5 Pot and column stills** (Basic): Compare pot and column stills and the spirits each makes.
 - **1.1.6 Aging in wood** (Basic): Explain what a cask gives a spirit and what an age on its label means.
 - **1.1.7 Maturation and finishing** (Intermediate): Explain how maturation and finishing in wood change a spirit.
@@ -28,7 +28,7 @@ Gin, whisky, brandy, liqueurs and vermouth in brief
 - **1.2.3 Brandy** (Basic): Explain what brandy is made from and what VS, VSOP and XO mean on a Cognac label.
 - **1.2.4 Liqueurs and vermouth** (Basic): Explain what makes a liqueur and how vermouth differs from one.
 
-### 1.3 Distillation & maturation science
+### 1.3 Distillation and maturation science
 
 Stills, congeners, oak and time
 
@@ -37,7 +37,7 @@ Stills, congeners, oak and time
 - **1.3.3 Maturation chemistry** (Advanced): Explain the chemistry of maturation in oak.
 - **1.3.4 The compte system** (Advanced): Explain how the compte system counts a brandy’s age.
 
-### 1.4 Spirit tasting & evaluation
+### 1.4 Spirit tasting and evaluation
 
 Structured evaluation approaches for professional spirit tasting
 
@@ -110,7 +110,7 @@ White, aged, dark, agricole & cachaça
 - **3.3.4 Maturation and labels** (Intermediate): Interpret rum maturation and labeling terms.
 - **3.3.5 Tasting rum** (Basic): Compare rums in the glass.
 
-### 3.4 Brandy & fruit spirits
+### 3.4 Brandy and fruit spirits
 
 Cognac, Armagnac, Grappa, Pisco & Calvados
 
@@ -122,7 +122,7 @@ Cognac, Armagnac, Grappa, Pisco & Calvados
 
 ## 4. Agave spirits and liqueurs
 
-### 4.1 Tequila & mezcal
+### 4.1 Tequila and mezcal
 
 Agave spirits of Mexico
 
@@ -140,7 +140,7 @@ Agave spirits of Mexico
 - **4.1.12 Mezcal labels and aging** (Advanced): Interpret mezcal labeling and aging terms.
 - **4.1.13 Tasting tequila and mezcal** (Intermediate): Compare a tequila with a mezcal.
 
-### 4.2 Liqueurs & aromatized wines
+### 4.2 Liqueurs and aromatized wines
 
 Flavored spirits, liqueurs, vermouth & fortified aperitifs
 
@@ -151,7 +151,7 @@ Flavored spirits, liqueurs, vermouth & fortified aperitifs
 
 ## 5. Serving spirits
 
-### 5.1 Serving & review
+### 5.1 Serving and review
 
 Glassware, responsible service & exam preparation
 

@@ -12,7 +12,7 @@ Apprenez les outils essentiels dont chaque barman a besoin — shakers, passoire
 
 - **1.1.1 Bienvenue** (Basique): Repérez-vous dans le cours de mixologie et ses trois niveaux.
 - **1.1.2 Les outils de mélange** (Basique): Nommez les outils pour mélanger un cocktail et à quoi sert chacun.
-- **1.1.3 Les outils de filtrage** (Basique): Nommez les passoires et savoir quand utiliser chacune.
+- **1.1.3 Les outils de filtrage** (Basique): Nommez les passoires et sachez quand utiliser chacune.
 - **1.1.4 Les outils de mesure et de service** (Basique): Nommez les outils pour mesurer et servir un cocktail.
 - **1.1.5 Les outils de décoration** (Intermédiaire): Nommez les outils de décoration et à quoi sert chacun.
 
@@ -34,13 +34,13 @@ Apprenez les compétences essentielles de service : straining, rimming des verre
 - **1.3.1 Le filtrage** (Intermédiaire): Filtrez un cocktail et choisissez entre simple et double filtrage.
 - **1.3.2 La préparation du verre** (Intermédiaire): Préparez un verre : rafraîchi, givré ou rincé.
 - **1.3.3 La glace** (Intermédiaire): Choisissez la glace adaptée à un cocktail.
-- **1.3.4 Garniture et présentation** (Intermédiaire): Garnir et présenter une boisson.
+- **1.3.4 Garniture et présentation** (Intermédiaire): Garnissez et présentez une boisson.
 
 ## 2. Ingrédients et recettes
 
 ### 2.1 Ingrédients
 
-Explorez les spiritueux, liqueurs, mixeurs, sirops, amers et garnitures essentiels utilisés dans la confection de cocktails.
+Explorez les spiritueux, liqueurs, mixers, sirops, amers et garnitures essentiels utilisés dans la confection de cocktails.
 
 - **2.1.1 Spiritueux de base** (Basique): Décrivez les spiritueux de base des cocktails.
 - **2.1.2 Les modificateurs en bref** (Basique): Nommez les modificateurs courants et les cocktails classiques auxquels chacun appartient.
@@ -49,9 +49,9 @@ Explorez les spiritueux, liqueurs, mixeurs, sirops, amers et garnitures essentie
 - **2.1.5 Garnitures** (Intermédiaire): Décrivez les garnitures fraîches, salées et spéciales.
 - **2.1.6 Liqueurs herbacées, florales et d’apéritif** (Intermédiaire): Décrivez les liqueurs herbacées, florales, fruitées et d’apéritif.
 - **2.1.7 Sirops et édulcorants** (Intermédiaire): Préparez les sirops et les édulcorants autres que le sirop simple.
-- **2.1.8 Bitters pour cocktails** (Intermédiaire): Décrivez les bitters pour cocktails, leur origine et leur composition.
+- **2.1.8 Bitters pour cocktails** (Intermédiaire): Expliquez ce que sont les bitters pour cocktails, leur origine et comment un trait change une boisson.
 - **2.1.9 Bitters artisanaux et amari** (Avancé): Décrivez les bitters artisanaux et les amari.
-- **2.1.10 Le rôle du laboratoire du bar** (Basique): Décrivez le rôle du laboratoire du bar et ce qu’il produit.
+- **2.1.10 Le rôle du laboratoire du bar** (Intermédiaire): Décrivez le rôle du laboratoire du bar et ce qu’il produit.
 - **2.1.11 Solution saline et glutamate monosodique** (Intermédiaire): Utilisez des solutions salines et du glutamate monosodique pour assaisonner une boisson.
 - **2.1.12 Oleo saccharum** (Intermédiaire): Préparez un oleo saccharum.
 
@@ -132,4 +132,4 @@ Techniques avancées d’ingrédients utilisées dans les bars haut de gamme : f
 
 Quiz de révision couvrant tous les sujets de mixologie
 
-- **3.3.1 Révision finale** (Basique): Combinez ce que chaque leçon vous a appris pour répondre à des questions issues de l’ensemble du cours.
+- **3.3.1 Révision finale** (Basique): Combinez ce que chaque leçon vous a appris pour répondre à des questions portant sur l’ensemble du cours.

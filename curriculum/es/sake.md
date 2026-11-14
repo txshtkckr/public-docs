@@ -10,7 +10,7 @@ Cada tema tiene un nivel. Básico cubre lo esencial para hablar de la materia co
 
 ¿Qué es el sake y por qué es único?
 
-- **1.1.1 Te damos la bienvenida** (Básico): Orientarte en el curso de sake y sus tres niveles.
+- **1.1.1 Te damos la bienvenida** (Básico): Oriéntate en el curso de sake y sus tres niveles.
 - **1.1.2 Oshaku: servir a los demás** (Básico): Sirve sake a otras personas y acepta que te sirvan como exige la costumbre japonesa.
 - **1.1.3 Qué es el sake** (Básico): Explica de qué está hecho el sake y en qué se diferencia del vino y de la cerveza.
 - **1.1.4 El arroz para sake** (Básico): Distingue el arroz para sake del arroz de mesa y nombra las principales variedades de arroz para sake.
@@ -59,7 +59,7 @@ Comprensión del sistema de clasificación
 
 Tipos de sabor, vocabulario sensorial y metodología de cata
 
-- **2.2.1 Perfiles de sabor del sake** (Básico): Describe los principales perfiles de sabor del sake.
+- **2.2.1 Perfiles de sabor del sake** (Intermedio): Describe los principales perfiles de sabor del sake.
 - **2.2.2 Ginjō y junmai: primeros pasos** (Básico): Compara un ginjō y un junmai uno al lado del otro.
 - **2.2.3 Aspecto** (Básico): Describe la limpidez y el color de un sake.
 - **2.2.4 Aroma** (Básico): Describe los aromas de un sake y de dónde provienen.
@@ -116,7 +116,7 @@ Cómo servir, almacenar y maridar sake
 - **4.1.6 Servicio responsable** (Básico): Sirve el sake de manera responsable.
 - **4.1.7 El experimento de la temperatura** (Básico): Compara un mismo sake servido a tres temperaturas.
 
-### 4.2 Revisión final
+### 4.2 Repaso final
 
 Cuestionario de repaso sobre todos los temas del sake
 

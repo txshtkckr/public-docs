@@ -10,12 +10,12 @@ Cada tema tiene un nivel. Básico cubre lo esencial para hablar de la materia co
 
 Cómo funcionan la percepción del gusto, el olfato y el sabor en todas las bebidas
 
-- **1.1.1 Te damos la bienvenida** (Básico): Orientarte en el curso de Ciencia del alcohol y sus tres niveles.
-- **1.1.2 Los cinco sabores básicos** (Básico): Nombrar los cinco sabores básicos y de dónde proviene cada uno en una bebida.
-- **1.1.3 El olfato** (Básico): Explicar el olfato ortonasal y retronasal, y por qué el olfato aporta la mayor parte del sabor.
-- **1.1.4 Ruedas de aromas y umbrales** (Intermedio): Usar una rueda de aromas y explicar los umbrales sensoriales.
-- **1.1.5 Sensación en boca y temperatura** (Básico): Explicar cómo la sensación en boca, la temperatura y la fatiga modifican lo que percibimos.
-- **1.1.6 Defectos en todas las bebidas** (Intermedio): Reconocer los defectos presentes en todo tipo de bebidas.
+- **1.1.1 Te damos la bienvenida** (Básico): Oriéntate en el curso de Ciencia del alcohol y sus tres niveles.
+- **1.1.2 Los cinco sabores básicos** (Básico): Nombra los cinco sabores básicos y de dónde proviene cada uno en una bebida.
+- **1.1.3 El olfato** (Básico): Explica el olfato ortonasal y retronasal, y por qué el olfato aporta la mayor parte del sabor.
+- **1.1.4 Ruedas de aromas y umbrales** (Intermedio): Usa una rueda de aromas y explica los umbrales sensoriales.
+- **1.1.5 Sensación en boca y temperatura** (Básico): Explica cómo la sensación en boca, la temperatura y la fatiga modifican lo que percibimos.
+- **1.1.6 Defectos en todas las bebidas** (Intermedio): Reconoce los defectos presentes en todo tipo de bebidas.
 
 ## 2. La química del alcohol
 
@@ -23,14 +23,14 @@ Cómo funcionan la percepción del gusto, el olfato y el sabor en todas las bebi
 
 Comprender la molécula en el corazón de todas las bebidas alcohólicas
 
-- **2.1.1 Enlaces atómicos** (Básico): Explicar cómo se enlazan los átomos para formar moléculas.
-- **2.1.2 Dobles enlaces** (Básico): Explicar los dobles enlaces y por qué son importantes en las moléculas del sabor.
-- **2.1.3 Grupos funcionales** (Básico): Reconocer los principales grupos funcionales en las moléculas de una bebida.
-- **2.1.4 Ésteres y más allá** (Avanzado): Reconocer los ésteres y los grupos funcionales que van más allá de los básicos.
-- **2.1.5 La molécula de etanol** (Básico): Describir la molécula de etanol.
-- **2.1.6 Polaridad y puentes de hidrógeno** (Avanzado): Explicar la polaridad y la red de puentes de hidrógeno en el etanol y el agua.
-- **2.1.7 El etanol en el agua** (Avanzado): Explicar cómo se comporta el etanol al mezclarse con agua.
-- **2.1.8 Fermentación** (Básico): Explicar cómo las levaduras convierten el azúcar en etanol y dióxido de carbono.
+- **2.1.1 Enlaces atómicos** (Básico): Explica cómo se enlazan los átomos para formar moléculas.
+- **2.1.2 Dobles enlaces** (Básico): Explica los dobles enlaces y por qué son importantes en las moléculas del sabor.
+- **2.1.3 Grupos funcionales** (Básico): Reconoce los principales grupos funcionales en las moléculas de una bebida.
+- **2.1.4 Ésteres y más allá** (Avanzado): Reconoce los ésteres y los grupos funcionales que van más allá de los básicos.
+- **2.1.5 La molécula de etanol** (Básico): Describe la molécula de etanol.
+- **2.1.6 Polaridad y puentes de hidrógeno** (Avanzado): Explica la polaridad y la red de puentes de hidrógeno en el etanol y el agua.
+- **2.1.7 El etanol en el agua** (Avanzado): Explica cómo se comporta el etanol al mezclarse con agua.
+- **2.1.8 Fermentación** (Básico): Explica cómo las levaduras convierten el azúcar en etanol y dióxido de carbono.
 - **2.1.9 Reacciones secundarias** (Avanzado): Explica las reacciones secundarias que producen ésteres y otros subproductos.
 - **2.1.10 Sistemas de graduación (proof)** (Básico): Convierte entre ABV y los sistemas de graduación proof.
 - **2.1.11 pH, acidez y sulfitos** (Intermedio): Explica el pH, la acidez y los sulfitos en las bebidas.

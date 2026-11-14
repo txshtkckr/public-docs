@@ -10,7 +10,7 @@ Cada tema tiene un nivel. Básico cubre lo esencial para hablar de la materia co
 
 Aprende las herramientas esenciales que todo barman necesita: cocteleras, coladores, utensilios de medición y equipos para guarniciones.
 
-- **1.1.1 Te damos la bienvenida** (Básico): Conoce el curso de mixología y sus tres niveles.
+- **1.1.1 Te damos la bienvenida** (Básico): Oriéntate en el curso de mixología y sus tres niveles.
 - **1.1.2 Herramientas para mezclar** (Básico): Aprende los nombres de las herramientas para mezclar una bebida y para qué sirve cada una.
 - **1.1.3 Herramientas para colar** (Básico): Aprende los nombres de los coladores y cuándo usar cada uno.
 - **1.1.4 Herramientas para medir y servir** (Básico): Aprende los nombres de las herramientas para medir y servir una bebida.
@@ -44,14 +44,14 @@ Explora los destilados, licores, mezcladores, jarabes, amargos y guarniciones es
 
 - **2.1.1 Destilados base** (Básico): Describe los destilados base de los cócteles.
 - **2.1.2 Modificadores en resumen** (Básico): Nombra los modificadores comunes y los cócteles clásicos a los que pertenece cada uno.
-- **2.1.3 Licores y modificadores** (Intermedio): Describe los licores, vermús y otros modificadores en los cócteles.
+- **2.1.3 Licores y modificadores** (Intermedio): Describe los licores, vermuts y otros modificadores en los cócteles.
 - **2.1.4 Mezcladores, siropes y bitters** (Básico): Describe los mezcladores, siropes y bitters que necesita un bar.
 - **2.1.5 Guarniciones** (Intermedio): Describe las guarniciones frescas, saladas y especiales.
 - **2.1.6 Licores herbales, florales y de aperitivo** (Intermedio): Describe los licores herbales, florales, frutales y de aperitivo.
 - **2.1.7 Siropes y endulzantes** (Intermedio): Prepara siropes y endulzantes más allá del almíbar simple.
-- **2.1.8 Bitters para cócteles** (Intermedio): Describe los bitters para cócteles, su origen y qué ingredientes llevan.
+- **2.1.8 Bitters para cócteles** (Intermedio): Explica qué son los bitters para cócteles, su origen y cómo un toque de ellos cambia una bebida.
 - **2.1.9 Bitters artesanales y amari** (Avanzado): Describe los bitters artesanales y los amari.
-- **2.1.10 Qué hace el laboratorio del bar** (Básico): Describe qué hace el laboratorio del bar y qué elabora.
+- **2.1.10 Qué hace el laboratorio del bar** (Intermedio): Describe qué hace el laboratorio del bar y qué elabora.
 - **2.1.11 Salmuera y glutamato monosódico** (Intermedio): Usa soluciones salinas y glutamato monosódico para sazonar una bebida.
 - **2.1.12 Oleo saccharum** (Intermedio): Prepara oleo saccharum.
 

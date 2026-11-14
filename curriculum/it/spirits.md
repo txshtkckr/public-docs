@@ -13,7 +13,7 @@ Dalle materie prime alla bottiglia: il processo di produzione
 - **1.1.1 Benvenuto** (Base): Orientati nel corso sui distillati e nei suoi tre livelli.
 - **1.1.2 Come si producono i distillati** (Base): Descrivi come si produce un distillato, dalla materia prima alla bottiglia.
 - **1.1.3 Le materie prime** (Base): Indica le materie prime dei principali distillati.
-- **1.1.4 La fermentazione** (Base): Spiega la fermentazione e i sottoprodotti che aromatizzano un distillato.
+- **1.1.4 La fermentazione** (Intermedio): Spiega la fermentazione e i sottoprodotti che aromatizzano un distillato.
 - **1.1.5 Alambicchi discontinui e a colonna** (Base): Confronta gli alambicchi discontinui (pot still) e a colonna e i distillati che ciascuno produce.
 - **1.1.6 Invecchiamento in legno** (Base): Spiega cosa conferisce una botte a un distillato e cosa significa un’età riportata in etichetta.
 - **1.1.7 Maturazione e affinamento** (Intermedio): Spiega come la maturazione e l’affinamento in legno cambiano un distillato.
@@ -21,12 +21,12 @@ Dalle materie prime alla bottiglia: il processo di produzione
 
 ### 1.2 Che cos’è ogni distillato
 
-Gin, whisky, brandy, liquori e vermut in breve
+Gin, whisky, brandy, liquori e vermouth in breve
 
-- **1.2.1 Gin** (Base): Spiegare che cos’è il gin e che cosa significa London Dry.
-- **1.2.2 Whisky** (Base): Descrivere da che cosa si ricava il whisky e distinguere lo Scotch, l’irlandese e l’americano.
-- **1.2.3 Brandy** (Base): Spiegare da che cosa si ricava il brandy e che cosa significano VS, VSOP e XO sull’etichetta di un Cognac.
-- **1.2.4 Liquori e vermut** (Base): Spiegare che cosa rende tale un liquore e in che cosa il vermut se ne distingue.
+- **1.2.1 Gin** (Base): Spiega che cos’è il gin e che cosa significa London Dry.
+- **1.2.2 Whisky** (Base): Descrivi da che cosa si ricava il whisky e distingui lo Scotch, l’irlandese e l’americano.
+- **1.2.3 Brandy** (Base): Spiega da che cosa si ricava il brandy e che cosa significano VS, VSOP e XO sull’etichetta di un Cognac.
+- **1.2.4 Liquori e vermouth** (Base): Spiega che cosa rende tale un liquore e in che cosa il vermouth se ne distingue.
 
 ### 1.3 Scienza della distillazione e dell’invecchiamento
 
@@ -65,7 +65,7 @@ La più grande categoria di distillati al mondo
 Botanici, carattere di ginepro e stili di gin
 
 - **2.2.1 Che cos’è il gin** (Intermedio): Descrivi che cos’è il gin e come la sua storia ne ha plasmato lo stile.
-- **2.2.2 Come si produce il gin** (Intermedio): Confronta i metodi con cui il gin viene prodotto a partire dall’alcol neutro.
+- **2.2.2 Come si produce il gin** (Intermedio): Confronta i metodi con cui il gin viene prodotto a partire dal distillato neutro.
 - **2.2.3 Le famiglie di stile del gin** (Intermedio): Distingui le famiglie di stile del gin.
 - **2.2.4 Le botaniche** (Intermedio): Descrivi le principali botaniche del gin e che cosa apporta ciascuna.
 - **2.2.5 Degustare il gin** (Intermedio): Confronta gli stili di gin nel bicchiere.
@@ -146,7 +146,7 @@ Distillati aromatizzati, liquori, vermouth e aperitivi fortificati
 
 - **4.2.1 Liquori e distillati aromatizzati** (Intermedio): Spiega cosa rende un prodotto un liquore e in cosa si differenziano i distillati aromatizzati.
 - **4.2.2 Aromatizzazione e colorazione** (Intermedio): Spiega come vengono aromatizzati e colorati i liquori.
-- **4.2.3 Vini aromatizzati e vermut** (Intermedio): Descrivi il vermut e gli altri vini aromatizzati.
+- **4.2.3 Vini aromatizzati e vermouth** (Intermedio): Descrivi il vermouth e gli altri vini aromatizzati.
 - **4.2.4 Normativa su liquori e vini aromatizzati** (Avanzato): Indica le definizioni legali di liquori e vini aromatizzati.
 
 ## 5. Servire i distillati
@@ -155,15 +155,15 @@ Distillati aromatizzati, liquori, vermouth e aperitivi fortificati
 
 Bicchieri, servizio responsabile e preparazione all’esame
 
-- **5.1.1 Metodi di servizio** (Base): Servi uno distillato liscio, con ghiaccio, con acqua o in miscela.
-- **5.1.2 Bicchieri e conservazione** (Base): Scegli il bicchiere giusto per uno distillato e conserva bene i distillati.
+- **5.1.1 Metodi di servizio** (Base): Servi un distillato liscio, con ghiaccio, con acqua o in miscela.
+- **5.1.2 Bicchieri e conservazione** (Base): Scegli il bicchiere giusto per un distillato e conserva bene i distillati.
 - **5.1.3 Abbinamento con il cibo** (Intermedio): Abbina i distillati al cibo.
 - **5.1.4 Licenze e limiti di alcolemia alla guida** (Base): Indica le norme su licenze e limiti di alcolemia alla guida che chi serve alcolici deve conoscere.
 - **5.1.5 Servizio responsabile** (Base): Servi i distillati in modo responsabile.
 - **5.1.6 Rifiutare il servizio** (Base): Rifiuta il servizio in modo cortese e conforme alla legge.
 
-### 5.2 Revisione finale
+### 5.2 Ripasso finale
 
 Quiz di ripasso su tutti gli argomenti dei distillati
 
-- **5.2.1 Ripasso finale** (Base): Unisci ciò che ti ha insegnato ogni lezione per rispondere a domande su tutto il corso.
+- **5.2.1 Ripasso finale** (Base): Combina ciò che hai imparato in ogni lezione per rispondere a domande su tutto il corso.

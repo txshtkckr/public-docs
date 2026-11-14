@@ -10,7 +10,7 @@ Cada tema tem um nível. Básico cobre o essencial para falar sobre o assunto co
 
 Aprenda as ferramentas essenciais que todo bartender precisa — coqueteleiras, peneiras, medidores e equipamentos para enfeites.
 
-- **1.1.1 Boas-vindas** (Básico): Conheça o curso de mixologia e seus três níveis.
+- **1.1.1 Boas-vindas** (Básico): Oriente-se no curso de mixologia e em seus três níveis.
 - **1.1.2 Ferramentas de mistura** (Básico): Conheça as ferramentas para misturar um drinque e para que serve cada uma.
 - **1.1.3 Ferramentas para coar** (Básico): Conheça as peneiras e coadores e quando usar cada um.
 - **1.1.4 Ferramentas de medição e serviço** (Básico): Conheça as ferramentas para medir e servir um drinque.
@@ -49,9 +49,9 @@ Explore os destilados, licores, bebidas não-alcoólicas, xaropes, amargos e enf
 - **2.1.5 Decorações (garnishes)** (Intermediário): Descreva as decorações frescas, salgadas e especiais.
 - **2.1.6 Licores herbais, florais e de aperitivo** (Intermediário): Descreva os licores herbais, florais, frutados e de aperitivo.
 - **2.1.7 Xaropes e adoçantes** (Intermediário): Prepare xaropes e adoçantes além do xarope simples.
-- **2.1.8 Bitters de coquetelaria** (Intermediário): Descreva os bitters de coquetelaria, sua origem e o que levam.
+- **2.1.8 Bitters de coquetelaria** (Intermediário): Explique o que são os bitters de coquetelaria, sua origem e como um dash muda uma bebida.
 - **2.1.9 Bitters artesanais e amari** (Avançado): Descreva os bitters artesanais e os amari.
-- **2.1.10 O que faz o laboratório do bar** (Básico): Descreva o que o laboratório do bar faz e o que ele produz.
+- **2.1.10 O que faz o laboratório do bar** (Intermediário): Descreva o que o laboratório do bar faz e o que ele produz.
 - **2.1.11 Solução salina e MSG** (Intermediário): Use soluções salinas e MSG para temperar um drinque.
 - **2.1.12 Oleo saccharum** (Intermediário): Prepare oleo saccharum.
 
@@ -74,8 +74,8 @@ Estude os coquetéis mais importantes do mundo — suas receitas, história, var
 - **2.2.13 O Espresso Martini** (Intermediário): Prepare um Espresso Martini.
 - **2.2.14 Penicillin e Paper Plane** (Intermediário): Prepare um Penicillin e um Paper Plane.
 - **2.2.15 Bramble e Aperol Spritz** (Intermediário): Prepare um Bramble e um Aperol Spritz.
-- **2.2.16 Gin em coquetéis** (Intermediário): Explique como os estilos de gin funcionam em coquetéis.
-- **2.2.17 Coquetéis clássicos com gin** (Intermediário): Prepare os coquetéis clássicos com gin.
+- **2.2.16 Gim em coquetéis** (Intermediário): Explique como os estilos de gim funcionam em coquetéis.
+- **2.2.17 Coquetéis clássicos com gim** (Intermediário): Prepare os coquetéis clássicos com gim.
 - **2.2.18 Slings e a família do Negroni** (Intermediário): Classifique os slings e a família do Negroni.
 - **2.2.19 O template do sour** (Intermediário): Aplique o template do sour para criar novos drinques.
 - **2.2.20 As famílias Collins e Martini** (Intermediário): Classifique as variações de Collins e Martini.
@@ -125,7 +125,7 @@ Técnicas avançadas de ingredientes usadas em bares sofisticados: infusão com 
 - **3.2.7 Carbonatação** (Avançado): Carbonate um coquetel.
 - **3.2.8 Decorações desidratadas e pós** (Avançado): Faça guarnições e pós desidratados.
 - **3.2.9 Equilíbrio pelos números** (Avançado): Equilibre um drink pelo Brix e pela acidez.
-- **3.2.10 Produção em lote e pré-diluição** (Avançado): Prepare drinks em lote e faça a pré-diluição.
+- **3.2.10 Produção em lote e pré-diluição** (Avançado): Prepare coquetéis em lote e faça a pré-diluição.
 - **3.2.11 Bases divididas e famílias de modificadores** (Avançado): Monte drinks com bases divididas e famílias de modificadores.
 
 ### 3.3 Revisão final

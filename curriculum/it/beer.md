@@ -33,7 +33,7 @@ Luppolo, lievito, acqua e malto nel dettaglio
 - **1.3.1 La chimica del luppolo** (Avanzato): Spiega la chimica alla base dell’amaro e dell’aroma del luppolo.
 - **1.3.2 La biologia del lievito** (Avanzato): Spiega come il metabolismo del lievito produce alcol, esteri e altri aromi.
 - **1.3.3 La chimica dell’acqua nella pratica** (Avanzato): Spiega come i birrai correggono l’acqua in base allo stile.
-- **1.3.4 Maltazione e ammostamento** (Avanzato): Spiega che cosa succede all’amido e agli enzimi durante la maltazione e l’ammostamento.
+- **1.3.4 Maltazione e ammostamento** (Intermedio): Spiega che cosa succede all’amido e agli enzimi durante la maltazione e l’ammostamento.
 
 ## 2. Degustazione e stili
 
@@ -117,11 +117,11 @@ Cosa deve riportare un’etichetta e come decifrarla
 - **3.2.1 Cosa deve riportare un’etichetta** (Intermedio): Elenca ciò che deve includere l’etichetta di una birra.
 - **3.2.2 Etichette per mercato** (Avanzato): Confronta le norme di etichettatura di UE, Regno Unito, Australia e Nuova Zelanda.
 - **3.2.3 Indicazioni facoltative** (Avanzato): Spiega le indicazioni facoltative e i marchi di qualità presenti sull’etichetta di una birra.
-- **3.2.4 Leggere un’etichetta** (Intermedio): Leggere un’etichetta di birra nella pratica.
-- **3.2.5 I nomi degli stili in etichetta** (Intermedio): Interpretare i nomi degli stili sull’etichetta di una birra.
-- **3.2.6 ABV e indicazioni in etichetta** (Intermedio): Interpretare la gradazione alcolica e le indicazioni sull’etichetta di una birra.
-- **3.2.7 La provenienza in etichetta** (Intermedio): Interpretare la provenienza e la regione indicate sull’etichetta di una birra.
-- **3.2.8 La posizione del birrificio come contesto** (Intermedio): Usare la posizione di un birrificio come contesto per capire la sua birra.
+- **3.2.4 Leggere un’etichetta** (Intermedio): Leggi un’etichetta di birra nella pratica.
+- **3.2.5 I nomi degli stili in etichetta** (Intermedio): Interpreta i nomi degli stili sull’etichetta di una birra.
+- **3.2.6 ABV e indicazioni in etichetta** (Intermedio): Interpreta la gradazione alcolica e le indicazioni sull’etichetta di una birra.
+- **3.2.7 La provenienza in etichetta** (Intermedio): Interpreta la provenienza e la regione indicate sull’etichetta di una birra.
+- **3.2.8 La posizione del birrificio come contesto** (Intermedio): Usa la posizione di un birrificio come contesto per capire la sua birra.
 
 ## 4. Servizio e difetti
 
@@ -129,21 +129,21 @@ Cosa deve riportare un’etichetta e come decifrarla
 
 Temperatura, bicchieri, abbinamenti con il cibo e sistemi di spillatura
 
-- **4.1.1 Temperatura di servizio** (Base): Servire ogni stile di birra alla temperatura giusta.
-- **4.1.2 Bicchieri** (Base): Scegliere il bicchiere giusto per uno stile di birra.
-- **4.1.3 La mescita e l’abbinamento con il cibo** (Base): Spillare bene una birra e abbinarla al cibo.
-- **4.1.4 Conservazione** (Intermedio): Conservare la birra per mantenerla fresca e spiegare filtrazione e pastorizzazione.
-- **4.1.5 Stabilità del confezionamento** (Avanzato): Spiegare come pastorizzazione, filtrazione e riempimento sterile mantengono stabile una birra.
-- **4.1.6 Fusto e cask** (Intermedio): Spiegare come funzionano i sistemi con fusto, cask e birra alla spina e come si conserva la cask beer.
-- **4.1.7 Ingegneria dell’impianto di spillatura** (Intermedio): Spiegare come si bilancia un impianto di spillatura per gas, pressione e temperatura.
-- **4.1.8 Servizio responsabile** (Base): Servire la birra in modo responsabile e rifiutare il servizio quando necessario.
+- **4.1.1 Temperatura di servizio** (Base): Servi ogni stile di birra alla temperatura giusta.
+- **4.1.2 Bicchieri** (Base): Scegli il bicchiere giusto per uno stile di birra.
+- **4.1.3 La mescita e l’abbinamento con il cibo** (Base): Spilla bene una birra e abbinala al cibo.
+- **4.1.4 Conservazione** (Intermedio): Conserva la birra per mantenerla fresca e spiega filtrazione e pastorizzazione.
+- **4.1.5 Stabilità del confezionamento** (Avanzato): Spiega come pastorizzazione, filtrazione e riempimento sterile mantengono stabile una birra.
+- **4.1.6 Fusto e cask** (Intermedio): Spiega come funzionano i sistemi con fusto, cask e birra alla spina e come si conserva la cask beer.
+- **4.1.7 Ingegneria dell’impianto di spillatura** (Intermedio): Spiega come si bilancia un impianto di spillatura per gas, pressione e temperatura.
+- **4.1.8 Servizio responsabile** (Base): Servi la birra in modo responsabile e rifiuta il servizio quando necessario.
 
 ### 4.2 Difetti e alterazioni della birra
 
 Identificazione e prevenzione dei difetti comuni
 
-- **4.2.1 Che cos’è un off-flavour** (Intermedio): Spiegare che cos’è un off-flavour e come funzionano le soglie di percezione.
-- **4.2.2 Diacetile e acetaldeide** (Intermedio): Riconoscere diacetile e acetaldeide e indicarne le cause.
+- **4.2.1 Che cos’è un off-flavour** (Intermedio): Spiega che cos’è un off-flavour e come funzionano le soglie di percezione.
+- **4.2.2 Diacetile e acetaldeide** (Intermedio): Riconosci diacetile e acetaldeide e indicane le cause.
 - **4.2.3 Alcoli superiori** (Intermedio): Riconosci gli alcoli superiori e individua le loro cause.
 - **4.2.4 Esteri** (Intermedio): Riconosci i difetti legati agli esteri e quando gli esteri sono desiderati.
 - **4.2.5 DMS e fenoli** (Intermedio): Riconosci i difetti da DMS e da fenoli e individua le loro cause.
@@ -152,8 +152,8 @@ Identificazione e prevenzione dei difetti comuni
 - **4.2.8 Allenamento alle soglie** (Avanzato): Spiega come i panel si allenano con birre addizionate e misurano le soglie.
 - **4.2.9 Degustare alla ricerca dei difetti** (Intermedio): Individua i difetti aromatici in una degustazione.
 
-### 4.3 Revisione finale
+### 4.3 Ripasso finale
 
 Quiz di ripasso su tutti gli argomenti sulla birra
 
-- **4.3.1 Ripasso finale** (Base): Combina ciò che ti ha insegnato ogni lezione per rispondere a domande su tutto il corso.
+- **4.3.1 Ripasso finale** (Base): Combina ciò che hai imparato in ogni lezione per rispondere a domande su tutto il corso.

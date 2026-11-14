@@ -33,7 +33,7 @@ Houblon, levure, eau et malt en détail
 - **1.3.1 La chimie du houblon** (Avancé): Expliquez la chimie qui se cache derrière l’amertume et l’arôme du houblon.
 - **1.3.2 La biologie de la levure** (Avancé): Expliquez comment le métabolisme de la levure produit l’alcool, les esters et d’autres saveurs.
 - **1.3.3 La chimie de l’eau en pratique** (Avancé): Expliquez comment les brasseurs ajustent leur eau en fonction d’un style.
-- **1.3.4 Le maltage et l’empâtage** (Avancé): Expliquez ce qui arrive à l’amidon et aux enzymes pendant le maltage et l’empâtage.
+- **1.3.4 Le maltage et l’empâtage** (Intermédiaire): Expliquez ce qui arrive à l’amidon et aux enzymes pendant le maltage et l’empâtage.
 
 ## 2. Dégustation et styles
 
@@ -117,11 +117,11 @@ Ce que doit indiquer une étiquette et comment la décoder
 - **3.2.1 Ce que doit indiquer une étiquette** (Intermédiaire): Énumérez les mentions obligatoires d’une étiquette de bière.
 - **3.2.2 Les étiquettes selon les marchés** (Avancé): Comparez les règles d’étiquetage de l’UE, du Royaume-Uni, de l’Australie et de la Nouvelle-Zélande.
 - **3.2.3 Mentions facultatives** (Avancé): Expliquez les mentions facultatives et les marques de qualité figurant sur une étiquette de bière.
-- **3.2.4 Lire une étiquette** (Intermédiaire): Lire une étiquette de bière en pratique.
-- **3.2.5 Les noms de style sur l’étiquette** (Intermédiaire): Interpréter les noms de style figurant sur une étiquette de bière.
-- **3.2.6 Le titre alcoométrique et les mentions sur l’étiquette** (Intermédiaire): Interpréter le degré d’alcool et les mentions figurant sur une étiquette de bière.
-- **3.2.7 L’origine sur l’étiquette** (Intermédiaire): Interpréter l’origine et la région indiquées sur une étiquette de bière.
-- **3.2.8 L’emplacement de la brasserie comme contexte** (Intermédiaire): Utiliser l’emplacement d’une brasserie comme contexte pour comprendre sa bière.
+- **3.2.4 Lire une étiquette** (Intermédiaire): Lisez une étiquette de bière en pratique.
+- **3.2.5 Les noms de style sur l’étiquette** (Intermédiaire): Interprétez les noms de style figurant sur une étiquette de bière.
+- **3.2.6 Le titre alcoométrique et les mentions sur l’étiquette** (Intermédiaire): Interprétez le degré d’alcool et les mentions figurant sur une étiquette de bière.
+- **3.2.7 L’origine sur l’étiquette** (Intermédiaire): Interprétez l’origine et la région indiquées sur une étiquette de bière.
+- **3.2.8 L’emplacement de la brasserie comme contexte** (Intermédiaire): Utilisez l’emplacement d’une brasserie comme contexte pour comprendre sa bière.
 
 ## 4. Service et défauts
 
@@ -129,31 +129,31 @@ Ce que doit indiquer une étiquette et comment la décoder
 
 Température, verrerie, accords mets-bière et systèmes à la pression
 
-- **4.1.1 Température de service** (Basique): Servir chaque style de bière à la bonne température.
-- **4.1.2 Verrerie** (Basique): Choisir le bon verre pour un style de bière.
-- **4.1.3 Le service et les accords mets-bière** (Basique): Servir une bière correctement et l’associer à un plat.
-- **4.1.4 Conservation** (Intermédiaire): Conserver la bière pour préserver sa fraîcheur, et expliquer la filtration et la pasteurisation.
-- **4.1.5 Stabilité du conditionnement** (Avancé): Expliquer comment la pasteurisation, la filtration et le remplissage stérile assurent la stabilité d’une bière.
-- **4.1.6 Fût et cask** (Intermédiaire): Expliquer le fonctionnement des systèmes de fût, de cask et de bière pression, et comment la bière de cask est conservée.
-- **4.1.7 Ingénierie des systèmes de bière pression** (Intermédiaire): Expliquer comment un système de bière pression est équilibré en termes de gaz, de pression et de température.
-- **4.1.8 Service responsable** (Basique): Servir la bière de façon responsable et refuser de servir lorsque c’est nécessaire.
+- **4.1.1 Température de service** (Basique): Servez chaque style de bière à la bonne température.
+- **4.1.2 Verrerie** (Basique): Choisissez le bon verre pour un style de bière.
+- **4.1.3 Le service et les accords mets-bière** (Basique): Servez une bière correctement et associez-la à un plat.
+- **4.1.4 Conservation** (Intermédiaire): Conservez la bière pour préserver sa fraîcheur, et expliquez la filtration et la pasteurisation.
+- **4.1.5 Stabilité du conditionnement** (Avancé): Expliquez comment la pasteurisation, la filtration et le remplissage stérile assurent la stabilité d’une bière.
+- **4.1.6 Fût et cask** (Intermédiaire): Expliquez le fonctionnement des systèmes de fût, de cask et de bière pression, et comment la bière de cask est conservée.
+- **4.1.7 Ingénierie des systèmes de bière pression** (Intermédiaire): Expliquez comment un système de bière pression est équilibré en termes de gaz, de pression et de température.
+- **4.1.8 Service responsable** (Basique): Servez la bière de façon responsable et refusez de servir lorsque c’est nécessaire.
 
 ### 4.2 Les défauts de saveur et les défauts de la bière
 
 Identifier et prévenir les défauts courants
 
-- **4.2.1 Qu’est-ce qu’un faux goût ?** (Intermédiaire): Expliquer ce qu’est un faux goût et comment fonctionnent les seuils de détection.
-- **4.2.2 Diacétyle et acétaldéhyde** (Intermédiaire): Reconnaître le diacétyle et l’acétaldéhyde et en identifier les causes.
-- **4.2.3 Alcools de fusel** (Intermédiaire): Reconnaître les alcools de fusel et en citer les causes.
-- **4.2.4 Esters** (Intermédiaire): Reconnaître les défauts liés aux esters et savoir quand les esters sont recherchés.
-- **4.2.5 DMS et phénols** (Intermédiaire): Reconnaître les défauts liés au DMS et aux phénols et en citer les causes.
-- **4.2.6 Oxydation et contamination** (Intermédiaire): Reconnaître l’oxydation et la contamination et savoir comment les prévenir.
-- **4.2.7 Goût de lumière et tableau de référence** (Intermédiaire): Reconnaître le goût de lumière et utiliser le tableau de référence des faux-goûts.
-- **4.2.8 Entraînement aux seuils de perception** (Avancé): Expliquer comment les panels s’entraînent avec des bières dopées et mesurent les seuils de perception.
-- **4.2.9 Dégustation à la recherche de défauts** (Intermédiaire): Détecter les faux-goûts lors d’une dégustation.
+- **4.2.1 Qu’est-ce qu’un faux goût ?** (Intermédiaire): Expliquez ce qu’est un faux goût et comment fonctionnent les seuils de détection.
+- **4.2.2 Diacétyle et acétaldéhyde** (Intermédiaire): Reconnaissez le diacétyle et l’acétaldéhyde et identifiez-en les causes.
+- **4.2.3 Alcools de fusel** (Intermédiaire): Reconnaissez les alcools de fusel et citez-en les causes.
+- **4.2.4 Esters** (Intermédiaire): Reconnaissez les défauts liés aux esters et sachez quand les esters sont recherchés.
+- **4.2.5 DMS et phénols** (Intermédiaire): Reconnaissez les défauts liés au DMS et aux phénols et citez-en les causes.
+- **4.2.6 Oxydation et contamination** (Intermédiaire): Reconnaissez l’oxydation et la contamination et sachez comment les prévenir.
+- **4.2.7 Goût de lumière et tableau de référence** (Intermédiaire): Reconnaissez le goût de lumière et utilisez le tableau de référence des faux-goûts.
+- **4.2.8 Entraînement aux seuils de perception** (Avancé): Expliquez comment les panels s’entraînent avec des bières dopées et mesurent les seuils de perception.
+- **4.2.9 Dégustation à la recherche de défauts** (Intermédiaire): Détectez les faux-goûts lors d’une dégustation.
 
 ### 4.3 Révision finale
 
 Quiz de révision sur tous les sujets de la bière
 
-- **4.3.1 Révision finale** (Basique): Combiner ce que chaque leçon a enseigné pour répondre à des questions portant sur l’ensemble du cours.
+- **4.3.1 Révision finale** (Basique): Combinez ce que chaque leçon vous a appris pour répondre à des questions portant sur l’ensemble du cours.

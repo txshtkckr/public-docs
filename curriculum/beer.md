@@ -33,7 +33,7 @@ Hops, yeast, water and malt in depth
 - **1.3.1 Hop chemistry** (Advanced): Explain the chemistry behind hop bitterness and aroma.
 - **1.3.2 Yeast biology** (Advanced): Explain how yeast metabolism makes alcohol, esters and other flavours.
 - **1.3.3 Water chemistry in practice** (Advanced): Explain how brewers adjust their water for a style.
-- **1.3.4 Malting and mashing** (Advanced): Explain what happens to starch and enzymes in malting and mashing.
+- **1.3.4 Malting and mashing** (Intermediate): Explain what happens to starch and enzymes in malting and mashing.
 
 ## 2. Tasting and styles
 
@@ -60,7 +60,7 @@ English tradition, American craft & German ales
 - **2.2.5 Tasting ales** (Basic): Compare ales from different traditions in the glass.
 - **2.2.6 Ale styles at a glance** (Basic): Name the main ale styles and what sets each apart.
 
-### 2.3 Belgian & continental ales
+### 2.3 Belgian and continental ales
 
 Trappist, farmhouse, lambic & Flemish sours
 
@@ -82,7 +82,7 @@ Pilsner, Helles, Bock, Dunkel & Märzen
 - **2.4.6 Lager styles at a glance** (Basic): Name the main lager styles and what sets each apart.
 - **2.4.7 Tasting lagers** (Basic): Compare lagers in the glass.
 
-### 2.5 Wheat, sour & craft beers
+### 2.5 Wheat, sour, and craft beers
 
 Hefeweizen, sour ales, strong styles & modern innovation
 
@@ -97,7 +97,7 @@ Hefeweizen, sour ales, strong styles & modern innovation
 
 ## 3. Beer around the world
 
-### 3.1 Beer regions & traditions
+### 3.1 Beer regions and traditions
 
 Belgium, Germany, Czech Republic, UK, USA & beyond
 
@@ -125,7 +125,7 @@ What a label must say, and how to decode it
 
 ## 4. Serving and faults
 
-### 4.1 Serving, pairing & draught
+### 4.1 Serving, pairing, and draught
 
 Temperature, glassware, food pairing & draught systems
 
@@ -138,7 +138,7 @@ Temperature, glassware, food pairing & draught systems
 - **4.1.7 Draught system engineering** (Intermediate): Explain how a draught system is balanced for gas, pressure and temperature.
 - **4.1.8 Responsible service** (Basic): Serve beer responsibly and refuse service when needed.
 
-### 4.2 Off-flavours & beer faults
+### 4.2 Off-flavours and beer faults
 
 Identifying and preventing common defects
 

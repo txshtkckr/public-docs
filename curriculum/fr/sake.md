@@ -15,13 +15,13 @@ Qu’est-ce que le saké et pourquoi est-il unique ?
 - **1.1.3 Ce qu’est le saké** (Basique): Expliquez avec quoi le saké est fait et en quoi il diffère du vin et de la bière.
 - **1.1.4 Le riz à saké** (Basique): Distinguez le riz à saké du riz de table et citez les principales variétés de riz à saké.
 - **1.1.5 La culture du riz à saké** (Intermédiaire): Décrivez comment le riz à saké est cultivé au fil de l’année et pourquoi son origine compte.
-- **1.1.6 Lire une étiquette de saké** (Basique): Lisez la catégorie, le taux de polissage et les autres informations clés d’une étiquette de saké.
+- **1.1.6 Lire une étiquette de saké** (Basique): Lisez le grade, le taux de polissage et les autres informations clés d’une étiquette de saké.
 
 ### 1.2 Élaboration du saké
 
 Le processus de production du riz à la bouteille
 
-- **1.2.1 Polir et préparer le riz** (Basique): Expliquez pourquoi le riz est poli, lavé, trempé et cuit à la vapeur.
+- **1.2.1 Polissage et préparation du riz** (Basique): Expliquez pourquoi le riz est poli, lavé, trempé et cuit à la vapeur.
 - **1.2.2 Le kōji** (Basique): Expliquez comment le kōji transforme l’amidon du riz en sucre.
 - **1.2.3 La fermentation en bref** (Basique): Décrivez comment le levain et le moût principal transforment le riz en saké, et comment la température influence son style.
 - **1.2.4 Le levain (shubo)** (Intermédiaire): Comparez les levains kimoto, yamahai et sokujō.
@@ -59,7 +59,7 @@ Comprendre le système de classification
 
 Types de saveurs, vocabulaire sensoriel et méthodologie de dégustation
 
-- **2.2.1 Profils aromatiques du saké** (Basique): Décrivez les principaux profils aromatiques du saké.
+- **2.2.1 Profils aromatiques du saké** (Intermédiaire): Décrivez les principaux profils aromatiques du saké.
 - **2.2.2 Ginjō et junmai : pour débuter** (Basique): Comparez un ginjō et un junmai côte à côte.
 - **2.2.3 Aspect** (Basique): Décrivez la limpidité et la couleur d’un saké.
 - **2.2.4 Arôme** (Basique): Décrivez les arômes d’un saké et leur origine.
@@ -110,7 +110,7 @@ Comment servir, conserver et accorder le saké
 
 - **4.1.1 Température de service** (Basique): Servez le saké frais, à température ambiante ou chaud, et chauffez-le avec soin.
 - **4.1.2 Les neuf températures de service** (Avancé): Citez les neuf températures de service traditionnelles.
-- **4.1.3 La température selon la catégorie** (Basique): Choisissez une température de service pour chaque catégorie.
+- **4.1.3 La température selon le grade** (Basique): Choisissez une température de service pour chaque grade.
 - **4.1.4 Verrerie et conservation** (Basique): Choisissez un contenant pour le saké et conservez-le de manière à préserver sa fraîcheur.
 - **4.1.5 Accords mets et saké** (Basique): Associez le saké aux plats.
 - **4.1.6 Service responsable** (Basique): Servez le saké de façon responsable.
@@ -120,4 +120,4 @@ Comment servir, conserver et accorder le saké
 
 Quiz de révision sur tous les sujets du saké
 
-- **4.2.1 Révision finale** (Basique): Combinez ce que chaque leçon vous a appris pour répondre à des questions couvrant l’ensemble du cours.
+- **4.2.1 Révision finale** (Basique): Combinez ce que chaque leçon vous a appris pour répondre à des questions portant sur l’ensemble du cours.

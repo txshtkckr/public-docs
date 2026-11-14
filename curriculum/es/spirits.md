@@ -10,10 +10,10 @@ Cada tema tiene un nivel. Básico cubre lo esencial para hablar de la materia co
 
 De la materia prima a la botella: el proceso de producción
 
-- **1.1.1 Te damos la bienvenida** (Básico): Orienta tu camino por el curso de destilados y sus tres niveles.
+- **1.1.1 Te damos la bienvenida** (Básico): Oriéntate en el curso de destilados y sus tres niveles.
 - **1.1.2 Cómo se elaboran los destilados** (Básico): Describe cómo se elabora un destilado, desde la materia prima hasta la botella.
 - **1.1.3 Materias primas** (Básico): Nombra las materias primas de los principales destilados.
-- **1.1.4 Fermentación** (Básico): Explica la fermentación y los subproductos que aportan sabor a un destilado.
+- **1.1.4 Fermentación** (Intermedio): Explica la fermentación y los subproductos que aportan sabor a un destilado.
 - **1.1.5 Alambiques de olla y de columna** (Básico): Compara los alambiques de olla y de columna y los destilados que produce cada uno.
 - **1.1.6 Envejecimiento en madera** (Básico): Explica qué le aporta un tonel a un destilado y qué significa una edad en su etiqueta.
 - **1.1.7 Maduración y acabado** (Intermedio): Explica cómo la maduración y el acabado en madera transforman un destilado.
@@ -23,10 +23,10 @@ De la materia prima a la botella: el proceso de producción
 
 Ginebra, whisky, brandy, licores y vermut en resumen
 
-- **1.2.1 Ginebra** (Básico): Explicar qué es la ginebra y qué significa London Dry.
-- **1.2.2 Whisky** (Básico): Describir de qué se hace el whisky y distinguir el escocés, el irlandés y el estadounidense.
-- **1.2.3 Brandy** (Básico): Explicar de qué se hace el brandy y qué significan VS, VSOP y XO en una etiqueta de coñac.
-- **1.2.4 Licores y vermut** (Básico): Explicar qué hace que un licor lo sea y en qué se diferencia el vermut.
+- **1.2.1 Ginebra** (Básico): Explica qué es la ginebra y qué significa London Dry.
+- **1.2.2 Whisky** (Básico): Describe de qué se hace el whisky y distingue el escocés, el irlandés y el estadounidense.
+- **1.2.3 Brandy** (Básico): Explica de qué se hace el brandy y qué significan VS, VSOP y XO en una etiqueta de coñac.
+- **1.2.4 Licores y vermut** (Básico): Explica qué hace que un licor lo sea y en qué se diferencia el vermut.
 
 ### 1.3 Ciencia de la destilación y la crianza
 
@@ -65,7 +65,7 @@ La categoría de destilados más grande del mundo
 Botánicos, carácter de enebro y estilos de ginebra
 
 - **2.2.1 Qué es la ginebra** (Intermedio): Describe qué es la ginebra y cómo su historia la ha moldeado.
-- **2.2.2 Cómo se elabora la ginebra** (Intermedio): Compara las formas de elaborar ginebra a partir de alcohol neutro.
+- **2.2.2 Cómo se elabora la ginebra** (Intermedio): Compara las formas de elaborar ginebra a partir de destilado neutro.
 - **2.2.3 Familias de estilos de ginebra** (Intermedio): Distingue las familias de estilos de ginebra.
 - **2.2.4 Botánicos** (Intermedio): Describe los principales botánicos de la ginebra y lo que aporta cada uno.
 - **2.2.5 Cata de ginebra** (Intermedio): Compara los estilos de ginebra en la copa.
@@ -151,7 +151,7 @@ Destilados saborizados, licores, vermut y aperitivos fortificados
 
 ## 5. Servicio de destilados
 
-### 5.1 Servicio y revisión
+### 5.1 Servicio y repaso
 
 Cristalería, servicio responsable y preparación para exámenes
 

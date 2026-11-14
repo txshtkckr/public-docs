@@ -56,7 +56,7 @@ Why and how ethanol is made undrinkable for industrial use
 
 ## 3. Alcohol and the body
 
-### 3.1 Metabolism & BAC
+### 3.1 Metabolism and BAC
 
 How the body processes alcohol from absorption to elimination
 

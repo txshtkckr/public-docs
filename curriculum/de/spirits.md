@@ -13,7 +13,7 @@ Von Rohstoffen bis zur Flasche: Der Herstellungsprozess
 - **1.1.1 Willkommen** (Grundstufe): Finde dich im Spirituosenkurs und seinen drei Stufen zurecht.
 - **1.1.2 Wie Spirituosen hergestellt werden** (Grundstufe): Beschreibe, wie eine Spirituose hergestellt wird – vom Rohstoff bis zur Flasche.
 - **1.1.3 Rohstoffe** (Grundstufe): Nenne die Rohstoffe der wichtigsten Spirituosen.
-- **1.1.4 Gärung** (Grundstufe): Erkläre die Gärung und die Nebenprodukte, die einer Spirituose Aroma verleihen.
+- **1.1.4 Gärung** (Mittelstufe): Erkläre die Gärung und die Nebenprodukte, die einer Spirituose Aroma verleihen.
 - **1.1.5 Brennblasen und Kolonnenbrennanlagen** (Grundstufe): Vergleiche Brennblasen (Pot Stills) und Kolonnenbrennanlagen (Column Stills) und die Spirituosen, die jeweils daraus entstehen.
 - **1.1.6 Reifung im Holz** (Grundstufe): Erkläre, was ein Fass einer Spirituose verleiht und was eine Altersangabe auf ihrem Etikett bedeutet.
 - **1.1.7 Reifung und Finish** (Mittelstufe): Erkläre, wie Reifung und Finish im Holz eine Spirituose verändern.
@@ -142,7 +142,7 @@ Agaven-Spirituosen aus Mexiko
 
 ### 4.2 Liköre und aromatisierte Weine
 
-Aromatisierte Spirituosen, Liköre, Vermut und verstärkte Aperitifs
+Aromatisierte Spirituosen, Liköre, Wermut und gespritete Aperitifs
 
 - **4.2.1 Liköre und aromatisierte Spirituosen** (Mittelstufe): Erkläre, was einen Likör ausmacht und wie sich aromatisierte Spirituosen unterscheiden.
 - **4.2.2 Aromatisierung und Färbung** (Mittelstufe): Erkläre, wie Liköre aromatisiert und gefärbt werden.
@@ -162,8 +162,8 @@ Gläserkunde, verantwortungsvolles Servieren & Prüfungsvorbereitung
 - **5.1.5 Verantwortungsvoller Ausschank** (Grundstufe): Schenke Spirituosen verantwortungsvoll aus.
 - **5.1.6 Ausschank verweigern** (Grundstufe): Verweigere den Ausschank höflich und rechtmäßig.
 
-### 5.2 Abschlussüberprüfung
+### 5.2 Abschlusswiederholung
 
 Wiederholungsquiz zu allen Spirituosen-Themen
 
-- **5.2.1 Abschlusswiederholung** (Grundstufe): Verbinde das, was jede Lektion vermittelt hat, um Fragen aus dem gesamten Kurs zu beantworten.
+- **5.2.1 Abschlusswiederholung** (Grundstufe): Verbinde, was jede Lektion vermittelt hat, um Fragen aus dem gesamten Kurs zu beantworten.
