@@ -167,7 +167,9 @@ Regiones, etiquetado alemán y Furmint
 - **4.5.2 Pinot Blanc, Müller-Thurgau y Silvaner** (Avanzado): Reconoce las otras uvas blancas de Alemania y dónde destaca cada una.
 - **4.5.3 Austria** (Avanzado): Describe las principales regiones y uvas de Austria.
 - **4.5.4 Grüner Veltliner** (Avanzado): Reconoce el Grüner Veltliner, el blanco característico de Austria.
-- **4.5.5 Furmint y Tokaji** (Intermedio): Reconoce el Furmint y las uvas blancas regionales de Europa central.
+- **4.5.5 Hungría y Tokaj** (Intermedio): Describe cómo se elabora el Tokaji Aszú con Furmint botritizada, cómo indica su etiqueta el dulzor y cómo sabe.
+- **4.5.6 Tokaj más allá del Aszú** (Avanzado): Explica cómo se delimitó Tokaj y cómo se elaboran su Szamorodni, su Eszencia y su Furmint seco.
+- **4.5.7 Furmint** (Intermedio): Reconoce la Furmint y compárala con las demás uvas blancas de la lección.
 
 ### 4.6 Grecia
 

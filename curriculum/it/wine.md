@@ -167,7 +167,9 @@ Regioni, etichettatura tedesca e Furmint
 - **4.5.2 Pinot Bianco, Müller-Thurgau e Silvaner** (Avanzato): Riconosci gli altri vitigni bianchi della Germania e dove ognuno esprime il meglio di sé.
 - **4.5.3 Austria** (Avanzato): Descrivi le principali regioni e vitigni austriaci.
 - **4.5.4 Grüner Veltliner** (Avanzato): Riconosci il Grüner Veltliner, il bianco caratteristico dell’Austria.
-- **4.5.5 Furmint e Tokaji** (Intermedio): Riconosci il Furmint e i vitigni a bacca bianca autoctoni dell’Europa centrale.
+- **4.5.5 Ungheria e Tokaj** (Intermedio): Descrivi come nasce il Tokaji Aszú dal Furmint botritizzato, come l’etichetta ne indica la dolcezza e che sapore ha.
+- **4.5.6 Tokaj oltre l’Aszú** (Avanzato): Spiega come fu delimitata Tokaj e come vi si producono Szamorodni, Eszencia e Furmint secco.
+- **4.5.7 Furmint** (Intermedio): Riconosci il Furmint e confrontalo con le altre uve bianche della lezione.
 
 ### 4.6 Grecia
 

@@ -167,7 +167,9 @@ Regions, German labeling and Furmint
 - **4.5.2 Pinot Blanc, Müller-Thurgau and Silvaner** (Advanced): Recognize Germany’s other white grapes and where each is at its best.
 - **4.5.3 Austria** (Advanced): Describe Austria’s main regions and grapes.
 - **4.5.4 Grüner Veltliner** (Advanced): Recognize Grüner Veltliner, Austria’s signature white.
-- **4.5.5 Furmint and Tokaji** (Intermediate): Recognize Furmint and the regional white grapes of central Europe.
+- **4.5.5 Hungary and Tokaj** (Intermediate): Describe how Tokaji Aszú is made from nobly rotten Furmint, how its label shows sweetness, and how it tastes.
+- **4.5.6 Tokaj beyond Aszú** (Advanced): Explain how Tokaj was delimited and how Szamorodni, Eszencia, and dry Furmint are made.
+- **4.5.7 Furmint** (Intermediate): Recognize Furmint and compare it with the lesson’s other white grapes.
 
 ### 4.6 Greece
 

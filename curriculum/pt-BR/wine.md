@@ -167,7 +167,9 @@ Regiões, rotulagem alemã e Furmint
 - **4.5.2 Pinot Blanc, Müller-Thurgau e Silvaner** (Avançado): Identifique as outras uvas brancas da Alemanha e onde cada uma atinge seu melhor potencial.
 - **4.5.3 Áustria** (Avançado): Descreva as principais regiões e uvas da Áustria.
 - **4.5.4 Grüner Veltliner** (Avançado): Identifique a Grüner Veltliner, o branco assinatura da Áustria.
-- **4.5.5 Furmint e Tokaji** (Intermediário): Reconheça a Furmint e as uvas brancas regionais da Europa Central.
+- **4.5.5 Hungria e Tokaj** (Intermediário): Descreva como o Tokaji Aszú é feito de Furmint botritizada, como o rótulo indica a doçura e qual é o seu sabor.
+- **4.5.6 Tokaj além do Aszú** (Avançado): Explique como Tokaj foi delimitada e como são feitos seus Szamorodni, Eszencia e Furmint seco.
+- **4.5.7 Furmint** (Intermediário): Reconheça a Furmint e compare-a com as outras uvas brancas da lição.
 
 ### 4.6 Grécia
 

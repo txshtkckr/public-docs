@@ -167,7 +167,9 @@ Régions, étiquetage allemand et furmint
 - **4.5.2 Pinot Blanc, Müller-Thurgau et Silvaner** (Avancé): Reconnaissez les autres cépages blancs allemands et où chacun excelle.
 - **4.5.3 L’Autriche** (Avancé): Décrivez les principales régions et cépages d’Autriche.
 - **4.5.4 Grüner Veltliner** (Avancé): Reconnaissez le Grüner Veltliner, le blanc emblématique de l’Autriche.
-- **4.5.5 Furmint et Tokaji** (Intermédiaire): Identifiez le furmint et les cépages blancs régionaux d’Europe centrale.
+- **4.5.5 La Hongrie et Tokaj** (Intermédiaire): Décrivez comment le Tokaji Aszú naît du Furmint botrytisé, comment son étiquette indique sa douceur et quel goût il a.
+- **4.5.6 Tokaj au-delà de l’Aszú** (Avancé): Expliquez comment Tokaj a été délimité et comment y sont élaborés le Szamorodni, l’Eszencia et le Furmint sec.
+- **4.5.7 Furmint** (Intermédiaire): Reconnaissez le Furmint et comparez-le aux autres cépages blancs de la leçon.
 
 ### 4.6 Grèce
 

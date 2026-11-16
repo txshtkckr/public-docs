@@ -167,7 +167,9 @@ Regionen, deutsche Etikettierung und Furmint
 - **4.5.2 Pinot Blanc, Müller-Thurgau und Silvaner** (Oberstufe): Erkenne Deutschlands andere weiße Trauben und wo jede am besten gedeiht.
 - **4.5.3 Österreich** (Oberstufe): Beschreibe Österreichs wichtigste Regionen und Rebsorten.
 - **4.5.4 Grüner Veltliner** (Oberstufe): Erkenne Grüner Veltliner, Österreichs charakteristische Weiße.
-- **4.5.5 Furmint und Tokaji** (Mittelstufe): Erkenne Furmint und die regionalen Weißweinsorten Mitteleuropas.
+- **4.5.5 Ungarn und Tokaj** (Mittelstufe): Beschreibe, wie Tokaji Aszú aus edelfaulem Furmint entsteht, wie sein Etikett die Süße angibt und wie er schmeckt.
+- **4.5.6 Tokaj jenseits des Aszú** (Oberstufe): Erkläre, wie Tokaj abgegrenzt wurde und wie Szamorodni, Eszencia und trockener Furmint entstehen.
+- **4.5.7 Furmint** (Mittelstufe): Erkenne Furmint und vergleiche ihn mit den anderen weißen Rebsorten der Lektion.
 
 ### 4.6 Griechenland
 
