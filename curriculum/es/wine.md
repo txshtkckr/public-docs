@@ -13,7 +13,7 @@ La vid, el viñedo y por qué importa el lugar
 - **1.1.1 Te damos la bienvenida** (Básico): Oriéntate en el curso de vino y sus tres niveles.
 - **1.1.2 La vid y su ciclo de crecimiento** (Básico): Explica qué necesita una vid y cómo crece a lo largo del año.
 - **1.1.3 Clima, condiciones meteorológicas y añada** (Básico): Explica por qué el clima, las condiciones meteorológicas y el lugar determinan el estilo de un vino.
-- **1.1.4 Filoxera** (Básico): Explica qué le hizo la filoxera a los viñedos del mundo y por qué la mayoría de las vides están injertadas.
+- **1.1.4 Filoxera** (Avanzado): Explica qué le hizo la filoxera a los viñedos del mundo y por qué la mayoría de las vides están injertadas.
 - **1.1.5 Gestión del viñedo** (Intermedio): Describe las principales decisiones del viticultor a lo largo del año, desde la poda hasta la vendimia.
 - **1.1.6 Sistemas de conducción y el canopy** (Avanzado): Compara los sistemas de conducción y explica cómo la gestión del canopy influye en la maduración.
 - **1.1.7 Enfermedades de la vid** (Avanzado): Reconoce las principales enfermedades fúngicas, virales y bacterianas de la vid y cómo las combaten los viticultores.
@@ -65,9 +65,10 @@ Cabernet Sauvignon, Merlot, Syrah/Shiraz y Pinot Noir
 Estilos blancos, crianza sobre lías y cata
 
 - **3.4.1 Vinificación en blanco, del prensado al embotellado** (Básico): Describe cómo se elabora un vino blanco, desde el prensado y desfangado hasta el embotellado.
-- **3.4.2 Dando forma a un vino blanco** (Intermedio): Explica cómo la fermentación, la fermentación maloláctica, el contacto con las lías y la clarificación dan forma al estilo de un vino blanco.
-- **3.4.3 Vinificación del rosado** (Básico): Describe las distintas formas de elaborar un rosado.
-- **3.4.4 Vino naranja/ámbar** (Avanzado): Explica cómo se elabora el vino naranja y a qué sabe.
+- **3.4.2 Dando forma a un vino blanco** (Intermedio): Explica cómo la fermentación, la fermentación maloláctica y el contacto con las lías dan forma al estilo de un vino blanco.
+- **3.4.3 Clarificación y estabilización** (Avanzado): Explica cómo se clarifica, estabiliza y filtra un vino blanco antes del embotellado.
+- **3.4.4 Vinificación del rosado** (Básico): Describe las distintas formas de elaborar un rosado.
+- **3.4.5 Vino naranja/ámbar** (Avanzado): Explica cómo se elabora el vino naranja y a qué sabe.
 
 ### 3.5 Uvas blancas de importancia internacional
 
@@ -99,7 +100,7 @@ Vinos dulces, Oporto, Jerez y Madeira
 - **3.7.3 Vino fortificado y Oporto** (Básico): Explica cómo funciona la fortificación y cómo se elabora el Oporto.
 - **3.7.4 Jerez** (Básico): Explica cómo se elaboran los estilos de Jerez.
 - **3.7.5 Solera y flor** (Avanzado): Explica cómo la solera y la flor moldean el Jerez.
-- **3.7.6 Madeira y Vino Dulce Natural** (Intermedio): Explica cómo se elaboran el Madeira y el Vino Dulce Natural.
+- **3.7.6 Madeira y Vino Dulce Natural** (Avanzado): Explica cómo se elaboran el Madeira y el Vino Dulce Natural.
 - **3.7.7 Madeira: estufagem y canteiro** (Avanzado): Compara el estufagem y el crianza en canteiro del Madeira.
 
 ### 3.8 Química del vino
@@ -130,10 +131,11 @@ Regiones y uvas, de Burdeos al Ródano
 - **4.2.1 Burdeos y Borgoña** (Intermedio): Describe Burdeos y Borgoña, sus uvas y estilos.
 - **4.2.2 Champaña, Alsacia, el Ródano y el Loira** (Intermedio): Describe las otras regiones clásicas de Francia y sus estilos.
 - **4.2.3  Languedoc-Rosellón y Provenza** (Intermedio): Describe el sur de Francia: los ensamblajes de Minervois, los vinos varietales de Pays d’Oc y el rosado de Provenza.
-- **4.2.4 Cabernet Franc, Gamay y Garnacha** (Intermedio): Reconoce el Cabernet Franc, el Gamay y la Garnacha y dónde se cultivan.
-- **4.2.5 Chenin Blanc, Viognier, Gewürztraminer y Semillon** (Intermedio): Reconoce el Chenin Blanc, el Viognier, el Gewürztraminer y el Semillon y dónde se cultivan.
-- **4.2.6 Marsanne / Roussanne y Melon de Bourgogne** (Avanzado): Reconoce el dúo de blancos del Ródano septentrional y el Melon de Bourgogne, la uva de Muscadet.
-- **4.2.7 Petit Verdot, Cinsault y Trousseau / Poulsard** (Avanzado): Reconoce tres tintos franceses más: el Petit Verdot de Burdeos, el Cinsault del sur y el Trousseau y Poulsard del Jura.
+- **4.2.4 Gamay y Garnacha** (Intermedio): Reconoce el Gamay y la Garnacha y dónde se cultivan.
+- **4.2.5 Cabernet Franc** (Avanzado): Reconoce el Cabernet Franc y dónde se cultiva.
+- **4.2.6 Chenin Blanc, Viognier, Gewürztraminer y Semillon** (Intermedio): Reconoce el Chenin Blanc, el Viognier, el Gewürztraminer y el Semillon y dónde se cultivan.
+- **4.2.7 Marsanne / Roussanne y Melon de Bourgogne** (Avanzado): Reconoce el dúo de blancos del Ródano septentrional y el Melon de Bourgogne, la uva de Muscadet.
+- **4.2.8 Petit Verdot, Cinsault y Trousseau / Poulsard** (Avanzado): Reconoce tres tintos franceses más: el Petit Verdot de Burdeos, el Cinsault del sur y el Trousseau y Poulsard del Jura.
 
 ### 4.3 Italia
 
@@ -208,12 +210,13 @@ Borgoña, Burdeos, Champagne, Barolo, Rioja y el Mosela
 
 Estados Unidos, Argentina y Chile
 
-- **4.9.1 Estados Unidos y sus etiquetas** (Intermedio): Describe las principales regiones vitivinícolas de Estados Unidos y sus normas de etiquetado.
-- **4.9.2 Zinfandel/Primitivo** (Intermedio): Reconoce el Zinfandel y el Primitivo, y dónde se cultivan.
-- **4.9.3 Petite Sirah/Durif** (Avanzado): Reconoce la Petite Sirah, el tinto oscuro y denso de California, conocido como Durif en Australia.
-- **4.9.4 Argentina y el Malbec** (Intermedio): Describe las regiones de Argentina y reconoce el Malbec.
-- **4.9.5 Torrontés** (Avanzado): Reconoce el Torrontés, el blanco aromático de Argentina, en su mejor expresión en Salta.
-- **4.9.6 Chile y la Carmenère** (Intermedio): Describe las regiones de Chile y reconoce la Carmenère.
+- **4.9.1 Estados Unidos** (Intermedio): Describe las principales regiones vitivinícolas de Estados Unidos.
+- **4.9.2 Normas de etiquetado de EE. UU.** (Avanzado): Explica las normas de Estados Unidos para indicar la uva, el origen y la añada en la etiqueta.
+- **4.9.3 Zinfandel/Primitivo** (Intermedio): Reconoce el Zinfandel y el Primitivo, y dónde se cultivan.
+- **4.9.4 Petite Sirah/Durif** (Avanzado): Reconoce la Petite Sirah, el tinto oscuro y denso de California, conocido como Durif en Australia.
+- **4.9.5 Argentina y el Malbec** (Intermedio): Describe las regiones de Argentina y reconoce el Malbec.
+- **4.9.6 Torrontés** (Avanzado): Reconoce el Torrontés, el blanco aromático de Argentina, en su mejor expresión en Salta.
+- **4.9.7 Chile y la Carmenère** (Intermedio): Describe las regiones de Chile y reconoce la Carmenère.
 
 ### 4.10 Australia, Nueva Zelanda y Sudáfrica
 
@@ -234,10 +237,12 @@ Cristalería, decantación, gestión de bodega, defectos del vino y maridaje
 - **5.1.3 Gestión de bodega** (Intermedio): Almacena bien el vino y gestiona una bodega.
 - **5.1.4 Servicio responsable** (Básico): Sirve vino de forma responsable.
 - **5.1.5 Oxidación, defecto de corcho, calor y luz** (Básico): Reconoce la oxidación, el defecto de corcho y los daños por calor y luz.
-- **5.1.6 Defectos de azufre, levaduras y bacterias** (Intermedio): Reconoce defectos de azufre, levaduras y bacterias.
-- **5.1.7 Defectos en el umbral de percepción** (Avanzado): Evalúa cuándo un defecto está justo por debajo o por encima de lo que la mayoría de los catadores percibe.
-- **5.1.8 Evaluación de la calidad** (Intermedio): Describe un vino y justifica un juicio de calidad y de punto óptimo de consumo.
-- **5.1.9 Comida y vino** (Básico): Marida comida y vino, y explica por qué funciona un maridaje.
+- **5.1.6 Defectos del vino de un vistazo** (Intermedio): Reconoce los defectos más comunes del vino por su olor.
+- **5.1.7 Defectos de azufre, levaduras y bacterias** (Avanzado): Reconoce defectos de azufre, levaduras y bacterias.
+- **5.1.8 Defectos en el umbral de percepción** (Avanzado): Evalúa cuándo un defecto está justo por debajo o por encima de lo que la mayoría de los catadores percibe.
+- **5.1.9 Evaluación de la calidad** (Intermedio): Juzga la calidad de un vino por su equilibrio, persistencia, intensidad y complejidad.
+- **5.1.10 Describir y justificar** (Avanzado): Describe un vino y justifica un juicio de calidad y de punto óptimo de consumo.
+- **5.1.11 Comida y vino** (Básico): Marida comida y vino, y explica por qué funciona un maridaje.
 
 ### 5.2 Repaso final
 

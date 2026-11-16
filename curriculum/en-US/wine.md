@@ -13,7 +13,7 @@ The vine, the vineyard and why place matters
 - **1.1.1 Welcome** (Basic): Find your way around the wine course and its three levels.
 - **1.1.2 The vine and its growing season** (Basic): Explain what a vine needs and how it grows through the year.
 - **1.1.3 Climate, weather and vintage** (Basic): Explain why climate, weather and place shape a wine’s style.
-- **1.1.4 Phylloxera** (Basic): Explain what phylloxera did to the world’s vineyards and why most vines are grafted.
+- **1.1.4 Phylloxera** (Advanced): Explain what phylloxera did to the world’s vineyards and why most vines are grafted.
 - **1.1.5 Vineyard management** (Intermediate): Describe the grower’s main decisions through the year, from pruning to harvest.
 - **1.1.6 Training systems and the canopy** (Advanced): Compare training systems and explain how canopy management shapes ripening.
 - **1.1.7 Vine diseases** (Advanced): Recognize the main fungal, viral and bacterial vine diseases and how growers fight them.
@@ -65,9 +65,10 @@ Cabernet Sauvignon, Merlot, Syrah/Shiraz & Pinot Noir
 White styles, sur lie, and tasting
 
 - **3.4.1 White winemaking from pressing to bottle** (Basic): Describe how a white wine is made, from pressing and settling to bottling.
-- **3.4.2 Shaping a white wine** (Intermediate): Explain how fermentation, malolactic conversion, lees contact and fining shape a white wine’s style.
-- **3.4.3 Rosé winemaking** (Basic): Describe the ways rosé is made.
-- **3.4.4 Orange/amber wine** (Advanced): Explain how orange wine is made and how it tastes.
+- **3.4.2 Shaping a white wine** (Intermediate): Explain how fermentation, malolactic conversion, and lees contact shape a white wine’s style.
+- **3.4.3 Fining and stabilization** (Advanced): Explain how a white wine is fined, stabilized, and filtered before bottling.
+- **3.4.4 Rosé winemaking** (Basic): Describe the ways rosé is made.
+- **3.4.5 Orange/amber wine** (Advanced): Explain how orange wine is made and how it tastes.
 
 ### 3.5 Internationally important white grapes
 
@@ -99,7 +100,7 @@ Sweet wines, Port, Sherry and Madeira
 - **3.7.3 Fortified wine and Port** (Basic): Explain how fortification works and how Port is made.
 - **3.7.4 Sherry** (Basic): Explain how the styles of Sherry are made.
 - **3.7.5 Solera and flor** (Advanced): Explain how the solera and flor shape Sherry.
-- **3.7.6 Madeira and Vin Doux Naturel** (Intermediate): Explain how Madeira and Vin Doux Naturel are made.
+- **3.7.6 Madeira and Vin Doux Naturel** (Advanced): Explain how Madeira and Vin Doux Naturel are made.
 - **3.7.7 Madeira: estufagem and canteiro** (Advanced): Compare Madeira’s estufagem and canteiro aging.
 
 ### 3.8 Wine chemistry
@@ -130,10 +131,11 @@ Regions and grapes, from Bordeaux to the Rhône
 - **4.2.1 Bordeaux and Burgundy** (Intermediate): Describe Bordeaux and Burgundy, their grapes and styles.
 - **4.2.2 Champagne, Alsace, the Rhône and the Loire** (Intermediate): Describe France’s other classic regions and their styles.
 - **4.2.3 Languedoc-Roussillon and Provence** (Intermediate): Describe the south of France: Minervois blends, Pays d’Oc varietal wines and Provence rosé.
-- **4.2.4 Cabernet Franc, Gamay and Grenache** (Intermediate): Recognize Cabernet Franc, Gamay and Grenache and where they grow.
-- **4.2.5 Chenin Blanc, Viognier, Gewürztraminer and Semillon** (Intermediate): Recognize Chenin Blanc, Viognier, Gewürztraminer and Semillon and where they grow.
-- **4.2.6 Marsanne / Roussanne and Melon de Bourgogne** (Advanced): Recognize the Northern Rhône’s white pair and Melon de Bourgogne, the grape of Muscadet.
-- **4.2.7 Petit Verdot, Cinsault and Trousseau / Poulsard** (Advanced): Recognize three more French reds: Bordeaux’s Petit Verdot, Cinsault from the south and the Jura’s Trousseau and Poulsard.
+- **4.2.4 Gamay and Grenache** (Intermediate): Recognize Gamay and Grenache and where they grow.
+- **4.2.5 Cabernet Franc** (Advanced): Recognize Cabernet Franc and where it grows.
+- **4.2.6 Chenin Blanc, Viognier, Gewürztraminer and Semillon** (Intermediate): Recognize Chenin Blanc, Viognier, Gewürztraminer and Semillon and where they grow.
+- **4.2.7 Marsanne / Roussanne and Melon de Bourgogne** (Advanced): Recognize the Northern Rhône’s white pair and Melon de Bourgogne, the grape of Muscadet.
+- **4.2.8 Petit Verdot, Cinsault and Trousseau / Poulsard** (Advanced): Recognize three more French reds: Bordeaux’s Petit Verdot, Cinsault from the south and the Jura’s Trousseau and Poulsard.
 
 ### 4.3 Italy
 
@@ -208,12 +210,13 @@ Burgundy, Bordeaux, Champagne, Barolo, Rioja and the Mosel
 
 USA, Argentina and Chile
 
-- **4.9.1 The United States and its labels** (Intermediate): Describe the main US wine regions and the US labeling rules.
-- **4.9.2 Zinfandel/Primitivo** (Intermediate): Recognize Zinfandel and Primitivo and where they grow.
-- **4.9.3 Petite Sirah/Durif** (Advanced): Recognize Petite Sirah, California’s inky red, known as Durif in Australia.
-- **4.9.4 Argentina and Malbec** (Intermediate): Describe Argentina’s regions and recognize Malbec.
-- **4.9.5 Torrontés** (Advanced): Recognize Torrontés, Argentina’s aromatic white, at its best in Salta.
-- **4.9.6 Chile and Carmenère** (Intermediate): Describe Chile’s regions and recognize Carmenère.
+- **4.9.1 The United States** (Intermediate): Describe the main US wine regions.
+- **4.9.2 US label rules** (Advanced): Explain the US rules for naming a grape, place, and vintage on a label.
+- **4.9.3 Zinfandel/Primitivo** (Intermediate): Recognize Zinfandel and Primitivo and where they grow.
+- **4.9.4 Petite Sirah/Durif** (Advanced): Recognize Petite Sirah, California’s inky red, known as Durif in Australia.
+- **4.9.5 Argentina and Malbec** (Intermediate): Describe Argentina’s regions and recognize Malbec.
+- **4.9.6 Torrontés** (Advanced): Recognize Torrontés, Argentina’s aromatic white, at its best in Salta.
+- **4.9.7 Chile and Carmenère** (Intermediate): Describe Chile’s regions and recognize Carmenère.
 
 ### 4.10 Australia, New Zealand and South Africa
 
@@ -234,10 +237,12 @@ Glassware, decanting, cellar management, wine faults & food pairing
 - **5.1.3 Cellar management** (Intermediate): Store wine well and manage a cellar.
 - **5.1.4 Responsible service** (Basic): Serve wine responsibly.
 - **5.1.5 Oxidation, cork taint, heat and light** (Basic): Recognize oxidation, cork taint and heat and light damage.
-- **5.1.6 Sulfur, yeast and bacterial faults** (Intermediate): Recognize sulfur, yeast and bacterial faults.
-- **5.1.7 Faults at threshold** (Advanced): Judge when a fault is just below or above what most tasters notice.
-- **5.1.8 Judging quality** (Intermediate): Describe a wine and justify a quality and readiness judgment.
-- **5.1.9 Food and wine** (Basic): Pair food and wine and explain why a pairing works.
+- **5.1.6 Wine faults at a glance** (Intermediate): Recognize the common wine faults by their smell.
+- **5.1.7 Sulfur, yeast and bacterial faults** (Advanced): Recognize sulfur, yeast and bacterial faults.
+- **5.1.8 Faults at threshold** (Advanced): Judge when a fault is just below or above what most tasters notice.
+- **5.1.9 Judging quality** (Intermediate): Judge a wine’s quality by its balance, length, intensity, and complexity.
+- **5.1.10 Describe and justify** (Advanced): Describe a wine and justify a quality and readiness judgment.
+- **5.1.11 Food and wine** (Basic): Pair food and wine and explain why a pairing works.
 
 ### 5.2 Final review
 

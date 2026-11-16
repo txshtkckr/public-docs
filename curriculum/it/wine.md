@@ -13,7 +13,7 @@ La vite, il vigneto e perché il luogo conta
 - **1.1.1 Benvenuto** (Base): Orientati nel corso di vino e nei suoi tre livelli.
 - **1.1.2 La vite e il suo ciclo vegetativo** (Base): Scopri di cosa ha bisogno la vite e come cresce nel corso dell’anno.
 - **1.1.3 Clima, meteo e annata** (Base): Scopri perché il clima, il meteo e il territorio definiscono lo stile di un vino.
-- **1.1.4 Fillossera** (Base): Scopri cosa ha causato la fillossera ai vigneti di tutto il mondo e perché la maggior parte delle viti è innestata.
+- **1.1.4 Fillossera** (Avanzato): Scopri cosa ha causato la fillossera ai vigneti di tutto il mondo e perché la maggior parte delle viti è innestata.
 - **1.1.5 Gestione del vigneto** (Intermedio): Descrivi le principali decisioni del viticoltore nel corso dell’anno, dalla potatura alla vendemmia.
 - **1.1.6 Sistemi di allevamento e chioma** (Avanzato): Confronta i sistemi di allevamento e spiega come la gestione della chioma influisce sulla maturazione.
 - **1.1.7 Malattie della vite** (Avanzato): Riconosci le principali malattie fungine, virali e batteriche della vite e come i viticoltori le combattono.
@@ -65,9 +65,10 @@ Cabernet Sauvignon, Merlot, Syrah/Shiraz e Pinot Noir
 Stili bianchi, sur lie e degustazione
 
 - **3.4.1 La vinificazione in bianco, dalla pressatura all’imbottigliamento** (Base): Descrivi come si produce un vino bianco, dalla pressatura e decantazione all’imbottigliamento.
-- **3.4.2 Definire lo stile di un vino bianco** (Intermedio): Spiega come fermentazione, fermentazione malolattica, contatto sui lieviti e chiarifica definiscono lo stile di un vino bianco.
-- **3.4.3 La vinificazione del rosato** (Base): Descrivi i diversi modi in cui si produce il vino rosato.
-- **3.4.4 Vino arancione/ambrato** (Avanzato): Spiega come si produce il vino arancione e che sapore ha.
+- **3.4.2 Definire lo stile di un vino bianco** (Intermedio): Spiega come fermentazione, fermentazione malolattica e contatto sui lieviti definiscono lo stile di un vino bianco.
+- **3.4.3 Chiarifica e stabilizzazione** (Avanzato): Spiega come un vino bianco viene chiarificato, stabilizzato e filtrato prima dell’imbottigliamento.
+- **3.4.4 La vinificazione del rosato** (Base): Descrivi i diversi modi in cui si produce il vino rosato.
+- **3.4.5 Vino arancione/ambrato** (Avanzato): Spiega come si produce il vino arancione e che sapore ha.
 
 ### 3.5 Vitigni bianchi di importanza internazionale
 
@@ -99,7 +100,7 @@ Vini dolci, Porto, Sherry e Madeira
 - **3.7.3 Vini fortificati e Porto** (Base): Scopri come funziona la fortificazione e come si produce il Porto.
 - **3.7.4 Sherry** (Base): Scopri come si producono i diversi stili di Sherry.
 - **3.7.5 Solera e flor** (Avanzato): Scopri come la solera e il flor plasmano lo Sherry.
-- **3.7.6 Madeira e Vin Doux Naturel** (Intermedio): Scopri come si producono il Madeira e il Vin Doux Naturel.
+- **3.7.6 Madeira e Vin Doux Naturel** (Avanzato): Scopri come si producono il Madeira e il Vin Doux Naturel.
 - **3.7.7 Madeira: estufagem e canteiro** (Avanzato): Confronta l’invecchiamento con estufagem e con il metodo canteiro del Madeira.
 
 ### 3.8 Chimica del vino
@@ -130,10 +131,11 @@ Regioni e vitigni, da Bordeaux al Rodano
 - **4.2.1 Bordeaux e Borgogna** (Intermedio): Descrivi Bordeaux e la Borgogna, i loro vitigni e i loro stili.
 - **4.2.2 Champagne, Alsazia, Rodano e Loira** (Intermedio): Descrivi le altre regioni classiche della Francia e i loro stili.
 - **4.2.3 Linguadoca-Rossiglione e Provenza** (Intermedio): Descrivi il sud della Francia: i blend del Minervois, i vini varietali del Pays d’Oc e il rosé della Provenza.
-- **4.2.4 Cabernet Franc, Gamay e Grenache** (Intermedio): Riconosci il Cabernet Franc, il Gamay e il Grenache e sappi dove si coltivano.
-- **4.2.5 Chenin Blanc, Viognier, Gewürztraminer e Semillon** (Intermedio): Riconosci lo Chenin Blanc, il Viognier, il Gewürztraminer e il Semillon e sappi dove si coltivano.
-- **4.2.6 Marsanne / Roussanne e Melone di Borgogna** (Avanzato): Riconosci la coppia di bianchi della Vallée du Rhône Settentrionale e il Melone di Borgogna, l’uva di Muscadet.
-- **4.2.7 Petit Verdot, Cinsault e Trousseau / Poulsard** (Avanzato): Riconosci altri tre rossi francesi: il Petit Verdot del Bordeaux, il Cinsault del sud e il Trousseau e il Poulsard del Giura.
+- **4.2.4 Gamay e Grenache** (Intermedio): Riconosci il Gamay e il Grenache e sappi dove si coltivano.
+- **4.2.5 Cabernet Franc** (Avanzato): Riconosci il Cabernet Franc e sappi dove si coltiva.
+- **4.2.6 Chenin Blanc, Viognier, Gewürztraminer e Semillon** (Intermedio): Riconosci lo Chenin Blanc, il Viognier, il Gewürztraminer e il Semillon e sappi dove si coltivano.
+- **4.2.7 Marsanne / Roussanne e Melone di Borgogna** (Avanzato): Riconosci la coppia di bianchi della Vallée du Rhône Settentrionale e il Melone di Borgogna, l’uva di Muscadet.
+- **4.2.8 Petit Verdot, Cinsault e Trousseau / Poulsard** (Avanzato): Riconosci altri tre rossi francesi: il Petit Verdot del Bordeaux, il Cinsault del sud e il Trousseau e il Poulsard del Giura.
 
 ### 4.3 Italia
 
@@ -208,12 +210,13 @@ Borgogna, Bordeaux, Champagne, Barolo, Rioja e Mosella
 
 Stati Uniti, Argentina e Cile
 
-- **4.9.1 Gli Stati Uniti e le loro etichette** (Intermedio): Descrivi le principali regioni vinicole statunitensi e le regole di etichettatura USA.
-- **4.9.2 Zinfandel/Primitivo** (Intermedio): Riconosci lo Zinfandel e il Primitivo e sappi dove vengono coltivati.
-- **4.9.3 Petite Sirah/Durif** (Avanzato): Riconosci la Petite Sirah, il rosso scuro della California, conosciuto come Durif in Australia.
-- **4.9.4 Argentina e Malbec** (Intermedio): Descrivi le regioni dell’Argentina e riconosci il Malbec.
-- **4.9.5 Torrontés** (Avanzato): Riconosci il Torrontés, il bianco aromatico dell’Argentina, al suo meglio a Salta.
-- **4.9.6 Cile e Carmenère** (Intermedio): Descrivi le regioni del Cile e riconosci il Carmenère.
+- **4.9.1 Gli Stati Uniti** (Intermedio): Descrivi le principali regioni vinicole statunitensi.
+- **4.9.2 Regole di etichettatura USA** (Avanzato): Spiega le regole statunitensi per indicare vitigno, origine e annata in etichetta.
+- **4.9.3 Zinfandel/Primitivo** (Intermedio): Riconosci lo Zinfandel e il Primitivo e sappi dove vengono coltivati.
+- **4.9.4 Petite Sirah/Durif** (Avanzato): Riconosci la Petite Sirah, il rosso scuro della California, conosciuto come Durif in Australia.
+- **4.9.5 Argentina e Malbec** (Intermedio): Descrivi le regioni dell’Argentina e riconosci il Malbec.
+- **4.9.6 Torrontés** (Avanzato): Riconosci il Torrontés, il bianco aromatico dell’Argentina, al suo meglio a Salta.
+- **4.9.7 Cile e Carmenère** (Intermedio): Descrivi le regioni del Cile e riconosci il Carmenère.
 
 ### 4.10 Australia, Nuova Zelanda e Sudafrica
 
@@ -234,10 +237,12 @@ Calici, decantazione, gestione della cantina, difetti del vino e abbinamenti gas
 - **5.1.3 Gestione della cantina** (Intermedio): Conserva bene il vino e gestisci una cantina.
 - **5.1.4 Servizio responsabile** (Base): Servi il vino in modo responsabile.
 - **5.1.5 Ossidazione, sentore di tappo, calore e luce** (Base): Riconosci ossidazione, sentore di tappo e danni da calore e luce.
-- **5.1.6 Difetti da zolfo, lieviti e batteri** (Intermedio): Riconosci difetti da zolfo, lieviti e batteri.
-- **5.1.7 Difetti al limite di percezione** (Avanzato): Valuta quando un difetto è appena sotto o sopra la soglia di percezione della maggior parte dei degustatori.
-- **5.1.8 Valutare la qualità** (Intermedio): Descrivi un vino e motiva un giudizio di qualità e di pronta beva.
-- **5.1.9 Cibo e vino** (Base): Abbina cibo e vino e spiega perché un abbinamento funziona.
+- **5.1.6 I difetti del vino in sintesi** (Intermedio): Riconosci i difetti più comuni del vino dal loro odore.
+- **5.1.7 Difetti da zolfo, lieviti e batteri** (Avanzato): Riconosci difetti da zolfo, lieviti e batteri.
+- **5.1.8 Difetti al limite di percezione** (Avanzato): Valuta quando un difetto è appena sotto o sopra la soglia di percezione della maggior parte dei degustatori.
+- **5.1.9 Valutare la qualità** (Intermedio): Giudica la qualità di un vino da equilibrio, persistenza, intensità e complessità.
+- **5.1.10 Descrivere e motivare** (Avanzato): Descrivi un vino e motiva un giudizio di qualità e di pronta beva.
+- **5.1.11 Cibo e vino** (Base): Abbina cibo e vino e spiega perché un abbinamento funziona.
 
 ### 5.2 Ripasso finale
 

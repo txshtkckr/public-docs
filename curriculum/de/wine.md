@@ -13,7 +13,7 @@ Die Rebe, der Weinberg und warum der Ort zählt
 - **1.1.1 Willkommen** (Grundstufe): Finde dich im Weinkurs und seinen drei Stufen zurecht.
 - **1.1.2 Die Rebe und ihre Wachstumsperiode** (Grundstufe): Erkläre, was eine Rebe braucht und wie sie sich über das Jahr entwickelt.
 - **1.1.3 Klima, Wetter und Jahrgang** (Grundstufe): Erkläre, warum Klima, Wetter und Lage den Stil eines Weins prägen.
-- **1.1.4 Reblaus** (Grundstufe): Erkläre, was die Reblaus den Weinbergen der Welt angetan hat und warum die meisten Reben veredelt sind.
+- **1.1.4 Reblaus** (Oberstufe): Erkläre, was die Reblaus den Weinbergen der Welt angetan hat und warum die meisten Reben veredelt sind.
 - **1.1.5 Weinbergmanagement** (Mittelstufe): Beschreibe die wichtigsten Entscheidungen des Winzers im Jahresverlauf, vom Rebschnitt bis zur Lese.
 - **1.1.6 Erziehungssysteme und das Blätterdach** (Oberstufe): Vergleiche Erziehungssysteme und erkläre, wie die Laubwandpflege die Reifung beeinflusst.
 - **1.1.7 Rebkrankheiten** (Oberstufe): Erkenne die wichtigsten Pilz-, Virus- und Bakterienkrankheiten der Rebe und wie Winzer sie bekämpfen.
@@ -65,9 +65,10 @@ Cabernet Sauvignon, Merlot, Syrah/Shiraz & Pinot Noir
 Weiße Stile, Ausbau sur lie und Verkostung
 
 - **3.4.1 Weißweinherstellung von der Pressung bis zur Flasche** (Grundstufe): Beschreibe, wie ein Weißwein hergestellt wird, von Pressung und Vorklärung bis zur Abfüllung.
-- **3.4.2 Einen Weißwein formen** (Mittelstufe): Erkläre, wie Gärung, malolaktische Gärung, Hefekontakt und Schönung den Stil eines Weißweins prägen.
-- **3.4.3 Roséweinherstellung** (Grundstufe): Beschreibe die verschiedenen Arten, Rosé herzustellen.
-- **3.4.4 Orange-/Amber-Wein** (Oberstufe): Erkläre, wie Orange Wine hergestellt wird und wie er schmeckt.
+- **3.4.2 Einen Weißwein formen** (Mittelstufe): Erkläre, wie Gärung, malolaktische Gärung und Hefekontakt den Stil eines Weißweins prägen.
+- **3.4.3 Schönung und Stabilisierung** (Oberstufe): Erkläre, wie ein Weißwein vor der Abfüllung geschönt, stabilisiert und filtriert wird.
+- **3.4.4 Roséweinherstellung** (Grundstufe): Beschreibe die verschiedenen Arten, Rosé herzustellen.
+- **3.4.5 Orange-/Amber-Wein** (Oberstufe): Erkläre, wie Orange Wine hergestellt wird und wie er schmeckt.
 
 ### 3.5 International wichtige Weißweinsorten
 
@@ -99,7 +100,7 @@ Süßweine, Portwein, Sherry und Madeira
 - **3.7.3 Likörwein und Portwein** (Grundstufe): Erkläre, wie die Aufspritung funktioniert und wie Portwein hergestellt wird.
 - **3.7.4 Sherry** (Grundstufe): Erkläre, wie die verschiedenen Sherry-Stile hergestellt werden.
 - **3.7.5 Solera und Flor** (Oberstufe): Erkläre, wie Solera und Flor den Sherry prägen.
-- **3.7.6 Madeira und Vin Doux Naturel** (Mittelstufe): Erkläre, wie Madeira und Vin Doux Naturel hergestellt werden.
+- **3.7.6 Madeira und Vin Doux Naturel** (Oberstufe): Erkläre, wie Madeira und Vin Doux Naturel hergestellt werden.
 - **3.7.7 Madeira: Estufagem und Canteiro** (Oberstufe): Vergleiche die Reifeverfahren estufagem und canteiro bei Madeira.
 
 ### 3.8 Weinchemie
@@ -130,10 +131,11 @@ Regionen und Rebsorten von Bordeaux bis zur Rhône
 - **4.2.1 Bordeaux und Burgund** (Mittelstufe): Beschreibe Bordeaux und Burgund, ihre Rebsorten und Stile.
 - **4.2.2 Champagne, Elsass, Rhône und Loire** (Mittelstufe): Beschreibe Frankreichs weitere klassische Regionen und ihre Stile.
 - **4.2.3 Languedoc-Roussillon und Provence** (Mittelstufe): Beschreibe den Süden Frankreichs: Minervois-Cuvées, Pays-d’Oc-Sortenweine und Provence-Rosé.
-- **4.2.4 Cabernet Franc, Gamay und Grenache** (Mittelstufe): Erkenne Cabernet Franc, Gamay und Grenache und wisse, wo sie angebaut werden.
-- **4.2.5 Chenin Blanc, Viognier, Gewürztraminer und Semillon** (Mittelstufe): Erkenne Chenin Blanc, Viognier, Gewürztraminer und Semillon und wisse, wo sie angebaut werden.
-- **4.2.6 Marsanne / Roussanne und Melon de Bourgogne** (Oberstufe): Erkenne das weiße Paar der Nordrhoˆne und Melon de Bourgogne, die Traube von Muscadet.
-- **4.2.7 Petit Verdot, Cinsault und Trousseau / Poulsard** (Oberstufe): Erkenne drei weitere französische Rotweine: Petit Verdot aus Bordeaux, Cinsault aus dem Süden und Trousseau und Poulsard aus dem Jura.
+- **4.2.4 Gamay und Grenache** (Mittelstufe): Erkenne Gamay und Grenache und wisse, wo sie angebaut werden.
+- **4.2.5 Cabernet Franc** (Oberstufe): Erkenne Cabernet Franc und wisse, wo er angebaut wird.
+- **4.2.6 Chenin Blanc, Viognier, Gewürztraminer und Semillon** (Mittelstufe): Erkenne Chenin Blanc, Viognier, Gewürztraminer und Semillon und wisse, wo sie angebaut werden.
+- **4.2.7 Marsanne / Roussanne und Melon de Bourgogne** (Oberstufe): Erkenne das weiße Paar der Nordrhoˆne und Melon de Bourgogne, die Traube von Muscadet.
+- **4.2.8 Petit Verdot, Cinsault und Trousseau / Poulsard** (Oberstufe): Erkenne drei weitere französische Rotweine: Petit Verdot aus Bordeaux, Cinsault aus dem Süden und Trousseau und Poulsard aus dem Jura.
 
 ### 4.3 Italien
 
@@ -208,12 +210,13 @@ Burgund, Bordeaux, Champagne, Barolo, Rioja und die Mosel
 
 USA, Argentinien und Chile
 
-- **4.9.1 Die Vereinigten Staaten und ihre Etiketten** (Mittelstufe): Beschreibe die wichtigsten Weinregionen der USA und die US-Etikettierungsvorschriften.
-- **4.9.2 Zinfandel/Primitivo** (Mittelstufe): Erkenne Zinfandel und Primitivo und wisse, wo sie angebaut werden.
-- **4.9.3 Petite Sirah/Durif** (Oberstufe): Erkenne Petite Sirah, Kaliforniens tiefdunklen Rotwein, in Australien als Durif bekannt.
-- **4.9.4 Argentinien und Malbec** (Mittelstufe): Beschreibe die Regionen Argentiniens und erkenne Malbec.
-- **4.9.5 Torrontés** (Oberstufe): Erkenne Torrontés, Argentiniens aromatische Weiße, am besten in Salta.
-- **4.9.6 Chile und Carmenère** (Mittelstufe): Beschreibe die Regionen Chiles und erkenne Carmenère.
+- **4.9.1 Die Vereinigten Staaten** (Mittelstufe): Beschreibe die wichtigsten Weinregionen der USA.
+- **4.9.2 US-Etikettierungsvorschriften** (Oberstufe): Erkläre die US-Regeln für Rebsorte, Herkunft und Jahrgang auf dem Etikett.
+- **4.9.3 Zinfandel/Primitivo** (Mittelstufe): Erkenne Zinfandel und Primitivo und wisse, wo sie angebaut werden.
+- **4.9.4 Petite Sirah/Durif** (Oberstufe): Erkenne Petite Sirah, Kaliforniens tiefdunklen Rotwein, in Australien als Durif bekannt.
+- **4.9.5 Argentinien und Malbec** (Mittelstufe): Beschreibe die Regionen Argentiniens und erkenne Malbec.
+- **4.9.6 Torrontés** (Oberstufe): Erkenne Torrontés, Argentiniens aromatische Weiße, am besten in Salta.
+- **4.9.7 Chile und Carmenère** (Mittelstufe): Beschreibe die Regionen Chiles und erkenne Carmenère.
 
 ### 4.10 Australien, Neuseeland und Südafrika
 
@@ -234,10 +237,12 @@ Gläserkunde, Dekantieren, Kellerführung, Weinfehler und Speisenkombination
 - **5.1.3 Kellerwirtschaft** (Mittelstufe): Lagere Wein richtig und verwalte einen Keller.
 - **5.1.4 Verantwortungsvoller Ausschank** (Grundstufe): Serviere Wein verantwortungsbewusst.
 - **5.1.5 Oxidation, Korkschmecker, Hitze- und Lichtschäden** (Grundstufe): Erkenne Oxidation, Korkschmecker sowie Hitze- und Lichtschäden.
-- **5.1.6 Schwefel-, Hefe- und Bakterienfehler** (Mittelstufe): Erkenne Schwefel-, Hefe- und Bakterienfehler.
-- **5.1.7 Fehler an der Wahrnehmungsschwelle** (Oberstufe): Beurteile, ob ein Fehler knapp unter oder über der Wahrnehmungsschwelle der meisten Verkoster liegt.
-- **5.1.8 Qualität beurteilen** (Mittelstufe): Beschreibe einen Wein und begründe ein Urteil zu Qualität und Trinkreife.
-- **5.1.9 Speise und Wein** (Grundstufe): Kombiniere Speisen und Wein und erkläre, warum eine Kombination funktioniert.
+- **5.1.6 Weinfehler im Überblick** (Mittelstufe): Erkenne die häufigen Weinfehler an ihrem Geruch.
+- **5.1.7 Schwefel-, Hefe- und Bakterienfehler** (Oberstufe): Erkenne Schwefel-, Hefe- und Bakterienfehler.
+- **5.1.8 Fehler an der Wahrnehmungsschwelle** (Oberstufe): Beurteile, ob ein Fehler knapp unter oder über der Wahrnehmungsschwelle der meisten Verkoster liegt.
+- **5.1.9 Qualität beurteilen** (Mittelstufe): Beurteile die Qualität eines Weins nach Balance, Länge, Intensität und Komplexität.
+- **5.1.10 Beschreiben und begründen** (Oberstufe): Beschreibe einen Wein und begründe ein Urteil zu Qualität und Trinkreife.
+- **5.1.11 Speise und Wein** (Grundstufe): Kombiniere Speisen und Wein und erkläre, warum eine Kombination funktioniert.
 
 ### 5.2 Abschlusswiederholung
 

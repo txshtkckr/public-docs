@@ -13,7 +13,7 @@ La vigne, le vignoble et l’importance du lieu
 - **1.1.1 Bienvenue** (Basique): Repérez-vous dans le cours de vin et ses trois niveaux.
 - **1.1.2 La vigne et son cycle de croissance** (Basique): Expliquez les besoins de la vigne et son développement au fil de l’année.
 - **1.1.3 Climat, météo et millésime** (Basique): Expliquez en quoi le climat, la météo et le lieu façonnent le style d’un vin.
-- **1.1.4 Le phylloxéra** (Basique): Expliquez les effets du phylloxéra sur les vignobles du monde et pourquoi la plupart des vignes sont greffées.
+- **1.1.4 Le phylloxéra** (Avancé): Expliquez les effets du phylloxéra sur les vignobles du monde et pourquoi la plupart des vignes sont greffées.
 - **1.1.5 La gestion du vignoble** (Intermédiaire): Décrivez les principales décisions du vigneron au fil de l’année, de la taille aux vendanges.
 - **1.1.6 Modes de conduite et gestion du feuillage** (Avancé): Comparez les modes de conduite et expliquez comment la gestion du feuillage influence la maturation.
 - **1.1.7 Les maladies de la vigne** (Avancé): Reconnaissez les principales maladies fongiques, virales et bactériennes de la vigne et les moyens de lutte des vignerons.
@@ -65,9 +65,10 @@ Cabernet Sauvignon, Merlot, Syrah/Shiraz et Pinot Noir
 Styles blancs, sur lie et dégustation
 
 - **3.4.1 La vinification en blanc, du pressurage à la mise en bouteille** (Basique): Décrivez comment un vin blanc est élaboré, du pressurage et du débourbage jusqu’à la mise en bouteille.
-- **3.4.2 Façonner un vin blanc** (Intermédiaire): Expliquez comment la fermentation, la fermentation malolactique, l’élevage sur lies et le collage façonnent le style d’un vin blanc.
-- **3.4.3 La vinification du rosé** (Basique): Décrivez les différentes méthodes d’élaboration du rosé.
-- **3.4.4 Le vin orange/ambré** (Avancé): Expliquez comment le vin orange est élaboré et quel goût il a.
+- **3.4.2 Façonner un vin blanc** (Intermédiaire): Expliquez comment la fermentation, la fermentation malolactique et l’élevage sur lies façonnent le style d’un vin blanc.
+- **3.4.3 Collage et stabilisation** (Avancé): Expliquez comment un vin blanc est collé, stabilisé et filtré avant la mise en bouteille.
+- **3.4.4 La vinification du rosé** (Basique): Décrivez les différentes méthodes d’élaboration du rosé.
+- **3.4.5 Le vin orange/ambré** (Avancé): Expliquez comment le vin orange est élaboré et quel goût il a.
 
 ### 3.5 Cépages blancs d’importance internationale
 
@@ -99,7 +100,7 @@ Vins doux, porto, xérès et madère
 - **3.7.3 Vin fortifié et Porto** (Basique): Expliquez le fonctionnement du mutage et comment le Porto est élaboré.
 - **3.7.4 Xérès** (Basique): Expliquez comment les différents styles de Xérès sont élaborés.
 - **3.7.5 Solera et voile de flor** (Avancé): Expliquez comment la solera et le voile de flor façonnent le Xérès.
-- **3.7.6 Madère et Vin Doux Naturel** (Intermédiaire): Expliquez comment le Madère et le Vin Doux Naturel sont élaborés.
+- **3.7.6 Madère et Vin Doux Naturel** (Avancé): Expliquez comment le Madère et le Vin Doux Naturel sont élaborés.
 - **3.7.7 Madère : estufagem et canteiro** (Avancé): Comparez l’estufagem et l’élevage en canteiro du madère.
 
 ### 3.8 Chimie du vin
@@ -130,10 +131,11 @@ Régions et cépages, de Bordeaux au Rhône
 - **4.2.1 Bordeaux et Bourgogne** (Intermédiaire): Décrivez Bordeaux et la Bourgogne, leurs cépages et leurs styles.
 - **4.2.2 Champagne, Alsace, Rhône et Loire** (Intermédiaire): Décrivez les autres grandes régions françaises et leurs styles.
 - **4.2.3 Languedoc-Roussillon et Provence** (Intermédiaire): Décrivez le sud de la France : les assemblages du Minervois, les vins de cépage du Pays d’Oc et le rosé de Provence.
-- **4.2.4 Cabernet Franc, Gamay et Grenache** (Intermédiaire): Reconnaissez le Cabernet Franc, le Gamay et le Grenache et sachez où ils sont cultivés.
-- **4.2.5 Chenin Blanc, Viognier, Gewurztraminer et Sémillon** (Intermédiaire): Reconnaissez le Chenin Blanc, le Viognier, le Gewurztraminer et le Sémillon et sachez où ils sont cultivés.
-- **4.2.6 Marsanne / Roussanne et Melon de Bourgogne** (Avancé): Reconnaissez la paire de blancs de la Vallée du Rhône Nord et le Melon de Bourgogne, le cépage du Muscadet.
-- **4.2.7 Petit Verdot, Cinsault et Trousseau / Poulsard** (Avancé): Reconnaissez trois autres rouges français : le Petit Verdot de Bordeaux, le Cinsault du sud et le Trousseau et Poulsard du Jura.
+- **4.2.4 Gamay et Grenache** (Intermédiaire): Reconnaissez le Gamay et le Grenache et sachez où ils sont cultivés.
+- **4.2.5 Cabernet Franc** (Avancé): Reconnaissez le Cabernet Franc et sachez où il est cultivé.
+- **4.2.6 Chenin Blanc, Viognier, Gewurztraminer et Sémillon** (Intermédiaire): Reconnaissez le Chenin Blanc, le Viognier, le Gewurztraminer et le Sémillon et sachez où ils sont cultivés.
+- **4.2.7 Marsanne / Roussanne et Melon de Bourgogne** (Avancé): Reconnaissez la paire de blancs de la Vallée du Rhône Nord et le Melon de Bourgogne, le cépage du Muscadet.
+- **4.2.8 Petit Verdot, Cinsault et Trousseau / Poulsard** (Avancé): Reconnaissez trois autres rouges français : le Petit Verdot de Bordeaux, le Cinsault du sud et le Trousseau et Poulsard du Jura.
 
 ### 4.3 Italie
 
@@ -208,12 +210,13 @@ Bourgogne, Bordeaux, Champagne, Barolo, Rioja et Moselle
 
 États-Unis, Argentine et Chili
 
-- **4.9.1 Les États-Unis et leurs étiquettes** (Intermédiaire): Décrivez les principales régions viticoles américaines et les règles d’étiquetage aux États-Unis.
-- **4.9.2 Zinfandel/Primitivo** (Intermédiaire): Reconnaissez le Zinfandel et le Primitivo et sachez où ils sont cultivés.
-- **4.9.3 Petite Sirah/Durif** (Avancé): Reconnaissez la Petite Sirah, le rouge noir de Californie, connu sous le nom de Durif en Australie.
-- **4.9.4 L’Argentine et le Malbec** (Intermédiaire): Décrivez les régions d’Argentine et reconnaissez le Malbec.
-- **4.9.5 Torrontés** (Avancé): Reconnaissez le Torrontés, le blanc aromatique de l’Argentine, à son meilleur en Salta.
-- **4.9.6 Le Chili et le Carmenère** (Intermédiaire): Décrivez les régions du Chili et reconnaissez le Carmenère.
+- **4.9.1 Les États-Unis** (Intermédiaire): Décrivez les principales régions viticoles américaines.
+- **4.9.2 Règles d’étiquetage américaines** (Avancé): Expliquez les règles américaines pour indiquer le cépage, l’origine et le millésime sur l’étiquette.
+- **4.9.3 Zinfandel/Primitivo** (Intermédiaire): Reconnaissez le Zinfandel et le Primitivo et sachez où ils sont cultivés.
+- **4.9.4 Petite Sirah/Durif** (Avancé): Reconnaissez la Petite Sirah, le rouge noir de Californie, connu sous le nom de Durif en Australie.
+- **4.9.5 L’Argentine et le Malbec** (Intermédiaire): Décrivez les régions d’Argentine et reconnaissez le Malbec.
+- **4.9.6 Torrontés** (Avancé): Reconnaissez le Torrontés, le blanc aromatique de l’Argentine, à son meilleur en Salta.
+- **4.9.7 Le Chili et le Carmenère** (Intermédiaire): Décrivez les régions du Chili et reconnaissez le Carmenère.
 
 ### 4.10 Australie, Nouvelle-Zélande et Afrique du Sud
 
@@ -234,10 +237,12 @@ Verres, décantation, gestion de cave, défauts du vin et accords mets-vins
 - **5.1.3 Gestion de cave** (Intermédiaire): Conservez bien le vin et gérez une cave.
 - **5.1.4 Service responsable** (Basique): Servez le vin de manière responsable.
 - **5.1.5 Oxydation, goût de bouchon, chaleur et lumière** (Basique): Reconnaissez l’oxydation, le goût de bouchon et les dommages causés par la chaleur et la lumière.
-- **5.1.6 Défauts liés au soufre, aux levures et aux bactéries** (Intermédiaire): Reconnaissez les défauts liés au soufre, aux levures et aux bactéries.
-- **5.1.7 Défauts au seuil de perception** (Avancé): Évaluez si un défaut se situe juste en dessous ou au-dessus du seuil de perception de la plupart des dégustateurs.
-- **5.1.8 Juger la qualité** (Intermédiaire): Décrivez un vin et justifiez un jugement sur sa qualité et sa maturité.
-- **5.1.9 Mets et vins** (Basique): Accordez mets et vins et expliquez pourquoi un accord fonctionne.
+- **5.1.6 Les défauts du vin en un coup d’œil** (Intermédiaire): Reconnaissez les défauts courants du vin à leur odeur.
+- **5.1.7 Défauts liés au soufre, aux levures et aux bactéries** (Avancé): Reconnaissez les défauts liés au soufre, aux levures et aux bactéries.
+- **5.1.8 Défauts au seuil de perception** (Avancé): Évaluez si un défaut se situe juste en dessous ou au-dessus du seuil de perception de la plupart des dégustateurs.
+- **5.1.9 Juger la qualité** (Intermédiaire): Jugez la qualité d’un vin à son équilibre, sa longueur, son intensité et sa complexité.
+- **5.1.10 Décrire et justifier** (Avancé): Décrivez un vin et justifiez un jugement sur sa qualité et sa maturité.
+- **5.1.11 Mets et vins** (Basique): Accordez mets et vins et expliquez pourquoi un accord fonctionne.
 
 ### 5.2 Révision finale
 
