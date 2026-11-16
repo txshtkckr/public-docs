@@ -222,9 +222,12 @@ Estados Unidos, Argentina y Chile
 
 Regiones, etiquetado y Pinotage
 
-- **4.10.1 Australia** (Intermedio): Describe las regiones de Australia y su sistema de etiquetado por GI (indicación geográfica).
-- **4.10.2 Nueva Zelanda** (Intermedio): Describe las regiones de Nueva Zelanda y su etiquetado.
-- **4.10.3 Sudáfrica y el Pinotage** (Intermedio): Describe las regiones de Sudáfrica y su sistema Wine of Origin, y reconoce el Pinotage.
+- **4.10.1 Australia** (Intermedio): Describe las principales regiones de Australia y sus uvas.
+- **4.10.2 Las GI de Australia** (Avanzado): Explica los niveles de GI de Australia y sus normas de etiquetado.
+- **4.10.3 Nueva Zelanda** (Intermedio): Describe las principales regiones de Nueva Zelanda y sus uvas.
+- **4.10.4 Normas de etiquetado de Nueva Zelanda** (Avanzado): Explica el sistema de GI de Nueva Zelanda y sus normas de etiquetado.
+- **4.10.5 Sudáfrica y el Pinotage** (Intermedio): Describe las principales regiones y uvas de Sudáfrica, y reconoce el Pinotage y un Cape Blend.
+- **4.10.6 Wine of Origin** (Avanzado): Explica los niveles del sistema Wine of Origin de Sudáfrica y qué significa Estate Wine.
 
 ## 5. Servicio y cata de vino
 

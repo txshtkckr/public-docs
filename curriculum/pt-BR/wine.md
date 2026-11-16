@@ -222,9 +222,12 @@ EUA, Argentina e Chile
 
 Regiões, rotulagem e Pinotage
 
-- **4.10.1 Austrália** (Intermediário): Descreva as regiões da Austrália e seu sistema de rotulagem por GI.
-- **4.10.2 Nova Zelândia** (Intermediário): Descreva as regiões e a rotulagem da Nova Zelândia.
-- **4.10.3 África do Sul e Pinotage** (Intermediário): Descreva as regiões da África do Sul e o sistema Wine of Origin, e reconheça o Pinotage.
+- **4.10.1 Austrália** (Intermediário): Descreva as principais regiões da Austrália e suas uvas.
+- **4.10.2 As GIs da Austrália** (Avançado): Explique os níveis de GI da Austrália e suas regras de rotulagem.
+- **4.10.3 Nova Zelândia** (Intermediário): Descreva as principais regiões da Nova Zelândia e suas uvas.
+- **4.10.4 Regras de rotulagem da Nova Zelândia** (Avançado): Explique o sistema de GI da Nova Zelândia e suas regras de rotulagem.
+- **4.10.5 África do Sul e Pinotage** (Intermediário): Descreva as principais regiões e uvas da África do Sul, e reconheça o Pinotage e um Cape Blend.
+- **4.10.6 Wine of Origin** (Avançado): Explique os níveis do sistema Wine of Origin da África do Sul e o que significa Estate Wine.
 
 ## 5. Servir e avaliar o vinho
 

@@ -222,9 +222,12 @@ USA, Argentina and Chile
 
 Regions, labelling and Pinotage
 
-- **4.10.1 Australia** (Intermediate): Describe Australia’s regions and its GI labelling.
-- **4.10.2 New Zealand** (Intermediate): Describe New Zealand’s regions and labelling.
-- **4.10.3 South Africa and Pinotage** (Intermediate): Describe South Africa’s regions and Wine of Origin scheme, and recognise Pinotage.
+- **4.10.1 Australia** (Intermediate): Describe Australia’s main regions and their grapes.
+- **4.10.2 Australian GIs** (Advanced): Explain Australia’s GI hierarchy and its label rules.
+- **4.10.3 New Zealand** (Intermediate): Describe New Zealand’s main regions and their grapes.
+- **4.10.4 New Zealand label rules** (Advanced): Explain New Zealand’s GI system and its label rules.
+- **4.10.5 South Africa and Pinotage** (Intermediate): Describe South Africa’s main regions and grapes, and recognise Pinotage and a Cape Blend.
+- **4.10.6 Wine of Origin** (Advanced): Explain South Africa’s Wine of Origin units and what Estate Wine means.
 
 ## 5. Serving and judging wine
 

@@ -222,9 +222,12 @@ Stati Uniti, Argentina e Cile
 
 Regioni, etichettatura e Pinotage
 
-- **4.10.1 Australia** (Intermedio): Descrivi le regioni dell’Australia e il suo sistema di etichettatura GI.
-- **4.10.2 Nuova Zelanda** (Intermedio): Descrivi le regioni della Nuova Zelanda e il loro sistema di etichettatura.
-- **4.10.3 Sudafrica e Pinotage** (Intermedio): Descrivi le regioni del Sudafrica e il sistema Wine of Origin, e riconosci il Pinotage.
+- **4.10.1 Australia** (Intermedio): Descrivi le principali regioni dell’Australia e i loro vitigni.
+- **4.10.2 Le GI australiane** (Avanzato): Spiega i livelli delle GI australiane e le regole di etichettatura.
+- **4.10.3 Nuova Zelanda** (Intermedio): Descrivi le principali regioni della Nuova Zelanda e i loro vitigni.
+- **4.10.4 Regole di etichettatura neozelandesi** (Avanzato): Spiega il sistema GI della Nuova Zelanda e le sue regole di etichettatura.
+- **4.10.5 Sudafrica e Pinotage** (Intermedio): Descrivi le principali regioni e i vitigni del Sudafrica, e riconosci il Pinotage e un Cape Blend.
+- **4.10.6 Wine of Origin** (Avanzato): Spiega i livelli del sistema Wine of Origin sudafricano e che cosa significa Estate Wine.
 
 ## 5. Servire e valutare il vino
 

@@ -222,9 +222,12 @@ Bourgogne, Bordeaux, Champagne, Barolo, Rioja et Moselle
 
 Régions, étiquetage et pinotage
 
-- **4.10.1 L’Australie** (Intermédiaire): Décrivez les régions d’Australie et son système d’étiquetage par IG.
-- **4.10.2 La Nouvelle-Zélande** (Intermédiaire): Décrivez les régions de Nouvelle-Zélande et leur étiquetage.
-- **4.10.3 L’Afrique du Sud et le Pinotage** (Intermédiaire): Décrivez les régions d’Afrique du Sud et le système Wine of Origin, et reconnaissez le Pinotage.
+- **4.10.1 L’Australie** (Intermédiaire): Décrivez les principales régions d’Australie et leurs cépages.
+- **4.10.2 Les IG australiennes** (Avancé): Expliquez les niveaux d’IG de l’Australie et ses règles d’étiquetage.
+- **4.10.3 La Nouvelle-Zélande** (Intermédiaire): Décrivez les principales régions de Nouvelle-Zélande et leurs cépages.
+- **4.10.4 Règles d’étiquetage néo-zélandaises** (Avancé): Expliquez le système d’IG de la Nouvelle-Zélande et ses règles d’étiquetage.
+- **4.10.5 L’Afrique du Sud et le Pinotage** (Intermédiaire): Décrivez les principales régions et les cépages d’Afrique du Sud, et reconnaissez le Pinotage et un Cape Blend.
+- **4.10.6 Wine of Origin** (Avancé): Expliquez les niveaux du système Wine of Origin sud-africain et ce que signifie Estate Wine.
 
 ## 5. Servir et juger le vin
 

@@ -222,9 +222,12 @@ USA, Argentinien und Chile
 
 Regionen, Etikettierung und Pinotage
 
-- **4.10.1 Australien** (Mittelstufe): Beschreibe die Regionen Australiens und seine GI-Etikettierung.
-- **4.10.2 Neuseeland** (Mittelstufe): Beschreibe die Regionen Neuseelands und seine Etikettierung.
-- **4.10.3 Südafrika und Pinotage** (Mittelstufe): Beschreibe die Regionen Südafrikas und das Wine-of-Origin-System und erkenne Pinotage.
+- **4.10.1 Australien** (Mittelstufe): Beschreibe die wichtigsten Regionen Australiens und ihre Rebsorten.
+- **4.10.2 Australische GIs** (Oberstufe): Erkläre die GI-Ebenen Australiens und seine Etikettierungsregeln.
+- **4.10.3 Neuseeland** (Mittelstufe): Beschreibe die wichtigsten Regionen Neuseelands und ihre Rebsorten.
+- **4.10.4 Neuseelands Etikettierungsregeln** (Oberstufe): Erkläre das GI-System Neuseelands und seine Etikettierungsregeln.
+- **4.10.5 Südafrika und Pinotage** (Mittelstufe): Beschreibe die wichtigsten Regionen und Rebsorten Südafrikas und erkenne Pinotage und einen Cape Blend.
+- **4.10.6 Wine of Origin** (Oberstufe): Erkläre die Ebenen des südafrikanischen Wine-of-Origin-Systems und was Estate Wine bedeutet.
 
 ## 5. Wein servieren und beurteilen
 
