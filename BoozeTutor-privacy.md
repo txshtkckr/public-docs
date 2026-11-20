@@ -1,7 +1,7 @@
 # BoozeTutor — Privacy Policy
 
 **Developer:** Chris Fuller  
-**Last updated:** 2026-11-01
+**Last updated:** 2026-11-20
 
 ---
 
@@ -26,11 +26,17 @@ All study progress, quiz history, flashcard review states, and app settings are 
 on your device using iOS/macOS system storage. This data stays on your device unless you
 turn on iCloud sync (below), and is never accessible to the developer or any third party.
 
+**Tasting notes** (the wines you record in Tastings: what you found at each stage, the
+name, grape and region you give, your notes and ratings) are stored only on the device you
+record them on. iCloud sync does not carry them in this version. They leave the device only
+if you export them yourself (Settings › Tastings › Export), to wherever you choose to send
+the file.
+
 ## iCloud Sync (optional)
 
 iCloud sync is off unless you turn it on in Settings › iCloud sync. When it is on, your
 study progress (completed chapters, flashcard review schedules, quiz results, study streaks,
-study levels, and the Activity log) is stored in **your own private iCloud database** and
+study levels, and the Activity log; not tasting notes) is stored in **your own private iCloud database** and
 shared only between your devices signed in to the same Apple Account. This storage is
 provided by Apple under [Apple’s Privacy Policy](https://www.apple.com/privacy/) and counts
 against your iCloud storage. The developer cannot read it and receives nothing from it.
