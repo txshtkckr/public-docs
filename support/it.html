@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BoozeTutor · Assistenza</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f9f9f9;
+      --surface: #ffffff;
+      --text: #1a1a1a;
+      --muted: #666;
+      --accent: #0066cc;
+      --border: #e0e0e0;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #111;
+        --surface: #1e1e1e;
+        --text: #f0f0f0;
+        --muted: #999;
+        --accent: #4da6ff;
+        --border: #333;
+      }
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 2rem 1rem;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    header {
+      margin-bottom: 2rem;
+    }
+
+    header h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+
+    header p {
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .card h2 {
+      font-size: 1rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .card p {
+      font-size: 0.92rem;
+      color: var(--muted);
+      margin-bottom: 1rem;
+    }
+
+    .card p:last-child {
+      margin-bottom: 0;
+    }
+
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff;
+      text-decoration: none;
+      padding: 0.5rem 1.1rem;
+      border-radius: 8px;
+      font-size: 0.92rem;
+      font-weight: 500;
+    }
+
+    .btn:hover {
+      opacity: 0.88;
+    }
+
+    .btn-secondary {
+      background: transparent;
+      color: var(--accent);
+      border: 1px solid var(--accent);
+    }
+
+    .step-list {
+      list-style: none;
+      margin-bottom: 1rem;
+    }
+
+    .step-list li {
+      font-size: 0.92rem;
+      color: var(--muted);
+      padding: 0.2rem 0;
+      padding-left: 1.4em;
+      position: relative;
+    }
+
+    .step-list li::before {
+      content: attr(data-n) ".";
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    footer {
+      margin-top: 3rem;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+
+    .langs {
+      margin-top: 0.5rem;
+    }
+
+    .langs {
+      margin-top: 0.5rem;
+    }
+
+    footer a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>BoozeTutor · Assistenza</h1>
+      <p>Ci fa piacere sentirti. Scegli l’opzione che fa per te.</p>
+    </header>
+
+    <div class="card">
+      <h2>Scrivici un’e-mail</h2>
+      <p>Per bug, correzioni dei contenuti, commenti o qualsiasi altra cosa, l’e-mail è il modo migliore per raggiungerci. Cerchiamo di rispondere entro pochi giorni.</p>
+      <a class="btn" href="mailto:boozetutor@gmail.com?subject=Assistenza%20BoozeTutor">Scrivi a boozetutor@gmail.com</a>
+    </div>
+
+    <div class="card">
+      <h2>Segnalare un bug</h2>
+      <p>Scrivici cosa stavi facendo e cosa è successo. Questi dati ci aiutano a trovarlo in fretta:</p>
+      <ol class="step-list">
+        <li data-n="1">La versione e la build dell’app, indicate in <strong>Impostazioni › Chi è BoozeTutor</strong>.</li>
+        <li data-n="2">Il tuo dispositivo e la sua versione di iOS, iPadOS o macOS.</li>
+        <li data-n="3">Uno screenshot, se il problema si vede sullo schermo.</li>
+      </ol>
+    </div>
+
+    <div class="card">
+      <h2>Problemi noti e richieste</h2>
+      <p>Puoi anche consultare le segnalazioni aperte e aprirne di nuove su GitHub: utile per seguire un bug segnalato o proporre una funzione pubblicamente.</p>
+      <a class="btn btn-secondary" href="https://github.com/txshtkckr/public-docs/issues" target="_blank" rel="noopener">Apri GitHub Issues</a>
+    </div>
+
+    <footer>
+      <p><a href="../index.html">&larr; Indietro</a> &nbsp;&middot;&nbsp; <a href="../BoozeTutor-privacy">Informativa sulla privacy (in inglese)</a></p>
+      <p class="langs">Altre lingue: <a href="../BoozeTutor-support.html" lang="en">English</a> &middot; <a href="de.html" lang="de">Deutsch</a> &middot; <a href="es.html" lang="es">Español</a> &middot; <a href="fr.html" lang="fr">Français</a> &middot; <a href="ja.html" lang="ja">日本語</a> &middot; <a href="ko.html" lang="ko">한국어</a> &middot; <a href="pt-BR.html" lang="pt-BR">Português (Brasil)</a> &middot; <a href="zh-Hans.html" lang="zh-Hans">简体中文</a> &middot; <a href="zh-Hant.html" lang="zh-Hant">繁體中文</a></p>
+    </footer>
+  </div>
+</body>
+</html>

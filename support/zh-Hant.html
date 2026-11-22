@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BoozeTutor · 支援</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f9f9f9;
+      --surface: #ffffff;
+      --text: #1a1a1a;
+      --muted: #666;
+      --accent: #0066cc;
+      --border: #e0e0e0;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #111;
+        --surface: #1e1e1e;
+        --text: #f0f0f0;
+        --muted: #999;
+        --accent: #4da6ff;
+        --border: #333;
+      }
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 2rem 1rem;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    header {
+      margin-bottom: 2rem;
+    }
+
+    header h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+
+    header p {
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .card h2 {
+      font-size: 1rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .card p {
+      font-size: 0.92rem;
+      color: var(--muted);
+      margin-bottom: 1rem;
+    }
+
+    .card p:last-child {
+      margin-bottom: 0;
+    }
+
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff;
+      text-decoration: none;
+      padding: 0.5rem 1.1rem;
+      border-radius: 8px;
+      font-size: 0.92rem;
+      font-weight: 500;
+    }
+
+    .btn:hover {
+      opacity: 0.88;
+    }
+
+    .btn-secondary {
+      background: transparent;
+      color: var(--accent);
+      border: 1px solid var(--accent);
+    }
+
+    .step-list {
+      list-style: none;
+      margin-bottom: 1rem;
+    }
+
+    .step-list li {
+      font-size: 0.92rem;
+      color: var(--muted);
+      padding: 0.2rem 0;
+      padding-left: 1.4em;
+      position: relative;
+    }
+
+    .step-list li::before {
+      content: attr(data-n) ".";
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    footer {
+      margin-top: 3rem;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+
+    .langs {
+      margin-top: 0.5rem;
+    }
+
+    .langs {
+      margin-top: 0.5rem;
+    }
+
+    footer a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>BoozeTutor · 支援</h1>
+      <p>期待聽到你的聲音。請選擇最合適的方式。</p>
+    </header>
+
+    <div class="card">
+      <h2>寄電子郵件給我們</h2>
+      <p>無論是程式問題、內容更正、意見回饋還是其他事情，電子郵件都是聯絡我們的最佳方式。我們會盡量在幾天內回覆。</p>
+      <a class="btn" href="mailto:boozetutor@gmail.com?subject=BoozeTutor%20%E6%94%AF%E6%8F%B4">寄信至 boozetutor@gmail.com</a>
+    </div>
+
+    <div class="card">
+      <h2>回報問題</h2>
+      <p>請在信中告訴我們你當時在做什麼、發生了什麼。以下資訊能幫我們更快找到問題：</p>
+      <ol class="step-list">
+        <li data-n="1">App 的版本與建置編號（見 <strong>設定 › 關於 BoozeTutor</strong>）。</li>
+        <li data-n="2">你的裝置及其 iOS、iPadOS 或 macOS 版本。</li>
+        <li data-n="3">如果問題顯示在螢幕上，請附上截圖。</li>
+      </ol>
+    </div>
+
+    <div class="card">
+      <h2>已知問題與功能建議</h2>
+      <p>你也可以在 GitHub 上瀏覽尚未解決的問題並提交新問題，方便追蹤已回報的問題，或公開提出功能建議。</p>
+      <a class="btn btn-secondary" href="https://github.com/txshtkckr/public-docs/issues" target="_blank" rel="noopener">開啟 GitHub Issues</a>
+    </div>
+
+    <footer>
+      <p><a href="../index.html">&larr; 返回</a> &nbsp;&middot;&nbsp; <a href="../BoozeTutor-privacy">隱私權政策（英文）</a></p>
+      <p class="langs">其他語言: <a href="../BoozeTutor-support.html" lang="en">English</a> &middot; <a href="de.html" lang="de">Deutsch</a> &middot; <a href="es.html" lang="es">Español</a> &middot; <a href="fr.html" lang="fr">Français</a> &middot; <a href="it.html" lang="it">Italiano</a> &middot; <a href="ja.html" lang="ja">日本語</a> &middot; <a href="ko.html" lang="ko">한국어</a> &middot; <a href="pt-BR.html" lang="pt-BR">Português (Brasil)</a> &middot; <a href="zh-Hans.html" lang="zh-Hans">简体中文</a></p>
+    </footer>
+  </div>
+</body>
+</html>
